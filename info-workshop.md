@@ -107,3 +107,40 @@
 * Biaya: Offline Rp4.200.000; online/webinar Rp3.800.000
 * Link Pendaftaran: https://borobudur-training.com/pelatihan-ai-generatif-chatgpt-untuk-inovasi-organisasi-makassar/
 * Benefit: Prompt engineering, AI untuk marketing, sales, customer service, administrasi, HR, finance, operasional; sertifikat pelatihan.
+
+
+---
+
+# Tambahan Workshop dari Cron 10–12 Juli 2026
+
+## 14. Let’s Learn GitHub Copilot App
+* Penyelenggara: Microsoft for Developers
+* Tanggal & Jam: Kamis, 16 Juli 2026 (sesi Bahasa Inggris mulai 07:00 AM PST; konversi WIB saat daftar)
+* Platform: Live virtual via Microsoft/Zoom
+* Biaya: Gratis
+* Link Pendaftaran: https://gh.io/letslearn
+* Benefit: Belajar coding dengan AI, setup instruksi kustom, automasi pull request, dan sertifikat attendance dari Microsoft.
+
+## 15. IDCamp Alumni Dialogue #5
+* Penyelenggara: Dicoding Indonesia
+* Tanggal & Jam: Rabu, 22 Juli 2026, pukul 19.00–20.30 WIB
+* Platform: Live online (Dicoding / Zoom)
+* Biaya: Gratis
+* Link Pendaftaran: https://www.dicoding.com/events/list
+* Benefit: Networking, update skill teknologi terbaru, tips karier developer dari alumni.
+
+## 16. OPIT Free Tech Online Bootcamp
+* Penyelenggara: OPIT (EU-accredited institution)
+* Tanggal & Jam: 13–23 Juli 2026 (sesi live malam hari WIB)
+* Platform: Live online classroom
+* Biaya: Gratis
+* Link Pendaftaran: https://bootcamp.opit.com
+* Benefit: 8 live session, 3 hands-on workshop Applied AI, Cybersecurity, Cloud Computing, dan Certificate of Attendance resmi dari institusi Eropa.
+
+## 17. MRANTI Startup Webinar: From Idea to MVP
+* Penyelenggara: MRANTI
+* Tanggal & Jam: Sabtu, 25 Juli 2026 (jam cek di portal pendaftaran)
+* Platform: Zoom Meeting
+* Biaya: Gratis
+* Link Pendaftaran: https://mranti.my/happenings/event/mranti-webinar-from-idea-to-mvp-build-test-launch-with-confidence
+* Benefit: Belajar membangun MVP produk digital, Supabase, autentikasi, dan best-practice build-test-launch.
