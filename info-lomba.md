@@ -71,3 +71,55 @@
 * Status: Arsip info sebelumnya / perlu cek ulang karena deadline lewat
 * Hadiah/Manfaat: E-Sertifikat tingkat nasional, hadiah uang pembinaan, dan paket latihan soal.
 * Link Resmi: https://olimnesia.com
+
+---
+
+# Tambahan Lomba Teknologi & Esai — 19 Juli 2026
+
+## 10. SEVIMA Security Challenge (SSC) 2026
+* Penyelenggara: SEVIMA
+* Target Peserta: Kampus mitra SEVIMA / peserta program security challenge
+* Tanggal Deadline: Hunting period 1–31 Juli 2026
+* Status: Masih buka saat periode hunting Juli 2026
+* Hadiah/Manfaat: Insentif hingga Rp5 juta per temuan, Grand Final 10 Agustus 2026, pengalaman bug bounty/ethical hacking.
+* Link Resmi: https://ssc.sevima.com/
+
+## 11. Bug Bounty Kemendikdasmen 2026
+* Penyelenggara: Pusdatin Kemendikdasmen
+* Target Peserta: Siswa SMA/SMK/MA minimal 17 tahun, mahasiswa, guru, dosen aktif di Dapodik/PDDikti
+* Tanggal Deadline: Registrasi 6–30 April 2026; program berjalan sampai Anugerah 19 Juni 2026
+* Status: Arsip info teknologi/cybersecurity 2026; perlu cek batch terbaru bila dibuka lagi
+* Hadiah/Manfaat: Uang pembinaan, sertifikat tercatat Puspresnas, pengalaman ethical hacking legal, komunitas Manggala Edu.
+* Link Resmi: https://amanbersama.kemendikdasmen.go.id/
+
+## 12. ZERO DAY 2026 by Digital Solusi Grup
+* Penyelenggara: PT Digital Solusi Grup (DSG)
+* Target Peserta: Pelajar SMA, mahasiswa aktif, umum, profesional cybersecurity
+* Tanggal Deadline: Final offline 28 Juni 2026 di Malang
+* Status: Arsip info kompetisi CTF nasional 2026; perlu cek edisi lanjutan
+* Hadiah/Manfaat: Total hadiah Rp40 juta, kategori Scholar Battle gratis, tantangan crypto, web breach simulation, recon, reverse binary.
+* Link Resmi: https://digitalsolusigrup.co.id/news/hackathon-zero-day-2026/
+
+## 13. Junior Sentinel Challenge (JSC) 2026
+* Penyelenggara: Diskominfos Provinsi Bali
+* Target Peserta: Tim siswa SMK bidang IT di Bali
+* Tanggal Deadline: Babak penyisihan kabupaten/kota berjalan 2026; final tingkat provinsi mengikuti jadwal daerah
+* Status: Program berjalan di wilayah Bali; relevan untuk referensi kompetisi cybersecurity pelajar
+* Hadiah/Manfaat: Kompetisi CTF, penjaringan talenta muda keamanan siber, pengalaman kompetisi keamanan informasi.
+* Link Resmi: https://diskominfos.baliprov.go.id/junior-sentinel-challenge-tahun-2026-dimulai-denpasar-jadi-pembuka-babak-penyisihan/
+
+## 14. FIT Competition 2026 UKSW
+* Penyelenggara: Fakultas Teknologi Informasi (FTI) Universitas Kristen Satya Wacana (UKSW)
+* Target Peserta: Siswa SMA/sederajat
+* Tanggal Deadline: 16 Juni 2026
+* Status: Arsip info teknologi 2026; perlu cek edisi lanjutan
+* Hadiah/Manfaat: Kompetisi tingkat nasional bidang teknologi informasi.
+* Link Resmi/Sumber: https://luarkampus.id/events
+
+## 15. CSS Essay Competition 2026
+* Penyelenggara: CSSMORA ITS
+* Target Peserta: SMA/sederajat, mahasiswa, umum (individu/tim maksimal 3 orang)
+* Tanggal Deadline: Batch pendaftaran Mei 2026; event final Juni 2026
+* Status: Arsip info esai teknologi 2026; perlu cek edisi lanjutan
+* Hadiah/Manfaat: Uang pembinaan, sertifikat, tema “Empowering the Future Through Innovation and Technology”.
+* Link Resmi/Sumber: https://infolomba.id/info-css-essay-competition--1783
