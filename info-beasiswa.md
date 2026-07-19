@@ -1,4 +1,4 @@
-# 🎓 REKOMENDASI BEASISWA / MANFAAT BEASISWA (AKTIF)
+# 🎓 REKOMENDASI BEASISWA (AKTIF)
 
 ## 1. Beasiswa Kuliah UT dari Lomba Esai Nasional Universitas Terbuka (UT) 2026
 * Penyelenggara: Universitas Terbuka (UT)
@@ -8,4 +8,4 @@
 * Hadiah/Manfaat: Beasiswa kuliah di UT selama 8 semester bagi juara utama, plus hadiah uang pembinaan.
 * Link Resmi: https://lombaesai.ut.ac.id
 
-Catatan: info beasiswa ini berasal dari manfaat lomba, bukan program beasiswa standalone.
+Catatan: file ini dikembalikan dengan info beasiswa yang sebelumnya tersedia. Jika nanti cron menemukan beasiswa standalone terbaru, item baru akan ditambahkan, bukan mengganti item lama.
