@@ -123,3 +123,16 @@
 * Status: Arsip info esai teknologi 2026; perlu cek edisi lanjutan
 * Hadiah/Manfaat: Uang pembinaan, sertifikat, tema “Empowering the Future Through Innovation and Technology”.
 * Link Resmi/Sumber: https://infolomba.id/info-css-essay-competition--1783
+
+
+---
+
+# Tambahan Lomba dari Cron 10–12 Juli 2026
+
+## 16. Mathematics Challenge 2026
+* Penyelenggara: Panitia Mathematics Challenge
+* Target Peserta: Pelajar SMA/SMK/MA/Sederajat (Tingkat Nasional)
+* Tanggal Deadline: Pendaftaran Gelombang 2 (1–31 Juli 2026) & Gelombang 3 (1–31 Agustus 2026)
+* Status: Masih buka
+* Hadiah/Manfaat: Sertifikat nasional, piala, dan dana pembinaan.
+* Link Resmi: https://mathematicschallenge.com
