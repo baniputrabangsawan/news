@@ -47,3 +47,63 @@
 * Biaya: Gratis bersyarat / berbayar (VIP)
 * Link Pendaftaran: https://olimnesia.com
 * Benefit: Tips belajar, pola latihan, mindset juara dari ahli informatika/matematika, serta sertifikat nasional.
+
+---
+
+# Tambahan Workshop Teknologi — 19 Juli 2026
+
+## 7. Bootcamp Online AI for Business
+* Penyelenggara: detikEvent / penyedia training terkait
+* Tanggal & Jam: 18 Mei – 14 Agustus 2026
+* Platform: Online, LMS, video, mentorship, workshop interaktif
+* Biaya: Perlu cek di link resmi
+* Link Pendaftaran: https://event.detik.com/1230/bootcamp-online-ai-for-business
+* Benefit: AI tanpa coding, automasi workflow, Agen AI, 70% hands-on lab, final project, sertifikat completion dan kompetensi.
+
+## 8. Agentic AI Automation Engineer
+* Penyelenggara: Hacktiv8
+* Tanggal & Jam: Batch 29 Juni – 7 Agustus 2026 / 8 Juli – 7 Agustus 2026
+* Platform: Online/program intensif
+* Biaya: Booking fee mulai Rp500.000; cek harga final di link resmi
+* Link Pendaftaran: https://www.hacktiv8.com/course/agentic-ai-automation-engineer
+* Benefit: Belajar agentic AI, Zapier, Make.com, n8n, automation workflow, portofolio, capstone project.
+
+## 9. AI for Business Growth
+* Penyelenggara: Hacktiv8
+* Tanggal & Jam: 27 Juli – 17 Agustus 2026
+* Platform: Online/program praktis
+* Biaya: Perlu cek di link resmi
+* Link Pendaftaran: https://www.hacktiv8.com/course/ai-for-business-growth
+* Benefit: Prompting, pembuatan konten, analisis data, strategi pricing, otomasi operasional, AI untuk bisnis tanpa latar teknis kompleks.
+
+## 10. Humanizing AI: Prompting & Editing Workshop
+* Penyelenggara: B/NDL Studios
+* Tanggal & Jam: 19, 20, 26, 27 Agustus 2026
+* Platform: Live online via Zoom
+* Biaya: IDR 845.000
+* Link Pendaftaran: https://www.bndlstudios.co/public-workshops/humanize-ai
+* Benefit: Prompting dan editing AI-writing untuk email, laporan, proposal, presentasi, dan content creation.
+
+## 11. Cybersecurity Awareness & InfoSec Training Course in Makassar
+* Penyelenggara: Ultimahub
+* Tanggal & Jam: Jadwal fleksibel sesuai request/in-house
+* Platform: Offline Makassar, live virtual, atau hybrid
+* Biaya: Perlu konsultasi di link resmi
+* Link Pendaftaran: https://ultimahub.com/courses/cloud-tech/cybersecurity-awareness-infosec-training-course-in-makassar/
+* Benefit: Security awareness, safe behaviour, control discipline, pelatihan cybersecurity untuk organisasi/tim di Makassar.
+
+## 12. Generative AI for Professionals Training Course in Makassar
+* Penyelenggara: Ultimahub
+* Tanggal & Jam: Jadwal fleksibel sesuai request/in-house
+* Platform: Offline Makassar, live virtual, atau hybrid
+* Biaya: Perlu konsultasi di link resmi
+* Link Pendaftaran: https://ultimahub.com/courses/ai-digital/generative-ai-for-professionals-training-course-in-makassar/
+* Benefit: Generative AI untuk pekerjaan profesional, workflow design, practical use cases, value creation, risk oversight.
+
+## 13. Pelatihan AI Generatif ChatGPT untuk Inovasi Organisasi – Makassar
+* Penyelenggara: Borobudur Training & Consulting
+* Tanggal & Jam: Durasi 2 hari, pukul 09.00–16.00; jadwal sesuai konfirmasi
+* Platform: Offline Makassar, in-house, online training, webinar, atau workshop praktis
+* Biaya: Offline Rp4.200.000; online/webinar Rp3.800.000
+* Link Pendaftaran: https://borobudur-training.com/pelatihan-ai-generatif-chatgpt-untuk-inovasi-organisasi-makassar/
+* Benefit: Prompt engineering, AI untuk marketing, sales, customer service, administrasi, HR, finance, operasional; sertifikat pelatihan.
