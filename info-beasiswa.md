@@ -1,16 +1,11 @@
-# Info Beasiswa Aktif — 19 Juli 2026
+# 🎓 REKOMENDASI BEASISWA / MANFAAT BEASISWA (AKTIF)
 
-Filter: masih aktif per 19 Juli 2026, relevan untuk SMA/SMK/Umum.
+## 1. Beasiswa Kuliah UT dari Lomba Esai Nasional Universitas Terbuka (UT) 2026
+* Penyelenggara: Universitas Terbuka (UT)
+* Target Peserta: Siswa SMA/SMK/sederajat se-Indonesia (Individu atau tim maks 3 orang)
+* Tanggal Deadline: 31 Juli 2026
+* Status: Masih buka
+* Hadiah/Manfaat: Beasiswa kuliah di UT selama 8 semester bagi juara utama, plus hadiah uang pembinaan.
+* Link Resmi: https://lombaesai.ut.ac.id
 
-## 1. Apresiasi/Beasiswa Lomba Esai Universitas Terbuka 2026
-- Jenis: beasiswa/apresiasi terkait lomba esai
-- Peserta: siswa SMA/SMK/sederajat seluruh Indonesia
-- Biaya: gratis
-- Tema lomba: “Belajar Online, Siapa Takut!”
-- Pendaftaran/pengiriman karya: 12 Mei – 31 Juli 2026
-- Deadline: 31 Juli 2026
-- Benefit: Juara 1 Rp5.000.000 + beasiswa; Juara 2 Rp3.500.000 + beasiswa; Juara 3 Rp2.500.000 + beasiswa; Juara Favorit dan 30 karya terbaik mendapat apresiasi/beasiswa
-- Link resmi: https://lombaesai.ut.ac.id/
-- Sumber info: https://www.kabarlomba.com/2026/05/lomba-esai-universitas-terbuka-2026.html
-
-Catatan: hasil cron 19 Juli 2026 tidak menemukan info beasiswa standalone lain yang relevan dan masih aktif. Item di atas berasal dari benefit beasiswa pada lomba resmi.
+Catatan: info beasiswa ini berasal dari manfaat lomba, bukan program beasiswa standalone.
