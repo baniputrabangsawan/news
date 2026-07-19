@@ -1,39 +1,33 @@
-# Info Lomba Aktif — 19 Juli 2026
+# 🏆 REKOMENDASI LOMBA (AKTIF)
 
-Filter: masih aktif per 19 Juli 2026, relevan untuk SMA/SMK/Umum.
+## 1. Lomba Peran APBN dan APBD Bangun Daerah 2026
+* Penyelenggara: Kementerian Keuangan RI (Kemenkeu)
+* Target Peserta: Siswa SMA/SMK/MA/sederajat aktif (Tim berisi 3 orang + 1 guru pendamping)
+* Tanggal Deadline: 7 Agustus 2026
+* Status: Masih buka
+* Hadiah/Manfaat: Uang pembinaan, sertifikat tingkat nasional, dan nilai tambah khusus/jalur khusus dalam seleksi masuk PKN STAN bagi para finalis.
+* Link Resmi: https://djpk.kemenkeu.go.id / https://klc2.kemenkeu.go.id/oa/olimpiade-apbn
 
-## 1. Lomba Esai Universitas Terbuka 2026
-- Kategori: lomba esai nasional
-- Peserta: siswa SMA/SMK/sederajat seluruh Indonesia
-- Biaya: gratis
-- Tema: “Belajar Online, Siapa Takut!”
-- Pendaftaran/pengiriman karya: 12 Mei – 31 Juli 2026
-- Deadline: 31 Juli 2026
-- Hadiah: Juara 1 Rp5.000.000 + beasiswa; Juara 2 Rp3.500.000 + beasiswa; Juara 3 Rp2.500.000 + beasiswa; Juara Favorit dan 30 karya terbaik mendapat apresiasi/beasiswa
-- Link resmi: https://lombaesai.ut.ac.id/
-- Sumber info: https://www.kabarlomba.com/2026/05/lomba-esai-universitas-terbuka-2026.html
+## 2. Lomba Esai Nasional Universitas Terbuka (UT) 2026
+* Penyelenggara: Universitas Terbuka (UT)
+* Target Peserta: Siswa SMA/SMK/sederajat se-Indonesia (Individu atau tim maks 3 orang)
+* Tanggal Deadline: 31 Juli 2026
+* Status: Masih buka
+* Hadiah/Manfaat: Juara 1 (Rp5 Juta), Juara 2 (Rp3,5 Juta), Juara 3 (Rp2,5 Juta) + Beasiswa kuliah di UT selama 8 semester bagi juara utama.
+* Link Resmi: https://lombaesai.ut.ac.id
 
-## 2. Lomba Karya Tulis Ilmiah APOTEMA 2026
-- Kategori: LKTI
-- Peserta: peserta didik aktif SMA/MA/SMK sederajat
-- Pendaftaran: 6 Juli – 4 Agustus 2026
-- Deadline: 4 Agustus 2026
-- Syarat utama: scan Kartu Tanda Pelajar atau surat keterangan siswa aktif
-- Link: https://apotema.hmpstmt.com/lkti/
+## 3. Invention Udayana 2026 (Kategori Web Design & Infografis)
+* Penyelenggara: Prodi Informatika FMIPA Universitas Udayana
+* Target Peserta: Siswa SMA/SMK/Sederajat se-Indonesia
+* Tanggal Deadline: Gelombang 1 (s.d. 19 Juli 2026) & Gelombang 2 (20 Juli - 29 Agustus 2026)
+* Status: Masih buka
+* Hadiah/Manfaat: Uang pembinaan total jutaan rupiah, sertifikat nasional, dan hosting gratis selama 1 tahun.
+* Link Resmi: https://invention-udayana.com
 
-## 3. Olimpiade Pelajar Berprestasi Nusantara 2026
-- Kategori: olimpiade online nasional
-- Peserta: SMP/MTs dan SMA/MA/SMK seluruh Indonesia
-- Biaya: gratis
-- Pelaksanaan: online, Minggu 9 Agustus 2026
-- Bidang SMA/MA/SMK: Biologi, Kimia, Matematika, Bahasa Indonesia, Bahasa Inggris, PAI
-- Sumber info: https://www.melintas.id/dikdasmen/347460844/olimpiade-pelajar-berprestasi-nusantara-2026-dibuka-siswa-smp-hingga-sma-bisa-ikut-gratis-secara-online
-
-## 4. Lomba Peran APBN dan APBN Bangun Daerah 2026
-- Penyelenggara: Kementerian Keuangan
-- Kategori: kompetisi nasional
-- Peserta: pelajar SMA/sederajat dan mahasiswa
-- Pendaftaran: 1 Juli – 7 Agustus 2026
-- Deadline: 7 Agustus 2026
-- Tahap berikut: seleksi administrasi diumumkan 11 Agustus 2026; penyisihan 20 Agustus 2026
-- Sumber info: https://www.tentangguru.com/nasional/1577446399/pendaftaran-dibuka-sampai-7-agustus-ini-jadwal-lengkap-lomba-apbn-kemenkeu-2026-yang-wajib-dicatat
+## 4. Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 2026 / OSN Bidang AI
+* Penyelenggara: Pusat Prestasi Nasional (Puspresnas) Kemendikdasmen
+* Target Peserta: Siswa SMA/SMK sederajat aktif (tidak lolos OSN-P 2026 bidang apa pun)
+* Tanggal Deadline: 15 Juli 2026
+* Status: Segera tutup (H-3!)
+* Hadiah/Manfaat: Sertifikat resmi kementerian, belajar dasar Python, Machine Learning, Computer Vision, & NLP tingkat nasional.
+* Link Resmi: https://daftar-bpti.kemendikdasmen.go.id
