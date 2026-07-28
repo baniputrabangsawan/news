@@ -1,138 +1,178 @@
-# 🏆 REKOMENDASI LOMBA (AKTIF)
+# 📋 Info Lomba & Workshop — 27 Juli 2026
 
-## 1. Lomba Peran APBN dan APBD Bangun Daerah 2026
-* Penyelenggara: Kementerian Keuangan RI (Kemenkeu)
-* Target Peserta: Siswa SMA/SMK/MA/sederajat aktif (Tim berisi 3 orang + 1 guru pendamping)
-* Tanggal Deadline: 7 Agustus 2026
-* Status: Masih buka
-* Hadiah/Manfaat: Uang pembinaan, sertifikat tingkat nasional, dan nilai tambah khusus/jalur khusus dalam seleksi masuk PKN STAN bagi para finalis.
-* Link Resmi: https://djpk.kemenkeu.go.id / https://klc2.kemenkeu.go.id/oa/olimpiade-apbn
-
-## 2. Lomba Esai Nasional Universitas Terbuka (UT) 2026
-* Penyelenggara: Universitas Terbuka (UT)
-* Target Peserta: Siswa SMA/SMK/sederajat se-Indonesia (Individu atau tim maks 3 orang)
-* Tanggal Deadline: 31 Juli 2026
-* Status: Masih buka
-* Hadiah/Manfaat: Juara 1 (Rp5 Juta), Juara 2 (Rp3,5 Juta), Juara 3 (Rp2,5 Juta) + Beasiswa kuliah di UT selama 8 semester bagi juara utama.
-* Link Resmi: https://lombaesai.ut.ac.id
-
-## 3. Invention Udayana 2026 (Kategori Web Design & Infografis)
-* Penyelenggara: Prodi Informatika FMIPA Universitas Udayana
-* Target Peserta: Siswa SMA/SMK/Sederajat se-Indonesia
-* Tanggal Deadline: Gelombang 1 (s.d. 19 Juli 2026) & Gelombang 2 (20 Juli - 29 Agustus 2026)
-* Status: Masih buka
-* Hadiah/Manfaat: Uang pembinaan total jutaan rupiah, sertifikat nasional, dan hosting gratis selama 1 tahun.
-* Link Resmi: https://invention-udayana.com
-
-## 4. Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 2026 / OSN Bidang AI
-* Penyelenggara: Pusat Prestasi Nasional (Puspresnas) Kemendikdasmen
-* Target Peserta: Siswa SMA/SMK sederajat aktif (tidak lolos OSN-P 2026 bidang apa pun)
-* Tanggal Deadline: 15 Juli 2026
-* Status: Arsip info sebelumnya / perlu cek ulang karena deadline sudah dekat atau lewat
-* Hadiah/Manfaat: Sertifikat resmi kementerian, belajar dasar Python, Machine Learning, Computer Vision, & NLP tingkat nasional.
-* Link Resmi: https://daftar-bpti.kemendikdasmen.go.id
-
-## 5. Lomba Karya Tulis Ilmiah APOTEMA 2026
-* Penyelenggara: APOTEMA / HMPSTMT
-* Target Peserta: Peserta didik aktif SMA/MA/SMK sederajat
-* Tanggal Deadline: 4 Agustus 2026
-* Status: Masih buka
-* Hadiah/Manfaat: Kompetisi LKTI tingkat pelajar; syarat utama scan Kartu Tanda Pelajar atau surat keterangan siswa aktif.
-* Link Resmi: https://apotema.hmpstmt.com/lkti/
-
-## 6. Olimpiade Pelajar Berprestasi Nusantara 2026
-* Penyelenggara: Info dari Melintas / penyelenggara olimpiade online nasional
-* Target Peserta: SMP/MTs dan SMA/MA/SMK seluruh Indonesia
-* Tanggal Deadline: Pelaksanaan online Minggu, 9 Agustus 2026
-* Status: Masih buka / perlu cek ulang pendaftaran
-* Hadiah/Manfaat: Bidang SMA/MA/SMK: Biologi, Kimia, Matematika, Bahasa Indonesia, Bahasa Inggris, PAI.
-* Link Resmi/Sumber: https://www.melintas.id/dikdasmen/347460844/olimpiade-pelajar-berprestasi-nusantara-2026-dibuka-siswa-smp-hingga-sma-bisa-ikut-gratis-secara-online
-
-## 7. Philosophy Essay Competition (PEC) UGM 2026
-* Penyelenggara: Fakultas Filsafat Universitas Gadjah Mada (UGM)
-* Target Peserta: Siswa SMA/SMK sederajat (kelas 10 & 11) dan mahasiswa aktif di Indonesia
-* Tanggal Deadline: 17 Juli 2026
-* Status: Arsip info sebelumnya / perlu cek ulang karena deadline lewat
-* Hadiah/Manfaat: Kategori SMA/Sederajat: Juara I Rp2.000.000, Juara II Rp1.500.000, Juara III Rp1.000.000. Kategori Mahasiswa: Juara I Rp3.500.000, Juara II Rp2.500.000, Juara III Rp1.500.000.
-* Link Resmi: https://ugm.id/DaftarPEC2026
-
-## 8. BCA Business Case Competition 2026
-* Penyelenggara: PT Bank Central Asia Tbk (BCA)
-* Target Peserta: Mahasiswa aktif S1/D4 dan fresh graduate maksimal 24 tahun
-* Tanggal Deadline: 7 Agustus 2026
-* Status: Masih buka pendaftaran
-* Hadiah/Manfaat: Uang tunai jutaan rupiah, pengalaman menyelesaikan business case riil, dan kesempatan belajar/mentorship langsung di BCA.
-* Link Resmi: https://bca.co.id
-
-## 9. Kompetisi Informatika Tingkat Nasional - ATHENA 2026
-* Penyelenggara: Olimnesia
-* Target Peserta: Pelajar SMA/MA/SMK sederajat
-* Tanggal Deadline: 12 Juli 2026 (Pendaftaran VIP)
-* Status: Arsip info sebelumnya / perlu cek ulang karena deadline lewat
-* Hadiah/Manfaat: E-Sertifikat tingkat nasional, hadiah uang pembinaan, dan paket latihan soal.
-* Link Resmi: https://olimnesia.com
+> Update otomatis • Cek link resmi untuk info terbaru • *Perlu dicek ulang di link resmi* jika ada keraguan
 
 ---
 
-# Tambahan Lomba Teknologi & Esai — 19 Juli 2026
-
-## 10. SEVIMA Security Challenge (SSC) 2026
-* Penyelenggara: SEVIMA
-* Target Peserta: Kampus mitra SEVIMA / peserta program security challenge
-* Tanggal Deadline: Hunting period 1–31 Juli 2026
-* Status: Masih buka saat periode hunting Juli 2026
-* Hadiah/Manfaat: Insentif hingga Rp5 juta per temuan, Grand Final 10 Agustus 2026, pengalaman bug bounty/ethical hacking.
-* Link Resmi: https://ssc.sevima.com/
-
-## 11. Bug Bounty Kemendikdasmen 2026
-* Penyelenggara: Pusdatin Kemendikdasmen
-* Target Peserta: Siswa SMA/SMK/MA minimal 17 tahun, mahasiswa, guru, dosen aktif di Dapodik/PDDikti
-* Tanggal Deadline: Registrasi 6–30 April 2026; program berjalan sampai Anugerah 19 Juni 2026
-* Status: Arsip info teknologi/cybersecurity 2026; perlu cek batch terbaru bila dibuka lagi
-* Hadiah/Manfaat: Uang pembinaan, sertifikat tercatat Puspresnas, pengalaman ethical hacking legal, komunitas Manggala Edu.
-* Link Resmi: https://amanbersama.kemendikdasmen.go.id/
-
-## 12. ZERO DAY 2026 by Digital Solusi Grup
-* Penyelenggara: PT Digital Solusi Grup (DSG)
-* Target Peserta: Pelajar SMA, mahasiswa aktif, umum, profesional cybersecurity
-* Tanggal Deadline: Final offline 28 Juni 2026 di Malang
-* Status: Arsip info kompetisi CTF nasional 2026; perlu cek edisi lanjutan
-* Hadiah/Manfaat: Total hadiah Rp40 juta, kategori Scholar Battle gratis, tantangan crypto, web breach simulation, recon, reverse binary.
-* Link Resmi: https://digitalsolusigrup.co.id/news/hackathon-zero-day-2026/
-
-## 13. Junior Sentinel Challenge (JSC) 2026
-* Penyelenggara: Diskominfos Provinsi Bali
-* Target Peserta: Tim siswa SMK bidang IT di Bali
-* Tanggal Deadline: Babak penyisihan kabupaten/kota berjalan 2026; final tingkat provinsi mengikuti jadwal daerah
-* Status: Program berjalan di wilayah Bali; relevan untuk referensi kompetisi cybersecurity pelajar
-* Hadiah/Manfaat: Kompetisi CTF, penjaringan talenta muda keamanan siber, pengalaman kompetisi keamanan informasi.
-* Link Resmi: https://diskominfos.baliprov.go.id/junior-sentinel-challenge-tahun-2026-dimulai-denpasar-jadi-pembuka-babak-penyisihan/
-
-## 14. FIT Competition 2026 UKSW
-* Penyelenggara: Fakultas Teknologi Informasi (FTI) Universitas Kristen Satya Wacana (UKSW)
-* Target Peserta: Siswa SMA/sederajat
-* Tanggal Deadline: 16 Juni 2026
-* Status: Arsip info teknologi 2026; perlu cek edisi lanjutan
-* Hadiah/Manfaat: Kompetisi tingkat nasional bidang teknologi informasi.
-* Link Resmi/Sumber: https://luarkampus.id/events
-
-## 15. CSS Essay Competition 2026
-* Penyelenggara: CSSMORA ITS
-* Target Peserta: SMA/sederajat, mahasiswa, umum (individu/tim maksimal 3 orang)
-* Tanggal Deadline: Batch pendaftaran Mei 2026; event final Juni 2026
-* Status: Arsip info esai teknologi 2026; perlu cek edisi lanjutan
-* Hadiah/Manfaat: Uang pembinaan, sertifikat, tema “Empowering the Future Through Innovation and Technology”.
-* Link Resmi/Sumber: https://infolomba.id/info-css-essay-competition--1783
-
+## 🏆 LOMBA
 
 ---
 
-# Tambahan Lomba dari Cron 10–12 Juli 2026
+### 1. KSPI 2026 — Kompetisi Sains Pelajar Se-Indonesia
+- **Penyelenggara:** KSPI
+- **Target Peserta:** SD, SMP, SMA/SMK, Mahasiswa
+- **Lokasi:** Online
+- **Deadline:** 25 Juli 2026 ⏰ (H-1! Besok terakhir)
+- **Pelaksanaan:** 26 Juli 2026
+- **Biaya:** Gratis (ada opsi VIP Rp50rb)
+- **Hadiah:** Sertifikat nasional, ranking nasional, medali, piagam, doorprize (beasiswa, smartwatch, TWS, headphone)
+- **Bidang SMA:** Biologi, Fisika, Kimia, Matematika, Ekonomi, Akuntansi, Sejarah, Geografi, Astronomi, Informatika, Bahasa Indonesia, Bahasa Inggris
+- **Link:** https://campusnet.news/kspi-2026-masih-buka-pendaftaran/ *(cek link resmi di artikel)*
 
-## 16. Mathematics Challenge 2026
-* Penyelenggara: Panitia Mathematics Challenge
-* Target Peserta: Pelajar SMA/SMK/MA/Sederajat (Tingkat Nasional)
-* Tanggal Deadline: Pendaftaran Gelombang 2 (1–31 Juli 2026) & Gelombang 3 (1–31 Agustus 2026)
-* Status: Masih buka
-* Hadiah/Manfaat: Sertifikat nasional, piala, dan dana pembinaan.
-* Link Resmi: https://mathematicschallenge.com
+---
+
+### 2. Lomba Esai Nasional UT 2026
+- **Penyelenggara:** Universitas Terbuka (UT)
+- **Target Peserta:** SMA/SMK/MA sederajat
+- **Lokasi:** Online (pengumpulan naskah)
+- **Deadline:** 31 Juli 2026
+- **Biaya:** Gratis
+- **Hadiah:** Juara 1: Rp5jt + beasiswa 8 semester UT, Juara 2: Rp3,5jt + beasiswa, Juara 3: Rp2,5jt + beasiswa, Juara Harapan: Rp2jt
+- **Tema:** "Generasi Muda Peduli Sampah untuk Indonesia Berkelanjutan"
+- **Link:** https://lombaesai.ut.ac.id
+
+---
+
+### 3. LKTIN APOTEMA — Lomba Karya Tulis Ilmiah Nasional
+- **Penyelenggara:** HMP STMT (APOTEMA)
+- **Target Peserta:** SMA/MA/SMK sederajat (tim 2-3 orang)
+- **Lokasi:** Online
+- **Deadline Pendaftaran:** 4 Agustus 2026 (dibuka sejak 6 Juli)
+- **Biaya:** Bayar setelah lolos seleksi abstrak
+- **Tema:** "Elevasi Talenta Muda Menuju Generasi Unggul melalui Eksplorasi Matematika dan Karya Ilmiah"
+- **Sub-tema:** Inovasi pembelajaran matematika, optimalisasi SDA, literasi keuangan, integrasi matematika dalam kehidupan beragama
+- **Link:** https://apotema.hmpstmt.com/lkti/
+
+---
+
+### 4. MONACO #11 — Moehi National Competition
+- **Penyelenggara:** PR IPM SMA Muhammadiyah 1 Yogyakarta
+- **Target Peserta:** SMP & SMA
+- **Lokasi:** Online/Offline/Hybrid
+- **Deadline:** 3 Agustus 2026
+- **Pelaksanaan:** 19–22 Agustus 2026
+- **Biaya:** *(perlu dicek di link resmi)*
+- **Cabang Lomba:** Olimpiade IPA, IPS, Matematika, Esai, Poster Online, Cipta Puisi, Fotografi, E-sport (ML, FF), Story Telling, Solo Vokal, dll
+- **Link:** https://linktr.ee/MONACOSMAMUHI
+
+---
+
+### 5. Lomba Cerdas Cermat JKN 2026 — BPJS Kesehatan
+- **Penyelenggara:** BPJS Kesehatan
+- **Target Peserta:** SMA/SMK/MA sederajat & Mahasiswa
+- **Lokasi:** Online (penyisihan) → Offline (final)
+- **Deadline:** 20–31 Juli 2026
+- **Biaya:** Gratis
+- **Hadiah:** Rp15jt (Juara 1 SMA) + medali + piagam
+- **Ketentuan Tim:** 2 peserta utama + 1 cadangan + 1 guru pendamping
+- **Syarat:** Terdaftar sebagai peserta aktif JKN
+- **Link:** https://s.id/BPJSKESLCC2026
+
+---
+
+### 6. Olimpiade Pelajar Berprestasi Nusantara 2026
+- **Penyelenggara:** LKI × Himasper IPB × Olimpiade Indonesia
+- **Target Peserta:** SMP/MTs & SMA/MA/SMK
+- **Lokasi:** Online (CBT)
+- **Pelaksanaan:** Minggu, 9 Agustus 2026
+- **Biaya:** Gratis
+- **Bidang SMA:** Biologi, Kimia, Matematika, Bahasa Indonesia, Bahasa Inggris, PAI
+- **Link:** https://lembagakompetisiindonesia.com/ *(cari info OPBN Nusantara 2026)*
+
+---
+
+### 7. Academic Brilliance Competition — AON × OSP × HIMASILTAN IPB
+- **Penyelenggara:** Asosiasi Olimpiade Nasional (AON), OSP, Himasiltan IPB
+- **Target Peserta:** SMP & SMA
+- **Lokasi:** Online (CBT)
+- **Pelaksanaan:** Minggu, 9 Agustus 2026
+- **Biaya:** Gratis
+- **Bidang SMA:** Agama Islam, Matematika, Bahasa Inggris, Biologi, Fisika
+- **Link:** https://asosiasiolimpiade.com/academic-brilliance-competition/
+
+---
+
+## 💻 WORKSHOP & PELATIHAN
+
+---
+
+### 1. Samsung Innovation Campus Batch 8
+- **Akun Media Sosial:** @samsungindonesia
+- **Judul:** Pelatihan Coding, AI, & IoT
+- **Penyelenggara:** Samsung Electronics Indonesia
+- **Target:** SMA/SMK/MA & Mahasiswa
+- **Tanggal:** Pendaftaran 16 Juli – 18 Agustus 2026
+- **Platform:** Online (situs resmi Samsung)
+- **Biaya:** **Gratis 100%** (termasuk IoT Course Kit)
+- **Benefit:** Sertifikat, mentoring praktisi, IoT kit, komunitas, project portfolio
+- **Tahapan:** Coding & Programming → IoT Fundamentals → AI & IoT Bootcamp → Project → Culmination Event
+- **Link:** https://www.samsung.com/id/innovation-campus *(cek link resmi)*
+
+---
+
+### 2. RevoU Software Engineering FREE Coding Camp
+- **Akun Media Sosial:** @revou_id
+- **Judul:** Software Engineering Coding Camp
+- **Penyelenggara:** RevoU
+- **Target:** Umum (pemula)
+- **Jadwal:** 27–31 Juli 2026, 19.00–21.00 WIB
+- **Platform:** Online (Live Session)
+- **Biaya:** **Gratis** (nilai Rp2.300.000)
+- **Benefit:** Sertifikat digital, mini project, live session with Industry Expert
+- **Materi:** Leveraging Agentic AI, AI-Assisted Frontend, Building Web Project
+- **Link:** https://wix-origin.revou.co/coding-camp-software-engineering
+
+---
+
+### 3. Webinar "Critical AI Literacy" — ITI
+- **Akun Media Sosial:** @teknik_elektro_iti
+- **Judul:** Critical AI Literacy
+- **Penyelenggara:** Prodi Teknik Elektro Institut Teknologi Indonesia
+- **Target:** Umum
+- **Tanggal:** Sabtu, 8 Agustus 2026, 10.00–12.00 WIB
+- **Platform:** Zoom
+- **Biaya:** **Gratis**
+- **Benefit:** E-Certificate, materi webinar
+- **Link:** https://forms.gle/W1LDNZEqRjEen3GaA
+
+---
+
+### 4. Webinar AI Untuk Proposal, Analisis Data & Publikasi — APG PAUD
+- **Akun Media Sosial:** @apgpaud
+- **Judul:** AI Untuk Proposal, Analisis Data dan Publikasi bagi Mahasiswa & Akademisi
+- **Penyelenggara:** APG PAUD
+- **Target:** Mahasiswa & Akademisi (terbuka untuk umum)
+- **Jadwal:** 24, 25, 30, 31 Juli 2026, 19.00–21.00 WIB
+- **Platform:** Zoom
+- **Biaya:** **Gratis**
+- **Benefit:** E-sertifikat, rekaman, live demo, komunitas, free private consultation
+- **Link:** https://apgpaud.org/berita/webinar-gratis-ai-untuk-proposal-analisis-data-dan-publikasi-bagi-mahasiswa-akademisi/
+
+---
+
+## ⏰ PENGINGAT DEADLINE
+
+| Item | Deadline | H- |
+|------|----------|-----|
+| KSPI 2026 | 25 Juli 2026 | **H-1!** ⚠️ |
+| Webinar AI APG PAUD (sesi 24-25 Juli) | 24-25 Juli 2026 | **Sedang berlangsung!** |
+| Lomba Cerdas Cermat JKN BPJS | 31 Juli 2026 | H-4 |
+| Lomba Esai Nasional UT | 31 Juli 2026 | H-4 |
+| MONACO #11 | 3 Agustus 2026 | H-7 |
+| LKTIN APOTEMA | 4 Agustus 2026 | H-8 |
+| OPBN Nusantara 2026 | 9 Agustus 2026 (pelaksanaan) | Perlu cek deadline daftar |
+| Academic Brilliance Competition | 9 Agustus 2026 (pelaksanaan) | Perlu cek deadline daftar |
+| Webinar Critical AI Literacy ITI | 8 Agustus 2026 | H-12 |
+| Samsung Innovation Campus Batch 8 | 18 Agustus 2026 | H-22 |
+| RevoU Coding Camp | 27-31 Juli 2026 | **Mulai besok!** |
+
+---
+
+## 💡 TIPS
+
+- ✅ **KSPI 2026** deadline besok (25 Juli)! Buruan daftar kalau tertarik — gratis dan online.
+- ✅ **Lomba Esai UT** — hadiahnya beasiswa 8 semester UT + uang tunai. Cocok buat yang suka nulis.
+- ✅ **Samsung Innovation Campus** — gratis, dapet IoT Course Kit. Bagus banget buat belajar AI & IoT dari nol.
+- ✅ **RevoU Coding Camp** mulai besok 27 Juli, gratis, cocok buat pemula yang mau coba software engineering.
+
+> *Semua info perlu dicek ulang di link resmi masing-masing ya!*
