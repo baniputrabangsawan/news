@@ -5,7 +5,6 @@
 ---
 
 ## 🏆 LOMBA
-
 ---
 
 ### 1. KSPI 2026 — Kompetisi Sains Pelajar Se-Indonesia
@@ -92,66 +91,7 @@
 
 ---
 
-## 💻 WORKSHOP & PELATIHAN
-
----
-
-### 1. Samsung Innovation Campus Batch 8
-- **Akun Media Sosial:** @samsungindonesia
-- **Judul:** Pelatihan Coding, AI, & IoT
-- **Penyelenggara:** Samsung Electronics Indonesia
-- **Target:** SMA/SMK/MA & Mahasiswa
-- **Tanggal:** Pendaftaran 16 Juli – 18 Agustus 2026
-- **Platform:** Online (situs resmi Samsung)
-- **Biaya:** **Gratis 100%** (termasuk IoT Course Kit)
-- **Benefit:** Sertifikat, mentoring praktisi, IoT kit, komunitas, project portfolio
-- **Tahapan:** Coding & Programming → IoT Fundamentals → AI & IoT Bootcamp → Project → Culmination Event
-- **Link:** https://www.samsung.com/id/innovation-campus *(cek link resmi)*
-
----
-
-### 2. RevoU Software Engineering FREE Coding Camp
-- **Akun Media Sosial:** @revou_id
-- **Judul:** Software Engineering Coding Camp
-- **Penyelenggara:** RevoU
-- **Target:** Umum (pemula)
-- **Jadwal:** 27–31 Juli 2026, 19.00–21.00 WIB
-- **Platform:** Online (Live Session)
-- **Biaya:** **Gratis** (nilai Rp2.300.000)
-- **Benefit:** Sertifikat digital, mini project, live session with Industry Expert
-- **Materi:** Leveraging Agentic AI, AI-Assisted Frontend, Building Web Project
-- **Link:** https://wix-origin.revou.co/coding-camp-software-engineering
-
----
-
-### 3. Webinar "Critical AI Literacy" — ITI
-- **Akun Media Sosial:** @teknik_elektro_iti
-- **Judul:** Critical AI Literacy
-- **Penyelenggara:** Prodi Teknik Elektro Institut Teknologi Indonesia
-- **Target:** Umum
-- **Tanggal:** Sabtu, 8 Agustus 2026, 10.00–12.00 WIB
-- **Platform:** Zoom
-- **Biaya:** **Gratis**
-- **Benefit:** E-Certificate, materi webinar
-- **Link:** https://forms.gle/W1LDNZEqRjEen3GaA
-
----
-
-### 4. Webinar AI Untuk Proposal, Analisis Data & Publikasi — APG PAUD
-- **Akun Media Sosial:** @apgpaud
-- **Judul:** AI Untuk Proposal, Analisis Data dan Publikasi bagi Mahasiswa & Akademisi
-- **Penyelenggara:** APG PAUD
-- **Target:** Mahasiswa & Akademisi (terbuka untuk umum)
-- **Jadwal:** 24, 25, 30, 31 Juli 2026, 19.00–21.00 WIB
-- **Platform:** Zoom
-- **Biaya:** **Gratis**
-- **Benefit:** E-sertifikat, rekaman, live demo, komunitas, free private consultation
-- **Link:** https://apgpaud.org/berita/webinar-gratis-ai-untuk-proposal-analisis-data-dan-publikasi-bagi-mahasiswa-akademisi/
-
----
-
 ## ⏰ PENGINGAT DEADLINE
-
 | Item | Deadline | H- |
 |------|----------|-----|
 | KSPI 2026 | 25 Juli 2026 | **H-1!** ⚠️ |
