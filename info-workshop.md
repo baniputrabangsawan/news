@@ -1,99 +1,10 @@
-# 📋 Info Lomba & Workshop — 27 Juli 2026
+# 📋 Info Workshop — 27 Juli 2026
 
 > Update otomatis • Cek link resmi untuk info terbaru • *Perlu dicek ulang di link resmi* jika ada keraguan
 
 ---
 
-## 🏆 LOMBA
-
----
-
-### 1. KSPI 2026 — Kompetisi Sains Pelajar Se-Indonesia
-- **Penyelenggara:** KSPI
-- **Target Peserta:** SD, SMP, SMA/SMK, Mahasiswa
-- **Lokasi:** Online
-- **Deadline:** 25 Juli 2026 ⏰ (H-1! Besok terakhir)
-- **Pelaksanaan:** 26 Juli 2026
-- **Biaya:** Gratis (ada opsi VIP Rp50rb)
-- **Hadiah:** Sertifikat nasional, ranking nasional, medali, piagam, doorprize (beasiswa, smartwatch, TWS, headphone)
-- **Bidang SMA:** Biologi, Fisika, Kimia, Matematika, Ekonomi, Akuntansi, Sejarah, Geografi, Astronomi, Informatika, Bahasa Indonesia, Bahasa Inggris
-- **Link:** https://campusnet.news/kspi-2026-masih-buka-pendaftaran/ *(cek link resmi di artikel)*
-
----
-
-### 2. Lomba Esai Nasional UT 2026
-- **Penyelenggara:** Universitas Terbuka (UT)
-- **Target Peserta:** SMA/SMK/MA sederajat
-- **Lokasi:** Online (pengumpulan naskah)
-- **Deadline:** 31 Juli 2026
-- **Biaya:** Gratis
-- **Hadiah:** Juara 1: Rp5jt + beasiswa 8 semester UT, Juara 2: Rp3,5jt + beasiswa, Juara 3: Rp2,5jt + beasiswa, Juara Harapan: Rp2jt
-- **Tema:** "Generasi Muda Peduli Sampah untuk Indonesia Berkelanjutan"
-- **Link:** https://lombaesai.ut.ac.id
-
----
-
-### 3. LKTIN APOTEMA — Lomba Karya Tulis Ilmiah Nasional
-- **Penyelenggara:** HMP STMT (APOTEMA)
-- **Target Peserta:** SMA/MA/SMK sederajat (tim 2-3 orang)
-- **Lokasi:** Online
-- **Deadline Pendaftaran:** 4 Agustus 2026 (dibuka sejak 6 Juli)
-- **Biaya:** Bayar setelah lolos seleksi abstrak
-- **Tema:** "Elevasi Talenta Muda Menuju Generasi Unggul melalui Eksplorasi Matematika dan Karya Ilmiah"
-- **Sub-tema:** Inovasi pembelajaran matematika, optimalisasi SDA, literasi keuangan, integrasi matematika dalam kehidupan beragama
-- **Link:** https://apotema.hmpstmt.com/lkti/
-
----
-
-### 4. MONACO #11 — Moehi National Competition
-- **Penyelenggara:** PR IPM SMA Muhammadiyah 1 Yogyakarta
-- **Target Peserta:** SMP & SMA
-- **Lokasi:** Online/Offline/Hybrid
-- **Deadline:** 3 Agustus 2026
-- **Pelaksanaan:** 19–22 Agustus 2026
-- **Biaya:** *(perlu dicek di link resmi)*
-- **Cabang Lomba:** Olimpiade IPA, IPS, Matematika, Esai, Poster Online, Cipta Puisi, Fotografi, E-sport (ML, FF), Story Telling, Solo Vokal, dll
-- **Link:** https://linktr.ee/MONACOSMAMUHI
-
----
-
-### 5. Lomba Cerdas Cermat JKN 2026 — BPJS Kesehatan
-- **Penyelenggara:** BPJS Kesehatan
-- **Target Peserta:** SMA/SMK/MA sederajat & Mahasiswa
-- **Lokasi:** Online (penyisihan) → Offline (final)
-- **Deadline:** 20–31 Juli 2026
-- **Biaya:** Gratis
-- **Hadiah:** Rp15jt (Juara 1 SMA) + medali + piagam
-- **Ketentuan Tim:** 2 peserta utama + 1 cadangan + 1 guru pendamping
-- **Syarat:** Terdaftar sebagai peserta aktif JKN
-- **Link:** https://s.id/BPJSKESLCC2026
-
----
-
-### 6. Olimpiade Pelajar Berprestasi Nusantara 2026
-- **Penyelenggara:** LKI × Himasper IPB × Olimpiade Indonesia
-- **Target Peserta:** SMP/MTs & SMA/MA/SMK
-- **Lokasi:** Online (CBT)
-- **Pelaksanaan:** Minggu, 9 Agustus 2026
-- **Biaya:** Gratis
-- **Bidang SMA:** Biologi, Kimia, Matematika, Bahasa Indonesia, Bahasa Inggris, PAI
-- **Link:** https://lembagakompetisiindonesia.com/ *(cari info OPBN Nusantara 2026)*
-
----
-
-### 7. Academic Brilliance Competition — AON × OSP × HIMASILTAN IPB
-- **Penyelenggara:** Asosiasi Olimpiade Nasional (AON), OSP, Himasiltan IPB
-- **Target Peserta:** SMP & SMA
-- **Lokasi:** Online (CBT)
-- **Pelaksanaan:** Minggu, 9 Agustus 2026
-- **Biaya:** Gratis
-- **Bidang SMA:** Agama Islam, Matematika, Bahasa Inggris, Biologi, Fisika
-- **Link:** https://asosiasiolimpiade.com/academic-brilliance-competition/
-
----
-
 ## 💻 WORKSHOP & PELATIHAN
-
 ---
 
 ### 1. Samsung Innovation Campus Batch 8
@@ -151,7 +62,6 @@
 ---
 
 ## ⏰ PENGINGAT DEADLINE
-
 | Item | Deadline | H- |
 |------|----------|-----|
 | KSPI 2026 | 25 Juli 2026 | **H-1!** ⚠️ |
