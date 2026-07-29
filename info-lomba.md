@@ -1,118 +1,74 @@
-# 📋 Info Lomba & Workshop — 27 Juli 2026
+# Info Lomba Terbaru
+*(Diperbarui: 29 Juli 2026)*
 
-> Update otomatis • Cek link resmi untuk info terbaru • *Perlu dicek ulang di link resmi* jika ada keraguan
+Berikut adalah daftar kompetisi aktif yang bisa diikuti oleh pelajar SMA/SMK, mahasiswa, dan umum di Indonesia:
 
----
+## 1. National Research Competition (NRC) 2026
+- **Penyelenggara:** UKM SMART Politeknik Negeri Lampung
+- **Target peserta:** 
+  - LKTI: Mahasiswa aktif
+  - Esai & Poster: Pelajar SMA/SMK, Mahasiswa, & Umum
+- **Lokasi:** Online (Pengumpulan Karya) & Offline (Presentasi Final di Lampung)
+- **Deadline:** 21 September 2026
+- **Biaya:** Rp25.000 - Rp100.000 (Tergantung cabang lomba & gelombang)
+- **Hadiah/manfaat:** Sertifikat & penghargaan dari NRC 2026
+- **Link resmi:** [https://s.id/nrc2026](https://s.id/nrc2026) atau Instagram @kabarlomba_com
 
-## 🏆 LOMBA
----
+## 2. Kompetisi Kreativitas Siswa Indonesia (KREASI) 2026
+- **Penyelenggara:** Universitas Nusa Mandiri (UNM)
+- **Target peserta:** Pelajar SMA/SMK/sederajat
+- **Lokasi:** Futsal & Padel (Offline), Konten Kreatif Video AI (Online)
+- **Deadline:** 10 Agustus 2026
+- **Biaya:** Perlu dicek ulang di link resmi
+- **Hadiah/manfaat:** Total hadiah senilai Rp 25 Juta & sertifikat
+- **Link resmi:** [https://kreasi.nusamandiri.info](https://kreasi.nusamandiri.info)
 
-### 1. KSPI 2026 — Kompetisi Sains Pelajar Se-Indonesia
-- **Penyelenggara:** KSPI
-- **Target Peserta:** SD, SMP, SMA/SMK, Mahasiswa
-- **Lokasi:** Online
-- **Deadline:** 25 Juli 2026 ⏰ (H-1! Besok terakhir)
-- **Pelaksanaan:** 26 Juli 2026
-- **Biaya:** Gratis (ada opsi VIP Rp50rb)
-- **Hadiah:** Sertifikat nasional, ranking nasional, medali, piagam, doorprize (beasiswa, smartwatch, TWS, headphone)
-- **Bidang SMA:** Biologi, Fisika, Kimia, Matematika, Ekonomi, Akuntansi, Sejarah, Geografi, Astronomi, Informatika, Bahasa Indonesia, Bahasa Inggris
-- **Link:** https://campusnet.news/kspi-2026-masih-buka-pendaftaran/ *(cek link resmi di artikel)*
+## 3. DIGION 2026 (Data Analytics & DIGIQuest)
+- **Penyelenggara:** HIMTI BINUS University @Malang
+- **Target peserta:** Siswa SMA/SMK sederajat
+- **Lokasi:** Online (Penyisihan) & Offline di BINUS Malang (Final)
+- **Deadline:** 21 Agustus 2026
+- **Biaya:** Rp20.000 - Rp25.000 / tim
+- **Hadiah/manfaat:** Hadiah bernilai Rp5 Juta+, e-certificate, pengalaman kompetisi, workshop gratis
+- **Link resmi:** [www.digion.id](http://www.digion.id) atau Instagram @digion.idn
 
----
+## 4. Lomba Kimia XXX 2026
+- **Penyelenggara:** HIMA Kimia FMIPA Universitas Andalas
+- **Target peserta:** Mahasiswa seluruh Indonesia
+- **Lokasi:** Online/Hybrid (Perlu dicek ulang di link resmi)
+- **Deadline:** LK-PERO (20 Agustus 2026), LKTI Abstrak (2 Agustus 2026)
+- **Biaya:** 
+  - LK-PERO: Rp55.000 - Rp60.000
+  - LKTI: Pengumpulan abstrak GRATIS. Full paper Rp150.000 - Rp180.000
+- **Hadiah/manfaat:** Sertifikat dan penghargaan juara
+- **Link resmi:** Instagram @lombakimiaunand
 
-### 2. Lomba Esai Nasional UT 2026
-- **Penyelenggara:** Universitas Terbuka (UT)
-- **Target Peserta:** SMA/SMK/MA sederajat
-- **Lokasi:** Online (pengumpulan naskah)
-- **Deadline:** 31 Juli 2026
-- **Biaya:** Gratis
-- **Hadiah:** Juara 1: Rp5jt + beasiswa 8 semester UT, Juara 2: Rp3,5jt + beasiswa, Juara 3: Rp2,5jt + beasiswa, Juara Harapan: Rp2jt
-- **Tema:** "Generasi Muda Peduli Sampah untuk Indonesia Berkelanjutan"
-- **Link:** https://lombaesai.ut.ac.id
-
----
-
-### 3. LKTIN APOTEMA — Lomba Karya Tulis Ilmiah Nasional
-- **Penyelenggara:** HMP STMT (APOTEMA)
-- **Target Peserta:** SMA/MA/SMK sederajat (tim 2-3 orang)
-- **Lokasi:** Online
-- **Deadline Pendaftaran:** 4 Agustus 2026 (dibuka sejak 6 Juli)
-- **Biaya:** Bayar setelah lolos seleksi abstrak
-- **Tema:** "Elevasi Talenta Muda Menuju Generasi Unggul melalui Eksplorasi Matematika dan Karya Ilmiah"
-- **Sub-tema:** Inovasi pembelajaran matematika, optimalisasi SDA, literasi keuangan, integrasi matematika dalam kehidupan beragama
-- **Link:** https://apotema.hmpstmt.com/lkti/
-
----
-
-### 4. MONACO #11 — Moehi National Competition
-- **Penyelenggara:** PR IPM SMA Muhammadiyah 1 Yogyakarta
-- **Target Peserta:** SMP & SMA
-- **Lokasi:** Online/Offline/Hybrid
-- **Deadline:** 3 Agustus 2026
-- **Pelaksanaan:** 19–22 Agustus 2026
-- **Biaya:** *(perlu dicek di link resmi)*
-- **Cabang Lomba:** Olimpiade IPA, IPS, Matematika, Esai, Poster Online, Cipta Puisi, Fotografi, E-sport (ML, FF), Story Telling, Solo Vokal, dll
-- **Link:** https://linktr.ee/MONACOSMAMUHI
-
----
-
-### 5. Lomba Cerdas Cermat JKN 2026 — BPJS Kesehatan
+## 5. Lomba Cerdas Cermat JKN 2026
 - **Penyelenggara:** BPJS Kesehatan
-- **Target Peserta:** SMA/SMK/MA sederajat & Mahasiswa
-- **Lokasi:** Online (penyisihan) → Offline (final)
-- **Deadline:** 20–31 Juli 2026
-- **Biaya:** Gratis
-- **Hadiah:** Rp15jt (Juara 1 SMA) + medali + piagam
-- **Ketentuan Tim:** 2 peserta utama + 1 cadangan + 1 guru pendamping
-- **Syarat:** Terdaftar sebagai peserta aktif JKN
-- **Link:** https://s.id/BPJSKESLCC2026
+- **Target peserta:** Tim Siswa SMA/SMK/MA sederajat + Guru, atau Tim Mahasiswa + Dosen
+- **Lokasi:** Perlu dicek ulang di link resmi
+- **Deadline:** 31 Juli 2026
+- **Biaya:** Perlu dicek ulang di link resmi
+- **Hadiah/manfaat:** Berbagai penghargaan dari BPJS Kesehatan
+- **Link resmi:** [s.id/BPJSKESLCC2026](https://s.id/BPJSKESLCC2026)
+
+## 6. Lomba Esai Universitas Terbuka 2026
+- **Penyelenggara:** Universitas Terbuka
+- **Target peserta:** Siswa SMA/SMK/sederajat
+- **Lokasi:** Online
+- **Deadline:** 31 Juli 2026
+- **Biaya:** GRATIS
+- **Hadiah/manfaat:** Juara 1: Rp5.000.000 + Beasiswa, dan juara lainnya (Total 30 karya terbaik)
+- **Link resmi:** [https://lombaesai.ut.ac.id/](https://lombaesai.ut.ac.id/)
+
+## 7. Mathematics Challenge 2026
+- **Penyelenggara:** HIMA Matematika "REAL" Jurusan Matematika FMIPA Univ Lambung Mangkurat
+- **Target peserta:** SMP/sederajat se-Kalimantan & SMA/sederajat se-Indonesia
+- **Lokasi:** Online/Offline (Perlu dicek di link resmi)
+- **Deadline:** 31 Agustus 2026
+- **Biaya:** Perlu dicek di link resmi (Ada promo pendaftaran kolektif)
+- **Hadiah/manfaat:** Penghargaan juara dan kit lomba
+- **Link resmi:** [https://mathematicschallenge.com/](https://mathematicschallenge.com/)
 
 ---
-
-### 6. Olimpiade Pelajar Berprestasi Nusantara 2026
-- **Penyelenggara:** LKI × Himasper IPB × Olimpiade Indonesia
-- **Target Peserta:** SMP/MTs & SMA/MA/SMK
-- **Lokasi:** Online (CBT)
-- **Pelaksanaan:** Minggu, 9 Agustus 2026
-- **Biaya:** Gratis
-- **Bidang SMA:** Biologi, Kimia, Matematika, Bahasa Indonesia, Bahasa Inggris, PAI
-- **Link:** https://lembagakompetisiindonesia.com/ *(cari info OPBN Nusantara 2026)*
-
----
-
-### 7. Academic Brilliance Competition — AON × OSP × HIMASILTAN IPB
-- **Penyelenggara:** Asosiasi Olimpiade Nasional (AON), OSP, Himasiltan IPB
-- **Target Peserta:** SMP & SMA
-- **Lokasi:** Online (CBT)
-- **Pelaksanaan:** Minggu, 9 Agustus 2026
-- **Biaya:** Gratis
-- **Bidang SMA:** Agama Islam, Matematika, Bahasa Inggris, Biologi, Fisika
-- **Link:** https://asosiasiolimpiade.com/academic-brilliance-competition/
-
----
-
-## ⏰ PENGINGAT DEADLINE
-| Item | Deadline | H- |
-|------|----------|-----|
-| KSPI 2026 | 25 Juli 2026 | **H-1!** ⚠️ |
-| Webinar AI APG PAUD (sesi 24-25 Juli) | 24-25 Juli 2026 | **Sedang berlangsung!** |
-| Lomba Cerdas Cermat JKN BPJS | 31 Juli 2026 | H-4 |
-| Lomba Esai Nasional UT | 31 Juli 2026 | H-4 |
-| MONACO #11 | 3 Agustus 2026 | H-7 |
-| LKTIN APOTEMA | 4 Agustus 2026 | H-8 |
-| OPBN Nusantara 2026 | 9 Agustus 2026 (pelaksanaan) | Perlu cek deadline daftar |
-| Academic Brilliance Competition | 9 Agustus 2026 (pelaksanaan) | Perlu cek deadline daftar |
-| Webinar Critical AI Literacy ITI | 8 Agustus 2026 | H-12 |
-| Samsung Innovation Campus Batch 8 | 18 Agustus 2026 | H-22 |
-| RevoU Coding Camp | 27-31 Juli 2026 | **Mulai besok!** |
-
----
-
-## 💡 TIPS
-
-- ✅ **KSPI 2026** deadline besok (25 Juli)! Buruan daftar kalau tertarik — gratis dan online.
-- ✅ **Lomba Esai UT** — hadiahnya beasiswa 8 semester UT + uang tunai. Cocok buat yang suka nulis.
-- ✅ **Samsung Innovation Campus** — gratis, dapet IoT Course Kit. Bagus banget buat belajar AI & IoT dari nol.
-- ✅ **RevoU Coding Camp** mulai besok 27 Juli, gratis, cocok buat pemula yang mau coba software engineering.
-
-> *Semua info perlu dicek ulang di link resmi masing-masing ya!*
+*Catatan: Segala informasi dapat berubah dari pihak penyelenggara. Selalu cek kembali di link/situs resminya sebelum mendaftar!*
