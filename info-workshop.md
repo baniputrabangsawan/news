@@ -1,37 +1,38 @@
-# Info Workshop & Pelatihan Terbaru
-*(Diperbarui: 31 Juli 2026)*
+# Info Workshop & Webinar Terbaru - Juli/Agustus 2026
 
-## 1. Linear Models in Machine Learning: Fundamentals, Applications, and Competition
-- **Penyelenggara / Akun Medsos:** BPSDM Komdigi & Yandex (@digitalent.komdigi)
-- **Tanggal & Jam:** 20 Juli – 30 Agustus 2026
-- **Platform:** Online (LMS Yandex / Digitalent)
-- **Biaya:** Gratis
-- **Benefit:** Belajar Machine Learning, Python, Scikit-learn, sertifikat, reward, dan peluang hadiah kompetisi.
-- **Link pendaftaran:** https://s.id/yandex-dts *(Pendaftaran dan entrance test ditutup 25 Juli 2026, status aktif untuk peserta lulusan tahap 1)*
+Berikut adalah informasi workshop dan webinar aktif yang berhasil ditemukan hari ini:
 
-## 2. Software Engineering FREE Coding Camp
-- **Penyelenggara / Akun Medsos:** RevoU
-- **Tanggal & Jam:** 27 - 31 Juli 2026 (Sudah berjalan/sedang berlangsung)
-- **Platform:** Online (Live session via platform RevoU)
+## 1. Webinar: Critical AI Literacy
+- **Penyelenggara:** Prodi Teknik Elektro Institut Teknologi Indonesia
+- **Tanggal & jam:** Sabtu, 8 Agustus 2026 | 10.00 – 12.00 WIB
+- **Platform:** Zoom (Online)
 - **Biaya:** Gratis
-- **Benefit:** Belajar JavaScript, HTML, CSS, sertifikat digital, mini project portfolio, tes sertifikasi, sharing session alumni.
-- **Link pendaftaran:** https://wix-origin.revou.co/coding-camp-software-engineering
-
-## 3. Webinar Gratis Bersertifikat “Critical AI Literacy”
-- **Penyelenggara / Akun Medsos:** Teknik Elektro Institut Teknologi Indonesia (ITI)
-- **Tanggal & Jam:** Sabtu, 08 Agustus 2026 | 10.00 – 12.00 WIB
-- **Platform:** Online via Zoom
-- **Biaya:** Gratis
-- **Benefit:** E-Certificate, materi webinar, pemahaman kritis tentang AI (Accuracy, Bias, Hallucination).
+- **Benefit:** E-Certificate, Materi Webinar, Live Online Class
 - **Link pendaftaran:** https://forms.gle/W1LDNZEqRjEen3GaA
 
-## 4. Maju Bareng AI - Pelatihan AI Gratis Bersertifikat
-- **Penyelenggara / Akun Medsos:** Hacktiv8, AVPN, Google.org, Asian Development Bank
-- **Tanggal & Jam:** Februari 2026 - Desember 2027 (Jadwal fleksibel)
-- **Platform:** Online (Live session training & WhatsApp Group)
+## 2. Pelatihan & Kompetisi Machine Learning
+- **Penyelenggara:** Yandex & Digital Talent Komdigi
+- **Tanggal & jam:** 20 Juli – 23 Agustus 2026 (Batch 1)
+- **Platform:** Online (Materi & Hackathon)
 - **Biaya:** Gratis
-- **Benefit:** Sertifikat kelulusan, portofolio, skill AI (Generative AI, prompting, RAG, Vector Database, LangChain), akses komunitas.
-- **Link pendaftaran:** https://www.hacktiv8.com/projects/avpn-asia
+- **Benefit:** Modul pembelajaran, pendampingan mentor lokal, sertifikat, hadiah Hackathon
+- **Link pendaftaran:** https://s.id/yandex-dts atau http://s.komdigi.go.id/yandex-dts (Tutup 19 Juli 2026, bisa cek kuota sisa/batch selanjutnya)
+
+## 3. Workshop 2 Jam Bikin AI Agent [Online] — Batch 7
+- **Penyelenggara:** Komunitech
+- **Tanggal & jam:** Minggu, 26 Juli 2026 | 20.00 – 22.00 WIB
+- **Platform:** Online meeting (Link via grup)
+- **Biaya:** Rp499.000 / orang
+- **Benefit:** Cara bikin AI Agent dengan OpenClaw (tanpa coding) untuk otomasi bisnis
+- **Link pendaftaran:** https://komunitech.com/blog/karyawan-ai/workshop-2-jam-bikin-ai-agent-online-batch-7-26-juli-2026/
+
+## 4. EXCLUSIVE Workshop: Analisis Sentimen dengan AI
+- **Penyelenggara:** KelasRiset.id (via event detik)
+- **Tanggal & jam:** 12 & 13 Agustus 2026 | 19.00 - 21.30 WIB
+- **Platform:** Zoom Meeting
+- **Biaya:** Perlu dicek ulang di link resmi
+- **Benefit:** E-Sertifikat Nasional 24 JP, Akses KelasRiset 30 Hari, E-Modul, Rekaman, Dataset, Voucher
+- **Link pendaftaran:** https://event.detik.com/1416/exclusive-workshop--ubah-data-digital-menjadi-insight-penelitian-dengan-ai
 
 ---
-*Catatan: Selalu cek link resmi untuk info terbaru dan perubahan jadwal mendadak.*
+*Catatan: Selalu cek link resmi untuk informasi terbaru, perubahan jadwal, atau ketersediaan kuota pendaftaran. Pastikan mendaftar sebelum deadline!*
