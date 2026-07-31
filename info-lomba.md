@@ -1,62 +1,50 @@
-# 🏆 Info Lomba Terbaru
-*Diperbarui pada: 30 Juli 2026*
+# Info Lomba Terbaru
+*(Diperbarui: 31 Juli 2026)*
 
-## 1. Lomba Peran APBN dan APBN Bangun Daerah Tahun 2026
-* **Penyelenggara:** Kementerian Keuangan (Kemenkeu) RI
-* **Target Peserta:** Pelajar SMA/sederajat & Mahasiswa
-* **Lokasi:** Online / Hybrid
-* **Deadline:** 7 Agustus 2026
-* **Biaya:** Gratis 
-* **Hadiah/Manfaat:** Penghargaan bergengsi, wawasan pengelolaan APBN, dan relasi.
-* **Link Resmi:** [Tentang Guru - Jadwal APBN Kemenkeu](https://www.tentangguru.com/nasional/1577446399/pendaftaran-dibuka-sampai-7-agustus-ini-jadwal-lengkap-lomba-apbn-kemenkeu-2026-yang-wajib-dicatat)
+## 1. Kompetisi Sains Pelajar Se-Indonesia (KSPI) 2026
+- **Penyelenggara:** CampusNet
+- **Target peserta:** SD, SMP, SMA/SMK hingga Mahasiswa
+- **Lokasi:** Online
+- **Deadline:** *(Pendaftaran ditutup)* - Telah lewat tanggal 25 Juli 2026. (Status: Pendaftaran sudah tutup, namun disertakan karena muncul dalam pencarian terkini). *Perlu dicek ulang di link resmi.*
+- **Biaya:** Perlu dicek ulang di link resmi.
+- **Hadiah/manfaat:** Perlu dicek ulang di link resmi.
+- **Link resmi:** https://campusnet.news/kspi-2026-masih-buka-pendaftaran/
 
-## 2. Lomba Karya Tulis Ilmiah – APOTEMA
-* **Penyelenggara:** APOTEMA
-* **Target Peserta:** Siswa SMA/MA/SMK Se-derajat
-* **Lokasi:** Online 
-* **Deadline:** 4 Agustus 2026
-* **Biaya:** Perlu dicek ulang di link resmi
-* **Hadiah/Manfaat:** Penghargaan, pengalaman publikasi ilmiah.
-* **Link Resmi:** [apotema.hmpstmt.com/lkti](https://apotema.hmpstmt.com/lkti/)
+## 2. DIGION 2026 (Data Analytics Competition & DIGIQuest Challenge)
+- **Penyelenggara:** HIMTI BINUS University @Malang
+- **Target peserta:** Siswa SMA, SMK, dan sederajat se-Indonesia
+- **Lokasi:** Hybrid (Final luring di BINUS University @Malang)
+- **Deadline:** 21 Agustus 2026
+- **Biaya:** Rp25.000/tim (Data Analytics), Rp20.000/tim (DIGIQuest)
+- **Hadiah/manfaat:** Menguji kemampuan analisis data dan problem solving.
+- **Link resmi:** www.digion.id | @digion.idn (Instagram/TikTok)
 
-## 3. Lomba Karya Tulis Ilmiah Nasional 2026 (LKTIN)
-* **Penyelenggara:** LKTIN Official
-* **Target Peserta:** SMA/SMK/Sederajat dan Mahasiswa S1 Se-Indonesia
-* **Lokasi:** Online
-* **Deadline:** Pendaftaran masih buka
-* **Biaya:** Rp 150.000 (Umum)
-* **Hadiah/Manfaat:** Hadiah jutaan rupiah dan sertifikat tingkat nasional.
-* **Link Resmi:** [linktr.ee/LombaKaryaTulisIlmiah2026](https://linktr.ee/LombaKaryaTulisIlmiah2026)
+## 3. Steampreneur SMK 2026
+- **Penyelenggara:** Direktorat SMK Kemendikdasmen
+- **Target peserta:** Murid SMK (Kategori IT dan Non-IT)
+- **Lokasi:** Perlu dicek ulang di link resmi.
+- **Deadline:** Perlu dicek ulang di link resmi.
+- **Biaya:** Perlu dicek ulang di link resmi.
+- **Hadiah/manfaat:** Wadah unjuk karya inovasi STEAM (Science, Technology, Engineering, Arts, Mathematics).
+- **Link resmi:** https://www.loopsmedia.com/nasional/1822892334/direktorat-smk-kemendikdasmen-buka-steampreneur-smk-2026-saatnya-murid-vokasi-unjuk-karya-dan-inovasi-steam-kreatif
 
-## 4. National Research Competition (NRC) 2026 (LKTI, Esai, Desain Poster)
-* **Penyelenggara:** UKM SMART Politeknik Negeri Lampung
-* **Target Peserta:** Pelajar SMA/SMK, Mahasiswa, dan Umum
-* **Lokasi:** Online / Final Offline (Lampung)
-* **Deadline:** Gelombang 1 (20 Agustus 2026), Gelombang 2 (21 September 2026)
-* **Biaya:** LKTI (Rp75rb-100rb), Esai (Rp35rb-45rb), Poster (Rp25rb-35rb)
-* **Hadiah/Manfaat:** Penghargaan, sertifikat nasional, relasi tingkat nasional.
-* **Link Resmi:** [s.id/nrc2026](https://s.id/nrc2026)
+## 4. Lomba Cerdas Cermat JKN 2026
+- **Penyelenggara:** BPJS Kesehatan
+- **Target peserta:** Pelajar SMA/SMK/MA/Sederajat & Mahasiswa
+- **Lokasi:** Perlu dicek ulang di link resmi.
+- **Deadline:** 31 Juli 2026
+- **Biaya:** Perlu dicek ulang di link resmi.
+- **Hadiah/manfaat:** Total puluhan juta rupiah (Juara I SMA Rp15 Juta), medali, piagam.
+- **Link resmi:** s.id/BPJSKESLCC2026
 
-## 5. Lomba Esai Nasional Universitas Terbuka (UT) 2026
-* **Penyelenggara:** Universitas Terbuka (UT)
-* **Target Peserta:** Siswa SMA/SMK/MA sederajat
-* **Lokasi:** Online
-* **Deadline:** 31 Juli 2026 
-* **Biaya:** Gratis
-* **Hadiah/Manfaat:** Total hadiah puluhan juta rupiah & Beasiswa kuliah 8 semester untuk 3 juara utama.
-* **Link Resmi:** [lombaesai.ut.ac.id](https://lombaesai.ut.ac.id) *(Link pendaftaran via UT)*
-
-## 6. ACADEMIC BRILLIANCE COMPETITION (AON X OSP X HIMASILTAN IPB)
-* **Penyelenggara:** Asosiasi Olimpiade x HIMASILTAN IPB
-* **Target Peserta:** Pelajar SMP & SMA Sederajat
-* **Lokasi:** Online
-* **Deadline:** 9 Agustus 2026 (Pelaksanaan Kompetisi)
-* **Biaya:** Gratis (Olimpiade Nasional Online Gratis)
-* **Hadiah/Manfaat:** Sertifikat Nasional dan medali (bergantung kategori).
-* **Link Resmi:** [asosiasiolimpiade.com](https://asosiasiolimpiade.com/academic-brilliance-competition/)
+## 5. ATHENA 2026 (Kompetisi Olimpiade Informatika Nasional)
+- **Penyelenggara:** Olimnesia
+- **Target peserta:** Pelajar SMP dan SMA Sederajat
+- **Lokasi:** Online
+- **Deadline:** *(Pendaftaran ditutup)* - Telah lewat tanggal 17 Juli 2026. *Perlu dicek ulang di link resmi.*
+- **Biaya:** Gratis (Bersyarat) atau VIP (Rp29.000 SMP / Rp39.000 SMA)
+- **Hadiah/manfaat:** Sertifikat, pengalaman kompetisi akademik nasional.
+- **Link resmi:** https://olimnesia.com/events/kompetisi-olimpiade-informatika-tingkat-nasional-athena-2026-untuk-pelajar-sma-ma-smk-indonesia-terbaru-online-gratis-bersertifikat
 
 ---
-💡 **Tips Lomba:**
-- Periksa kembali tanggal pendaftaran, bisa saja ditutup lebih awal jika kuota penuh.
-- Segera buat akun di platform lomba minimal **H-3 deadline** untuk menghindari server down.
-- Jangan lupa cek legalitas lomba dan hati-hati dengan penipuan yang mengatasnamakan panitia. Cek website resmi!
+*Catatan: Selalu cek link resmi untuk info terbaru dan perubahan jadwal mendadak.*
