@@ -2,7 +2,7 @@
 
 Berikut adalah informasi kompetisi (lomba) aktif yang berhasil ditemukan hari ini:
 
-## 1. Kompetisi Sains Pelajar Se-Indonesia (KSPI) 2026
+1. Kompetisi Sains Pelajar Se-Indonesia (KSPI) 2026
 - **Penyelenggara:** CampusNet
 - **Target peserta:** SD, SMP, SMA/SMK, Mahasiswa
 - **Lokasi:** Online
@@ -11,7 +11,7 @@ Berikut adalah informasi kompetisi (lomba) aktif yang berhasil ditemukan hari in
 - **Hadiah/manfaat:** Sertifikat, Medali (Perlu dicek ulang di link resmi)
 - **Link resmi:** https://campusnet.news/kspi-2026-masih-buka-pendaftaran/
 
-## 2. Samsung Innovation Campus Batch 8
+2. Samsung Innovation Campus Batch 8
 - **Penyelenggara:** Samsung Electronics Indonesia
 - **Target peserta:** SMA/SMK/MA dan Mahasiswa
 - **Lokasi:** Hybrid/Online (Pelatihan berbasis proyek & IoT Course)
@@ -20,7 +20,7 @@ Berikut adalah informasi kompetisi (lomba) aktif yang berhasil ditemukan hari in
 - **Hadiah/manfaat:** Pelatihan 100% gratis, bimbingan, IoT Course Kit, kesempatan presentasi proyek AI/IoT
 - **Link resmi:** https://gizmologi.id/news/pendaftaran-samsung-innovation-campus-batch-8/
 
-## 3. Lomba Cerdas Cermat JKN 2026
+3. Lomba Cerdas Cermat JKN 2026
 - **Penyelenggara:** BPJS Kesehatan
 - **Target peserta:** Pelajar SMA/sederajat dan Mahasiswa
 - **Lokasi:** Perlu dicek ulang di link resmi (Babak penyisihan hingga Grand final)
@@ -29,7 +29,7 @@ Berikut adalah informasi kompetisi (lomba) aktif yang berhasil ditemukan hari in
 - **Hadiah/manfaat:** Juara PT (Rp20 juta), Juara SMA (Rp15 juta), medali, piagam, hadiah hiburan
 - **Link resmi:** s.id/BPJSKESLCC2026
 
-## 4. National Research Competition (NRC) 2026
+4. National Research Competition (NRC) 2026
 - **Penyelenggara:** UKM SMART Politeknik Negeri Lampung
 - **Target peserta:** LKTI (Mahasiswa), Esai & Poster (SMA/SMK, Mahasiswa, Umum)
 - **Lokasi:** Online/Perlu dicek ulang di link resmi
@@ -38,7 +38,7 @@ Berikut adalah informasi kompetisi (lomba) aktif yang berhasil ditemukan hari in
 - **Hadiah/manfaat:** Penghargaan, relasi, prestasi nasional
 - **Link resmi:** https://s.id/nrc2026
 
-## 5. Lomba HUT ke-81 RI Kemendikdasmen
+5. Lomba HUT ke-81 RI Kemendikdasmen
 - **Penyelenggara:** Kemendikdasmen
 - **Target peserta:** Guru, murid, masyarakat umum
 - **Lokasi:** Online (Pengiriman karya)
