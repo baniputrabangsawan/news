@@ -1,15 +1,47 @@
-# Update Info: Tools, AI Agent, & Design (Minggu Ini)
+# Info Tech & Design Terkini
+*(Update: Agustus 2026)*
 
 ## 🛠️ TOOLS TERKINI
-- **Conductor Cloud Workspaces**: Conductor telah merilis fitur *multiplayer cloud workspaces* yang memungkinkan tim pengembang untuk menjalankan *coding agents* (seperti Codex dan Cursor) di ruang kerja awan (cloud workspace) terisolasi. Lingkungan ini tetap berjalan meskipun pengembang sedang *offline*, memberikan solusi bagi manajemen agen yang lebih terpusat dan asinkron untuk seluruh tim. ([Sumber](https://runtimewire.com/article/conductor-launches-multiplayer-cloud-workspaces-coding-agents))
-- **Kepler (Public Preview)**: GitKraken meluncurkan Kepler, sebuah *agentic development environment* (ADE) yang dapat mengoordinasikan agen AI di berbagai repositori sekaligus. Berbeda dengan agen *single-repo*, Kepler didesain untuk menyelesaikan satu tugas yang melintasi banyak repositori menggunakan agen dari berbagai penyedia (seperti Claude Code, Cursor, Copilot) di dalam satu tempat. ([Sumber](https://www.gitkraken.com/blog/kepler-is-in-public-preview-one-task-every-repo-every-agent))
+- **Terminal-Browser (oleh Zenbu)**
+  Sebuah tool inovatif yang mengintegrasikan Chromium browser langsung ke dalam terminal. Tool ini dirancang sebagai komponen *agent development environment*, memungkinkan developer dan AI agent untuk melihat preview lokal, memeriksa elemen, dan melakukan QA berbasis browser tanpa harus berpindah aplikasi. 
+  [Referensi: RuntimeWire](https://runtimewire.com/article/zenbu-terminal-browser-coding-agents-chromium-terminal)
+  
+- **Topcoat**
+  Framework baru berbasis Rust untuk membangun aplikasi web reaktif full-stack. Topcoat merender markup di sisi server dan mengompilasi subset Rust menjadi JavaScript untuk interaktivitas, mengurangi overhead WebAssembly sekaligus menjaga logika tetap aman dan terpusat di Rust.
+  [Referensi: Tokio Blog](https://tokio.rs/blog/2026-07-22-announcing-topcoat)
+  
+- **Numbat (oleh Perplexity)**
+  Framework keamanan *open-source* berupa binary Go ringan yang mengawasi AI coding agent di perangkat lokal (macOS, Linux, Windows). Numbat menangkap *hooks* dari berbagai *harness* agent (seperti Claude Code dan Codex), menerapkan 52 aturan bawaan, dan dapat memblokir aksi berbahaya sebelum dieksekusi oleh agent.
+  [Referensi: Oton Technology](https://otontechnology.com/perplexity-numbat-open-source-ai-coding-agent-security/)
+
 
 ## 🤖 AI AGENT & TECH
-- **KotlinLLM oleh JetBrains**: JetBrains meng-open-source-kan prototipe riset bernama KotlinLLM, yakni plugin IntelliJ IDEA yang menggunakan LLM untuk membuat dan memodifikasi logika program secara langsung saat *runtime* (dijalankan) lewat fitur "Smart macros". Kode yang dihasilkan kemudian disimpan sebagai file Kotlin yang persisten, dapat di-*review*, diuji, dan dieksekusi tanpa pemanggilan LLM lanjutan sehingga dapat menekan biaya *latency*. ([Sumber](https://www.infoworld.com/article/4203647/jetbrains-open-sources-kotlinllm-runtime-code-generator.html))
-- **Perplexity Numbat**: Perplexity meng-open-source-kan *Numbat*, sebuah utilitas keamanan yang mengawasi serta melindungi ekosistem agen AI di level *endpoint*. Numbat berfungsi untuk mencegat dan memblokir agen *coding* yang berpotensi melakukan tindakan merusak pada *environment* pengguna, menahan agen saat sedang mengejar tujuannya, bahkan mencegah modifikasi *database* produksi. ([Sumber](https://aiinsiders.net/article/perplexity-open-sources-numbat-to-stop-ai-agents-from))
-- **Thinking Machines' Inkling-Small**: Menyusul peluncuran Inkling, Thinking Machines merilis versi ringkas *Inkling-Small*, model *reasoning* 276-miliar-parameter *multimodal* bersumber terbuka (open source). Menariknya, model kecil ini mampu menyamai atau bahkan melampaui kemampuan inkling asli pada banyak pengujian dengan ukuran data/sumber daya yang jauh lebih efisien. ([Sumber](https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size))
+- **DeepSeek V4-Flash-0731**
+  Pembaruan versi rilis dari model V4-Flash (284B parameter / 13B aktif MoE). Tanpa mengubah arsitektur, pembaruan *post-training* ini meningkatkan secara drastis kemampuan agent, *coding*, dan integrasi API (native Responses API), membuatnya mampu mengungguli V4-Pro pada sembilan benchmark agen dan pemrograman dengan biaya jauh lebih murah.
+  [Referensi: TechTimes](https://www.techtimes.com/articles/322513/20260731/deepseek-retrained-v4-flash-beats-its-flagship-pro-nine-agent-benchmarks.htm)
+  
+- **SkillRise**
+  Kerangka kerja AI agent inovatif yang melatih *reinforcement learning policy* tunggal untuk menyelesaikan tugas sekaligus menyusun "dokumen keahlian" (*skill document*) yang dapat ditransfer langsung ke tugas berikutnya, mengungguli metode multi-tahap pada berbagai tolok ukur.
+  [Referensi: TechTimes](https://www.techtimes.com/articles/322394/20260731/one-agent-learns-every-task-skillrise-compiles-transferable-know-how.htm)
+  
+- **K-EXAONE 2.0 (oleh LG AI Research)**
+  Model AI *foundation* terbesar asal Korea dengan 750 miliar parameter yang dirilis ke open-source (Hugging Face) dengan lisensi Apache 2.0. Model ini meningkatkan skor rata-rata hingga 10% di berbagai benchmark dibandingkan versi sebelumnya dan bersaing ketat dengan model global dalam pemahaman konteks panjang dan kemampuan agentik.
+  [Referensi: LG AI Research News](https://www.lgresearch.ai/news/view?seq=678)
+  
+- **Genkit Agents (Google)**
+  API baru dari Google untuk membangun aplikasi AI *full-stack* yang *agentic*. Genkit menyederhanakan pengelolaan memori, loop alat (tool loop), dan protokol streaming, memungkinkan developer mendefinisikan *agent* di server dan mengelolanya dari *frontend* menggunakan antarmuka yang sama.
+  [Referensi: Google Developers Blog](https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/)
+
 
 ## 🎨 DESIGN & UI/UX
-- **Replit Design**: Replit merilis *Replit Design*, alat pengembangan dan desain baru yang mengintegrasikan AI langsung dalam *canvas* visual. Ini menggunakan *Ambient Intelligence* untuk mempercepat perwujudan ide menjadi kode aplikasi. Platform ini juga telah terintegrasi dengan Claude Design dan Mobbin (perpustakaan UI/UX), guna menyatukan *moodboard*, *wireframing*, dan *coding* ke dalam satu ekosistem (*zero handoffs*). ([Sumber](https://replit.com/blog/introducing-replit-design))
-- **Figma Make - Properties Panel dan Annotations**: Figma merilis fitur desain visual dalam penulisan kode melalui *Figma Make*. Dengan *properties panel* ini, desainer dan pengembang dapat secara interaktif menyesuaikan nilai tipografi, *layout*, hingga spasi selayaknya panel Figma Design biasa yang sekarang langsung menyatu dengan lapisan kode. Terdapat juga fitur anotasinya untuk memberi masukan desain langsung kepada agen. ([Sumber](https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/))
-- **Tren Web Design 2026**: Tren UI/UX saat ini bergerak menuju desain "*Barely-there UI*" (antarmuka minimalis, nyaris tak terlihat yang menonjolkan bobot tipografi), "*Machine Experience (MX) design*" (menata semantik web agar mudah dibaca oleh agen mesin), dan penerapan antarmuka yang terkesan "fisik/analog" guna menegaskan jarak antara kreasi orisinal buatan manusia dengan hasil yang secara massal dibuat AI. ([Sumber](https://bubble.io/blog/web-design-trends/))
+- **Figma Make: Properties Panel & Annotations**
+  Figma Make kini dilengkapi panel properti bergaya desain untuk mengubah parameter UI (seperti spasi, warna, dan tipografi) pada kode secara visual. Fitur anotasi memungkinkan desainer memberikan instruksi kontekstual kepada agent untuk penyesuaian spesifik, mempercepat transisi dari desain ke kode fungsional.
+  [Referensi: Figma Blog](https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/)
+  
+- **Figma Motion**
+  Animasi kini menjadi material bawaan (native) di kanvas Figma. Fitur *Motion* menghadirkan *timeline* penuh, kurva kecepatan (easing), dan keyframe, menjadikan pengaturan gerak dapat dimasukkan langsung dalam komponen dan variabel sistem desain tanpa bergantung pada aplikasi eksternal.
+  [Referensi: Figma Blog](https://www.figma.com/blog/introducing-figma-motion/)
+  
+- **Code Layers di Figma**
+  Dalam perombakan alur kerja desain-ke-kode (design-to-code), *Code Layers* mengubah kode menjadi lapisan interaktif yang dapat diperlakukan selayaknya komponen desain. Pengguna dapat mengimpor repositori GitHub langsung ke kanvas, mengeksplorasi prototipe, dan memodifikasi interaksi kode tanpa batas pemisah antara mode *design* dan *develop*.
+  [Referensi: Beryl Design](https://www.beryldesign.fr/en/post/figma-config-2026)
