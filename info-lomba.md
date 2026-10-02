@@ -49,3 +49,30 @@ Berikut adalah informasi kompetisi (lomba) aktif yang berhasil ditemukan hari in
 
 ---
 *Catatan: Segera cek link resmi karena syarat, biaya, dan ketersediaan kuota bisa berubah sewaktu-waktu. Jangan lewatkan batas waktu pendaftaran!*
+
+6. Lomba Puisi PESTATOSH 2026
+- **Penyelenggara:** PESTATOSH 2026
+- **Target peserta:** Pelajar SMA/Sederajat
+- **Lokasi:** Online
+- **Deadline:** 10 Oktober 2026 (pendaftaran), 15 Oktober 2026 (pengumpulan video)
+- **Biaya:** Gratis
+- **Hadiah/manfaat:** Juara 1, 2, 3 mendapat Uang Penghargaan + Sertifikat
+- **Link resmi:** https://www.kabarlomba.com/2026/09/lomba-puisi-pestatosh-2026-gratis-untuk.html
+
+7. Lomba Karya Tulis Ilmiah IQTAF FEST XIV 2026
+- **Penyelenggara:** IQTAF FEST XIV 2026
+- **Target peserta:** Pelajar SMA/SMK hingga Mahasiswa (maksimal 25 tahun)
+- **Lokasi:** Online
+- **Deadline:** 15 Oktober 2026 pukul 23.59
+- **Biaya:** Rp28.000
+- **Hadiah/manfaat:** Piala, Sertifikat, Uang Pembinaan untuk Juara 1, 2, 3. E-Sertifikat untuk semua peserta
+- **Link resmi:** https://www.kabarlomba.com/2026/09/lomba-karya-tulis-ilmiah-iqtaf-fest-xiv.html
+
+5. Youth Innovation Challenge 2026 World Food Forum
+- **Penyelenggara:** World Food Forum (WFF) Indonesia Youth Chapter
+- **Target peserta:** SMA, D1, D2 dan sederajat
+- **Lokasi:** Tingkat Nasional - Fully Funded Indonesia
+- **Deadline:** 09 Oktober 2026
+- **Biaya:** Gratis (Fully Funded)
+- **Hadiah/manfaat:** Pendanaan penuh untuk inovasi pangan
+- **Link resmi:** https://luarkampus.id/events
