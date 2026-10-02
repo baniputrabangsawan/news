@@ -45,3 +45,13 @@
 - **Code Layers di Figma**
   Dalam perombakan alur kerja desain-ke-kode (design-to-code), *Code Layers* mengubah kode menjadi lapisan interaktif yang dapat diperlakukan selayaknya komponen desain. Pengguna dapat mengimpor repositori GitHub langsung ke kanvas, mengeksplorasi prototipe, dan memodifikasi interaksi kode tanpa batas pemisah antara mode *design* dan *develop*.
   [Referensi: Beryl Design](https://www.beryldesign.fr/en/post/figma-config-2026)
+
+### 4. Microsoft Build 2026: Windows sebagai OS untuk AI Agents
+- **Tanggal Rilis/Berita:** Juni 2026
+- **Deskripsi:** Microsoft menggunakan Build 2026 untuk memposisikan Windows sebagai platform untuk membangun dan menjalankan AI agents, bukan hanya menambahkan fitur AI ke aplikasi Windows. Ini menandai pergeseran strategis dalam ekosistem Microsoft.
+- **Sumber:** [Visual Studio Magazine](https://visualstudiomagazine.com/articles/2026/06/02/at-build-2026-microsoft-sets-up-windows-as-an-os-for-ai-agents.aspx)
+
+### 5. Landscape AI Agent Frameworks 2026: 120+ Tools
+- **Tanggal Rilis/Berita:** 2026
+- **Deskripsi:** Pemetaan komprehensif 120+ tools agentic AI yang dikategorikan dalam 11 kategori. Temuan utama: setiap major AI lab kini memiliki agent framework sendiri (Microsoft Agent Framework, Google ADK, OpenAI Agents SDK, dll).
+- **Sumber:** [StackOne Blog](https://www.stackone.com/blog/ai-agent-tools-landscape-2026/)
