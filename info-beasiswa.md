@@ -1,101 +1,111 @@
-# 🎓 REKOMENDASI BEASISWA (AKTIF)
+# Info Beasiswa S1 Luar Negeri - Oktober 2026 dan Seterusnya
 
-## 1. Beasiswa Kuliah UT dari Lomba Esai Nasional Universitas Terbuka (UT) 2026
-* Penyelenggara: Universitas Terbuka (UT)
-* Target Peserta: Siswa SMA/SMK/sederajat se-Indonesia (Individu atau tim maks 3 orang)
-* Tanggal Deadline: 31 Juli 2026
-* Status: Masih buka
-* Hadiah/Manfaat: Beasiswa kuliah di UT selama 8 semester bagi juara utama, plus hadiah uang pembinaan.
-* Link Resmi: https://lombaesai.ut.ac.id
+Berikut adalah informasi beasiswa S1 fully funded dan partially funded untuk kuliah di luar negeri (Singapura, Jerman, Amerika, Inggris, Australia, dll):
 
-Catatan: file ini dikembalikan dengan info beasiswa yang sebelumnya tersedia. Jika nanti cron menemukan beasiswa standalone terbaru, item baru akan ditambahkan, bukan mengganti item lama.
+1. Beasiswa Pelajar Penggerak Merah Putih 2026
+- **Negara/Penyelenggara:** Indonesia (Patriot Pelajar)
+- **Cakupan Beasiswa:** Penguatan karakter, beasiswa, sertifikat tingkat nasional
+- **Target:** Pelajar SMP MTS, SMA SMK Sederajat
+- **Deadline:** 11 Oktober 2026
+- **Link/Info resmi:** https://daftarbeasiswa.id/
 
----
+2. Beasiswa Pendidikan Yasbin 2026
+- **Negara/Penyelenggara:** Indonesia (Yasbin)
+- **Cakupan Beasiswa:** Pelatihan dan pengembangan diri, kursus bahasa Inggris, tempat tinggal, biaya makan bulanan
+- **Target:** Mahasiswa aktif program S1, Siswa Kelas 12 yang telah lulus dan Gap Year
+- **Deadline:** 2 Oktober 2026
+- **Link/Info resmi:** https://daftarbeasiswa.id/
 
-# Tambahan Beasiswa Universitas Internasional — 19 Juli 2026
+3. Beasiswa AEON 2026 untuk Mahasiswa S1
+- **Negara/Penyelenggara:** Indonesia (AEON 1% Foundation)
+- **Cakupan Beasiswa:** Bantuan finansial tunai sebesar USD 1.250
+- **Target:** Mahasiswa aktif program S1 (Semester 5 / Tahun ke-3)
+- **Deadline:** 2 Oktober 2026
+- **Link/Info resmi:** https://daftarbeasiswa.id/
 
-## 2. NUS International Undergraduate Scholarship (Singapura)
-* Penyelenggara: National University of Singapore (NUS)
-* Target Peserta: International students dari semua negara kecuali Singapura, pendaftar full-time undergraduate NUS
-* Tanggal Deadline: Mengikuti timeline admission NUS; shortlisted interview Januari–Juli
-* Status: Dibuka melalui aplikasi admission NUS / perlu cek intake terbaru
-* Hadiah/Manfaat: Beasiswa level universitas untuk mahasiswa internasional berprestasi; terkait MOE Tuition Grant dan kewajiban bond sesuai ketentuan Singapura.
-* Link Resmi: https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/nus-international-undergraduate-scholarship
+4. Beasiswa Reach Oxford 2026 - Kuliah S1 Gratis di Inggris Full
+- **Negara/Penyelenggara:** Inggris (University of Oxford)
+- **Cakupan Beasiswa:** Fully Funded - Pembebasan biaya kuliah S1 penuh, tunjangan biaya hidup, tiket pesawat pulang-pergi setiap tahun
+- **Target:** Pelajar dari negara berkembang (termasuk Indonesia) yang berprestasi namun terhalang finansial
+- **Deadline:** Pendaftaran via UCAS: 15 Oktober 2026, Pengajuan Beasiswa: 4 Februari 2026 (26 Januari 2027 untuk intake berikutnya)
+- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
 
-## 3. NTU ASEAN Undergraduate Scholarship (Singapura)
-* Penyelenggara: Nanyang Technological University (NTU Singapore)
-* Target Peserta: Warga negara ASEAN kecuali Singapura, termasuk Indonesia, untuk program S1 penuh waktu NTU
-* Tanggal Deadline: Sama dengan periode admission NTU sesuai kualifikasi
-* Status: Dibuka mengikuti admission undergraduate NTU / perlu cek intake terbaru
-* Hadiah/Manfaat: Full subsidised tuition fees setelah Tuition Grant, living allowance S$5.800/tahun, accommodation allowance S$3.000/tahun, computer allowance S$1.750.
-* Link Resmi: https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship
+5. Beasiswa Universität Hamburg Jerman untuk S1, S2
+- **Negara/Penyelenggara:** Jerman (Universität Hamburg)
+- **Cakupan Beasiswa:** Tunjangan hingga €992 (~Rp18,7 juta per bulan) dengan durasi awal 2 semester, dapat diperpanjang hingga maksimal 2 tahun
+- **Target:** Mahasiswa S1 dan S2
+- **Deadline:** 19 Oktober 2025 (untuk intake 2026)
+- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
 
-## 4. UQ International Excellence Scholarship 2026 (Australia)
-* Penyelenggara: The University of Queensland (UQ)
-* Target Peserta: International students yang mulai program coursework undergraduate/postgraduate relevan pada 2026
-* Tanggal Deadline: Otomatis dipertimbangkan setelah memenuhi syarat offer dan deposit; cek tanggal offer masing-masing intake
-* Status: Otomatis dipertimbangkan untuk eligible offer holders 2026
-* Hadiah/Manfaat: Potongan tuition fee 25% per tahun selama durasi program coursework relevan.
-* Link Resmi: https://scholarships.uq.edu.au/
+6. Beasiswa Chevening Pemerintah Inggris 2027-2028
+- **Negara/Penyelenggara:** Inggris (Pemerintah Inggris)
+- **Cakupan Beasiswa:** Fully Funded S2 - Biaya kuliah, tunjangan hidup bulanan, biaya perjalanan pp, tunjangan kedatangan, tunjangan kepulangan, biaya visa, bantuan dana perjalanan acara Chevening
+- **Target:** Lulusan S1 yang ingin melanjutkan S2 di Inggris
+- **Deadline:** 6 Oktober 2026
+- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
 
-## 5. Western Australian Premier’s University Scholarship 2026 (Australia)
-* Penyelenggara: Government of Western Australia + 5 universitas WA (Curtin, ECU, Murdoch, Notre Dame Fremantle, UWA)
-* Target Peserta: International students termasuk Indonesia, Malaysia, Singapore, UK, dan negara eligible lain; studi full-time di WA tahun 2026
-* Tanggal Deadline: Round Semester 2 2026: 3 Maret – 29 Mei 2026
-* Status: Arsip deadline 2026; pantau round berikutnya
-* Hadiah/Manfaat: Hingga 10 beasiswa per tahun senilai A$50.000, kontribusi biaya kuliah di universitas Western Australia.
-* Link Resmi: https://www.wa.gov.au/
+7. Beasiswa S1 di NUS Singapura 2026-2027 (Goh Keng Swee - GKS)
+- **Negara/Penyelenggara:** Singapura (National University of Singapore - NUS)
+- **Cakupan Beasiswa:** Fully Funded - 100% biaya kuliah bersubsidi, tunjangan hidup S$6.000/tahun, tunjangan komputer S$1.750 (sekali), allowance S$200, tunjangan akomodasi, dan tiket pesawat PP Indonesia–Singapura
+- **Target:** Lulusan SMA/Sederajat berprestasi
+- **Deadline:** 16 Februari 2026 (untuk intake 2026/2027)
+- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
 
-## 6. DAAD Scholarships Database / Study Scholarships (Jerman)
-* Penyelenggara: DAAD (German Academic Exchange Service)
-* Target Peserta: International students untuk studi di universitas Jerman; program tergantung jenjang dan bidang
-* Tanggal Deadline: Berbeda per program dan negara; cek database DAAD Indonesia/Jerman
-* Status: Program berjalan tahunan; perlu pilih program sesuai jenjang
-* Hadiah/Manfaat: Pembiayaan studi/riset di Jerman, tunjangan bulanan, asuransi, dan benefit lain tergantung skema.
-* Link Resmi: https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/
+8. Beasiswa S1 Kanada di University of Toronto 2027
+- **Negara/Penyelenggara:** Kanada (University of Toronto)
+- **Cakupan Beasiswa:** Fully Funded atau Partially Funded (tergantung program)
+- **Target:** Lulusan SMA/Sederajat
+- **Deadline:** 6 November 2026
+- **Link/Info resmi:** https://indbeasiswa.com/tag/its/
 
-## 7. Fulbright Foreign Student Program (Amerika Serikat)
-* Penyelenggara: Fulbright / AMINEF untuk Indonesia
-* Target Peserta: Warga negara Indonesia untuk studi graduate di Amerika Serikat
-* Tanggal Deadline: Umumnya mengikuti cycle tahunan AMINEF; cek deadline resmi terbaru
-* Status: Program tahunan; cek intake aktif di AMINEF
-* Hadiah/Manfaat: Beasiswa studi di universitas Amerika Serikat, termasuk tuition, living allowance, dan benefit sesuai skema Fulbright.
-* Link Resmi: https://www.aminef.or.id/grants-for-indonesians/fulbright-programs/
+9. Beasiswa MEXT Jepang 2027 (Undergraduate Program)
+- **Negara/Penyelenggara:** Jepang (Pemerintah Jepang)
+- **Cakupan Beasiswa:** Fully Funded - Biaya kuliah, tunjangan hidup bulanan, tiket pesawat PP, asuransi kesehatan
+- **Target:** Lulusan SMA/Sederajat
+- **Deadline:** Pendaftaran untuk intake 2027 diprediksi mulai Januari hingga Februari 2027, deadline 13 Februari (berdasarkan pola tahun sebelumnya)
+- **Link/Info resmi:** https://blog.kobieducation.com/beasiswa-fully-funded-s1-dari-negara-jepang-sampai-australia
 
-## 8. Warwick Undergraduate Global Excellence Scholarship 2026 (United Kingdom)
-* Penyelenggara: University of Warwick
-* Target Peserta: International fee-paying undergraduate applicants untuk entry Autumn 2026
-* Tanggal Deadline: Scholarship application 27 Februari 2026
-* Status: Arsip deadline 2026; pantau 2027 cycle
-* Hadiah/Manfaat: Beasiswa undergraduate global excellence untuk pelajar internasional berprestasi.
-* Link Resmi: https://warwick.ac.uk/study/scholarships-and-bursaries/warwick-global-excellence-scholarship-2026/
+10. Beasiswa Fast Retailing (Uniqlo) Jepang S1
+- **Negara/Penyelenggara:** Jepang (Fast Retailing / Uniqlo)
+- **Cakupan Beasiswa:** Fully Funded - Biaya kuliah penuh, tunjangan hidup, akomodasi
+- **Target:** Pelajar internasional berprestasi
+- **Deadline:** Periode pendaftaran biasanya dibuka antara Februari dan April 2027
+- **Link/Info resmi:** https://blog.kobieducation.com/beasiswa-fully-funded-s1-dari-negara-jepang-sampai-australia
 
-## 9. University of Exeter Undergraduate Scholarships 2026/27 for Malaysia (United Kingdom)
-* Penyelenggara: University of Exeter
-* Target Peserta: Warga negara Malaysia pemegang offer eligible undergraduate campus-based programme untuk September 2026
-* Tanggal Deadline: 30 Juni 2026
-* Status: Arsip deadline 2026; pantau 2027 cycle
-* Hadiah/Manfaat: £3.000 recurring tuition fee discount; bisa dikombinasikan dengan Exeter Excellence Scholarship sesuai ketentuan.
-* Link Resmi: https://www.exeter.ac.uk/study/funding/award/?id=5663
+11. Shanghai Government Scholarship (China)
+- **Negara/Penyelenggara:** China (Pemerintah Kota Shanghai)
+- **Cakupan Beasiswa:** Fully Funded - Didanai langsung oleh Pemkot Shanghai untuk pelajar internasional berprestasi
+- **Target:** Pelajar internasional (S1, S2, S3)
+- **Deadline:** Pendaftaran rata-rata mulai dibuka antara Februari dan April 2027
+- **Link/Info resmi:** https://blog.kobieducation.com/beasiswa-fully-funded-s1-dari-negara-jepang-sampai-australia
 
-## 10. Malaysia International Scholarship (MIS)
-* Penyelenggara: Ministry of Higher Education Malaysia
-* Target Peserta: International students berprestasi untuk studi postgraduate di Malaysia
-* Tanggal Deadline: Berbeda per tahun; cek portal resmi MIS
-* Status: Program tahunan; perlu cek intake aktif
-* Hadiah/Manfaat: Dukungan biaya studi di universitas Malaysia sesuai ketentuan MIS.
-* Link Resmi: https://biasiswa.mohe.gov.my/INTER/index.php
+12. K.C. Kuok Scholarship - Australia
+- **Negara/Penyelenggara:** Australia (K.C. Kuok Foundation)
+- **Cakupan Beasiswa:** Fully Funded untuk kuliah S1 di Australia
+- **Target:** Pelajar Asia berprestasi
+- **Deadline:** Cek website resmi untuk deadline terbaru
+- **Link/Info resmi:** https://blog.kobieducation.com/beasiswa-fully-funded-s1-dari-negara-jepang-sampai-australia
 
-### Tambahan Beasiswa Ditemukan via Web Search Terbaru
-
-2. Deakin University Scholarship in Australia 2027
+13. Deakin University Scholarship in Australia 2027
 - **Negara/Penyelenggara:** Australia (Deakin University)
 - **Cakupan Beasiswa:** Fully Funded
 - **Target:** Kuota Mahasiswa Internasional
+- **Deadline:** Informasi dibuka untuk pendaftaran batch internasional 2027
 - **Link/Info resmi:** https://dml.or.id/informasi-beasiswa-internasional-2027
 
-3. SIDS Scholarship in the Netherlands 
+14. SIDS Scholarship in the Netherlands
 - **Negara/Penyelenggara:** Belanda
 - **Cakupan Beasiswa:** Fully Funded
 - **Target:** Mahasiswa S1 Internasional Terpilih
+- **Deadline:** Cek website resmi untuk deadline terbaru
 - **Link/Info resmi:** https://dml.or.id/informasi-beasiswa-internasional-2027
+
+15. Beasiswa Brunei 2026-2027 (D3, S1, S2) Full Scholarship
+- **Negara/Penyelenggara:** Brunei Darussalam (Kementerian Pendidikan Brunei)
+- **Cakupan Beasiswa:** Fully Funded untuk jenjang D3, S1, dan S2
+- **Target:** Pelajar Indonesia berprestasi
+- **Deadline:** Cek website resmi Kedutaan Brunei di Indonesia
+- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
+
+---
+*Catatan: Untuk beasiswa luar negeri, pastikan kamu mempersiapkan dokumen (transkrip, IELTS/TOEFL, surat rekomendasi, esai) jauh-jauh hari. Deadline bisa berubah, jadi selalu cek website resmi!*
