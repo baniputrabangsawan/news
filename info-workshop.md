@@ -36,3 +36,19 @@ Berikut adalah informasi workshop dan webinar aktif yang berhasil ditemukan hari
 
 ---
 *Catatan: Selalu cek link resmi untuk informasi terbaru, perubahan jadwal, atau ketersediaan kuota pendaftaran. Pastikan mendaftar sebelum deadline!*
+
+5. The Invisible Work of UX: Bringing Clarity to AI Chaos
+- **Penyelenggara:** UXPA International
+- **Target peserta:** Pelajar, Mahasiswa, UX Designers Baru/Umum
+- **Lokasi:** Webinar (Zoom)
+- **Tanggal/Deadline:** 28 Oktober 2026 (Durasi 1 jam)
+- **Biaya:** Sebagian besar agenda komunitas ini bisa diikuti gratis melalui pendaftaran
+- **Link resmi:** https://uxpa.org/upcoming-webinars/
+
+6. AI for UX Design Informational Webinar
+- **Penyelenggara:** Designlab Admissions
+- **Target peserta:** Desainer / Produk UI UX
+- **Lokasi:** Webinar Online
+- **Tanggal/Deadline:** 6 Oktober 2026
+- **Biaya:** Tersedia jalur gratis (pendaftaran info sesi)
+- **Link resmi:** https://designlab.com/ui-ux-design-events-and-workshops
