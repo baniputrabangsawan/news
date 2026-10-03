@@ -85,3 +85,17 @@ Catatan: file ini dikembalikan dengan info beasiswa yang sebelumnya tersedia. Ji
 * Status: Program tahunan; perlu cek intake aktif
 * Hadiah/Manfaat: Dukungan biaya studi di universitas Malaysia sesuai ketentuan MIS.
 * Link Resmi: https://biasiswa.mohe.gov.my/INTER/index.php
+
+### Tambahan Beasiswa Ditemukan via Web Search Terbaru
+
+2. Deakin University Scholarship in Australia 2027
+- **Negara/Penyelenggara:** Australia (Deakin University)
+- **Cakupan Beasiswa:** Fully Funded
+- **Target:** Kuota Mahasiswa Internasional
+- **Link/Info resmi:** https://dml.or.id/informasi-beasiswa-internasional-2027
+
+3. SIDS Scholarship in the Netherlands 
+- **Negara/Penyelenggara:** Belanda
+- **Cakupan Beasiswa:** Fully Funded
+- **Target:** Mahasiswa S1 Internasional Terpilih
+- **Link/Info resmi:** https://dml.or.id/informasi-beasiswa-internasional-2027
