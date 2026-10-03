@@ -76,3 +76,21 @@ Berikut adalah informasi kompetisi (lomba) aktif yang berhasil ditemukan hari in
 - **Biaya:** Gratis (Fully Funded)
 - **Hadiah/manfaat:** Pendanaan penuh untuk inovasi pangan
 - **Link resmi:** https://luarkampus.id/events
+
+6. PITCH-IT 1.0 2026 - Lomba Business Plan
+- **Penyelenggara:** Fakultas Bisnis Universitas Katolik Widya Mandala Surabaya
+- **Target peserta:** Siswa SMA/SMK se-Indonesia
+- **Lokasi:** Online/Surabaya
+- **Deadline:** 27 Oktober 2026
+- **Biaya:** Perlu dicek ulang di link resmi
+- **Hadiah/manfaat:** Total Hadiah Tunai Rp6.000.000, medali, piala, beasiswa
+- **Link resmi:** https://www.kabarlomba.com/2026/09/lomba-business-plan-pitch-it-10-2026.html
+
+7. Lomba Fotografi Nasional 2026 Gratis
+- **Penyelenggara:** Balai Pelestarian Kebudayaan Jawa Timur
+- **Target peserta:** Kategori Umum / Pelajar (Gratis)
+- **Lokasi:** Foto dari wilayah Jawa Timur
+- **Deadline:** 5 Oktober 2026
+- **Biaya:** Gratis
+- **Hadiah/manfaat:** Total Hadiah Rp22,5 Juta untuk tiga pemenang plus juara favorit
+- **Link resmi:** https://www.kabarlomba.com/2026/09/lomba-fotografi-nasional-2026-gratis.html
