@@ -1,12 +1,12 @@
 # Info Beasiswa S1 Luar Negeri - Oktober 2026 dan Seterusnya
 
-Berikut adalah informasi beasiswa S1 fully funded dan partially funded untuk kuliah di luar negeri (Singapura, Jerman, Amerika, Inggris, Australia, dll):
+Berikut adalah informasi beasiswa S1 fully funded dan partially funded untuk kuliah di luar negeri (diurutkan berdasarkan deadline terdekat):
 
-1. Beasiswa Pelajar Penggerak Merah Putih 2026
-- **Negara/Penyelenggara:** Indonesia (Patriot Pelajar)
-- **Cakupan Beasiswa:** Penguatan karakter, beasiswa, sertifikat tingkat nasional
-- **Target:** Pelajar SMP MTS, SMA SMK Sederajat
-- **Deadline:** 11 Oktober 2026
+1. Beasiswa AEON 2026 untuk Mahasiswa S1
+- **Negara/Penyelenggara:** Indonesia (AEON 1% Foundation)
+- **Cakupan Beasiswa:** Bantuan finansial tunai sebesar USD 1.250
+- **Target:** Mahasiswa aktif program S1 (Semester 5 / Tahun ke-3)
+- **Deadline:** 2 Oktober 2026
 - **Link/Info resmi:** https://daftarbeasiswa.id/
 
 2. Beasiswa Pendidikan Yasbin 2026
@@ -16,53 +16,53 @@ Berikut adalah informasi beasiswa S1 fully funded dan partially funded untuk kul
 - **Deadline:** 2 Oktober 2026
 - **Link/Info resmi:** https://daftarbeasiswa.id/
 
-3. Beasiswa AEON 2026 untuk Mahasiswa S1
-- **Negara/Penyelenggara:** Indonesia (AEON 1% Foundation)
-- **Cakupan Beasiswa:** Bantuan finansial tunai sebesar USD 1.250
-- **Target:** Mahasiswa aktif program S1 (Semester 5 / Tahun ke-3)
-- **Deadline:** 2 Oktober 2026
-- **Link/Info resmi:** https://daftarbeasiswa.id/
-
-4. Beasiswa Reach Oxford 2026 - Kuliah S1 Gratis di Inggris Full
-- **Negara/Penyelenggara:** Inggris (University of Oxford)
-- **Cakupan Beasiswa:** Fully Funded - Pembebasan biaya kuliah S1 penuh, tunjangan biaya hidup, tiket pesawat pulang-pergi setiap tahun
-- **Target:** Pelajar dari negara berkembang (termasuk Indonesia) yang berprestasi namun terhalang finansial
-- **Deadline:** Pendaftaran via UCAS: 15 Oktober 2026, Pengajuan Beasiswa: 4 Februari 2026 (26 Januari 2027 untuk intake berikutnya)
-- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
-
-5. Beasiswa Universität Hamburg Jerman untuk S1, S2
-- **Negara/Penyelenggara:** Jerman (Universität Hamburg)
-- **Cakupan Beasiswa:** Tunjangan hingga €992 (~Rp18,7 juta per bulan) dengan durasi awal 2 semester, dapat diperpanjang hingga maksimal 2 tahun
-- **Target:** Mahasiswa S1 dan S2
-- **Deadline:** 19 Oktober 2025 (untuk intake 2026)
-- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
-
-6. Beasiswa Chevening Pemerintah Inggris 2027-2028
+3. Beasiswa Chevening Pemerintah Inggris 2027-2028
 - **Negara/Penyelenggara:** Inggris (Pemerintah Inggris)
 - **Cakupan Beasiswa:** Fully Funded S2 - Biaya kuliah, tunjangan hidup bulanan, biaya perjalanan pp, tunjangan kedatangan, tunjangan kepulangan, biaya visa, bantuan dana perjalanan acara Chevening
 - **Target:** Lulusan S1 yang ingin melanjutkan S2 di Inggris
 - **Deadline:** 6 Oktober 2026
 - **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
 
-7. Beasiswa S1 di NUS Singapura 2026-2027 (Goh Keng Swee - GKS)
-- **Negara/Penyelenggara:** Singapura (National University of Singapore - NUS)
-- **Cakupan Beasiswa:** Fully Funded - 100% biaya kuliah bersubsidi, tunjangan hidup S$6.000/tahun, tunjangan komputer S$1.750 (sekali), allowance S$200, tunjangan akomodasi, dan tiket pesawat PP Indonesia–Singapura
-- **Target:** Lulusan SMA/Sederajat berprestasi
-- **Deadline:** 16 Februari 2026 (untuk intake 2026/2027)
+4. Beasiswa Pelajar Penggerak Merah Putih 2026
+- **Negara/Penyelenggara:** Indonesia (Patriot Pelajar)
+- **Cakupan Beasiswa:** Penguatan karakter, beasiswa, sertifikat tingkat nasional
+- **Target:** Pelajar SMP MTS, SMA SMK Sederajat
+- **Deadline:** 11 Oktober 2026
+- **Link/Info resmi:** https://daftarbeasiswa.id/
+
+5. Beasiswa Reach Oxford 2026 - Kuliah S1 Gratis di Inggris Full
+- **Negara/Penyelenggara:** Inggris (University of Oxford)
+- **Cakupan Beasiswa:** Fully Funded - Pembebasan biaya kuliah S1 penuh, tunjangan biaya hidup, tiket pesawat pulang-pergi setiap tahun
+- **Target:** Pelajar dari negara berkembang (termasuk Indonesia) yang berprestasi namun terhalang finansial
+- **Deadline:** Pendaftaran via UCAS: 15 Oktober 2026, Pengajuan Beasiswa: 26 Januari 2027
 - **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
 
-8. Beasiswa S1 Kanada di University of Toronto 2027
+6. Beasiswa Universität Hamburg Jerman untuk S1, S2
+- **Negara/Penyelenggara:** Jerman (Universität Hamburg)
+- **Cakupan Beasiswa:** Tunjangan hingga €992 (~Rp18,7 juta per bulan) dengan durasi awal 2 semester, dapat diperpanjang hingga maksimal 2 tahun
+- **Target:** Mahasiswa S1 dan S2
+- **Deadline:** 19 Oktober 2025 (untuk intake 2026)
+- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
+
+7. Beasiswa S1 Kanada di University of Toronto 2027
 - **Negara/Penyelenggara:** Kanada (University of Toronto)
 - **Cakupan Beasiswa:** Fully Funded atau Partially Funded (tergantung program)
 - **Target:** Lulusan SMA/Sederajat
 - **Deadline:** 6 November 2026
 - **Link/Info resmi:** https://indbeasiswa.com/tag/its/
 
+8. Beasiswa S1 di NUS Singapura 2026-2027 (Goh Keng Swee - GKS)
+- **Negara/Penyelenggara:** Singapura (National University of Singapore - NUS)
+- **Cakupan Beasiswa:** Fully Funded - 100% biaya kuliah bersubsidi, tunjangan hidup S$6.000/tahun, tunjangan komputer S$1.750 (sekali), allowance S$200, tunjangan akomodasi, dan tiket pesawat PP Indonesia–Singapura
+- **Target:** Lulusan SMA/Sederajat berprestasi
+- **Deadline:** 16 Februari 2026 (untuk intake 2026/2027)
+- **Link/Info resmi:** https://www.beasiswapascasarjana.com/2017/06/pendaftaran-beasiswa.html
+
 9. Beasiswa MEXT Jepang 2027 (Undergraduate Program)
 - **Negara/Penyelenggara:** Jepang (Pemerintah Jepang)
 - **Cakupan Beasiswa:** Fully Funded - Biaya kuliah, tunjangan hidup bulanan, tiket pesawat PP, asuransi kesehatan
 - **Target:** Lulusan SMA/Sederajat
-- **Deadline:** Pendaftaran untuk intake 2027 diprediksi mulai Januari hingga Februari 2027, deadline 13 Februari (berdasarkan pola tahun sebelumnya)
+- **Deadline:** Pendaftaran untuk intake 2027 diprediksi mulai Januari hingga Februari 2027, deadline 13 Februari
 - **Link/Info resmi:** https://blog.kobieducation.com/beasiswa-fully-funded-s1-dari-negara-jepang-sampai-australia
 
 10. Beasiswa Fast Retailing (Uniqlo) Jepang S1
