@@ -1,150 +1,155 @@
-# 📰 Info Terkini: Tools, AI Agent & Design
-**Update: 3 Oktober 2026**
+# Info Tech, AI Agent & Design Terbaru - Oktober 2026
+
+Berikut adalah informasi terkini seputar teknologi, AI agent, dan design untuk bulan Oktober 2026 (diurutkan berdasarkan tanggal rilis/pengumuman):
+
+1. Shopify Canvas: AI Agent untuk Desain Toko Online
+- **Penyelenggara/Developer:** Shopify
+- **Kategori:** AI Agent, E-commerce Design, No-Code Builder
+- **Tanggal Rilis:** 1 Oktober 2026
+- **Deskripsi:** Canvas adalah design surface baru di Shopify yang memungkinkan siapapun (tanpa pengalaman coding) membuat toko online custom dengan bantuan Sidekick AI agent. Kamu bisa lihat semua halaman toko secara bersamaan, zoom in untuk detail, dan Sidekick akan mengubah ide menjadi real code secara real-time.
+- **Keunggulan:** Membuat toko custom dalam 20 menit (yang dulu butuh 2 minggu), collaborative workspace, preview interaktif, dan menghasilkan kode tema berkualitas tinggi.
+- **Link resmi:** https://www.shopify.com/news/introducing-canvas
+
+2. Salesforce Design Intelligence & Experience OS (XOS)
+- **Penyelenggara/Developer:** Salesforce
+- **Kategori:** AI Coding Agent, Product Design System, Design-to-Code Pipeline
+- **Tanggal Rilis:** 1 Oktober 2026
+- **Deskripsi:** Salesforce meluncurkan Design Intelligence (layer pengetahuan design system) dan XOS (pipeline end-to-end dari ide hingga production-ready design). Sistem ini mengajarkan AI coding agent bagaimana membuat keputusan desain yang baik dengan skills, linters, dan evaluation.
+- **Keunggulan:** AI menghasilkan 10 varian desain secara paralel, built-in accessibility checks (WCAG 2.2 AA), testing otomatis, dan integrasi penuh dengan research data pelanggan.
+- **Link resmi:** https://www.salesforce.com/blog/coding-agents-product-design/
+
+3. JetBrains Air: Agentic Development in IDEs (EAP Launch)
+- **Penyelenggara/Developer:** JetBrains
+- **Kategori:** AI Agent, IDE, Developer Tools
+- **Tanggal Rilis:** Oktober 2026 (Early Access Program)
+- **Deskripsi:** JetBrains Air adalah sistem terbuka untuk agentic development yang terintegrasi langsung di JetBrains IDEs. Air dirancang untuk menjalankan multiple agents secara paralel (Codex, GitHub Copilot, Junie, Cursor, Claude) dengan session management, cost tracking, dan review tools.
+- **Keunggulan:** Multi-agent orchestration, agent-agnostic (bisa pakai subscription apapun), session-based workflow, cloud runs untuk long-running tasks, dan free Junie Lite untuk everyday tasks.
+- **Link resmi:** https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/
+
+4. Design Trends October 2026: AI-Powered Design Systems untuk Startup
+- **Penyelenggara/Developer:** Mean CEO (Industry Analysis)
+- **Kategori:** Design Trends, AI Design Tools, Startup Best Practices
+- **Tanggal Publikasi:** Oktober 2026
+- **Deskripsi:** Analisis tren design Oktober 2026 menunjukkan bahwa non-designer sekarang bisa membuat landing page, product flows, dan responsive front-end berkualitas dalam hitungan jam (bukan minggu) menggunakan AI tools seperti Claude Code dan Codex dengan panduan `design.md`.
+- **Keunggulan:** `design.md` sebagai design operating manual, reusable skill files (SKILL.md), code-first mockups, browser testing automation, dan prompt writing sebagai design skill baru.
+- **Link resmi:** https://blog.mean.ceo/design-trends-october-2026/
+
+5. Whiteboard: From Whiteboard to Code with AI-Native IDE
+- **Penyelenggara/Developer:** AI Indigo / Whiteboard
+- **Kategori:** AI-Native IDE, Visual Programming, System Architecture Design
+- **Tanggal Publikasi:** 2 Oktober 2026
+- **Deskripsi:** Whiteboard adalah AI-native IDE yang memperlakukan visual design dan executable code sebagai satu kesatuan. Kamu bisa menggambar komponen sistem (seperti Payment Gateway, User Profile), dan IDE akan otomatis generate TypeScript interfaces, API endpoints, dan infrastructure-as-code.
+- **Keunggulan:** Visual-to-code synchronization, AI refactoring otomatis, state mapper untuk visualisasi data flow, dan integrasi cloud provider (Terraform/Pulumi generation).
+- **Harga:** Free (Community), $29/bulan (Professional), Custom (Enterprise)
+- **Link resmi:** https://aiindigo.com/blog/from-whiteboard-to-code-how-ai-native-ides-are-changing-software-design-architec
+
+6. 2026 Digital Design Trends: The Copilot Era
+- **Penyelenggara/Developer:** Raffles Indonesia, Tubik Studio, Envato (Industry Analysis)
+- **Kategori:** UI/UX Design Trends, AI as Copilot, Purposeful Motion
+- **Tanggal Publikasi:** 2026
+- **Deskripsi:** Tahun 2026 menandai era "AI as Copilot" (bukan autopilot) dalam interface design. Tren utama: adaptive & generative interfaces, multimodal interaction (voice, gesture, spatial), accessibility-first design (WCAG built-in), purposeful motion (animasi yang communicate state, bukan dekorasi), dan calm interfaces.
+- **Keunggulan:** AI agent hadir sebagai extension of thinking (di sidebar, collapsible panel), bukan menggantikan user. 40% enterprise apps diprediksi punya task-specific AI agents di akhir 2026 (Gartner).
+- **Link resmi:** https://raffles-indonesia.com/post/what-2026-digital-design-trends-demand-and-the-benefits-of-an-international-digital-media-design-ed
+
+7. UI/UX Design Indonesia: Mobile-First Digital Experience
+- **Penyelenggara/Developer:** Seraphim Design Agency
+- **Kategori:** UI/UX Best Practices, Mobile-First Design, Indonesia Market
+- **Tanggal Publikasi:** 2026
+- **Deskripsi:** Panduan lengkap untuk mendesain digital experience kelas dunia untuk 200M+ pengguna mobile Indonesia. Mencakup super-app UX patterns, financial inclusion design, Bahasa Indonesia localization, low-bandwidth optimization, dan Islamic fintech interfaces.
+- **Keunggulan:** Viewport target 360x800px (Android dominant 91%), thumb-zone optimization, performance as UX feature (target Samsung Galaxy A14 2GB RAM), offline-first architecture, dan progressive image loading untuk koneksi 2G-3G.
+- **Link resmi:** https://seraphim.vn/pages/ui-ux-design-indonesia.html
+
+8. Tencent Cloud AI Agent Suite di Indonesia: WorkBuddy & Miora
+- **Penyelenggara/Developer:** Tencent Cloud
+- **Kategori:** AI Agent, Workplace Productivity, Creative Studio
+- **Tanggal Rilis:** 15 Juli 2026 (AI Executive Day Jakarta)
+- **Deskripsi:** Tencent Cloud meluncurkan WorkBuddy (agentic AI workspace productivity) dan Miora (AI-native creative studio) untuk pasar Indonesia. WorkBuddy mengubah satu instruksi menjadi deliverable lengkap (market research, data analysis, data viz), sedangkan Miora menjaga konsistensi visual brand dan campaign.
+- **Keunggulan:** WorkBuddy punya 8.85 juta MAU di China dalam bulan pertama, integrate dengan Discord/Slack/Telegram, dan drawing on specialized "Experts" (finance, law, marketing). Miora generate production-ready asset pack (graphics, video, 3D, UI) dari single natural-language brief.
+- **Link resmi:** https://www.tencentcloud.com/dynamic/news-details/101383
+
+9. Salesforce Agentforce & Hyperforce di Indonesia
+- **Penyelenggara/Developer:** Salesforce
+- **Kategori:** AI Agent Platform, Data Cloud, Local Data Residency
+- **Tanggal Rilis:** 16 Juli 2025 (Expanded to Indonesia)
+- **Deskripsi:** Salesforce memperluas platform Hyperforce di Indonesia dengan layanan baru: Data Cloud, Agentforce, Tableau Next, dan Marketing Cloud Next. Semua data disimpan lokal di Indonesia untuk compliance dengan PDPL (Personal Data Protection Law).
+- **Keunggulan:** Local data residency (compliance ketat), Agentforce untuk automasi enterprise, dan potensi AI opportunity $366 miliar untuk Indonesia.
+- **Link resmi:** https://www.techinasia.com/news/salesforce-launches-ai-agent-platform-local-data-indonesia
+
+10. AI2 Design: Agent-Native Design System & React Component Library
+- **Penyelenggara/Developer:** AI2 Design
+- **Kategori:** Design System, React Components, Open Source
+- **Tanggal Founded:** 2026
+- **Deskripsi:** AI2 Design adalah design system dan React component library yang dirancang khusus untuk AI agents. Komponen open-source, shadcn-compatible, dengan extensive variant/tone/size matrices. Metadata terstruktur agar readable oleh AI models, enabling automated discovery dan integration via compatible server protocols.
+- **Keunggulan:** Single token source untuk manage themes (light/dark mode), direct installation ke local repo (users own the code), design token extraction, site inspiration library, dan theme generation tools.
+- **Link resmi:** https://platform.tracxn.com/a/d/company/59051c94e4b0489ab6c89f71/ai2%20design
+
+11. Lucky77 Indonesia: Next-Generation Interface Redesign
+- **Penyelenggara/Developer:** Lucky77 (Digital Platform Indonesia)
+- **Kategori:** Interface Design, Visual Hierarchy, Accessibility
+- **Tanggal Rilis:** 14 September 2026
+- **Deskripsi:** Lucky77 meluncurkan redesign interface generasi baru di Indonesia yang fokus pada clarity, ease of use, dan accessibility. Menata ulang navigation (visual hierarchy, grouped menus), responsive layouts cross-device, dan stronger contrast untuk screen-reader compatibility.
+- **Keunggulan:** Mengurangi cognitive load, navigation yang lebih intuitif, dan mobile-first design untuk pasar Indonesia yang dominan mobile.
+- **Link resmi:** https://signalnewsbirmingham.com/press-releases/48685/lucky77-reshapes-its-digital-experience-across-indonesia-with-a-next-generation-interface
+
+12. Indonesia's $90B Digital Economy & Mobile-First UX Landscape
+- **Penyelenggara/Developer:** Industry Report (Southeast Asia Digital Economy)
+- **Kategori:** Market Insights, Mobile UX, Digital Economy Indonesia
+- **Tanggal Publikasi:** 2026
+- **Deskripsi:** Ekonomi digital Indonesia mencapai $90 miliar dan diproyeksikan $130 miliar di 2028. Dengan 278 juta penduduk dan 200M+ pengguna smartphone (91% Android), Indonesia adalah tantangan UX paling kompleks dan rewarding di Asia Tenggara. Mobile-first revolution mendorong super-apps (Gojek, Grab) dan fintech inclusion design.
+- **Keunggulan:** Insights tentang Android device landscape (Samsung A, Xiaomi Redmi dominant), 2-4GB RAM optimization, thumb-zone UX, performance budgets, dan offline-first architecture untuk konektivitas urban-rural divide (Jakarta 25+ Mbps vs Papua 3-5 Mbps).
+- **Link resmi:** https://seraphim.vn/pages/ui-ux-design-indonesia.html
+
+13. Meta Muse: Personal AI Agent Built for Everyone
+- **Penyelenggara/Developer:** Meta (Facebook)
+- **Kategori:** Personal AI Agent, Always-On Assistant, Cross-Platform
+- **Tanggal Rilis:** 8 September 2026 (US Launch), Early Access di Connect 2026
+- **Deskripsi:** Muse adalah personal AI agent dari Meta yang berjalan di seluruh aplikasi Meta (WhatsApp, Instagram, Facebook, Messenger), Meta glasses, dan versi business. Muse bekerja proaktif untuk membantu user mencapai goals dan memberikan saran ide secara otomatis.
+- **Keunggulan:** Always-on agent dengan customizable avatar, integrasi 15+ business connectors (Shopify, QuickBooks), dan bisa beroperasi di latar belakang tanpa perlu prompt terus-menerus. User bisa assign task dan Muse terus bekerja untuk menyelesaikannya.
+- **Harga:** Free tier untuk consumers, paid tier untuk small businesses
+- **Link resmi:** https://ai.meta.com/muse/
+
+14. OpenAI Dots: Always-On AI Agents Across 4,000+ Apps
+- **Penyelenggara/Developer:** OpenAI
+- **Kategori:** AI Agent, Always-On Assistant, Multi-App Integration
+- **Tanggal Rilis:** 29 September 2026 (DevDay San Francisco)
+- **Deskripsi:** Dots adalah AI agent yang bisa bekerja 24/7 dengan cloud computer dan browser sendiri, ditenagai GPT-6 Astra. Dots bisa connect ke 4,000+ apps melalui plugins, menerima instruksi via ChatGPT, Slack, Teams, atau telepon, dan terus bekerja bahkan saat device kamu mati.
+- **Keunggulan:** Persistent agents yang learn dari feedback, activity view untuk tracking progress, read-only background research (safety), custom approval rules, dan ChatGPT Space untuk kolaborasi multiplayer. Bisa handle tasks seperti monitor customer feedback, prepare software fixes, update research data.
+- **Harga:** Included di ChatGPT Pro ($20/bln) dan Business Premium (tanpa extra charge). Pro 500 plan ($500/bln) untuk Ultrafast mode (300 tokens/sec) dan 25x usage limit.
+- **Link resmi:** https://openai.com/ (DevDay announcement)
+
+15. Limitless AI Pendant: Diakuisisi Meta (Status Update 2026)
+- **Penyelenggara/Developer:** Limitless AI (acquired by Meta, December 2025)
+- **Kategori:** AI Wearable, Memory Assistant, Conversation Recording
+- **Tanggal Akuisisi:** Desember 2025 (announcement), Support hingga 2026
+- **Deskripsi:** Limitless (dulu Rewind AI) adalah AI wearable pendant yang merekam percakapan in-person, transcribe meetings, dan enable on-demand recall. Meta mengakuisisi Limitless untuk memperkuat visi AI-enabled wearables dan personal superintelligence.
+- **Status Terkini:** Penjualan Pendant baru dihentikan per 5 Desember 2025. Existing users tetap supported sepanjang 2026 dengan Unlimited Plan gratis. Rewind app (screen/audio capture) di-sunset per 19 Desember 2025. Service ditarik dari EU, UK, Brazil, China, Israel, South Korea, Turkey.
+- **Keunggulan (Historical):** Searchable conversation memory, transcription & summarization otomatis, API untuk lifelogs & retrieval, dan Model Context Protocol (MCP) support untuk ChatGPT/Claude integration.
+- **Link resmi:** https://www.limitless.ai/
+
+16. ChatGPT Pro 500 Plan: Ultrafast Mode & 25x Usage Limit
+- **Penyelenggara/Developer:** OpenAI
+- **Kategori:** AI Subscription Tier, Developer Tools, High-Performance Computing
+- **Tanggal Rilis:** 29 September 2026 (DevDay)
+- **Deskripsi:** OpenAI meluncurkan tier Pro 500 ($500/bulan) untuk power users dan developers yang butuh speed dan usage tinggi. Termasuk Ultrafast mode yang bisa generate hingga 300 tokens/detik (8x lebih cepat di Codex, 6x di API).
+- **Keunggulan:** Usage limit 25x ChatGPT Plus, exclusive Ultrafast mode, akses ke Dots tanpa extra charge, dan support untuk ChatGPT Space (multiplayer workspace).
+- **Catatan:** Dots tetap included di plan ChatGPT Pro reguler ($20/bln), jadi Pro 500 adalah untuk speed & usage, bukan untuk akses Dots.
+- **Link resmi:** https://openai.com/chatgpt/pricing
+
+17. GPT-6.1 Sol: Near GPT-6 Astra Performance at 1/5th Cost
+- **Penyelenggara/Developer:** OpenAI
+- **Kategori:** Large Language Model, Cost-Efficient AI
+- **Tanggal Rilis:** September 2026 (DevDay)
+- **Deskripsi:** GPT-6.1 Sol adalah model baru dari OpenAI yang deliver performance mendekati GPT-6 Astra pada coding dan professional tasks, tapi dengan harga API input/output token 1/5 dari Astra. Dirilis bersamaan dengan announcement bahwa GPT-6.1 Astra ditunda (safety concerns).
+- **Keunggulan:** Cost efficiency signifikan untuk production use cases, cocok untuk tasks yang butuh reasoning tinggi tapi dengan budget terbatas.
+- **Link resmi:** https://platform.openai.com/docs/models
+
+18. ChatGPT Space: Multiplayer Workspace untuk AI Collaboration
+- **Penyelenggara/Developer:** OpenAI
+- **Kategori:** Collaboration Tool, Shared Workspace, Multi-User AI
+- **Tanggal Rilis:** 29 September 2026 (DevDay)
+- **Deskripsi:** ChatGPT Space adalah workspace multiplayer di mana user bisa invite teman DAN AI agents (termasuk Dots) ke dalam shared environment untuk collaborate on tasks secara real-time. Mirip Google Docs tapi untuk AI-powered work.
+- **Keunggulan:** Real-time collaboration dengan human + AI agents, shared context untuk team projects, dan seamless integration dengan Dots untuk background work.
+- **Link resmi:** https://openai.com/chatgpt/space
 
 ---
-
-## 🛠️ TOOLS TERKINI
-
-### **1. Claude Code & Cursor - AI Coding Agents**
-AI coding agents yang mengubah cara developer bekerja. Claude Code berjalan di terminal dengan context-aware autocomplete dan agentic refactors, sementara Cursor menawarkan repo-aware chat untuk multi-file changes dan PR reviews.
-
-🔗 [Claude Code](https://www.anthropic.com) | [Cursor](https://cursor.sh)
-
-### **2. VS Code 1.129 - Agent Host Process**
-Rilis VS Code Juli 2026 membawa perubahan struktural besar: agent sessions kini berjalan di dedicated agent host process, terpisah dari editor utama. Ini meningkatkan stabilitas dan performa.
-
-🔗 [VS Code Updates](https://code.visualstudio.com)
-
-### **3. Vercel v0 - Prompt-to-UI untuk Engineers**
-v0 by Vercel menghasilkan React components dengan Tailwind dan shadcn/ui. Fitur Design Mode memungkinkan tweak visual setelah generation, plus one-click deploy ke Vercel.
-
-🔗 [Vercel v0](https://v0.dev)
-
-### **4. GitHub Code Quality - Berbayar Mulai Juli 2026**
-GitHub Code Quality menjadi produk berbayar $10/active committer/bulan mulai 20 Juli 2026. Check active committer count sebelum billing dimulai.
-
-🔗 [GitHub Enterprise](https://github.com/enterprise)
-
-### **5. DevZero - Cloud Development Environments**
-DevZero menyediakan cloud dev environments berbasis MicroVMs yang mirror production configurations. Setiap developer bekerja di setup yang identik dan reproducible.
-
-🔗 [DevZero](https://devzero.io)
-
-### **6. Daytona - Open Source Dev Environment**
-Platform open-source untuk standardized development environments dengan produktivitas tinggi.
-
-🔗 [Daytona](https://www.daytona.io)
-
-### **7. Superset - Run 100s of Coding Agents Parallel**
-Tool terminal dan AI code editor yang memungkinkan menjalankan ratusan coding agents secara paralel. Diluncurkan Februari 2026 dan langsung ranked #1.
-
-🔗 [Superset](https://www.producthunt.com)
-
----
-
-## 🤖 AI AGENT & TECH
-
-### **1. LangGraph, CrewAI & Microsoft Agent Framework**
-Framework AI agent terbaik 2026 untuk production teams. LangGraph untuk modular workflows, CrewAI untuk multi-agent collaboration, dan Microsoft Agent Framework untuk enterprise integration.
-
-🔗 [LangChain Resources](https://www.langchain.com/resources/ai-agent-frameworks)
-
-### **2. Claude Opus 5.5 & Sonnet 5.5**
-Anthropic merilis Claude Opus 5.5 (22 Sept) untuk sustained complex work dan Sonnet 5.5 (28 Sept) untuk clearly scoped tasks. Sonnet cocok untuk component work dan bug fixes, Opus untuk migrations dan large codebase analysis.
-
-🔗 [Anthropic](https://www.anthropic.com)
-
-### **3. Kimi K2.7 Code di GitHub Copilot**
-Model open-weight pertama yang tersedia di GitHub Copilot's model picker. Memberikan alternatif meaningful untuk proprietary models.
-
-🔗 [GitHub Copilot](https://github.com/features/copilot)
-
-### **4. OpenAI Codex 3.0**
-Update terbaru OpenAI Codex untuk AI coding dengan improved code review tools dan API integration.
-
-🔗 [OpenAI Platform](https://platform.openai.com)
-
-### **5. Agentic AI Framework Trends 2026**
-Top 10 agentic AI frameworks: LangChain, CrewAI, Microsoft Agent Framework, LlamaIndex Workflows, Google ADK, OpenAI Agents SDK, Mastra, dan framework emerging lainnya dengan focus pada modularity dan reusability.
-
-🔗 [Instaclustr Report](https://www.instaclustr.com/education/agentic-ai/)
-
-### **6. AI Agent Tools Landscape - 120+ Tools**
-Landscape AI agent tools 2026 mencakup 120+ tools di 11 kategori berbeda. Konsolidasi accelerates dan top-category tools menghadapi tantangan dari newcomers.
-
-🔗 [StackOne Landscape](https://www.stackone.com/blog/ai-agent-tools-landscape-2026/)
-
-### **7. MCP (Model Context Protocol)**
-Protocol standar untuk connecting AI agents dengan tools dan data. WordPress Playground kini support MCP dengan playground_ability meta-tool untuk agent-driven development workflows.
-
-🔗 [Anthropic MCP](https://www.anthropic.com/news/model-context-protocol)
-
----
-
-## 🎨 DESIGN & UI/UX
-
-### **1. Figma Make & AI Features 2026**
-Figma Make menggunakan Gemini untuk prompt-to-UI dengan real component library. Bundled dalam Professional tier dengan credit-metered seats. Fitur: AI drafts, Variables 2.0 multi-mode theming, dan Agent Skills.
-
-🔗 [Figma](https://www.figma.com)
-
-### **2. Google Stitch (formerly Galileo AI)**
-Google acquired Galileo AI dan rebuild sebagai Stitch dengan Gemini 2.5 Pro. Free tool untuk concepting dengan real-time streaming design agent dan multiplayer editing. 350 standard generations/month gratis.
-
-🔗 [Google Stitch](https://labs.google/stitch)
-
-### **3. Figma Motion - Animation in Design System**
-Launched 24 Juni, Figma Motion membawa timelines, keyframes, dan easing ke design system. Update September 30 menambahkan reusable animation styles dan Lottie/dotLottie export.
-
-🔗 [Figma Motion](https://www.figma.com/motion)
-
-### **4. Claude Design - Visual Exploration**
-Launched 17 April sebagai research preview. Support visual exploration, interactive prototypes, incorporate design system, dan prepare handoff bundle untuk Claude Code.
-
-🔗 [Claude Design](https://www.anthropic.com)
-
-### **5. UX Pilot - Full Flows + AI Critique**
-Multi-screen flow generation dengan built-in AI review yang flags usability dan accessibility issues. Credit system: Free (45 credits), Standard (~$14/mo), Pro dengan 200-screen allowance.
-
-🔗 [UX Pilot](https://uxpilot.ai)
-
-### **6. Lovable - Prompt-to-App**
-Shipping full working app dengan built-in backend dan hosting. Bukan hanya screens, tapi functional product. Free tier available, Pro $25/mo (annual).
-
-🔗 [Lovable](https://lovable.ai)
-
-### **7. Framer AI - AI Site Generator**
-Prompt-to-website generation dengan responsive output, native CMS, localization support, dan one-click publish ke global edge network. Best untuk marketing sites dan landing pages.
-
-🔗 [Framer](https://www.framer.com)
-
-### **8. Penpot 3.0 - Open Source Design Tool**
-Open-source alternative untuk Figma dengan native CSS Grid/Flexbox, two-way code sync untuk design tokens, dan self-hosted GDPR-friendly option.
-
-🔗 [Penpot](https://penpot.app)
-
-### **9. AI Design Trends 2026**
-**8 Biggest Trends:**
-- AI-native design systems
-- Prompt-to-prototype workflows
-- Agentic UX research
-- Vibe coding for designers
-- Real-time personalized interfaces
-- AI accessibility audits
-- Tool consolidation
-- Widening AI-skills gap
-
-🔗 [Orbix Studio Report](https://orbix.studio/blogs/ai-is-changing-design)
-
-### **10. Design Statistics 2026**
-- 72% designers menggunakan generative AI tools (Figma State of Designer 2026)
-- 35% faster prototyping dengan AI tools
-- Weekly AI usage untuk design tasks naik dari 54% (2025) ke 91% (2026)
-- 75% designers menggunakan AI daily
-- ChatGPT dominan di 83.5% usage, Figma Make naik ke ~70% dalam setahun
-
-🔗 [AI in Design Report 2026](https://designerfund.com)
-
----
-
-**Sumber:** Web research dari berbagai platform tech & design terkemuka (Oktober 2026)
+*Catatan: Pastikan selalu cek link resmi untuk update terbaru dan case study lengkap. Banyak tools AI design dan agent sedang dalam fase Early Access atau Beta, jadi fitur bisa berkembang cepat! Status Limitless/Rewind adalah historical karena akuisisi Meta dan sunset Rewind app.*
