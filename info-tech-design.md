@@ -151,5 +151,53 @@ Berikut adalah informasi terkini seputar teknologi, AI agent, dan design untuk b
 - **Keunggulan:** Real-time collaboration dengan human + AI agents, shared context untuk team projects, dan seamless integration dengan Dots untuk background work.
 - **Link resmi:** https://openai.com/chatgpt/space
 
+19. Claude Code Mods: Extensibility Middleware & Function Hooks
+- **Penyelenggara/Developer:** Anthropic
+- **Kategori:** AI Coding Agent, Developer Tools, Extensibility
+- **Tanggal Rilis:** 1 Oktober 2026
+- **Deskripsi:** Anthropic merilis Claude Code v2.1.287 dengan fitur Mods — fungsi TypeScript/JavaScript berbasis event yang terhubung langsung ke pipeline eksekusi internal agent untuk mengubah perilaku, mengintersep tool calls, dan merender custom UI.
+- **Keunggulan:** Middleware arsitektur bergaya Express, custom terminal UI/panels, custom tool interceptors, dan ekosistem plugin marketplace via git.
+- **Link resmi:** https://dev.to/max_quimby/claude-code-mods-just-turned-agents-into-a-platform-5gc0
+
+20. Pi Coding Agent 1.0 & Pi Durable
+- **Penyelenggara/Developer:** Earendil / Invide Labs
+- **Kategori:** Open-Source AI Agent Harness, Local LLM
+- **Tanggal Rilis:** 1 Oktober 2026
+- **Deskripsi:** Rilis stabil Pi 1.0 menghadirkan agent harness mandiri dengan integrasi Model Context Protocol (MCP) bawaan lewat Codemode, dukungan eksekusi script JavaScript QuickJS terisolasi, serta framework Pi Durable untuk session recovery.
+- **Keunggulan:** Penghematan token prompt hingga 40%, eksekusi tool multi-step di dalam sandbox, integrasi mulus dengan Ollama dan llama.cpp lokal.
+- **Link resmi:** https://blog.invidelabs.com/pi-coding-agent-local-models
+
+21. Chrome DevTools for Agents & Agent Plugins 1.0
+- **Penyelenggara/Developer:** Google Chrome Team & Vercel
+- **Kategori:** Web Debugging, AI Agent Protocol, Browser Tools
+- **Tanggal Rilis:** Oktober 2026
+- **Deskripsi:** Chrome 154 memperkenalkan Third-Party Tools API untuk DevTools for Agents. Framework web seperti Angular kini bisa mengekspos signal graph dan dependency injection runtime langsung ke coding agent via MCP.
+- **Keunggulan:** Standar lintas vendor Agent Plugins 1.0 (didukung AWS, GitHub, Microsoft, OpenAI), heap snapshot memory querying terstruktur, dan debugging visual langsung di browser.
+- **Link resmi:** https://byteiota.com/chrome-devtools-agents-third-party-tools-october-2026
+
+22. Figma Motion & Generative Agent Plugins
+- **Penyelenggara/Developer:** Figma
+- **Kategori:** UI/UX Design System, Animation, AI Plugins
+- **Tanggal Rilis:** Oktober 2026
+- **Deskripsi:** Figma memperluas integrasi animasi ke dalam design system dengan Figma Motion, timeline keyframing, dan export Lottie/dotLottie. Tersedia juga custom generative plugins dan agent skills untuk otomatisasi desain.
+- **Keunggulan:** Sinkronisasi motion variables dengan Dev Mode, integrasi context animasi via MCP untuk AI coding agents, dan Auto Layout vertical wrapping mirip CSS Flexbox.
+- **Link resmi:** https://dev.to/kavita-systems/whats-new-in-figma-laravel-openai-claude-and-gemini-and-how-to-use-them-together-532h
+
+23. OpenAI AgentKit & ChatKit
+- **Penyelenggara/Developer:** OpenAI
+- **Kategori:** Multi-Agent Orchestration, Enterprise AI, UI Toolkits
+- **Tanggal Rilis:** Oktober 2026
+- **Deskripsi:** Rangkaian toolkit lengkap untuk membangun dan mengoptimalkan agent: Agent Builder visual canvas, Connector Registry untuk enterprise tools, serta ChatKit untuk menyematkan antarmuka agent chat kustom di aplikasi web.
+- **Keunggulan:** Trace grading otomatis, dataset evaluation pipeline, integrasi RFT (Reinforcement Fine-Tuning) untuk o4-mini, dan native tool calling optimization.
+- **Link resmi:** https://openai.com/index/introducing-agentkit
+
+24. Laravel AI SDK 1.0 & Laravel MCP Integration
+- **Penyelenggara/Developer:** Laravel Team
+- **Kategori:** Backend Framework, AI Architecture, Tooling
+- **Tanggal Rilis:** Oktober 2026
+- **Deskripsi:** Standar resmi Laravel untuk mengintegrasikan berbagai model AI (OpenAI, Anthropic, Gemini) ke dalam arsitektur aplikasi backend, lengkap dengan conversation storage, streaming, tool approvals, dan protokol Laravel MCP.
+- **Keunggulan:** Human approval in the loop sebelum eksekusi aksi kritis, searchable tool catalogs, dan dukungan protokol Vercel Chat & AG-UI.
+- **Link resmi:** https://dev.to/kavita-systems/whats-new-in-figma-laravel-openai-claude-and-gemini-and-how-to-use-them-together-532h
+
 ---
-*Catatan: Pastikan selalu cek link resmi untuk update terbaru dan case study lengkap. Banyak tools AI design dan agent sedang dalam fase Early Access atau Beta, jadi fitur bisa berkembang cepat! Status Limitless/Rewind adalah historical karena akuisisi Meta dan sunset Rewind app.*
+*Catatan: Informasi di atas dihimpun dari rilis resmi pengembang, changelog produk, dan publikasi teknologi terkini. Fitur baru dan dokumentasi API terus diperbarui secara berkala.*
