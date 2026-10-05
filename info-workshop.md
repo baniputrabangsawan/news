@@ -98,5 +98,50 @@ Berikut adalah informasi workshop dan webinar coding, AI, design, dan teknologi 
 - **Biaya:** GRATIS
 - **Link resmi:** https://www.dicoding.com/events/9518
 
+13. Bootcamp Data Analyst with Python and SQL
+- **Penyelenggara:** DQLab
+- **Target peserta:** Beginner, Data enthusiast
+- **Lokasi:** Live via Zoom
+- **Tanggal/Deadline:** 1 Oktober - 30 November 2026 (Senin & Kamis 19.00 - 21.30 WIB)
+- **Biaya:** Rp 899.000
+- **Benefit:** 17 sesi kelas live, belajar Python & SQL dari ahlinya, persiapan karier.
+- **Link pendaftaran:** https://dqlab.id/bootcamp-data-analyst-with-python-and-sql
+
+14. Bootcamp Machine Learning and AI for Beginner
+- **Penyelenggara:** DQLab
+- **Target peserta:** Beginner
+- **Lokasi:** Live via Zoom
+- **Tanggal/Deadline:** 3 Oktober - 28 November 2026
+- **Biaya:** Rp 1.149.000
+- **Benefit:** Konsep ML & AI dari dasar hingga implementasi nyata.
+- **Link pendaftaran:** https://dqlab.id/bootcamp-machine-learning-and-ai-for-beginner
+
+15. AI Hands-On Camp: Pelatihan Implementasi IoT Batch 5
+- **Penyelenggara:** Indobot Academy x Ozami Inti Sinergi
+- **Target peserta:** Masyarakat umum, alumni, mahasiswa
+- **Lokasi:** Online via Zoom (19.00 - 21.00 WIB)
+- **Tanggal/Deadline:** Oktober 2026
+- **Biaya:** Mulai Rp150.000 (khusus Alumni)
+- **Benefit:** Praktik langsung implementasi AI & IoT dibimbing mentor industri.
+- **Link pendaftaran:** https://s.id/aiforiot-indobot
+
+16. Natural Language Processing Specialist Batch 12
+- **Penyelenggara:** Indonesia AI
+- **Target peserta:** Calon AI Specialist, Data Scientist, Mahasiswa
+- **Lokasi:** Live class via Zoom
+- **Tanggal/Deadline:** Mulai 2 November 2026
+- **Biaya:** Rp 6.000.000 Normal (Tersedia Early Bird)
+- **Benefit:** 35+ pertemuan, 3 realworld project portofolio, career preparation.
+- **Link pendaftaran:** https://aiforindonesia.com/bootcamp-natural-language-processing/
+
+17. Seminar Nasional OTN 8
+- **Penyelenggara:** Guru Penggerak Indonesia
+- **Target peserta:** Guru, mahasiswa, peserta didik
+- **Lokasi:** JICC Senayan, Jakarta
+- **Tanggal/Deadline:** 29 Oktober 2026
+- **Biaya:** Rp 50.000
+- **Benefit:** Insight seputar AI, koding, teknologi pendidikan, sertifikat.
+- **Link pendaftaran:** https://gurupenggerakindonesia.id/?p=599
+
 ---
 *Catatan: Segera cek link resmi untuk informasi pendaftaran dan syarat teknis (laptop, software, dll). Beberapa workshop memiliki kuota terbatas!*
