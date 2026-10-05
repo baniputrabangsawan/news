@@ -101,5 +101,50 @@ Berikut adalah informasi kompetisi (lomba) aktif yang berhasil ditemukan untuk b
 - **Hadiah/manfaat:** Sertifikat dan hadiah kompetisi visualisasi
 - **Link resmi:** https://www.instagram.com/reel/DZaVWu2vtrD/
 
+12. Math and Logic Competition (MLC) 2026
+- **Penyelenggara:** Universitas Airlangga
+- **Target peserta:** SMP/MTs dan SMA/SMK/MA sederajat
+- **Lokasi:** Online (Penyisihan), Offline Surabaya (Semifinal & Final)
+- **Deadline:** 2 Oktober 2026 (Open Registration)
+- **Biaya:** SMA: Rp110.000/tim (Open Reg)
+- **Hadiah/manfaat:** Sertifikat dan pengalaman kompetisi matematika tingkat nasional
+- **Link resmi:** https://cek.olimnesia.com/mlc2026
+
+13. Lomba Karya Tulis Ilmiah FOSCA Impact Project 2026
+- **Penyelenggara:** FOSCA
+- **Target peserta:** Siswa SMA/SMK/MA sederajat
+- **Lokasi:** Online & Offline (Taman Ismail Marzuki, Jakarta)
+- **Deadline:** 13 Oktober 2026 (Submission Abstract)
+- **Biaya:** Rp140.000 per tim
+- **Hadiah/manfaat:** Total hadiah Rp3.000.000 untuk tiga pemenang utama
+- **Link resmi:** https://www.kabarlomba.com/2026/09/lomba-karya-tulis-ilmiah-fosca-impact.html
+
+14. LOMBA ESSAY SMA/SMK 2026 (Seminar Nasional Kusuma)
+- **Penyelenggara:** Seminar Nasional Kusuma
+- **Target peserta:** Siswa SMA/SMK Nasional
+- **Lokasi:** Online & Offline di Surabaya (Awarding 12 November)
+- **Deadline:** 30 Oktober 2026
+- **Biaya:** Perlu dicek di link resmi
+- **Hadiah/manfaat:** 10 Karya terbaik menjadi finalis dan diundang ke Seminar Nasional KUSUMA
+- **Link resmi:** https://journalng.uwks.ac.id/kusuma/ESSAY_SMA_2026
+
+15. National Technopreneurship Competition (NTC) 2026
+- **Penyelenggara:** BKTI PII
+- **Target peserta:** Umum / Mahasiswa
+- **Lokasi:** Online
+- **Deadline:** 12 Oktober 2026
+- **Biaya:** Perlu dicek di link resmi
+- **Hadiah/manfaat:** Pendanaan dan apresiasi technopreneurship tingkat nasional
+- **Link resmi:** https://bkti-pii.or.id/event/national-technopreneurship-competition-2026/
+
+16. Indonesia Accounting Challenge (IAC) 2026
+- **Penyelenggara:** IAC 2026
+- **Target peserta:** SMA/SMK/MA/sederajat dan Mahasiswa
+- **Lokasi:** Online/Offline
+- **Deadline:** 27 Oktober 2026 (Gelombang 2)
+- **Biaya:** Mahasiswa Rp55.000, SMA/SMK Rp50.000
+- **Hadiah/manfaat:** Sertifikat dan hadiah kompetisi akuntansi nasional
+- **Link resmi:** https://www.ambisbelajar.com/2026/09/indonesia-accounting-challenge-2026.html
+
 ---
 *Catatan: Segera cek link resmi karena syarat, biaya, dan ketersediaan kuota bisa berubah sewaktu-waktu. Jangan lewatkan batas waktu pendaftaran!*
