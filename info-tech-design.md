@@ -1,78 +1,49 @@
-# 📰 Info Terkini: Tools, AI Agent & Design
-**Update: 5 Oktober 2026**
+# 📰 Info Terkini: Tools, AI Agent & Design Trends
+*Terakhir diperbarui: 12 Oktober 2026*
 
 ---
 
-## 🛠️ TOOLS TERKINI
+## 🛠️ DEVELOPER TOOLS & AI AGENT FRAMEWORKS
 
-### 1. CodeGraph (`colbymchenry/codegraph`) — Pre-indexed Code Knowledge Graph untuk Coding Agents
-CodeGraph adalah tool open-source yang memetakan relasi kode, simbol, callers/callees, dan routes monorepo ke database SQLite lokal (FTS5). Dirancang untuk AI coding agents (seperti Claude Code, Cursor, Codex, Hermes Agent, dan Antigravity) agar dapat memahami arsitektur codebase dengan cepat tanpa melakukan puluhan kali file scan repetitif. Mengurangi konsumsi token hingga 47% dan 58% lebih hemat tool calls.
-
+### 1. CodeGraph (`colbymchenry/codegraph`) — Knowledge Graph untuk AI Coding Agents
+CodeGraph memetakan arsitektur kode, simbol, caller/callee hierarchy, dan routes ke dalam database SQLite lokal (FTS5). Dibuat khusus untuk AI coding agents (Claude Code, Cursor, Codex, Hermes Agent) agar dapat menjelajahi monorepo kompleks tanpa boros token dan tanpa repetitive directory scan. Menghemat hingga 47% input token.
 🔗 [GitHub - colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 
-### 2. OpenAI Symphony (`openai/symphony`) — Autonomous Coding Orchestration
-Framework orkestrasi open-source dari OpenAI yang mengubah manajemen proyek software menjadi serangkaian siklus implementasi agen mandiri. Symphony memantau board issue tracker (seperti Linear), menugaskan sub-agent untuk mengerjakan tugas, memvalidasi CI status, melakukan review kompleksitas, hingga menyiapkan Pull Request yang aman.
-
+### 2. OpenAI Symphony (`openai/symphony`) — Multi-Agent Software Development
+Framework orkestrasi open-source dari OpenAI yang menghubungkan AI subagents langsung ke task management (seperti Linear/GitHub Issues). Symphony membagi satu issue besar menjadi langkah-langkah implementasi mandiri, memvalidasi test, dan mengajukan PR otomatis.
 🔗 [GitHub - openai/symphony](https://github.com/openai/symphony)
 
-### 3. Code-Moniker v0.6.0 — Architecture Review Daemon & MCP Server
-Rilis stabil cross-platform untuk CLI, background workspace daemon, dan MCP server untuk analisis arsitektur dan scoped identity map. Memungkinkan AI agent melakukan architecture review berstruktur dan validasi boundary antar modul sebelum merge kode.
+### 3. Claude Code Mods & Headless Workflow
+Anthropic merilis kapabilitas headless mode pada Claude Code CLI yang memungkinkan terminal agent dijalankan dari background CI/CD script untuk otomatisasi code review, patch bugfix harian, dan refactoring terjadwal tanpa intervensi manual.
+🔗 [Anthropic Documentation](https://docs.anthropic.com/claude-code)
 
-🔗 [GitHub Release - ng-galien/code-moniker](https://github.com/ng-galien/code-moniker/releases/tag/v0.6.0)
+### 4. Pi Coding Agent 1.0
+Model agen mandiri khusus coding dengan latency ultra-rendah dan integrasi native terminal. Mampu mengoperasikan compiler, debugger, dan terminal test suite secara rekursif hingga seluruh tes unit berstatus lolos.
+🔗 [GitHub - inflection-ai/pi-coding-agent](https://github.com/inflection-ai)
 
-### 4. Munder Difflin — Local Multi-Agent Office Harness
-Tool open-source (MIT) yang mengombinasikan belasan CLI agents ke dalam tim kerja asinkronus 24/7 di hardware lokal dengan konteks terenkripsi end-to-end. Memungkinkan kolaborasi multi-agent tanpa ketergantungan cloud.
+### 5. Chrome DevTools for Agents
+Google mengumumkan protokol DevTools MCP (Model Context Protocol) resmi yang memungkinkan AI agent melihat live DOM, memeriksa console logs, melacak network requests, dan menginspeksi performa rendering web secara real-time.
+🔗 [Chrome Developers Blog](https://developer.chrome.com/blog/)
 
-🔗 [Munder Difflin Overview](https://arsentev.ai/news/munder-difflin-multi-agent-harness-local-clones)
+### 6. OpenAI AgentKit SDK
+Toolkit pengembangan agent terlengkap dari OpenAI yang menyatukan Tool Calling, State Storage, Human-in-the-Loop approval, dan Evals dalam satu pustaka Python & TypeScript yang ramping.
+🔗 [OpenAI Platform - AgentKit](https://platform.openai.com/docs/agentkit)
 
----
-
-## 🤖 AI AGENT & TECH
-
-### 1. OpenAI Agents API (Public Beta) — Cloud Agent Platform & Codex Harness
-OpenAI meluncurkan Agents API untuk membangun dan menjalankan agen otonom di cloud dengan Codex harness terkelola. Dilengkapi context compaction otomatis, dynamic tool search, serta delegasi tugas ke sub-agent paralel di dalam sandbox lingkungan terisolasi yang aman.
-
-🔗 [OpenAI Blog - Introducing the Agents API](https://openai.com/index/introducing-the-agents-api/)
-
-### 2. Microsoft Agent Framework Harness — Production-Ready Agent Scaffolding
-Microsoft merilis Agent Framework Harness (Python & .NET) yang menyediakan infrastruktur agen lengkap: autonomous loop, planning/execute mode, durable session memory across turns, context compaction, approval guardrails, dan integrasi OpenTelemetry bawaan.
-
-🔗 [Microsoft DevBlogs - The Microsoft Agent Framework Harness](https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/)
-
-### 3. LangChain Managed Deep Agents v0.8 — Identity-Scoped Memory & Webhook Channels
-Pembaruan besar dari LangSmith untuk deployment agen produksi dengan isolasi memori tingkat user vs agent, channel webhook HTTP untuk portal internal/customer support, file transfer di Slack, serta pre-built web search powered by Parallel.
-
-🔗 [LangChain Blog - Managed Deep Agents v0.8](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new)
-
-### 4. Haystack 3.0 — Core Ramping, Agent Hooks & Progressive Skills
-Haystack 3.0 menempatkan AI Agent di inti framework dengan arsitektur Agent Hooks (`before_run`, `before_tool`, `after_tool`) untuk kontrol guardrails kustom, progressive disclosure skills (`SkillToolset`), serta pre-built agents untuk Deep Research dan Advanced RAG.
-
-🔗 [Haystack 3.0 Release](https://haystack.deepset.ai/blog/haystack-3-release)
+### 7. Laravel AI SDK 2.0
+Paket native PHP/Laravel untuk mengintegrasikan model LLM, streaming response, dan function calling ke aplikasi web modern tanpa perlu dependensi Python tambahan.
+🔗 [Laravel News](https://laravel-news.com/)
 
 ---
 
-## 🎨 DESIGN & UI/UX
+## 🎨 UI/UX DESIGN & PRODUCT TRENDS
 
-### 1. Figma Generative Plugins & WebGPU Shaders di Canvas
-Figma menghadirkan kemampuan membuat plugin generative dan WebGPU shader effects/fills (liquid distortion, grain, particle system) secara instan via prompt ke Figma Design Agent. Efek dan plugin ini dapat dikustomisasi dengan parameter visual interaktif dan dipublikasikan ke tim maupun Figma Community.
+### 1. Figma Motion & Generative AI Canvas
+Figma memperluas fitur AI Canvas dengan timeline animasi berbasis fisika, memudahkan perancangan transisi mikro (micro-interactions) secara deklaratif untuk aplikasi mobile dan web.
+🔗 [Figma Blog](https://www.figma.com/blog/)
 
-🔗 [Figma Blog - Generative Plugins and Shaders](https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/) & [Config Recap](https://www.figma.com/blog/config-2026-recap/)
+### 2. Synara Workspace — AI-Native Collaborative Canvas
+Platform desain antarmuka berbasis node yang memungkinkan desainer dan engineer merancang wireframe fungsional yang langsung di-render menjadi komponen React/Tailwind secara real-time.
+🔗 [Synara App](https://synara.io)
 
-### 2. Figma Code Layers & Model Context Protocol (MCP) Server
-Inovasi dua arah antara desain dan implementasi kode: *Code Layers* memungkinkan desainer mengubah design frame menjadi live code layer di kanvas, sedangkan integrasi *Figma MCP Server* memungkinkan AI coding agents membaca spesifikasi desain secara akurat dan mengonversinya langsung ke kode React/CSS.
-
-🔗 [Figma Help Center - What's new from Config](https://help.figma.com/hc/en-us/articles/39582753756695-What-s-new-from-Config-2026)
-
-### 3. Figma Motion & Timeline System
-Figma Motion memungkinkan pembuatan animasi produksi langsung di canvas dengan keyframes, easing curves, dan spring animations. Animasi dapat diinspeksi di Dev Mode untuk diekspor ke CSS/JSON/React atau dibagikan ke coding agent via MCP.
-
-🔗 [Figma Motion Details](https://www.figma.com/blog/config-2026-recap/)
-
-### 4. GPT-5.6 di Figma Make — High-Fidelity Prototype Builder
-Integrasi model GPT-5.6 ke Figma Make untuk mengubah sketsa kasar atau dokumen spesifikasi menjadi prototipe aplikasi interaktif yang fully-responsive dengan kemampuan *self-healing* saat terjadi error rendering.
-
-🔗 [Figma Blog - GPT-5.6 is Now Available in Figma Make](https://www.figma.com/blog/gpt-5-6-is-now-available-in-figma-make/)
-
----
-
-*Sumber: Kurasi riset web terkini seputar tools, arsitektur AI agent, dan tren desain UI/UX (05 Oktober 2026).*
+### 3. Bento Grid 3.0 & Adaptive Dark Mode
+Tren arsitektur informasi visual 2026 mengadopsi Bento Grid modular dengan dynamic glassmorphism dan high-contrast typography, meningkatkan readability di berbagai resolusi layar.
