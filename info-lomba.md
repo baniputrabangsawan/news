@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 12 Oktober 2026*
+*Terakhir diperbarui: 13 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -114,3 +114,39 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Deadline:** Akhir Oktober 2026
     - **Hadiah:** Akselerasi proyek AI DeepTech & pendanaan inkubasi
     - **Link:** https://playit.polinema.ac.id/
+
+15. **LOGICODIX 2026: NextGen Digital Innovation Hackathon**
+    - **Penyelenggara:** HIMTI Universitas Negeri Surabaya (UNESA)
+    - **Target Peserta:** Siswa SMA/SMK/MA sederajat dan Mahasiswa D3/D4/S1 se-Indonesia
+    - **Lokasi:** Online (Hacking Week) & Offline (Auditorium Utama UNESA)
+    - **Deadline:** 31 Oktober 2026 (Registrasi) | Hacking Week: 7 - 14 November 2026
+    - **Biaya:** Rp50.000 per tim
+    - **Hadiah:** Hadiah uang tunai jutaan rupiah, trophy, gratis tiket seminar, mentoring Navasena
+    - **Link:** https://www.logicodix2026.site/
+
+16. **Dateraquest 2.0: Kompetisi Data Science Nasional 2026**
+    - **Penyelenggara:** Dateraquest National Committee
+    - **Target Peserta:** Mahasiswa/i aktif jenjang S1/D4 seluruh Indonesia (Tim 2–3 orang)
+    - **Lokasi:** Online
+    - **Deadline:** 31 Oktober 2026 (Penutupan Batch 2)
+    - **Biaya:** Rp60.000 (Batch 1) / Rp70.000 (Batch 2)
+    - **Hadiah:** Total hadiah hingga Rp10.000.000, E-Sertifikat nasional, jejaring profesional data science
+    - **Link:** https://dateraquest.com/
+
+17. **IBM SkillsBuild National Hackathon 2026**
+    - **Penyelenggara:** Hacktiv8 x IBM x Komdigi
+    - **Target Peserta:** Mahasiswa/i aktif D3–S3 se-Indonesia (Solo atau tim maks. 2 orang)
+    - **Lokasi:** Online
+    - **Deadline:** 31 Oktober 2026 (Submission Stage 2) | Showcase 14 November 2026
+    - **Biaya:** GRATIS (Fully Sponsored)
+    - **Hadiah:** Akses IBM Watsonx & Langflow, showcase di IBM Day, sertifikasi resmi, networking industri AI
+    - **Link:** https://www.hacktiv8.com/projects/ibm/hackathon
+
+18. **Pesta Data Nasional (PeDaS) 2026**
+    - **Penyelenggara:** UIN Syarif Hidayatullah Jakarta x APTIKOM x PANDI
+    - **Target Peserta:** Mahasiswa Perguruan Tinggi se-Indonesia
+    - **Lokasi:** Online & Final Onsite
+    - **Deadline:** Akhir Oktober 2026
+    - **Biaya:** Cek ketentuan di link resmi
+    - **Hadiah:** Pengalaman analisis data riil PANDI, trofi, sertifikat nasional, dana pembinaan
+    - **Link:** https://pedas.uinjakarta.id/
