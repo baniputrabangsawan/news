@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 12 Oktober 2026*
+*Terakhir diperbarui: 13 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -82,3 +82,43 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Jadwal:** Akses langsung dibuka
     - **Biaya:** Rp0 (Free Tier) / Rp50.000 (Pro Certificate)
     - **Link:** https://buildwithangga.com/kelas/vibe-coding-to-vps-event-ticketing-saas-with-claude-code
+
+11. **Program Sertifikasi BNSP: Penerapan AI untuk Proses Data 2026**
+    - **Penyelenggara:** Dispora Provinsi Jawa Barat
+    - **Target Peserta:** Pemuda/Mahasiswa usia 16–30 tahun
+    - **Format:** Hybrid (Online Webinar & Uji Kompetensi Offline Bandung)
+    - **Jadwal:** 24 Oktober 2026
+    - **Biaya:** GRATIS (Beasiswa Pelatihan & Uji Sertifikasi)
+    - **Link:** https://youthinnovation.jabarprov.go.id/events/program-sertifikasi-bnsp-penerapan-artificial-intelligence-ai-untuk-proses-data-tahun-2026
+
+12. **Intensive AI Bootcamp: Alibaba Cloud & AI Tools**
+    - **Penyelenggara:** BISA AI Academy
+    - **Target Peserta:** Mahasiswa, Developer, Profesional TI
+    - **Format:** Live Online Interactive (Zoom Meeting)
+    - **Jadwal:** Pendaftaran s.d 24 Oktober 2026 | Sesi Kelas: 26 Oktober – 13 November 2026
+    - **Biaya:** Berbayar (Termasuk 1 Ujian Sertifikasi Internasional CoreCertX / BNSP)
+    - **Link:** https://bisa.ai/bootcamp/alibaba-cloud-ai-tools
+
+13. **Free Webinar: From Zero to Research Insight (Data Science & Machine Learning)**
+    - **Penyelenggara:** KelasRiset.id
+    - **Target Peserta:** Mahasiswa S1/S2/S3, Peneliti Pemula, Data Enthusiast
+    - **Format:** Live Webinar via Zoom (19:00 - 21:30 WIB)
+    - **Jadwal:** 2 November 2026
+    - **Biaya:** GRATIS (Opsi Premium E-Sertifikat 12 JP)
+    - **Link:** https://kelasriset.id/event/detail/free-webinar-from-zero-to-research-insight-data-science-machine-learning-untuk-penelitian
+
+14. **Seminar Nasional Ilmu Terapan (SNITER) X 2026: AI & Sustainability**
+    - **Penyelenggara:** Universitas Widya Kartika Surabaya
+    - **Target Peserta:** Pelajar, Mahasiswa, Akademisi, Praktisi Teknologi
+    - **Format:** Online via Zoom Meeting
+    - **Jadwal:** Pendaftaran s.d 31 Oktober 2026 | Acara: 7 November 2026
+    - **Biaya:** Rp25.000 (Peserta Seminar)
+    - **Link:** https://www.widyakartika.ac.id/open-registration-seminar-nasional-ilmu-terapan-sniter-x-2026/
+
+15. **Workshop Eksklusif: Machine Learning untuk Penelitian Tanpa Coding**
+    - **Penyelenggara:** KelasRiset.id
+    - **Target Peserta:** Mahasiswa, Peneliti, Dosen non-IT
+    - **Format:** Live Online via Zoom (3x Live Class & Praktik JASP)
+    - **Jadwal:** 5, 6, dan 12 November 2026 (19:00 - 21:30 WIB)
+    - **Biaya:** Early Bird Rp129.000
+    - **Link:** https://kelasriset.id/event/detail/workshop-eksklusif-machine-learning-untuk-penelitian-tanpa-coding
