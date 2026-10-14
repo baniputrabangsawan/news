@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 13 Oktober 2026*
+*Terakhir diperbarui: 14 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -122,3 +122,27 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Jadwal:** 5, 6, dan 12 November 2026 (19:00 - 21:30 WIB)
     - **Biaya:** Early Bird Rp129.000
     - **Link:** https://kelasriset.id/event/detail/workshop-eksklusif-machine-learning-untuk-penelitian-tanpa-coding
+
+16. **Bootcamp UI/UX Design: Membangun Portofolio dari Nol**
+    - **Penyelenggara:** Co-Working Space Digital x KabarMakassar
+    - **Target Peserta:** Pemula, Mahasiswa, Fresh Graduate yang ingin berkarir di UI/UX
+    - **Format:** Workshop Intensif & Mentoring Pembuatan Portofolio
+    - **Jadwal:** Pendaftaran s.d 15 Oktober 2026 | Pelaksanaan: 17 – 18 Oktober 2026 (10:00 WIB)
+    - **Biaya:** Rp450.000
+    - **Link:** https://www.kabarmakassar.com/events/bootcamp-uiux-design-membangun-portofolio-dari-nol
+
+17. **Bootcamp UI UX: From Zero to Interactive Prototype**
+    - **Penyelenggara:** Nusacodes
+    - **Target Peserta:** Mahasiswa, Pemula, UI/UX Enthusiast
+    - **Format:** Live Class via Zoom (8x Pertemuan setiap Selasa & Kamis malam 20.00 WIB)
+    - **Jadwal:** Mulai 20 Oktober 2026 – 12 November 2026
+    - **Biaya:** Berbayar (Tersedia jalur promo di link resmi)
+    - **Link:** https://nusacodes.com/kelas/bootcamp-ui-ux
+
+18. **Intensive AI Bootcamp: AI-Powered Content Creation**
+    - **Penyelenggara:** BISA AI Academy
+    - **Target Peserta:** Pelajar, Mahasiswa, Content Creator, Umum
+    - **Format:** Live Online Zoom (6 Sesi, 30 JP) + Hands-on Project
+    - **Jadwal:** Pendaftaran s.d 24 Oktober 2026 | Sesi Kelas: 26 Oktober – 13 November 2026 (15.30–17.00 WIB)
+    - **Biaya:** Berbayar (Termasuk 1 Ujian Sertifikasi BNSP / CoreCertX)
+    - **Link:** https://bisa.ai/bootcamp/ai-powered-content-creation
