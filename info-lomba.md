@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 13 Oktober 2026*
+*Terakhir diperbarui: 14 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -150,3 +150,30 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Cek ketentuan di link resmi
     - **Hadiah:** Pengalaman analisis data riil PANDI, trofi, sertifikat nasional, dana pembinaan
     - **Link:** https://pedas.uinjakarta.id/
+
+19. **IDN IT FEST 2026 – Festival Teknologi Internasional**
+    - **Penyelenggara:** IDN Boarding School
+    - **Target Peserta:** Siswa SMA/SMK, Mahasiswa, Guru, dan Umum
+    - **Lokasi:** Online & Final Onsite
+    - **Deadline:** 18 Oktober 2026
+    - **Biaya:** Cek ketentuan pendaftaran di link resmi
+    - **Hadiah:** Total hadiah Rp75.000.000 + E-Sertifikat Internasional
+    - **Link:** https://itfest.idn.sch.id/
+
+20. **MAGE 12 - UI/UX Design Competition 2026**
+    - **Penyelenggara:** Multimedia and Game Event (MAGE) Institut Teknologi Sepuluh Nopember (ITS)
+    - **Target Peserta:** Pelajar SMA/SMK/sederajat dan Mahasiswa aktif D3/D4/S1 (Individu / Tim maks. 3 orang)
+    - **Lokasi:** Online (Penyisihan) & Onsite ITS Surabaya (Final)
+    - **Deadline:** 20 Oktober 2026 (Batas Pendaftaran & Pengumpulan Karya)
+    - **Biaya:** Rp100.000 per tim
+    - **Hadiah:** Uang pembinaan, trofi, sertifikat nasional
+    - **Link:** https://www.mage-its.id/competitions/uiux
+
+21. **UNS Innovation Hackathon 2026 — DeepTech for Real Impact**
+    - **Penyelenggara:** Universitas Sebelas Maret (UNS)
+    - **Target Peserta:** Mahasiswa aktif perguruan tinggi seluruh Indonesia (D3/D4/S1), tim 3–6 orang + 1 dosen pembimbing
+    - **Lokasi:** Hybrid / Solo
+    - **Deadline:** 7 November 2026 (Pendaftaran & Proposal Purwarupa)
+    - **Biaya:** Gratis / Disediakan grant Rp4,5 juta per tim untuk purwarupa
+    - **Hadiah:** Total hadiah Rp246 juta untuk 9 tim terbaik, grant riset purwarupa, sertifikat
+    - **Link:** https://hackathonuns.id/
