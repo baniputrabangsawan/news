@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 14 Oktober 2026*
+*Terakhir diperbarui: 15 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -119,3 +119,27 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Lokasi:** Nasional (Online)
     - **Hadiah:** Pendampingan implementasi solusi ke koperasi nasional
     - **Link:** https://www.metrotvnews.com/read/bD2CwO38-hackathon-digital-cooperatives-2026
+
+15. **LOGICODIX 2026 — NextGen Digital Innovation Hackathon**
+   - **Penyelenggara:** HIMTI Universitas Negeri Surabaya (UNESA)
+   - **Target Peserta:** Mahasiswa dan Pelajar SMA/SMK se-Indonesia
+   - **Lokasi:** Hybrid (Online & Grand Final Surabaya)
+   - **Deadline:** 29 November 2026 (Grand Final) / Pendaftaran aktif Oktober 2026
+   - **Hadiah:** Uang pembinaan & trophy jutaan rupiah, mentoring industri, sertifikat nasional
+   - **Link:** https://www.logicodix2026.site/
+
+16. **AI Impact Challenge 2026 (Hackathon & Datathon)**
+   - **Penyelenggara:** Dicoding Indonesia x Kementerian Komdigi & Microsoft Elevate
+   - **Target Peserta:** Mahasiswa, Developer, Talenta AI Nasional
+   - **Lokasi:** Online
+   - **Deadline:** Oktober - November 2026
+   - **Hadiah:** Total ribuan Dicoding Points, akselerasi proyek AI, portofolio & sertifikat resmi
+   - **Link:** https://dicoding.elevaite.id/ai-impact-challenge
+
+17. **SATU CREANOVA 2026: UI/UX Design & Web Programming**
+   - **Penyelenggara:** Informatika, SATU University Bandung
+   - **Target Peserta:** Siswa SMA/SMK sederajat tingkat nasional
+   - **Lokasi:** Online
+   - **Deadline:** Oktober 2026
+   - **Hadiah:** Beasiswa pendidikan, trophy juara, sertifikat prestasi nasional
+   - **Link:** https://satu.ac.id/bandung/informatika/2026/07/08/satu-creanova-2026-kompetisi-nasional-ui-ux-design-web-programming-untuk-siswa-sma-smk/
