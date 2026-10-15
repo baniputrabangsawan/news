@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 14 Oktober 2026*
+*Terakhir diperbarui: 15 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -82,3 +82,27 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Jadwal:** Akses langsung dibuka
     - **Biaya:** Rp0 (Free Tier) / Rp50.000 (Pro Certificate)
     - **Link:** https://buildwithangga.com/kelas/vibe-coding-to-vps-event-ticketing-saas-with-claude-code
+
+11. **SkolaTalk #136: Vibe Coding - From Zero to Code: Your First Step into Programming**
+   - **Penyelenggara:** Digital Skola
+   - **Target Peserta:** Pemula, Mahasiswa, Tech & Coding Enthusiast
+   - **Format:** Live Interactive Webinar
+   - **Jadwal:** Jumat, 23 Oktober 2026 (19.15 - 21.15 WIB)
+   - **Biaya:** GRATIS + E-Certificate & Networking
+   - **Link:** https://digitalskola.com/free-class/vc-136
+
+12. **MySkill Free Short Class: Software Engineering (Front End & CSS Introduction)**
+   - **Penyelenggara:** MySkill
+   - **Target Peserta:** Pelajar SMA/SMK, Mahasiswa, Pemula Programming
+   - **Format:** Live Class via Zoom + E-Learning Case Study
+   - **Jadwal:** Mulai 15 Oktober 2026
+   - **Biaya:** GRATIS + E-Certificate
+   - **Link:** https://myskill.id/bootcamp/website-development-short-class
+
+13. **Webinar Analisis Ratusan Ribu Baris Data dengan AI (Claude & Excel)**
+   - **Penyelenggara:** Aijen Learning
+   - **Target Peserta:** Mahasiswa, Praktisi Data, Pemula AI
+   - **Format:** Live via Zoom
+   - **Jadwal:** Sabtu, 24 Oktober 2026 (10.00 WIB)
+   - **Biaya:** GRATIS + Akses Studi Kasus & Link Zoom
+   - **Link:** https://learning.aijen.id/webinar/analisis-data-dengan-ai
