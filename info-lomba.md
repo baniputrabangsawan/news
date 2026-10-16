@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 15 Oktober 2026*
+*Terakhir diperbarui: 16 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -121,25 +121,70 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://www.metrotvnews.com/read/bD2CwO38-hackathon-digital-cooperatives-2026
 
 15. **LOGICODIX 2026 — NextGen Digital Innovation Hackathon**
-   - **Penyelenggara:** HIMTI Universitas Negeri Surabaya (UNESA)
-   - **Target Peserta:** Mahasiswa dan Pelajar SMA/SMK se-Indonesia
-   - **Lokasi:** Hybrid (Online & Grand Final Surabaya)
-   - **Deadline:** 29 November 2026 (Grand Final) / Pendaftaran aktif Oktober 2026
-   - **Hadiah:** Uang pembinaan & trophy jutaan rupiah, mentoring industri, sertifikat nasional
-   - **Link:** https://www.logicodix2026.site/
+    - **Penyelenggara:** HIMTI Universitas Negeri Surabaya (UNESA)
+    - **Target Peserta:** Mahasiswa dan Pelajar SMA/SMK se-Indonesia
+    - **Lokasi:** Hybrid (Online & Grand Final Surabaya)
+    - **Deadline:** 29 November 2026 (Grand Final) / Pendaftaran aktif Oktober 2026
+    - **Hadiah:** Uang pembinaan & trophy jutaan rupiah, mentoring industri, sertifikat nasional
+    - **Link:** https://www.logicodix2026.site/
 
 16. **AI Impact Challenge 2026 (Hackathon & Datathon)**
-   - **Penyelenggara:** Dicoding Indonesia x Kementerian Komdigi & Microsoft Elevate
-   - **Target Peserta:** Mahasiswa, Developer, Talenta AI Nasional
-   - **Lokasi:** Online
-   - **Deadline:** Oktober - November 2026
-   - **Hadiah:** Total ribuan Dicoding Points, akselerasi proyek AI, portofolio & sertifikat resmi
-   - **Link:** https://dicoding.elevaite.id/ai-impact-challenge
+    - **Penyelenggara:** Dicoding Indonesia x Kementerian Komdigi & Microsoft Elevate
+    - **Target Peserta:** Mahasiswa, Developer, Talenta AI Nasional
+    - **Lokasi:** Online
+    - **Deadline:** Oktober - November 2026
+    - **Hadiah:** Total ribuan Dicoding Points, akselerasi proyek AI, portofolio & sertifikat resmi
+    - **Link:** https://dicoding.elevaite.id/ai-impact-challenge
 
 17. **SATU CREANOVA 2026: UI/UX Design & Web Programming**
-   - **Penyelenggara:** Informatika, SATU University Bandung
-   - **Target Peserta:** Siswa SMA/SMK sederajat tingkat nasional
-   - **Lokasi:** Online
-   - **Deadline:** Oktober 2026
-   - **Hadiah:** Beasiswa pendidikan, trophy juara, sertifikat prestasi nasional
-   - **Link:** https://satu.ac.id/bandung/informatika/2026/07/08/satu-creanova-2026-kompetisi-nasional-ui-ux-design-web-programming-untuk-siswa-sma-smk/
+    - **Penyelenggara:** Informatika, SATU University Bandung
+    - **Target Peserta:** Siswa SMA/SMK sederajat tingkat nasional
+    - **Lokasi:** Online
+    - **Deadline:** Oktober 2026
+    - **Hadiah:** Beasiswa pendidikan, trophy juara, sertifikat prestasi nasional
+    - **Link:** https://satu.ac.id/bandung/informatika/2026/07/08/satu-creanova-2026-kompetisi-nasional-ui-ux-design-web-programming-untuk-siswa-sma-smk/
+
+18. **Seno Hackathon 2026 (Semikonduktor & Digitalisasi AI)**
+    - **Penyelenggara:** Institut Teknologi Sepuluh Nopember (ITS) x Science Techno Park (STP)
+    - **Target Peserta:** Mahasiswa, Talenta Digital, dan Peneliti Muda se-Indonesia
+    - **Lokasi:** Hybrid (Online & Final di Konvensi KSTI Surabaya)
+    - **Deadline:** Oktober - November 2026 (Pameran Final 10-13 November 2026)
+    - **Biaya:** Gratis
+    - **Hadiah:** Total hadiah Rp100.000.000, sertifikat nasional, showcase pameran inovasi
+    - **Link:** https://hackathon-its.id
+
+19. **ADIKARA 2026 (Ajang Digital Kreatif & Inovasi Informatika)**
+    - **Penyelenggara:** Fakultas Informatika Telkom University
+    - **Target Peserta:** Siswa SMA/SMK dan Mahasiswa se-Indonesia
+    - **Lokasi:** Online
+    - **Deadline:** 31 Oktober 2026 (Pendaftaran aktif 5 - 31 Oktober 2026)
+    - **Biaya:** Perlu dicek di link resmi
+    - **Hadiah:** Uang tunai pembinaan, piala, dan e-sertifikat nasional
+    - **Link:** https://adikara.helloprodigi.pro/
+
+20. **Kartika Cyber Hackathon 2026**
+    - **Penyelenggara:** Pusat Siber TNI AD (PUSSIBERAD) x CODEPOLITAN
+    - **Target Peserta:** Siswa SMA/SMK, Mahasiswa, Praktisi Cyber Security & IT Enthusiast
+    - **Lokasi:** Online via Zoom & Platform Kompetisi
+    - **Deadline:** Oktober 2026 (Opening Ceremony 19 Oktober 2026)
+    - **Biaya:** Gratis
+    - **Hadiah:** Portofolio cyber security nasional, e-sertifikat, relasi industri & hadiah pembinaan
+    - **Link:** https://www.codepolitan.com/events/kartika-cyber-hackathon-2026/
+
+21. **Lomba Poster Publik NEXORA 2026**
+    - **Penyelenggara:** Fakultas Psikologi Universitas Muhammadiyah Sidoarjo (UMSIDA)
+    - **Target Peserta:** Siswa SMA/SMK dan Mahasiswa Aktif se-Indonesia
+    - **Lokasi:** Online
+    - **Deadline:** 30 Oktober 2026
+    - **Biaya:** Gelombang 1 Rp20.000-Rp25.000, Gelombang 2 Rp25.000-Rp30.000
+    - **Hadiah:** Total hadiah uang pembinaan untuk 12 karya terbaik, trofi, e-sertifikat
+    - **Link:** https://www.kabarlomba.com/2026/09/lomba-poster-publik-nexora-2026-untuk.html
+
+22. **Kompetisi UI/UX Design MAGE 12 (Multimedia and Game Event)**
+    - **Penyelenggara:** Departemen Teknik Komputer FTEIC Institut Teknologi Sepuluh Nopember (ITS)
+    - **Target Peserta:** Pelajar SMA/SMK dan Mahasiswa Aktif D3/D4/S1 se-Indonesia (Tim 1-3 orang)
+    - **Lokasi:** Online
+    - **Deadline:** 20 Oktober 2026 (Pengumpulan Tahap 2 Proposal & Video)
+    - **Biaya:** Rp100.000 per tim
+    - **Hadiah:** Total uang tunai jutaan rupiah, sertifikat nasional, trofi kejuaraan
+    - **Link:** https://www.mage-its.id/competitions/uiux
