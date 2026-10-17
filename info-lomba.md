@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 16 Oktober 2026*
+*Terakhir diperbarui: 17 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -188,3 +188,21 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Rp100.000 per tim
     - **Hadiah:** Total uang tunai jutaan rupiah, sertifikat nasional, trofi kejuaraan
     - **Link:** https://www.mage-its.id/competitions/uiux
+
+23. **Hackathon Ilmu Komputer Undana 2026 (Cyber Security & CTF)**
+    - **Penyelenggara:** Program Studi Ilmu Komputer Universitas Nusa Cendana (UNDANA)
+    - **Target Peserta:** Mahasiswa/i aktif dari universitas se-Indonesia
+    - **Lokasi:** Online (Penyisihan & Semifinal) & Final Tim
+    - **Deadline Pendaftaran:** 20 Oktober 2026 (Hari Perlombaan: 24 Oktober 2026)
+    - **Biaya:** Rp50.000 / orang
+    - **Hadiah:** Medali Penghargaan, E-Sertifikat untuk semua peserta, dan Total Hadiah Uang Pembinaan Jutaan Rupiah
+    - **Link:** https://registration.hackathonilkomundana.id/
+
+24. **Web Development Challenge 2026 - Soedirman Technophoria (S-Tech)**
+    - **Penyelenggara:** Himpunan Mahasiswa Informatika Universitas Jenderal Soedirman (UNSOED)
+    - **Target Peserta:** Pelajar SMA/SMK dan Mahasiswa se-Indonesia (Tim 1-3 orang)
+    - **Lokasi:** Online (Pengumpulan Karya) & Grand Final / Seminar 31 Oktober 2026
+    - **Deadline:** 18 Oktober 2026 (Pendaftaran & Pengumpulan)
+    - **Biaya:** Rp100.000 per tim
+    - **Hadiah:** Total Hadiah Rp3,5 Juta+, Trophy, E-Sertifikat Nasional, Free Tiket Seminar
+    - **Link:** https://stech.ft.unsoed.ac.id/
