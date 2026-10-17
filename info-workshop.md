@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 16 Oktober 2026*
+*Terakhir diperbarui: 17 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -146,3 +146,27 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Jadwal:** Kelas Webinar Berkala
     - **Biaya:** GRATIS + E-Certificate
     - **Link:** https://codelamp.id/webinar/4332850f-9a6c-4c3c-89ec-cdd7853249bc
+
+19. **Kelas Artificial Intelligence: Free Short Class - Building Website with Lovable AI**
+    - **Penyelenggara:** MySkill
+    - **Target Peserta:** Pelajar SMA/SMK, Mahasiswa, Calon Web/AI Builder & Umum
+    - **Format:** Live via Zoom & Case Study Mini Task
+    - **Jadwal:** Kamis, 29 Oktober 2026 (19.30 - 21.00 WIB)
+    - **Biaya:** GRATIS + E-Sertifikat (LinkedIn-ready)
+    - **Link:** https://dash2.myskill.id/bootcamp/artificial-intelligence-kelas-gratis-bersertifikat-myskill
+
+20. **Kelas UI/UX Research & Design: Free Short Class - Figma for UI/UX Design**
+    - **Penyelenggara:** MySkill
+    - **Target Peserta:** Siswa SMA/SMK, Mahasiswa, Calon UI/UX Designer
+    - **Format:** Live Interactive Zoom & Mentoring Kasus Portofolio
+    - **Jadwal:** Selasa, 3 November 2026 (19.30 - 21.00 WIB)
+    - **Biaya:** GRATIS + E-Sertifikat
+    - **Link:** https://myskill.id/bootcamp/ui-ux-design-short-class
+
+21. **Free Class Software Engineering: Website Development (Front End)**
+    - **Penyelenggara:** MySkill
+    - **Target Peserta:** Siswa SMA/SMK, Mahasiswa, Pemula Programming
+    - **Format:** Live via Zoom + Praktik Studi Kasus Portofolio
+    - **Jadwal:** Selasa, 24 November 2026 (19.30 - 21.00 WIB)
+    - **Biaya:** GRATIS + E-Sertifikat
+    - **Link:** https://myskill.id/bootcamp/website-development-short-class
