@@ -1,118 +1,120 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 17 Oktober 2026*
+*Terakhir diperbarui: 18 Oktober 2026*
 
 ---
 
 ## 🛠️ DEVELOPER TOOLS & AI AGENT FRAMEWORKS
 
-### 1. Omnigent (`omnigent-ai/omnigent`) — Open-Source Meta-Harness untuk Semua AI Agents
-Framework orkestrasi meta-harness open-source (Apache 2.0) yang menyediakan layer kontrol universal di atas Claude Code, Codex, Cursor, Hermes Agent, Antigravity, Pi, dan custom agents:
-- **Harness Swapping Tanpa Rewrite:** Pengembang dapat menukar atau menggabungkan berbagai harness AI agent tanpa perlu menulis ulang instruksi prompt atau konfigurasi tools.
-- **Sandboxing & Governance:** Dukungan multi-sandbox provider (Modal, Daytona, Microsandbox, E2B, OpenShell, Kubernetes) dengan penegakan policy keamanan dan audit trail bawaan.
-- **Kolaborasi Real-Time:** Sesi agent dapat diakses dan dikontrol tim secara real-time via terminal, web UI, mobile, maupun desktop app.
-🔗 [GitHub - omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | [Website - omnigent.ai](https://omnigent.ai)
+### 1. Cline CLI v3.0.73 & Cline Cloud Sessions (`cline/cline`)
+Pembaruan signifikan pada ekosistem coding agent open-source terpopuler:
+- **Dukungan Model Generasi Baru (GPT-6 Ready):** Cline CLI v3.0.73 dan SDK v0.0.95 mengoptimalkan parameter request dengan beralih ke `max_completion_tokens` serta menambahkan provider baru seperti CommandCode dan Reflection.
+- **Cline Cloud Sessions (v4.1.25):** Memungkinkan developer menjalankan task agent otonom di sandbox cloud terisolasi yang langsung terhubung ke repository dan branch GitHub target tanpa membebani mesin lokal.
+- **Pemisahan Worker Plugins:** Arsitektur plugin kini dipindahkan ke proses worker terpisah di luar core hub (menghentikan mode `in_process`) untuk stabilitas dan keamanan eksekusi script tools pihak ketiga.
+🔗 [GitHub - cline/cline](https://github.com/cline/cline) | [Release Notes](https://github.com/cline/cline/releases)
 
-### 2. Aden Hive (`aden-hive/hive`) — Multi-Agent Production Harness & Queen-Worker Colonies
-Runtime open-source (Apache 2.0) untuk koloni multi-agent mandiri yang menangani alur kerja komputasi skala produksi:
-- **Arsitektur Queen & Worker:** Queen agent mengeksekusi sub-task pertama untuk mempelajari pola instruksi dan resource yang dibutuhkan, lalu mendelegasikannya ke puluhan worker paralel.
-- **Built-in In-Process Tools:** Menyediakan tools bawaan tanpa perlu server terpisah (shell commands, background jobs, fast code search, PDF/CSV parsing, ECharts & Mermaid diagrams).
-- **Format Reusable Skills & MCP:** Mendukung standar terbuka Agent Skills serta integrasi penuh dengan Model Context Protocol (MCP) server.
-🔗 [GitHub - aden-hive/hive](https://github.com/adenhq/hive/) | [Docs - docs.adenhq.com](https://docs.adenhq.com)
+### 2. Claude Code v2.1.302 (`anthropic/claude-code`)
+Rilis stabil terbaru untuk CLI coding agent resmi dari Anthropic:
+- **Auto Mode Classifier Model (`CLAUDE_CODE_AUTO_MODE_MODEL`):** Penambahan konfigurasi environment variable untuk memilih model classifier khusus pada auto mode sisi klien, meningkatkan efisiensi pemilihan tool dan eksekusi instruksi.
+- **Reliability & Retry Limits:** Pengaturan batas retry yang lebih adaptif saat menangani kegagalan tool calls, perbaikan context compaction, serta pembersihan worktree Git otomatis.
+- **Workflow Developer:** Dukungan pencocokan kurung (bracket matching) pada Vim mode, integrasi sesi Cloud yang lebih tangguh, dan penyempurnaan sub-agent defaults.
+🔗 [Anthropic Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) | [AI Agent News Tracker](https://aiagentnews.io/topics/frameworks)
 
-### 3. Microsoft Agent Framework (MAF) v1.22.0 / dotnet-1.25.0
-Rilis stabil terbaru untuk Microsoft Agent Framework (Python & .NET) yang memperkuat fondasi produksi multi-agent:
-- **Dukungan Python 3.15 & Reasoning Effort:** Integrasi core framework dengan Python 3.15 dan penambahan opsi maximum reasoning-effort untuk model penalaran.
-- **A2A & Foundry Native Workflows:** Standarisasi protokol Agent-to-Agent (A2A), stream-merge semantics lintas provider, dan deployment agen ke infrastruktur Foundry Hosted hanya dengan 2 baris kode.
-- **Durable Sessions & Checkpointing:** State checkpointing berbasis `TypedDict`, evaluasi Purview stream policy, dan eksekusi background persisten.
-🔗 [GitHub - microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Release Notes](https://github.com/microsoft/agent-framework/releases/tag/python-1.22.0)
+### 3. AWS Labs AI-DLC Workflows (`awslabs/aidlc-workflows`)
+Framework workflow steering open-source dari AWS Labs untuk menyusun siklus software delivery agen:
+- **Adaptive Workflow Rules:** Mengubah asisten coding AI dari sekadar autokomplet kode menjadi alur kerja rekayasa perangkat lunak terstruktur, terverifikasi, dan patuh standar DevOps.
+- **Universal CLI Harness:** Memiliki satu core engine bersama yang dapat berjalan serentak di Claude Code, Kiro, Codex CLI, Cursor, opencode, dan GitHub Copilot melalui perintah terpadu `aidlc`.
+- **Verifiable Gateways:** Menegakkan tahap evaluasi otomatis, unit testing, dan validasi arsitektur sebelum perubahan kode diajukan ke pull request.
+🔗 [GitHub - awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
 
-### 4. LangChain DeepAgents v0.7.24 (`langchain-ai/deepagents`) — Fork Mode Async Subagents
-Pembaruan signifikan pada library DeepAgents dari LangChain untuk manajemen sub-agen yang kompleks:
-- **Fork Mode untuk Subagents:** Mendukung mode fork async untuk menjalankan cabang inferensi sub-agent secara terisolasi tanpa merusak parent state.
-- **Rubric Preservation:** Memastikan rubric penilaian dan instruksi evaluasi parent tetap konsisten selama pemanggilan sub-agent paralel.
-- **Context Recovery:** Penanganan otomatis pemulihan (recovery) saat terjadi context overflow pada tahap summarization.
-🔗 [GitHub Release - deepagents==0.7.24](https://github.com/langchain-ai/deepagents/releases/tag/deepagents%3D%3D0.7.24)
+### 4. Agno v3.1.4 (`agno-agi/agno`) — Sandboxed Multi-Agent Harness
+Pembaruan besar runtime orkestrasi AI agent dengan isolasi sandbox tingkat produksi:
+- **Per-Session Sandboxed Harness:** `ClaudeAgent` dan `CodexAgent` kini dapat mengeksekusi instruksi dan tool commands di dalam sandbox terisolasi per-sesi, dengan restorasi state yang mulus dari checkpoint.
+- **Provider Sandbox Fleksibel:** Integrasi bawaan dengan container Docker lokal dan sandbox serverless cloud Amazon Bedrock AgentCore.
+- **Durable Per-Session Queueing:** Antrean tugas persisten yang menjalankan durable background jobs secara berurutan dan tahan terhadap gangguan koneksi jaringan.
+🔗 [GitHub - agno-agi/agno](https://github.com/agno-agi/agno) | [Docs - agno.com](https://docs.agno.com)
 
-### 5. OpenAI Agents SDK Python v0.23.0 (`openai/openai-agents-python`)
+### 5. Pydantic AI v2.57.0 (`pydantic/pydantic-ai`) — Automated Tool Reviewer
+Framework agentic Python berbasis type-safe dari tim pembuat Pydantic:
+- **Harness ApprovalReviewer:** Mekanisme reviewer agentic bawaan di mana model AI evaluator dapat memverifikasi dan menyetujui tool calls berisiko rendah secara otomatis sebelum mengekskalasi aksi berisiko tinggi ke tinjauan manusia (*human-in-the-loop*).
+- **MetaProvider Muse Models:** Integrasi langsung dengan keluarga model Meta Muse melalui interface provider terstandarisasi.
+- **Conversation State Caching:** Kemampuan prompt caching lintas provider (Anthropic, OpenAI, Bedrock) dan objek Conversation persisten antar turn eksekusi.
+🔗 [GitHub - pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Release Notes](https://github.com/pydantic/pydantic-ai/releases)
+
+### 6. OpenAI Agents SDK Python v0.24.0 (`openai/openai-agents-python`)
 Pembaruan resmi SDK agen otonom dari OpenAI:
-- **Kontrol Limit MCP:** Pengaturan limit pagination daftar tools MCP (`MCP listing page limits`) untuk mencegah buffer exhaustion.
-- **Sandbox Protection:** Proteksi penghapusan kontainer Docker secara opt-in (`Docker removal protection`) pada lingkungan pengujian mandiri.
-- **Memory Consolidation:** Konfigurasi turn threshold untuk konsolidasi memori jangka panjang serta budget scan terenkripsi pada riwayat sesi.
-🔗 [GitHub Release - openai/openai-agents-python v0.23.0](https://github.com/openai/openai-agents-python/releases/tag/v0.23.0)
+- **Run-Wide Tool Error Formatter:** Layer formatting error terpusat yang menstandarisasi pelaporan galat dari tool eksekusi ke model penalaran, mengurangi halusinasi saat tool gagal.
+- **MCP Annotations:** Dukungan anotasi metadata Model Context Protocol (MCP) pada fungsi yang dikonversi menjadi tool agen, mempermudah ekspor tool ke client MCP eksternal.
+- **Memory Consolidation Improvements:** Peningkatan algoritma pemangkasan konteks dan sinkronisasi memori jangka panjang berbasis token budget.
+🔗 [GitHub Release - openai-agents-python v0.24.0](https://github.com/openai/openai-agents-python/releases/tag/v0.24.0)
 
-### 6. AgentOS (`framerslab/agentos`) — TypeScript Framework with Runtime Tool Forging
-Framework open-source Apache-2.0 berbasis TypeScript untuk AI agent mandiri dengan kemampuan kognitif adaptif:
-- **Runtime Tool Forging:** Agen dapat menulis fungsi JavaScript/TypeScript sendiri secara runtime lengkap dengan validasi JSON Schema dan test cases otomatis di dalam sandbox WebAssembly QuickJS (`QuickJSExecutor`) yang aman.
-- **Memory & Personality:** Memori kognitif persisten jangka panjang, konfigurasi personality HEXACO opsional, serta 6 strategi orkestrasi multi-agent.
-- **13 LLM Provider Support:** Antarmuka dispatch terpadu untuk OpenAI, Anthropic, Gemini, Groq, Ollama, OpenRouter, Mistral, xAI, dan CLI models.
-🔗 [GitHub - framerslab/agentos](https://github.com/framerslab/agentos) | [Docs - agentos.sh](https://docs.agentos.sh)
+### 7. Google ADK Kotlin 1.0 & Antigravity SDK Local Models
+Ekspansi ekosistem agen dari Google untuk mobile dan on-device execution:
+- **ADK for Kotlin 1.0 (GA):** Agent Development Kit resmi untuk Kotlin dan Android, memungkinkan pembuatan agen produksi native dengan akses langsung ke sensor dan API perangkat mobile.
+- **Antigravity SDK Local Model Support:** Kemampuan menjalankan agen penuh pada model lokal via LiteRT (didukung oleh arsitektur Gemma 4 26B A4B) serta kompatibilitas dengan inference engine lokal (Ollama, LM Studio, vLLM).
+🔗 [Google Developers Blog - ADK Kotlin 1.0](https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond)
 
-### 7. Strands Agents Harness SDK v1.60.0 (`strands-agents/harness-sdk`)
-SDK open-source (Python & TypeScript) untuk membangun runtime loop agen produksi mandiri tanpa ketergantungan hosted control plane:
-- **Lifecycle & Budget Controls:** Manajemen turn limits, token budgets, cancellation tokens, dan stop reasons terstandarisasi.
-- **Integrasi Coding Agents:** Dilengkapi plugin resmi untuk Claude Code, Codex, Cursor, dan Hermes Agent untuk scaffolding cepat dan authoring tools via MCP.
-- **Bidirectional Streaming & Validation:** Streaming dua arah native dengan validasi tipe ketat berbasis Zod dan Pydantic.
-🔗 [GitHub - strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) | [Docs - strandsagents.com](http://strandsagents.com/)
-
-### 8. Superfluid (`basecompute/superfluid`) — Local-AI Native LLM Server untuk Multi-Agent
-Server open-source (Apache-2.0) berkecepatan tinggi yang dirancang khusus untuk menjalankan model bahasa besar secara lokal pada alur kerja multi-agent mandiri:
-- **Dukungan Runtime:** Kompatibel penuh dengan llama.cpp (GGUF), MLX (Apple Silicon), dan engine BaseRT (`.base` bundles).
-- **Agent Interoperability:** Perintah one-liner `superfluid launch` untuk Claude Code, Codex, pi, Hermes Agent, dan Cline tanpa konfigurasi manual.
-- **Solusi Concurrency:** Mengeliminasi latency spike saat belasan sub-agent melakukan inference paralel di mesin lokal.
-🔗 [GitHub - basecompute/superfluid](https://github.com/basecompute/superfluid)
+### 8. Microsoft Agent Framework (MAF) python-1.22.0
+Fondasi runtime agen skala enterprise dari Microsoft:
+- **Python 3.15 Ready:** Dukungan resmi runtime Python 3.15 pada core package dan modul orkestrasi utama.
+- **Protokol Agent-to-Agent (A2A) & Stream-Merge:** Standardisasi semantik penggabungan stream data multi-agen lintas provider dan delegasi tugas otonom antar tim agen.
+- **OAuth Consent in Responses:** Deteksi kebutuhan persetujuan OAuth secara non-streaming pada konektor Foundry dan layanan pihak ketiga.
+🔗 [GitHub - microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Release Notes](https://github.com/microsoft/agent-framework/releases/tag/python-1.22.0)
 
 ---
 
 ## 🎨 UI/UX DESIGN & PRODUCT TRENDS
 
-### 1. Agentic User Interfaces (AUI) — Tren Utama Web & Product Design 2026
-Pergeseran paradigma desain dari sekadar antarmuka manipulasi langsung (direct manipulation) menuju software yang bertindak atas nama pengguna (*acting on user's behalf*):
-- **Antarmuka Transparan & Intent-Driven:** AI tidak lagi disembunyikan di balik chatbot terpisah, melainkan berwujud micro-interactions, contextual cards, dan dynamic progress indicators yang intuitif.
-- **Graceful Handoff & Human Oversight:** Pola UI yang memberikan ruang konfirmasi cepat (human-in-the-loop) tanpa memutus alur kerja otomatisasi sistem.
-🔗 [Figma Resource Library - 12 Defining Web Development Trends 2026](https://www.figma.com/resource-library/web-development-trends/)
-
-### 2. Automated UI Handoff: Dev Mode, Code Connect & Figma MCP Server Triad
-Transformasi proses serah terima desain (handoff) dari dokumen statis menjadi ekosistem tersinkronisasi otomatis secara dua arah:
-- **Code Connect ke Production Repo:** Mengikat komponen kanvas Figma langsung ke file komponen asli di repository (React, Next.js, SwiftUI), mengeliminasi penulisan ulang styling secara manual.
-- **Figma MCP Server untuk Coding Agents:** AI coding agents (Claude Code, Cursor, Codex, Hermes Agent) dapat memanggil tool `use_figma`, `search_design_system`, dan `get_variable_defs` untuk mengonversi design token secara presisi ke basis kode.
-- **Continuous Bidirectional Sync:** Perubahan token visual di Figma langsung terdeteksi di workspace developer melalui validasi drift otomatis.
-🔗 [Figma Guide - Automated UI Handoff](https://www.figma.com/resource-library/automated-ui-handoff/) | [Workflow Lab](https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/)
-
-### 3. Config India 2026: Code Layers Masuk Open Beta di Figma
-Inovasi besar yang membawa live code langsung ke atas kanvas desain Figma:
-- **Code-Backed Prototyping:** Mengubah frame desain biasa menjadi layer berbasis kode interaktif, mengimpor repository GitHub, atau menangkap komponen website nyata via Figma Chrome Extension.
-- **Extract Designs:** Desainer dapat mengekstrak state antarmuka interaktif kembali menjadi frame desain yang editable untuk modifikasi visual lanjutan.
-- **Free Open Beta:** Fitur pembuatan dan editing code layer tersedia gratis di paid plans hingga 4 November 2026.
+### 1. Config India 2026: Code Layers Masuk Open Beta di Figma
+Terobosan fundamental yang menyatukan kanvas desain grafis dengan live interactive code:
+- **Code-Backed Prototyping:** Frame desain di kanvas Figma kini dapat dikonversi menjadi layer kode nyata (React, HTML/CSS, Tailwind) yang interaktif dan dapat diklik layaknya aplikasi live.
+- **Multi-Source Ingestion:** Desainer dan engineer dapat membuat code layer dari 4 jalur: prompt teks ke Figma Agent, konversi frame kanvas, kloning repository GitHub, atau menangkap komponen web langsung menggunakan Figma Chrome Extension.
+- **Reverse Extraction:** Layer kode dapat diekstrak kembali menjadi frame desain vektor biasa yang dapat diedit secara visual, menjembatani kolaborasi dua arah tanpa batasan format.
 🔗 [Figma Blog - Build by Design](https://www.figma.com/blog/build-by-design/) | [Release Notes](https://www.figma.com/release-notes/)
 
-### 4. Figma Specs: "Markdown as a Medium" untuk Konteks Desain & AI Agents
-Container konteks kolaboratif native yang hidup langsung di atas kanvas Figma:
-- **Pusat Konteks & PRD:** Menyatukan tulisan ide, visual exploration, diagram, dan spesifikasi teknis dalam satu dokumen hidup bersanding dengan frame desain.
-- **Handoff ke AI Coding Agents:** Melalui Figma MCP server, coding agents dapat membaca dokumen spec secara utuh lengkap dengan relasi frame dan Code Connect snippets.
-- **Multiplayer Context:** Shortcut cepat 'D' untuk membuat spec baru, mendukung import Markdown eksternal dan branch exploration.
+### 2. Figma Specs: Container Konteks & PRD Native untuk Tim & Coding Agents
+Ruang dokumentasi terstruktur yang hidup berdampingan dengan canvas desain:
+- **Markdown-First Documentation:** Menyatukan tulisan PRD (Product Requirement Document), eksplorasi visual, status tiket, dan diagram arsitektur dalam satu container kanvas (shortcut: `D`).
+- **Konsumsi AI Coding Agent via MCP:** Dokumen Specs dapat dibaca secara utuh oleh AI agent (Claude Code, Cursor, Codex, Hermes Agent) melalui Figma MCP server untuk memahami intent fungsional sebelum menulis kode frontend.
+- **Live Component References:** Menautkan komponen desain langsung ke dokumentasi tanpa risiko referensi usang saat desain diperbarui.
 🔗 [Figma Blog - Introducing Specs](https://www.figma.com/blog/introducing-figma-specs/)
 
-### 5. Payload CMS Terintegrasi Native di Figma Make
-Figma berkolaborasi dengan Payload CMS untuk mengubah prototipe menjadi aplikasi web produksi nyata:
-- **Native Backend Scaffolding:** Figma Make otomatis menyiapkan backend Payload lengkap dengan database, sistem autentikasi, manajemen media/konten, dan admin panel yang di-hosting langsung oleh Figma.
-- **Design-Bound Content:** Marketer dan product manager dapat mengelola teks dan data tanpa menyentuh source code, namun tetap terikat kuat dengan design system tim.
-🔗 [Figma Newsroom](https://www.figma.com/newsroom/)
+### 3. Payload CMS Terintegrasi Native di Figma Make
+Evolusi Figma Make dari sekadar prototipe UI menjadi generator aplikasi web *full-stack*:
+- **Backend & Database Terkelola Otomatis:** Figma Make secara native menyiapkan backend Payload CMS lengkap dengan database SQLite/Postgres terkelola, sistem autentikasi, manajemen media aset, dan admin dashboard.
+- **Production-Ready Hosting:** Seluruh data dinamis dan konten aplikasi di-hosting langsung oleh infrastruktur Figma, memungkinkan pembuatan prototipe data riil tanpa perlu setup server backend eksternal.
+🔗 [Figma Learn - What's New from Config India](https://help.figma.com/hc/en-us/articles/43663368947863-What-s-new-from-Config-India-2026)
 
-### 6. Functional Motion Design & Smart Animate 2026
-Evolusi animasi antarmuka dari sekadar elemen estetika menjadi komponen struktural fungsional:
-- **Masking Latency:** Animasi transisi yang dihitung secara matematis untuk menjembatani latency fetch data asinkronus agar aplikasi terasa instan (*zero-perceived-latency*).
-- **Figma Motion Timeline:** Dukungan audio waveform synchronization untuk sound UI, animasi tipografi granular per kata/karakter, serta ekspor dotLottie (`.lottie`) dan code-ready React motion.
-🔗 [Figma Blog - Introducing Figma Motion](https://www.figma.com/blog/introducing-figma-motion/)
+### 4. Centralized Design Systems: Guidelines & Code Sources
+Tata kelola design system modern untuk era kolaborasi manusia dan agen:
+- **Design Guidelines (Open Beta):** Tim dapat menambahkan panduan pola desain dan anti-pattern pada library yang dipublikasikan agar Figma Agent mematuhi standar merek saat menghasilkan tata letak baru.
+- **Code Sources (Closed Beta):** Mengimpor repositori GitHub atau paket npm langsung ke library Figma untuk memastikan AI agent membangun komponen yang mencerminkan basis kode riil tim.
+- **System Map & System Check:** Visualisasi dependency graph lintas library dan pemindaian otomatis (*system check*) untuk mendeteksi token drift, missing interactive states (hover, pressed, focus), dan isu aksesibilitas.
+🔗 [Figma Blog - Design Systems Governance](https://www.figma.com/blog/build-by-design/)
 
-### 7. Centralized Design Systems: System Map & System Check
-Fitur tata kelola design system modern di Figma yang menyatukan aset desain dan repositori kode:
-- **System Map & Dependency Graph:** Memetakan keterkaitan antar library, code tokens, dan spesifikasi lintas departemen dalam satu visualisasi interaktif.
-- **System Check Otomatis:** Pemindaian instan untuk mendeteksi token drift, missing component states (hover, focus, disabled), atau accessibility contrast violations sebelum masuk tahap handoff.
-🔗 [Figma Release Notes](https://www.figma.com/release-notes/)
+### 5. Figma MCP Server Upgrade: 20+ Partner Baru & Manipulasi Kanvas Langsung
+Ekspansi besar protokol Model Context Protocol (MCP) resmi Figma:
+- **Latensi Rendah & Aksi Langsung:** AI coding agent kini dapat memanipulasi code layers, mengedit dokumen specs, dan membuat aset kanvas secara instan tanpa perantara manual.
+- **Dukungan 20+ Partner AI:** Memperluas integrasi langsung dengan Cursor, Claude Code, Antigravity, OpenCode, dan platform IDE generasi baru lainnya.
+🔗 [Figma Help Center - Config India MCP](https://help.figma.com/hc/en-us/articles/43663368947863-What-s-new-from-Config-India-2026)
 
-### 8. Bento Grid 3.0 & Adaptive Dark Mode
-Tren arsitektur tata letak modular yang mengombinasikan Auto Layout vertical wrap modern, dynamic glassmorphism berkinerja tinggi, dan adaptive dark mode yang menyesuaikan kontras secara otomatis berdasarkan sensor ambient light perangkat.
+### 6. Functional Motion Design & Timeline Audio Synchronization
+Evolusi animasi antarmuka menuju standar industri modern:
+- **Sound UI & Waveform Timeline:** Memungkinkan desainer menyeret file audio ke timeline Figma Motion untuk menyelaraskan efek suara (sound effects) dengan keyframes animasi tombol dan transisi layar.
+- **Granular Text Animations:** Animasi tipografi per-kata atau per-karakter yang tetap menjaga teks sepenuhnya dapat diedit (*fully editable text layer*).
+- **Format Ekspor Portabel:** Dukungan ekspor native ke format dotLottie (`.lottie`), React Motion code snippets, serta video MP4/WebM untuk presentasi stakeholder.
+🔗 [Figma Release Notes - Motion Update](https://www.figma.com/release-notes/)
+
+### 7. Vertical Wrap Auto Layout & CSS Flexbox Alignment
+Penyempurnaan arsitektur layout di Figma Design:
+- **Multi-Column Vertical Flow:** Konten berlebih (overflow) pada tata letak vertikal kini otomatis membungkus (wrap) ke kolom baru di sampingnya, mirip dengan properti CSS flexbox `flex-direction: column; flex-wrap: wrap;`.
+- **Desain Responsif Bebas Drift:** Menjaga kepadatan layout kartu dan grid tetap proporsional saat teks atau elemen dinamis bertambah panjang.
+
+### 8. Agentic User Interfaces (AUI) & Ambient Adaptive UI
+Tren desain antarmuka software modern 2026:
+- **Antarmuka Berbasis Intent (Intent-Driven UI):** Pola visual tidak lagi membebani pengguna dengan deretan formulir statis, melainkan kartu dinamis kontekstual yang merangkum hasil kerja agen otonom.
+- **Human-in-the-Loop Confirmation Gates:** Micro-interaction elegan untuk konfirmasi aksi kritis (seperti transaksi atau modifikasi data besar) tanpa memutus alur kerja otomatis.
+- **Adaptive Ambient Mode:** Sistem palet warna antarmuka yang menyesuaikan kontras, saturasi, dan pencahayaan otomatis berdasarkan sensor cahaya ruangan dan preferensi visual perangkat.
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (17 Oktober 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (18 Oktober 2026).*
