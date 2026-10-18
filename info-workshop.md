@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 17 Oktober 2026*
+*Terakhir diperbarui: 18 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -170,3 +170,35 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Jadwal:** Selasa, 24 November 2026 (19.30 - 21.00 WIB)
     - **Biaya:** GRATIS + E-Sertifikat
     - **Link:** https://myskill.id/bootcamp/website-development-short-class
+
+22. **Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud**
+    - **Penyelenggara:** Stream Solution Labs & Komunitas AI Cloud Surabaya
+    - **Target Peserta:** Developer, Mahasiswa Informatika, Cloud & AI Enthusiast
+    - **Format:** Live Interactive Online Workshop
+    - **Jadwal:** 21 November 2026 (09:00 - 18:00 WIB)
+    - **Biaya:** Akses sesi online (cek link tiket resmi)
+    - **Link:** https://allai.events/event/cloud-devfest-surabaya-26-building-safe-secure--scalable-solutions-with-ai-and-cloud
+
+23. **Workshop Eksklusif: Machine Learning untuk Penelitian Tanpa Coding**
+    - **Penyelenggara:** KelasRiset.id
+    - **Target Peserta:** Mahasiswa (D4/S1/S2/S3), Dosen, Peneliti, Pemula Non-IT
+    - **Format:** Live Zoom (3x Pertemuan Praktik JASP & jamovi)
+    - **Jadwal:** 5, 6, dan 12 November 2026 (19.00 – 21.30 WIB)
+    - **Biaya:** Opsi Free Webinar / Rp129.000 Workshop Sertifikat 70 JP
+    - **Link:** https://kelasriset.id/event/detail/workshop-eksklusif-machine-learning-untuk-penelitian-tanpa-coding
+
+24. **AI45: Gerakan Pelatihan AI untuk Pemuda Indonesia Menuju Indonesia Emas 2045**
+    - **Penyelenggara:** Strategic Initiative AI45
+    - **Target Peserta:** Mahasiswa semua jurusan, Pelajar, Profesional Muda
+    - **Format:** Online & On-Campus Interactive Training
+    - **Jadwal:** Pendaftaran Terbuka Semester Ganjil 2026
+    - **Biaya:** 100% GRATIS
+    - **Link:** https://ai45.org/
+
+25. **Program Beasiswa AWS AI Academy 2026 (Dicoding x Amazon Web Services)**
+    - **Penyelenggara:** Amazon Web Services (AWS) bersama Dicoding Indonesia
+    - **Target Peserta:** Siswa SMA/SMK, Mahasiswa D3/S1/S2/S3, Masyarakat Umum WNI
+    - **Format:** Online Self-Paced Learning + Bimbingan Mentor & Fasilitator
+    - **Jadwal:** Pendaftaran aktif s.d. 25 Desember 2026
+    - **Biaya:** 100% GRATIS (Beasiswa Pelatihan Penuh)
+    - **Link:** https://indbeasiswa.com/beasiswa-aws/
