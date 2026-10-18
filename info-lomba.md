@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 17 Oktober 2026*
+*Terakhir diperbarui: 18 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -206,3 +206,39 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Rp100.000 per tim
     - **Hadiah:** Total Hadiah Rp3,5 Juta+, Trophy, E-Sertifikat Nasional, Free Tiket Seminar
     - **Link:** https://stech.ft.unsoed.ac.id/
+
+25. **Tencent Cloud Hackathon Indonesia 2026**
+    - **Penyelenggara:** Tencent Cloud x AIClub Indonesia
+    - **Target Peserta:** Developer, AI Builder, Mahasiswa & Praktisi Teknologi
+    - **Lokasi:** Online (Meetup & Demo Day)
+    - **Deadline:** 1 November 2026 (Batas Pendaftaran & Pengumpulan Karya)
+    - **Biaya:** Gratis
+    - **Hadiah:** Total hadiah USD 3.100 (Juara 1: USD 1.800, Juara 2: USD 800, Juara 3: USD 500)
+    - **Link:** https://aiclub.id/event/tencent-cloud-hackathon-2026
+
+26. **International IDN IT FEST 2026**
+    - **Penyelenggara:** IDN Boarding School Jonggol
+    - **Target Peserta:** Siswa SD, SMP/MTs, SMA/SMK sederajat & International School
+    - **Lokasi:** IDN Boarding School Jonggol (Hybrid / Onsite)
+    - **Deadline:** Pelaksanaan 21 - 22 November 2026
+    - **Biaya:** Rp50.000 - Rp150.000 (sesuai cabang: Web Dev, UI/UX, Sumo Robot, Networking)
+    - **Hadiah:** Trophy internasional, sertifikat, showcase inovasi teknologi
+    - **Link:** https://itfest.idn.sch.id/
+
+27. **IRGL 2026 (Informatics Rally Games & Logic)**
+    - **Penyelenggara:** Himpunan Mahasiswa Informatika Universitas Kristen Petra (PCU) Surabaya
+    - **Target Peserta:** Siswa SMA/SMK sederajat se-Indonesia
+    - **Lokasi:** Hybrid (Eliminasi Online & Final di Kampus UK Petra Surabaya)
+    - **Deadline:** Pendaftaran s.d. 28 November 2026
+    - **Biaya:** Perlu dicek di link resmi
+    - **Hadiah:** Hadiah uang tunai, piala penghargaan, sertifikat prestasi logika komputer
+    - **Link:** https://irgl.projects.petra.ac.id/
+
+28. **Bridge The Gap Hacks 2026**
+    - **Penyelenggara:** Devpost Community (SQ Hacks)
+    - **Target Peserta:** Siswa SMA dan Mahasiswa S1 (High school & undergraduate students)
+    - **Lokasi:** Online (Global / Devpost)
+    - **Deadline:** 12 November 2026 (Pendaftaran) / 20 November 2026 (Submission)
+    - **Biaya:** Gratis
+    - **Hadiah:** Sertifikat digital global, portofolio showcase publik, networking internasional
+    - **Link:** https://sq-hacks.devpost.com/rules
