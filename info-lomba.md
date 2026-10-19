@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 18 Oktober 2026*
+*Terakhir diperbarui: 19 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -242,3 +242,68 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Gratis
     - **Hadiah:** Sertifikat digital global, portofolio showcase publik, networking internasional
     - **Link:** https://sq-hacks.devpost.com/rules
+
+29. **NAISC 2026 - Bali National AI Summit & Competition** *(BARU 19 Okt)*
+    - **Penyelenggara:** BIM University x Universitas Muhammadiyah Surakarta (UMS)
+    - **Target Peserta:** Siswa SMA/SMK/MA sederajat se-Indonesia (individu atau tim maks 3 orang)
+    - **Lokasi:** BIM University, Bali (lomba dilaksanakan 25 November 2026)
+    - **Deadline:** Pendaftaran kompetisi s.d. 14 November 2026; Workshop s.d. 21 November 2026
+    - **Biaya:** Pelatihan AI GRATIS, kompetisi Rp50.000/tim
+    - **Hadiah:** Trofi, sertifikat, uang pembinaan, e-certificate nasional
+    - **Link:** https://edutrend.id/bim-university-dan-ums-kolaborasi-gelar-bali-national-ai-summit-competition-2026-ajak-siswa-sma-smk-kuasai-kecerdasan-buatan/
+
+30. **QUANTUM 2026 - Kompetisi Akademik Nasional (Informatika)** *(BARU 19 Okt)*
+    - **Penyelenggara:** Mapresnas didukung Olimnesia
+    - **Target Peserta:** Pelajar SMP & SMA sederajat se-Indonesia (cabang Informatika tersedia di kedua jenjang)
+    - **Lokasi:** Online
+    - **Deadline:** Pendaftaran Gratis s.d. 15 November 2026; Pendaftaran VIP s.d. 22 November 2026; Pelaksanaan 28-29 November 2026
+    - **Biaya:** Gratis (Reguler) / Rp29.000 (SMP VIP) - Rp39.000 (SMA VIP)
+    - **Hadiah:** Sertifikat & penghargaan akademik nasional (40 soal, 60 menit)
+    - **Link:** https://olimnesia.com/events/kompetisi-olimpiade-informatika-tingkat-nasional-quantum-2026-untuk-pelajar-sma-ma-smk-indonesia-terbaru-online-gratis-bersertifikat
+
+31. **ACTION 2026 - Academic Competition of Data Science (Infografis Extended)** *(BARU 19 Okt)*
+    - **Penyelenggara:** Universitas Negeri Surabaya (UNESA)
+    - **Target Peserta:** Siswa SMA/MA/SMK (Infografis SMA) & Mahasiswa D3/D4/S1 (Data Mining, Infografis)
+    - **Lokasi:** Online (pengerjaan & pengumpulan karya 12-30 Oktober 2026)
+    - **Deadline:** Pendaftaran Extended Infografis s.d. 23 Oktober 2026, Data Mining s.d. 11 Oktober 2026
+    - **Biaya:** Rp45.000 (Infografis SMA), Rp80.000 (Infografis Mahasiswa), Rp90.000 (Data Mining)
+    - **Hadiah:** Uang pembinaan, trofi, e-sertifikat nasional
+    - **Link:** https://action-unesa.com/id
+
+32. **Dateraquest 2.0 - Data Science Competition ITERA** *(BARU 19 Okt)*
+    - **Penyelenggara:** HMSD Adyatama, Institut Teknologi Sumatera (ITERA)
+    - **Target Peserta:** Mahasiswa aktif S1 se-Indonesia (tim 2-3 orang)
+    - **Lokasi:** Online (pembukaan & technical meeting 7 November 2026)
+    - **Deadline:** Batch 1 (Rp60.000) s.d. 14 Oktober 2026; Batch 2 (Rp70.000) s.d. 31 Oktober 2026
+    - **Kategori:** Interactive Dashboard Creation, Machine Learning Competition, Essay Quest
+    - **Hadiah:** Total hingga Rp10.000.000 + e-sertifikat untuk semua peserta
+    - **Link:** https://hmsd.itera.ac.id/ (cek no. agenda resmi HMSD ITERA)
+
+33. **InfiniSynapse Vibe Coding Hackathon 2026** *(BARU 19 Okt)*
+    - **Penyelenggara:** InfiniSynapse
+    - **Target Peserta:** Developer, mahasiswa, umum (global)
+    - **Lokasi:** Online (jendela build 10-31 Oktober 2026)
+    - **Deadline:** Pendaftaran & pengumpulan s.d. 31 Oktober 2026 Pasifik (selesai 1 November 2026 pukul 06.59 WIB)
+    - **Biaya:** Gratis
+    - **Hadiah:** Total USD 3.000 tunai (Juara 1 USD 900, 2x Juara 2 USD 600, 3x Juara 3 USD 300); wajib membangun aplikasi web/mobile/desktop yang benar-benar berjalan
+    - **Link:** https://luma.com/ (cari InfiniSynapse Vibe Coding Hackathon)
+
+34. **STEMergent Hacks 2026** *(BARU 19 Okt)*
+    - **Penyelenggara:** STEMergent (via Devpost)
+    - **Target Peserta:** Pelajar berusia 13+ tahun dari semua negara (individu atau tim)
+    - **Lokasi:** Online (global / Devpost)
+    - **Deadline:** Submission dibuka 17 s.d. 31 Oktober 2026 (21.30 CDT); pemenang diumumkan 11 November 2026
+    - **Kategori:** Ideathon (cukup rancangan solusi) & Hackathon (wajib prototipe aplikasi/situs/perangkat)
+    - **Biaya:** Perlu dicek di link resmi
+    - **Hadiah:** Peran developer/intern di STEMergent untuk 5 pemenang + hadiah tambahan
+    - **Link:** https://devpost.com/hackathons (cari STEMergent Hacks 2026)
+
+35. **AI Builder Challenge 2026 - Xdemia x ARSA Indonesia** *(BARU 19 Okt)*
+    - **Penyelenggara:** Xdemia bersama ARSA Indonesia
+    - **Target Peserta:** Mahasiswa aktif se-Indonesia (tim 3-4 orang, setiap anggota wajib unggah KTM)
+    - **Lokasi:** Online (proposal & build sprint November 2026; semifinal pitching akhir November; grand final Desember 2026)
+    - **Deadline:** Registrasi Early Bird s.d. 10 Oktober 2026; Registrasi Normal s.d. 30 Oktober 2026
+    - **Kategori:** General (masalah bebas) & ARSA Case Track (facility management & IoT)
+    - **Biaya:** Gratis
+    - **Hadiah:** Hingga Rp25.000.000 (menyesuaikan jumlah peserta terverifikasi)
+    - **Link:** https://xdemia.id/ (jika tidak diakses, cari pengumuman resmi Xdemia di LinkedIn)
