@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 18 Oktober 2026*
+*Terakhir diperbarui: 19 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -83,12 +83,12 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Biaya:** Rp0 (Free Tier) / Rp50.000 (Pro Certificate)
     - **Link:** https://buildwithangga.com/kelas/vibe-coding-to-vps-event-ticketing-saas-with-claude-code
 
-11. **SkolaTalk #136: Vibe Coding - From Zero to Code: Your First Step into Programming**
+11. **SkolaTalk #136: Vibe Coding: Ubah Kendala Kerja Jadi Aplikasi**
     - **Penyelenggara:** Digital Skola
     - **Target Peserta:** Pemula, Mahasiswa, Tech & Coding Enthusiast
     - **Format:** Live Interactive Webinar
     - **Jadwal:** Jumat, 23 Oktober 2026 (19.15 - 21.15 WIB)
-    - **Biaya:** GRATIS + E-Certificate & Networking
+    - **Biaya:** GRATIS + E-Certificate, Hands-on Coding & Komunitas Discord
     - **Link:** https://digitalskola.com/free-class/vc-136
 
 12. **MySkill Free Short Class: Software Engineering (Front End & CSS Introduction)**
@@ -172,12 +172,12 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Link:** https://myskill.id/bootcamp/website-development-short-class
 
 22. **Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud**
-    - **Penyelenggara:** Stream Solution Labs & Komunitas AI Cloud Surabaya
+    - **Penyelenggara:** GDG Cloud Surabaya (Stream Solution Labs & Komunitas AI Cloud Surabaya)
     - **Target Peserta:** Developer, Mahasiswa Informatika, Cloud & AI Enthusiast
     - **Format:** Live Interactive Online Workshop
-    - **Jadwal:** 21 November 2026 (09:00 - 18:00 WIB)
+    - **Jadwal:** 21 November 2026 (ada dua konfigurasi waktu: 09.00 WIB edisi allai.events & 09.00 WIB edisi GDG)
     - **Biaya:** Akses sesi online (cek link tiket resmi)
-    - **Link:** https://allai.events/event/cloud-devfest-surabaya-26-building-safe-secure--scalable-solutions-with-ai-and-cloud
+    - **Link:** https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-cloud-devfest-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/
 
 23. **Workshop Eksklusif: Machine Learning untuk Penelitian Tanpa Coding**
     - **Penyelenggara:** KelasRiset.id
@@ -202,3 +202,75 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Jadwal:** Pendaftaran aktif s.d. 25 Desember 2026
     - **Biaya:** 100% GRATIS (Beasiswa Pelatihan Penuh)
     - **Link:** https://indbeasiswa.com/beasiswa-aws/
+
+26. **Kartika Cyber Hackathon 2026: Opening Ceremony (Gratis)** *(BARU 19 Okt)*
+    - **Penyelenggara:** PUSSIBERAD TNI AD x COMET/CODEPOLITAN
+    - **Target Peserta:** Developer, cybersecurity enthusiast, mahasiswa & pelajar
+    - **Format:** Online via Zoom (ceremonial opening)
+    - **Jadwal:** Senin, 19 Oktober 2026 (19.00 WIB)
+    - **Biaya:** GRATIS
+    - **Benefit:** Mengenal kompetisi hackathon nasional TNI AD, hadiah ratusan juta, kesempatan jadi Tentara Siber
+    - **Link:** https://www.codepolitan.com/events/kartika-cyber-hackathon-2026/
+
+27. **GitHub Copilot x Sectors Community Meetup: Build & Ship a Live IDX Stock App** *(BARU 19 Okt)*
+    - **Penyelenggara:** Supertype (komunitas developer Indonesia)
+    - **Target Peserta:** Student, analyst, career switcher, tech curious — tanpa latar belakang coding/finance pun bisa
+    - **Format:** Hands-on Classroom (offline Jakarta & online Zoom)
+    - **Jadwal:** Sabtu, 31 Oktober 2026 (13.00 - 16.00 WIB)
+    - **Biaya:** IDR 159.000 (termasuk akses rekaman + 3.000 API credits Sectors)
+    - **Benefit:** Build & deploy aplikasi IDX stock tracker live di web dengan GitHub Copilot dan data pasar saham real-time
+    - **Link:** https://supertype.ai/events/copilot
+
+28. **DevDay Exchange Community: Jakarta** *(BARU 19 Okt)*
+    - **Penyelenggara:** Build Club / Naufaldi (Codex Ambassador) x OpenAI Developer Community
+    - **Target Peserta:** Developer, founder, mahasiswa, desainer, marketer — siapa pun yang menggunakan ChatGPT/Codex
+    - **Format:** Offline Meetup di fX Sudirman (check-in 09.30, program 10.00 - 14.00 WIB)
+    - **Jadwal:** Minggu, 15 November 2026
+    - **Biaya:** GRATIS (usulan pipelining $100 Codex credits + $50 API credits per peserta, tergantung approval OpenAI)
+    - **Benefit:** DevDay watch session, tech talks, live Q&A, networking dengan builder Jakarta
+    - **Link:** https://luma.com/dtu7sxtr
+
+29. **DevFest Jakarta 2026 (GDG Jakarta)** *(BARU 19 Okt)*
+    - **Penyelenggara:** Google Developer Group (GDG) Jakarta
+    - **Target Peserta:** Developer, mahasiswa, pemula AI
+    - **Format:** Hybrid (Gedung Sasono Utomo TMII, Jakarta Timur & streaming online), 09.00 - 17.00 WIB
+    - **Jadwal:** Minggu, 1 November 2026
+    - **Biaya:** Perlu dicek di link pendaftaran (umumnya gratis/berbayar rendah)
+    - **Benefit:** Track AI, Android, Cloud, Web & Flutter; workshop hands-on; networking dengan komunitas developer terbesar Jakarta
+    - **Link:** https://gdgjakarta.com/events/132640
+
+30. **Workshop A.I & AI Hackathon (Jakarta Architecture Festival 2026)** *(BARU 19 Okt)*
+    - **Penyelenggara:** Ikatan Arsitek Indonesia (IAI) Jakarta — program M(UTABLE)-BLOCK
+    - **Target Peserta:** Arsitek, mahasiswa, masyarakat umum
+    - **Format:** Hybrid (Melting Pop, M Bloc Space Jakarta & online)
+    - **Jadwal:** Sabtu, 24 Oktober 2026 (Workshop 10.00-12.00 WIB; AI Hackathon 13.30-17.30 WIB)
+    - **Biaya:** Workshop Rp50.000 (mahasiswa) / Rp75.000 (umum) & Hackathon Rp75.000; GRATIS bagi peserta AI Hackathon
+    - **Benefit:** Eksplorasi AI dalam arsitektur & lingkungan binaan; nilai KUM (skema arsitek); seat terbatas
+    - **Link:** https://iai-jakarta.org/acara/detail/workshop-ai-ai-hackathon
+
+31. **DevHandal 2026 Batch 2: Vibe Coding & Edge Computing dengan Tencent EdgeOne** *(BARU 19 Okt)*
+    - **Penyelenggara:** CODEPOLITAN x Tencent EdgeOne
+    - **Target Peserta:** Developer lokal Indonesia, mahasiswa, kreator konten teknologi
+    - **Format:** Challenge online + beasiswa kelas (self-paced)
+    - **Jadwal:** Pendaftaran sudah DITUTUP (tahap penyelesaian misi berlangsung hingga penutupan submisi); pantau untuk Batch 3
+    - **Biaya:** GRATIS
+    - **Benefit:** Beasiswa 3 kelas premium senilai Rp2.310.000, 5 juta token API EdgeOne Makers, sertifikat peluang kreator Tencent Cloud
+    - **Link:** https://devhandal2026.codepolitan.com/
+
+32. **Kompetisi Olimpiade Informatika untuk SMA/SMK — Workshop Pelatihan AI Gratis (NAISC 2026)** *(BARU 19 Okt)*
+    - **Penyelenggara:** BIM University x UMS (Bali National AI Summit & Competition)
+    - **Target Peserta:** Siswa SMA/SMK/MA sederajat se-Indonesia
+    - **Format:** Workshop/Pelatihan AI gratis
+    - **Jadwal:** Pendaftaran workshop s.d. 21 November 2026
+    - **Biaya:** GRATIS (biaya kompetisi Rp50.000/tim terpisah)
+    - **Benefit:** Pelatihan AI dasar sebelum kompetisi nasional
+    - **Link:** https://edutrend.id/bim-university-dan-ums-kolaborasi-gelar-bali-national-ai-summit-competition-2026-ajak-siswa-sma-smk-kuasai-kecerdasan-buatan/
+
+33. **Program Pelatihan Google Generative AI (Hybrid UNPRI)** *(BARU 19 Okt)*
+    - **Penyelenggara:** Universitas Prima Indonesia (UNPRI) x SmartBridge x Anugrah Rezeki Sejahtera
+    - **Target Peserta:** Mahasiswa, Pegawai, Dosen (civitas UNPRI & umum)
+    - **Format:** Hybrid (kampus UNPRI & Online Meeting), 08.00-12.00 WIB
+    - **Jadwal:** Sesi 2: Sabtu, 17 Oktober 2026
+    - **Biaya:** GRATIS
+    - **Benefit:** Sertifikat penyelesaian Google GenAI & lencana resmi Google, materi prompt engineering, Gemini, AI agentic
+    - **Link:** https://spada.unprimdn.ac.id/
