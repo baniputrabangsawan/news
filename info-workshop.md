@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 19 Oktober 2026*
+*Terakhir diperbarui: 20 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -274,3 +274,48 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Biaya:** GRATIS
     - **Benefit:** Sertifikat penyelesaian Google GenAI & lencana resmi Google, materi prompt engineering, Gemini, AI agentic
     - **Link:** https://spada.unprimdn.ac.id/
+
+34. **Vibe Coding Camp Informational Webinar: Turn Designs into Functional Apps** *(BARU 20 Okt)*
+    - **Penyelenggara:** Designlab / Designed.org
+    - **Target Peserta:** UI/UX Designer, Product Designer, Pemula & Mahasiswa
+    - **Format:** Live Online Webinar
+    - **Jadwal:** Rabu, 21 Oktober 2026
+    - **Biaya:** GRATIS
+    - **Benefit:** Mengenal workflow mengubah desain statis menjadi aplikasi fungsional menggunakan Claude Code, Supabase, dan Vercel
+    - **Link:** https://designed.org/events
+
+35. **Learn How to Turn Your Figma Design to Code with AI** *(BARU 20 Okt)*
+    - **Penyelenggara:** Luma Design-to-Code Community
+    - **Target Peserta:** UX/UI Designer, Product Manager, Mahasiswa & AI Enthusiast (tanpa perlu background coding)
+    - **Format:** Weekly Live Hands-On Workshop & Q&A Online
+    - **Jadwal:** Setiap Kamis (Sesi Live Mingguan Oktober – November 2026)
+    - **Biaya:** GRATIS
+    - **Benefit:** Demo langsung konversi prototipe Figma ke production-ready code menggunakan Cursor AI, Bolt, Lovable, v0, dan Replit
+    - **Link:** https://luma.com/han2rg2d
+
+36. **Build an AI Agent with AI-Assisted Coding (Cursor & Claude Code)** *(BARU 20 Okt)*
+    - **Penyelenggara:** Vanishing Gradients (Hugo Bowne-Anderson, Isaac Flath & Eleanor Berger)
+    - **Target Peserta:** Mahasiswa, Software Developer, Data Scientist & AI Builder
+    - **Format:** Live Hands-On Online Workshop
+    - **Jadwal:** Sesi Terbuka (cek jadwal live di halaman Luma)
+    - **Biaya:** GRATIS
+    - **Benefit:** Praktik merancang, memprototipe, dan membangun retrieval-based AI agent end-to-end dengan Python, Cursor, dan Claude Code
+    - **Link:** https://luma.com/lod1h6s5
+
+37. **freeCodeCamp x Encode | AI Edition: Make Your Own Local-First AI Assistant** *(BARU 20 Okt)*
+    - **Penyelenggara:** freeCodeCamp London & Encode Club
+    - **Target Peserta:** Pemula hingga mahir, Mahasiswa & Developer Open-Source AI
+    - **Format:** Hands-On Workshop (London & Komunitas Discord/Materi Online)
+    - **Jadwal:** Rabu, 5 November 2026 (18.00 – 20.15 GMT)
+    - **Biaya:** GRATIS
+    - **Benefit:** Belajar membangun asisten AI lokal dengan Ollama/LMStudio, RAG, agentic web search, dan MCP workflows
+    - **Link:** https://luma.com/juy7t6rl
+
+38. **Workshop | Build a Landing Page Using Your Design System and Claude** *(BARU 20 Okt)*
+    - **Penyelenggara:** Uxcel x Serg Lotz (webentity.ai)
+    - **Target Peserta:** UX/UI Designer, Product Designer, Frontend Builder (Beginner friendly)
+    - **Format:** Live Hands-On Workshop via Zoom (90 menit)
+    - **Jadwal:** Oktober – November 2026 (cek jadwal sesi di Luma)
+    - **Biaya:** Berbayar ($59 Uxcel Pro / $100 Standard, termasuk rekaman & prompt library)
+    - **Benefit:** Membuat custom Claude skill dari design tokens/style guide untuk generate landing page sesuai brand
+    - **Link:** https://luma.com/UxcelClaudeDesignSystem
