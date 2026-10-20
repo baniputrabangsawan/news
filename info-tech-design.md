@@ -1,64 +1,71 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 18 Oktober 2026*
+*Terakhir diperbarui: 20 Oktober 2026*
 
 ---
 
 ## 🛠️ DEVELOPER TOOLS & AI AGENT FRAMEWORKS
 
-### 1. Cline CLI v3.0.73 & Cline Cloud Sessions (`cline/cline`)
-Pembaruan signifikan pada ekosistem coding agent open-source terpopuler:
-- **Dukungan Model Generasi Baru (GPT-6 Ready):** Cline CLI v3.0.73 dan SDK v0.0.95 mengoptimalkan parameter request dengan beralih ke `max_completion_tokens` serta menambahkan provider baru seperti CommandCode dan Reflection.
-- **Cline Cloud Sessions (v4.1.25):** Memungkinkan developer menjalankan task agent otonom di sandbox cloud terisolasi yang langsung terhubung ke repository dan branch GitHub target tanpa membebani mesin lokal.
-- **Pemisahan Worker Plugins:** Arsitektur plugin kini dipindahkan ke proses worker terpisah di luar core hub (menghentikan mode `in_process`) untuk stabilitas dan keamanan eksekusi script tools pihak ketiga.
-🔗 [GitHub - cline/cline](https://github.com/cline/cline) | [Release Notes](https://github.com/cline/cline/releases)
+### 1. Agno v3.1.6 (`agno-agi/agno`) — Multimodal Eval Suite, Result Offloading & Sandboxed Harness
+Pembaruan terbaru runtime orkestrasi multi-agen berkinerja tinggi (rilis 19 Oktober 2026):
+- **Multimodal & Multi-Turn Eval Cases (v3.1.6):** `Case` evaluasi kini menerima `session_id`, `user_id`, `session_state`, `dependencies`, `metadata`, dan `knowledge_filters`, serta objek `Message` yang memungkinkan lampiran gambar atau file langsung pada giliran evaluasi berurutan.
+- **Result Offloading Search & OS Manager Docs Access:** Fungsi `search_result` kini mampu mengekstrak beberapa bagian relevan dari satu baris panjang (seperti single-line JSON), dilengkapi `read_result(max_chars=...)` dan akses dokumentasi langsung pada OS Manager.
+- **Per-Session Sandboxed Harness (v3.1.4+):** Eksekusi `ClaudeAgent` dan `CodexAgent` di dalam sandbox terisolasi per-sesi (Docker lokal maupun Amazon Bedrock AgentCore) dengan antrean tugas persisten (*durable queueing*).
+🔗 [GitHub - agno-agi/agno](https://github.com/agno-agi/agno) | [Release v3.1.6](https://github.com/agno-agi/agno/releases/tag/v3.1.6)
 
-### 2. Claude Code v2.1.302 (`anthropic/claude-code`)
+### 2. LangGraph v1.2.16, CLI v0.4.37 & Managed Deep Agents v0.9 (`langchain-ai/langgraph`)
+Rangkaian rilis infrastruktur agen berdurasi panjang dari ekosistem LangChain (16–19 Oktober 2026):
+- **LangGraph CLI v0.4.37 & Serverless Default:** Menjadikan deployment serverless sebagai opsi bawaan pada CLI serta membersihkan kebocoran *stdin* subprocess pada log verbose.
+- **LangGraph v1.2.16 & Postgres Checkpoint v3.2.0:** Menambahkan metode `prune` pada `PostgresSaver` dan `AsyncPostgresSaver` untuk manajemen ukuran state database, mencegah subgraph mengulang task yang sudah selesai saat *resume*, serta memperbaiki penanganan error stream di `langgraph-sdk==0.4.8`.
+- **Managed Deep Agents v0.9 & Per-Call Tool Guardrails:** Dukungan penjadwalan (*schedules*), konfigurasi per-run, reaksi Slack interaktif, serta validasi ketat edit argumen tool terhadap skema asli pada mode *human-in-the-loop*.
+🔗 [GitHub - langchain-ai/langgraph](https://github.com/langchain-ai/langgraph/releases) | [LangChain Changelog](https://docs.langchain.com/oss/python/releases/changelog)
+
+### 3. Vercel AI SDK (`ai@7.0.143` / `@ai-sdk/workflow-harness@1.0.154`) & Vercel Connect MCP
+Pembaruan toolkit TypeScript utama untuk aplikasi dan agen AI (16–19 Oktober 2026):
+- **Workflow Harness & Multi-Framework Sync:** Pembaruan paket `@ai-sdk/workflow-harness@1.0.154`, `@ai-sdk/provider-utils@5.0.62`, dan `@ai-sdk/zai@2.0.14` untuk eksekusi `ToolLoopAgent` yang lebih stabil di Next.js, Vue, Svelte, dan Node.js.
+- **Vercel Connect untuk OAuth MCP Clients:** Helper `connectAuthProvider()` menyuplai token OAuth berumur pendek ke client MCP sehingga agen AI dapat memanggil tool pihak ketiga (seperti Linear atau GitHub) dengan alur persetujuan pengguna tanpa menyimpan kredensial di aplikasi.
+- **Ekspansi Model AI Gateway:** Dukungan routing terpadu ke lebih dari 400 model termasuk GPT-6 Astra, Claude Sonnet 5.5, Claude Haiku 5.5, dan Gemini 4 Argon.
+🔗 [Vercel AI SDK Docs](https://vercel.com/docs/ai-sdk) | [GitHub - vercel/ai](https://github.com/vercel/ai/releases)
+
+### 4. Cline Desktop v0.0.48, CLI v3.0.73 & Cloud Sessions (`cline/cline`)
+Ekspansi besar pada ekosistem coding agent open-source terpopuler (17 Oktober 2026):
+- **Cline Desktop v0.0.48:** Peluncuran paket aplikasi desktop native lintas platform (macOS Universal `.dmg`, Linux `.deb`/`.rpm` untuk arsitektur x64 & ARM64, serta Windows installer) dengan tanda tangan kriptografi penuh.
+- **Dukungan Model Generasi Baru (GPT-6 Ready):** Cline CLI v3.0.73 dan SDK v0.0.95 mengoptimalkan parameter request dengan `max_completion_tokens` serta mengisolasi *worker plugins* di luar core hub untuk keamanan eksekusi.
+- **Cline Cloud Sessions (v4.1.25):** Menjalankan task agen otonom di sandbox cloud terisolasi yang terhubung langsung ke repositori dan branch GitHub target.
+🔗 [GitHub - cline/cline](https://github.com/cline/cline) | [Releases](https://github.com/cline/cline/releases)
+
+### 5. Claude Code v2.1.302 (`anthropic/claude-code`)
 Rilis stabil terbaru untuk CLI coding agent resmi dari Anthropic:
 - **Auto Mode Classifier Model (`CLAUDE_CODE_AUTO_MODE_MODEL`):** Penambahan konfigurasi environment variable untuk memilih model classifier khusus pada auto mode sisi klien, meningkatkan efisiensi pemilihan tool dan eksekusi instruksi.
 - **Reliability & Retry Limits:** Pengaturan batas retry yang lebih adaptif saat menangani kegagalan tool calls, perbaikan context compaction, serta pembersihan worktree Git otomatis.
-- **Workflow Developer:** Dukungan pencocokan kurung (bracket matching) pada Vim mode, integrasi sesi Cloud yang lebih tangguh, dan penyempurnaan sub-agent defaults.
+- **Workflow Developer:** Dukungan pencocokan kurung (*bracket matching*) pada Vim mode, integrasi sesi Cloud yang lebih tangguh, dan penyempurnaan sub-agent defaults.
 🔗 [Anthropic Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) | [AI Agent News Tracker](https://aiagentnews.io/topics/frameworks)
 
-### 3. AWS Labs AI-DLC Workflows (`awslabs/aidlc-workflows`)
+### 6. AWS Labs AI-DLC Workflows (`awslabs/aidlc-workflows`)
 Framework workflow steering open-source dari AWS Labs untuk menyusun siklus software delivery agen:
 - **Adaptive Workflow Rules:** Mengubah asisten coding AI dari sekadar autokomplet kode menjadi alur kerja rekayasa perangkat lunak terstruktur, terverifikasi, dan patuh standar DevOps.
 - **Universal CLI Harness:** Memiliki satu core engine bersama yang dapat berjalan serentak di Claude Code, Kiro, Codex CLI, Cursor, opencode, dan GitHub Copilot melalui perintah terpadu `aidlc`.
 - **Verifiable Gateways:** Menegakkan tahap evaluasi otomatis, unit testing, dan validasi arsitektur sebelum perubahan kode diajukan ke pull request.
 🔗 [GitHub - awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
 
-### 4. Agno v3.1.4 (`agno-agi/agno`) — Sandboxed Multi-Agent Harness
-Pembaruan besar runtime orkestrasi AI agent dengan isolasi sandbox tingkat produksi:
-- **Per-Session Sandboxed Harness:** `ClaudeAgent` dan `CodexAgent` kini dapat mengeksekusi instruksi dan tool commands di dalam sandbox terisolasi per-sesi, dengan restorasi state yang mulus dari checkpoint.
-- **Provider Sandbox Fleksibel:** Integrasi bawaan dengan container Docker lokal dan sandbox serverless cloud Amazon Bedrock AgentCore.
-- **Durable Per-Session Queueing:** Antrean tugas persisten yang menjalankan durable background jobs secara berurutan dan tahan terhadap gangguan koneksi jaringan.
-🔗 [GitHub - agno-agi/agno](https://github.com/agno-agi/agno) | [Docs - agno.com](https://docs.agno.com)
-
-### 5. Pydantic AI v2.57.0 (`pydantic/pydantic-ai`) — Automated Tool Reviewer
-Framework agentic Python berbasis type-safe dari tim pembuat Pydantic:
+### 7. Pydantic AI v2.57.0 (`pydantic/pydantic-ai`) — Automated Tool Reviewer
+Framework agentic Python berbasis type-safe dari tim pembuat Pydantic (16 Oktober 2026):
 - **Harness ApprovalReviewer:** Mekanisme reviewer agentic bawaan di mana model AI evaluator dapat memverifikasi dan menyetujui tool calls berisiko rendah secara otomatis sebelum mengekskalasi aksi berisiko tinggi ke tinjauan manusia (*human-in-the-loop*).
 - **MetaProvider Muse Models:** Integrasi langsung dengan keluarga model Meta Muse melalui interface provider terstandarisasi.
 - **Conversation State Caching:** Kemampuan prompt caching lintas provider (Anthropic, OpenAI, Bedrock) dan objek Conversation persisten antar turn eksekusi.
-🔗 [GitHub - pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Release Notes](https://github.com/pydantic/pydantic-ai/releases)
+🔗 [GitHub - pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Release v2.57.0](https://github.com/pydantic/pydantic-ai/releases/tag/v2.57.0)
 
-### 6. OpenAI Agents SDK Python v0.24.0 (`openai/openai-agents-python`)
-Pembaruan resmi SDK agen otonom dari OpenAI:
-- **Run-Wide Tool Error Formatter:** Layer formatting error terpusat yang menstandarisasi pelaporan galat dari tool eksekusi ke model penalaran, mengurangi halusinasi saat tool gagal.
-- **MCP Annotations:** Dukungan anotasi metadata Model Context Protocol (MCP) pada fungsi yang dikonversi menjadi tool agen, mempermudah ekspor tool ke client MCP eksternal.
-- **Memory Consolidation Improvements:** Peningkatan algoritma pemangkasan konteks dan sinkronisasi memori jangka panjang berbasis token budget.
+### 8. OpenAI Agents SDK Python v0.24.0 (`openai/openai-agents-python`)
+Pembaruan resmi SDK agen otonom dari OpenAI (15 Oktober 2026):
+- **Run-Wide Tool Error Formatter:** Layer formatting error terpusat (`kind="tool_exception"`) yang menstandarisasi pelaporan galat dari fungsi tool ke model penalaran tanpa mengekspos traceback mentah.
+- **MCP Annotations & Durable RunState Schema 1.21:** Dukungan anotasi metadata Model Context Protocol (`mcp_annotations`) pada tool agen, serta peningkatan pemulihan sesi (Redis atomic compaction & 20-item batching di Conversations API).
+- **macOS Local Sandbox Hardening:** Pemblokiran akses Launch Services pada profil sandbox lokal macOS untuk mencegah eksekusi aplikasi host tanpa izin.
 🔗 [GitHub Release - openai-agents-python v0.24.0](https://github.com/openai/openai-agents-python/releases/tag/v0.24.0)
 
-### 7. Google ADK Kotlin 1.0 & Antigravity SDK Local Models
-Ekspansi ekosistem agen dari Google untuk mobile dan on-device execution:
-- **ADK for Kotlin 1.0 (GA):** Agent Development Kit resmi untuk Kotlin dan Android, memungkinkan pembuatan agen produksi native dengan akses langsung ke sensor dan API perangkat mobile.
-- **Antigravity SDK Local Model Support:** Kemampuan menjalankan agen penuh pada model lokal via LiteRT (didukung oleh arsitektur Gemma 4 26B A4B) serta kompatibilitas dengan inference engine lokal (Ollama, LM Studio, vLLM).
-🔗 [Google Developers Blog - ADK Kotlin 1.0](https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond)
-
-### 8. Microsoft Agent Framework (MAF) python-1.22.0
-Fondasi runtime agen skala enterprise dari Microsoft:
-- **Python 3.15 Ready:** Dukungan resmi runtime Python 3.15 pada core package dan modul orkestrasi utama.
-- **Protokol Agent-to-Agent (A2A) & Stream-Merge:** Standardisasi semantik penggabungan stream data multi-agen lintas provider dan delegasi tugas otonom antar tim agen.
-- **OAuth Consent in Responses:** Deteksi kebutuhan persetujuan OAuth secara non-streaming pada konektor Foundry dan layanan pihak ketiga.
-🔗 [GitHub - microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Release Notes](https://github.com/microsoft/agent-framework/releases/tag/python-1.22.0)
+### 9. Google ADK Kotlin 1.0 & Microsoft Agent Framework python-1.22.0
+Ekspansi ekosistem agen mobile dan enterprise:
+- **Google ADK for Kotlin 1.0 (GA) & Antigravity Local Models:** Pembuatan agen produksi native Android/Kotlin dengan eksekusi model lokal via LiteRT (Gemma 4 26B A4B) serta kompatibilitas Ollama, LM Studio, dan vLLM.
+- **Microsoft Agent Framework (MAF) python-1.22.0:** Dukungan penuh runtime Python 3.15, protokol *Agent-to-Agent (A2A)* dengan *stream-merge* lintas provider, dan deteksi persetujuan OAuth otomatis di konektor Foundry.
+🔗 [Google ADK Kotlin 1.0](https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond) | [Microsoft Agent Framework](https://github.com/microsoft/agent-framework/releases/tag/python-1.22.0)
 
 ---
 
@@ -91,30 +98,29 @@ Tata kelola design system modern untuk era kolaborasi manusia dan agen:
 - **System Map & System Check:** Visualisasi dependency graph lintas library dan pemindaian otomatis (*system check*) untuk mendeteksi token drift, missing interactive states (hover, pressed, focus), dan isu aksesibilitas.
 🔗 [Figma Blog - Design Systems Governance](https://www.figma.com/blog/build-by-design/)
 
-### 5. Figma MCP Server Upgrade: 20+ Partner Baru & Manipulasi Kanvas Langsung
-Ekspansi besar protokol Model Context Protocol (MCP) resmi Figma:
-- **Latensi Rendah & Aksi Langsung:** AI coding agent kini dapat memanipulasi code layers, mengedit dokumen specs, dan membuat aset kanvas secara instan tanpa perantara manual.
-- **Dukungan 20+ Partner AI:** Memperluas integrasi langsung dengan Cursor, Claude Code, Antigravity, OpenCode, dan platform IDE generasi baru lainnya.
-🔗 [Figma Help Center - Config India MCP](https://help.figma.com/hc/en-us/articles/43663368947863-What-s-new-from-Config-India-2026)
+### 5. Figma MCP Server Upgrade & Post Riffs ke Figma Community
+Ekspansi besar protokol Model Context Protocol (MCP) resmi dan kolaborasi komunitas di Figma:
+- **Latensi Rendah & Aksi Langsung:** AI coding agent kini dapat memanipulasi code layers, mengedit dokumen specs, dan membuat aset gambar di kanvas secara instan dengan dukungan 20+ partner AI baru (Cursor, Claude Code, Antigravity, OpenCode).
+- **Post Riffs to Figma Community:** Kemampuan membagikan hasil remix (*riffs*) dari file komunitas dan prototipe interaktif secara langsung kembali ke halaman Figma Community untuk mempercepat eksplorasi desain terbuka.
+🔗 [Figma Release Notes](https://www.figma.com/release-notes/) | [Config India MCP](https://help.figma.com/hc/en-us/articles/43663368947863-What-s-new-from-Config-India-2026)
 
-### 6. Functional Motion Design & Timeline Audio Synchronization
-Evolusi animasi antarmuka menuju standar industri modern:
-- **Sound UI & Waveform Timeline:** Memungkinkan desainer menyeret file audio ke timeline Figma Motion untuk menyelaraskan efek suara (sound effects) dengan keyframes animasi tombol dan transisi layar.
-- **Granular Text Animations:** Animasi tipografi per-kata atau per-karakter yang tetap menjaga teks sepenuhnya dapat diedit (*fully editable text layer*).
-- **Format Ekspor Portabel:** Dukungan ekspor native ke format dotLottie (`.lottie`), React Motion code snippets, serta video MP4/WebM untuk presentasi stakeholder.
-🔗 [Figma Release Notes - Motion Update](https://www.figma.com/release-notes/)
+### 6. Vercel AI Elements (`vercel/ai-elements`) & Framer Liquid Glass UI
+Tren komponen antarmuka generatif dan estetika web interaktif Oktober 2026:
+- **Vercel AI Elements (October Update):** Koleksi komponen UI siap pakai berbasis shadcn/ui dan AI SDK untuk membangun antarmuka percakapan agen, *streaming reasoning traces*, *tool call cards*, dan *artifact previews* secara konsisten.
+- **Framer AI Design Agent & Cross-Browser Liquid Glass:** Dukungan komponen *Liquid Glass* (refraksi kaca dinamis berbasis shader yang ramah browser mobile) serta integrasi langsung Framer dengan berbagai model AI untuk pembuatan situs web produksi instan.
+🔗 [GitHub - vercel/ai-elements](https://github.com/vercel/ai-elements) | [Framer AI](https://www.framer.com/)
 
-### 7. Vertical Wrap Auto Layout & CSS Flexbox Alignment
-Penyempurnaan arsitektur layout di Figma Design:
-- **Multi-Column Vertical Flow:** Konten berlebih (overflow) pada tata letak vertikal kini otomatis membungkus (wrap) ke kolom baru di sampingnya, mirip dengan properti CSS flexbox `flex-direction: column; flex-wrap: wrap;`.
-- **Desain Responsif Bebas Drift:** Menjaga kepadatan layout kartu dan grid tetap proporsional saat teks atau elemen dinamis bertambah panjang.
+### 7. Functional Motion Design, Timeline Audio Sync & Vertical Wrap Auto Layout
+Penyempurnaan arsitektur animasi dan tata letak responsif di Figma Design:
+- **Sound UI & Waveform Timeline:** Menyelaraskan efek suara dengan keyframes animasi tombol dan transisi layar, dilengkapi ekspor ke format dotLottie (`.lottie`), React Motion snippets, dan MP4/WebM.
+- **Multi-Column Vertical Flow:** Konten berlebih (*overflow*) pada tata letak vertikal otomatis membungkus (*wrap*) ke kolom baru di sampingnya layaknya CSS `flex-direction: column; flex-wrap: wrap;`.
+🔗 [Figma Release Notes - Motion & Layout Update](https://www.figma.com/release-notes/)
 
 ### 8. Agentic User Interfaces (AUI) & Ambient Adaptive UI
-Tren desain antarmuka software modern 2026:
-- **Antarmuka Berbasis Intent (Intent-Driven UI):** Pola visual tidak lagi membebani pengguna dengan deretan formulir statis, melainkan kartu dinamis kontekstual yang merangkum hasil kerja agen otonom.
-- **Human-in-the-Loop Confirmation Gates:** Micro-interaction elegan untuk konfirmasi aksi kritis (seperti transaksi atau modifikasi data besar) tanpa memutus alur kerja otomatis.
+Paradigma desain antarmuka software modern 2026:
+- **Intent-Driven UI & Confirmation Gates:** Menggantikan deretan formulir statis dengan kartu kontekstual dinamis serta *micro-interaction* persetujuan (*human-in-the-loop gates*) untuk aksi berisiko tinggi.
 - **Adaptive Ambient Mode:** Sistem palet warna antarmuka yang menyesuaikan kontras, saturasi, dan pencahayaan otomatis berdasarkan sensor cahaya ruangan dan preferensi visual perangkat.
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (18 Oktober 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (20 Oktober 2026).*
