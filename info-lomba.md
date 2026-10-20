@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 19 Oktober 2026*
+*Terakhir diperbarui: 20 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -307,3 +307,49 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Gratis
     - **Hadiah:** Hingga Rp25.000.000 (menyesuaikan jumlah peserta terverifikasi)
     - **Link:** https://xdemia.id/ (jika tidak diakses, cari pengumuman resmi Xdemia di LinkedIn)
+
+36. **Indonesia Innovative Technology (IIT) Challenge 2026** *(BARU 20 Okt)*
+    - **Penyelenggara:** BINUS University Alam Sutera x Accelist
+    - **Target Peserta:** Pelajar SD/SMP/SMA (Scratch Coding, Competitive Programming, Innovative Tech) & SMA Kelas 10-12 hingga Mahasiswa D3/D4/S1 (EcoQuest AI Web Application)
+    - **Lokasi:** Online (Penyisihan & Project Submission) & Onsite Final di BINUS Alam Sutera (12 Desember 2026)
+    - **Deadline:** 20 November 2026 (Penutupan Pendaftaran), 29 November 2026 (Pengumpulan Project), 5 Desember 2026 (Preliminary Competitive Programming)
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Total uang tunai Rp6.700.000, kesempatan beasiswa penuh hingga 4 tahun di BINUS, Gratis Full Stack Developer Bootcamp 2 bulan, medali & sertifikat
+    - **Link:** https://iitchallenge.com/iit-program
+
+37. **INDONERIS National IT Competition 2026** *(BARU 20 Okt)*
+    - **Penyelenggara:** Universitas Amikom Purwokerto
+    - **Target Peserta:** Mahasiswa aktif perguruan tinggi di Indonesia (tercatat di PDDIKTI)
+    - **Lokasi:** Online
+    - **Deadline:** Gelombang 1: 10 Agustus – 31 Oktober 2026; Gelombang 2: 1 – 30 November 2026 (Pengumuman 15 Desember 2026)
+    - **Biaya:** Gelombang 1 Rp150.000, Gelombang 2 Rp175.000
+    - **Hadiah:** Uang pembinaan, sertifikat nasional, dan publikasi inovasi teknologi
+    - **Link:** https://indoneris.amikompurwokerto.ac.id/
+
+38. **RECURSION 2.0 — National IT Event & Competition UNHAS 2026** *(BARU 20 Okt)*
+    - **Penyelenggara:** Departemen Teknik Informatika Universitas Hasanuddin (UNHAS)
+    - **Target Peserta:** Mahasiswa aktif (D3/D4/S1) seluruh perguruan tinggi di Indonesia
+    - **Lokasi:** Online (Pendaftaran & Penyisihan) & Final/Seminar Nasional
+    - **Deadline:** Cek jadwal per cabang di link resmi (Cabang: Competitive Programming, Capture The Flag / CTF, UI/UX Design, ICT Business Plan)
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Uang pembinaan, trofi kejuaraan nasional, dan e-sertifikat
+    - **Link:** https://recursion.id
+
+39. **Olimpiade TIK, Informatika, Koding dan Kecerdasan Artifisial (OTN 8) 2026** *(BARU 20 Okt)*
+    - **Penyelenggara:** KOGTIK PGRI (Komunitas Guru TIK & KKPI)
+    - **Target Peserta:** Siswa/peserta didik (SD/SMP/SMA/SMK), guru, dan pegiat teknologi pendidikan
+    - **Lokasi:** Jakarta International Convention Center (JICC) Senayan, Jakarta
+    - **Deadline:** Pelaksanaan 29 Oktober – 1 November 2026
+    - **Kategori:** AI, Coding, Robotik, Informatika, Film Digital, E-Sport
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Medali, piala, dan sertifikat prestasi tingkat nasional
+    - **Link:** https://gurupenggerakindonesia.id/?p=599
+
+40. **ICON XII & E-DOV Festival IX 2026** *(BARU 20 Okt)*
+    - **Penyelenggara:** HMJ IE FEB Universitas Riau (UNRI)
+    - **Target Peserta:** Siswa SMA/Sederajat, Gapyear, Mahasiswa, dan Umum
+    - **Lokasi:** Online & Nasional (Riau)
+    - **Deadline:** 26 Oktober 2026
+    - **Biaya:** Mulai Rp25.000
+    - **Hadiah:** Uang pembinaan, sertifikat nasional, dan penghargaan juara
+    - **Link:** https://infolomba.id/info-computer-multichallenge-day-1119
