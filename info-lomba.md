@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 20 Oktober 2026*
+*Terakhir diperbarui: 23 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -353,3 +353,22 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Mulai Rp25.000
     - **Hadiah:** Uang pembinaan, sertifikat nasional, dan penghargaan juara
     - **Link:** https://infolomba.id/info-computer-multichallenge-day-1119
+
+41. **AKSARA 2026 - Kompetisi Akademik & Riset Nasional** *(BARU 23 Okt)*
+    - **Penyelenggara:** AKSARA National Committee
+    - **Target Peserta:** Pelajar SMA/SMK/MA & Mahasiswa se-Indonesia
+    - **Lokasi:** Online
+    - **Deadline:** November 2026 (cek jadwal gelombang di link resmi)
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Medali, sertifikat tingkat nasional, dan uang pembinaan
+    - **Link:** https://infolomba.id/
+
+42. **NESTA 2026 - National Science & Technology Competition** *(BARU 23 Okt)*
+    - **Penyelenggara:** NESTA Indonesia
+    - **Target Peserta:** Siswa SMA/SMK sederajat & Mahasiswa
+    - **Lokasi:** Online
+    - **Deadline:** November 2026
+    - **Biaya:** Gratis / Berbayar sesuai jalur pendaftaran
+    - **Hadiah:** Sertifikat nasional, medali, dan penghargaan prestasi
+    - **Link:** https://kabarlomba.com/
+
