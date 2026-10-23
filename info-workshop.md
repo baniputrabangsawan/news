@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 20 Oktober 2026*
+*Terakhir diperbarui: 23 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -319,3 +319,22 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Biaya:** Berbayar ($59 Uxcel Pro / $100 Standard, termasuk rekaman & prompt library)
     - **Benefit:** Membuat custom Claude skill dari design tokens/style guide untuk generate landing page sesuai brand
     - **Link:** https://luma.com/UxcelClaudeDesignSystem
+
+39. **Design Systems x AI Webinar — Scaling UI/UX with AI** *(BARU 23 Okt)*
+    - **Penyelenggara:** Designlab Community
+    - **Target Peserta:** UI/UX Designer, Product Designer, Mahasiswa & Frontend Developer
+    - **Format:** Live Online Webinar
+    - **Jadwal:** Akhir Oktober – November 2026
+    - **Biaya:** GRATIS
+    - **Benefit:** Integrasi alur kerja AI ke dalam Design Systems modern
+    - **Link:** https://designed.org/events
+
+40. **Webinar Hobi Data: Beyond The Model (Data Science & ML Deployment)** *(BARU 23 Okt)*
+    - **Penyelenggara:** Komunitas Hobi Data
+    - **Target Peserta:** Mahasiswa Informatika/Statistika, Pemula Data Science & AI Enthusiast
+    - **Format:** Live Webinar via Zoom
+    - **Jadwal:** Oktober – November 2026 (cek jadwal sesi di halaman komunitas)
+    - **Biaya:** GRATIS / Donasi sukarela
+    - **Benefit:** Materi praktis machine learning deployment dan diskusi karier data
+    - **Link:** https://lu.ma/
+
