@@ -372,3 +372,30 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Sertifikat nasional, medali, dan penghargaan prestasi
     - **Link:** https://kabarlomba.com/
 
+43. **Vultr: Agent Rush Hackathon 2026** *(BARU 24 Okt)*
+    - **Penyelenggara:** Lablab.ai x Vultr
+    - **Target Peserta:** Developer, Mahasiswa, AI Engineer & Umum (Global/Indonesia)
+    - **Lokasi:** Hybrid (Online Build: 3–8 November 2026 | Onsite Phase: 8 November 2026)
+    - **Deadline:** 8 November 2026
+    - **Biaya:** Gratis
+    - **Hadiah:** Hadiah tunai & kredit cloud Vultr (cek rincian prize pool di link resmi)
+    - **Link:** https://lablab.ai/ai-hackathons
+
+44. **Meta VR Start Developer Competition 2026** *(BARU 24 Okt)*
+    - **Penyelenggara:** Meta / Dev.events
+    - **Target Peserta:** Developer AI/VR, Mahasiswa & Umum
+    - **Lokasi:** Online
+    - **Deadline:** 21 November 2026
+    - **Biaya:** Gratis
+    - **Hadiah:** Penghargaan developer, publikasi proyek & hadiah kompetisi resmi
+    - **Link:** https://dev.events/hackathons/AS/ID/ai
+
+45. **Code The Future: AI for a Better Indonesia 2026** *(BARU 24 Okt)*
+    - **Penyelenggara:** Code The Future Indonesia
+    - **Target Peserta:** Pelajar usia 14–17 tahun (tim beranggotakan 3 orang, bidang Web + AI Development)
+    - **Lokasi:** Indonesia (cek detail pelaksanaan di link resmi)
+    - **Deadline:** Pelaksanaan 19–20 Desember 2026
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Penghargaan inovasi, sertifikat, dan apresiasi juara
+    - **Link:** https://www.instagram.com/p/DXQxLmxD1a3/
+
