@@ -338,3 +338,30 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Benefit:** Materi praktis machine learning deployment dan diskusi karier data
     - **Link:** https://lu.ma/
 
+41. **ONE x BBPKK E-Learning Series: Digitalisasi Pekerjaan Administrasi dengan AI dan UiPath Automation** *(BARU 24 Okt)*
+    - **Penyelenggara:** Balai Besar Perluasan Kesempatan Kerja (BBPKK) Kemnaker x ONE Indonesia (@bbpkkofficial)
+    - **Target Peserta:** Siswa SMA/SMK, Mahasiswa, Fresh Graduate, dan Masyarakat Umum
+    - **Format:** Live Webinar via Zoom Meeting
+    - **Jadwal:** Rabu, 28 Oktober 2026 | 09.30 – 11.00 WIB
+    - **Biaya:** GRATIS
+    - **Benefit:** E-sertifikat resmi Kemnaker, materi aplikatif AI & UiPath Automation untuk dunia kerja
+    - **Link:** https://bbpkk.kemnaker.go.id/peserta/login
+
+42. **How to Be a Bad Vibe Coder — Recruitment Edition (AI Workflow & System Building)** *(BARU 24 Okt)*
+    - **Penyelenggara:** Sekolah Karir
+    - **Target Peserta:** Mahasiswa, Fresh Graduate, Early-Career Professionals, & AI Builder (tanpa perlu pengalaman coding)
+    - **Format:** Online Live Hands-On Workshop
+    - **Jadwal:** Sabtu, 24 Oktober 2026 (Week 2: Build the Product) & Sabtu, 31 Oktober 2026 (Week 3: Make It Real) | 09.00 WIB – selesai
+    - **Biaya:** Rp55.000 (Single Session) / Rp129.000 (Full Series)
+    - **Benefit:** Starter project, rekaman 30 hari, sertifikat, dan membangun portofolio AI Recruitment System end-to-end
+    - **Link:** https://sekolahkarir.id/badvibecoder
+
+43. **Indonesia AI Community x Claude Indonesia Community: Launch & Claude Code 101 Workshop** *(BARU 24 Okt)*
+    - **Penyelenggara:** Indonesia AI Community x Claude Indonesia Community x TOTM Labs x ClaudeSG
+    - **Target Peserta:** Developer, Founder, Mahasiswa, dan AI Builder di Indonesia
+    - **Format:** Hands-On Workshop & Live Build (Claude Code 101 & Freestyle Coding)
+    - **Jadwal:** 19.00 – 21.30 WIB (cek tanggal sesi terbaru di halaman Luma)
+    - **Biaya:** GRATIS (registrasi via Luma)
+    - **Benefit:** Praktik langsung membangun website & AI agent dengan Claude Code, networking komunitas AI Indonesia
+    - **Link:** https://luma.com/bzezz6ym
+
