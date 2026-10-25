@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 23 Oktober 2026*
+*Terakhir diperbarui: 25 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -364,4 +364,32 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Biaya:** GRATIS (registrasi via Luma)
     - **Benefit:** Praktik langsung membangun website & AI agent dengan Claude Code, networking komunitas AI Indonesia
     - **Link:** https://luma.com/bzezz6ym
+
+44. **AInnovate 2026: Building Future-Ready Digital Products (UI/UX, AI/ML & Full-Stack Workshop)** *(BARU 25 Okt)*
+    - **Penyelenggara:** Google Developer Groups (GDG) on Campus BINUS University Online x Arah.in
+    - **Target Peserta:** Mahasiswa, Aspiring UI/UX Designer, Developer (Front-End, Back-End, Mobile, Cloud, AI/ML)
+    - **Format:** Hands-On Workshop & Tech Talk
+    - **Jadwal:** Oktober – November 2026 (cek jadwal lengkap di halaman GDG Community)
+    - **Biaya:** GRATIS
+    - **Benefit:** Praktik pengembangan produk digital end-to-end dengan AI learning engine Arah.in (Ideation, Design Thinking, UI/UX, Cloud & AI/ML)
+    - **Link:** https://gdg.community.dev/events/details/google-gdg-on-campus-binus-university-online-jakarta-indonesia-presents-ainnovate-2026-ainnovate-2026-building-future-ready-digital-products
+
+45. **National Tech Seminar & Integrated AI Mentoring LOGICODIX 2026** *(BARU 25 Okt)*
+    - **Penyelenggara:** HIMTI Universitas Negeri Surabaya (UNESA) x Navasena
+    - **Target Peserta:** Siswa SMA/SMK, Mahasiswa Rumpun TI & Umum
+    - **Format:** Online Mentoring (Zoom) & Offline National Seminar (Auditorium Utama UNESA)
+    - **Jadwal:** Mentoring Daring: Sabtu, 7 November 2026 (09.30–15.30 WIB) | Seminar Nasional: Minggu, 29 November 2026
+    - **Biaya:** Gratis (Khusus Mahasiswa Rumpun TI 2026 / Peserta Hackathon) / Rp5.000 (Umum)
+    - **Benefit:** Materi Scaling Human Creativity with AI Innovation, AI API Integration, Prompt Engineering, UU PDP, Green IT & Sertifikat Nasional
+    - **Link:** https://www.logicodix2026.site/
+
+46. **AI for UX Design Informational Webinar & Cohort Session** *(BARU 25 Okt)*
+    - **Penyelenggara:** Designlab
+    - **Target Peserta:** UI/UX Designer, Product Designer, Mahasiswa Desain
+    - **Format:** Live Online Webinar via Livestorm
+    - **Jadwal:** Sesi Webinar Info terbuka | Cohort Mulai 6 November 2026
+    - **Biaya:** GRATIS (Informational Webinar)
+    - **Benefit:** Wawasan integrasi AI dalam riset dan alur kerja UX/Product Design modern
+    - **Link:** https://app.livestorm.co/designlab/ai-for-ux-design-informational-webinar
+
 
