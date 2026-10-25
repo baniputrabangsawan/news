@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 23 Oktober 2026*
+*Terakhir diperbarui: 25 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -398,4 +398,32 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Perlu dicek ulang di link resmi
     - **Hadiah:** Penghargaan inovasi, sertifikat, dan apresiasi juara
     - **Link:** https://www.instagram.com/p/DXQxLmxD1a3/
+
+46. **SpaceXAI Hackathon Indonesia 2026** *(BARU 25 Okt)*
+    - **Penyelenggara:** SpaceXAI for Jakarta, Indonesia
+    - **Target Peserta:** Developer, AI Engineer, Mahasiswa & Talenta Digital Indonesia
+    - **Lokasi:** Jakarta (Onsite / Hybrid)
+    - **Deadline:** Pelaksanaan 7–8 November 2026 (cek batas pendaftaran di link resmi)
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Prize pool kompetisi AI, mentoring & networking komunitas AI
+    - **Link:** https://indonesiahackathons.com/en/ai-hackathons
+
+47. **Indonesia Web3 & AI Hackathon 2026 — Demo Day** *(BARU 25 Okt)*
+    - **Penyelenggara:** Coinvestasi x Komunitas Web3 & AI Indonesia
+    - **Target Peserta:** Developer Web3/AI, Mahasiswa, Startup Builder
+    - **Lokasi:** Yogyakarta
+    - **Deadline:** Demo Day 31 Oktober 2026
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Hadiah pengembangan proyek, eksposur industri & jejaring investor
+    - **Link:** https://indonesiahackathons.com/en/ai-hackathons
+
+48. **Qwen Conference 2026 Breakout Session: On-Site Mini Hackathon** *(BARU 25 Okt)*
+    - **Penyelenggara:** Qwen Conference Indonesia
+    - **Target Peserta:** AI Developer, Mahasiswa Informatika, Machine Learning Enthusiast
+    - **Lokasi:** Jakarta (On-site)
+    - **Deadline:** Pelaksanaan 26 Desember 2026
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Penghargaan mini hackathon, merchandise eksklusif & sertifikat
+    - **Link:** https://indonesiahackathons.com/en/ai-hackathons
+
 
