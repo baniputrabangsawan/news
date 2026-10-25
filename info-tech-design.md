@@ -1,11 +1,18 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 24 Oktober 2026*
+*Terakhir diperbarui: 25 Oktober 2026*
 
 ---
 
 ## 🛠️ DEVELOPER TOOLS & AI AGENT FRAMEWORKS
 
-### 1. Agno v3.1.10 (`agno-agi/agno`) — AgentOS External Agent Runner, CodexAgent Auto-Sign-In & Company Write Scopes
+### 1. Google ADK 2.0 (Agent Development Kit) — Graph-Based Execution Engine & Cross-Language A2A Orchestration
+Pembaruan mayor framework agen open-source (Apache 2.0) dari Google untuk orkestrasi multi-agen skala produksi (Oktober 2026):
+- **Graph-Based Execution Engine:** Beralih dari eksekutor hierarkis ke mesin eksekusi berbasis graf (serupa LangGraph) yang mendukung *coordinator agents*, delegasi sub-agen, serta pola *fan-out/fan-in* yang kompleks.
+- **Multi-Language Runtime & Production Primitives:** Tersedia di Python (`pip install google-adk`), TypeScript, Go, Java, dan Kotlin, lengkap dengan fitur *human-in-the-loop* bawaan dan *state persistence* siap produksi.
+- **Interoperabilitas A2A & Managed Agents API:** Terintegrasi penuh dengan protokol *Agent2Agent (A2A)* untuk kolaborasi lintas framework serta *Managed Agents API* untuk deployment terkelola di Google Cloud.
+🔗 [Google ADK Docs](https://google.github.io/adk-docs/) | [Shakudo AI Agent Frameworks Report](https://www.shakudo.io/blog/top-9-ai-agent-frameworks)
+
+### 2. Agno v3.1.10 (`agno-agi/agno`) — AgentOS External Agent Runner, CodexAgent Auto-Sign-In & Company Write Scopes
 Pembaruan terbaru runtime orkestrasi multi-agen berkinerja tinggi (rilis 23 Oktober 2026):
 - **OS Manager External Agent Runner:** OS Manager kini dapat mendaftarkan, menampilkan, dan menjalankan agen eksternal seperti `ClaudeAgent` dan `CodexAgent` langsung melalui `AgentOS(agents=[...])`.
 - **CodexAgent Auto-Login & Scope Controls:** `CodexAgent` otomatis melakukan autentikasi dengan `OPENAI_API_KEY` sambil mempertahankan sesi login yang ada, ditambah kontrol berbasis *scope* untuk operasi tulis pada Company serta peningkatan batas atribut *tracing*.
@@ -71,7 +78,14 @@ Konsolidasi ekosistem coding agent dan SDK lintas platform:
 
 ## 🎨 UI/UX DESIGN & PRODUCT TRENDS
 
-### 1. MX (Machine Experience) Design & Glassmorphism 2.0
+### 1. Standarisasi Runtime Generative UI (AG-UI, MCP-UI, A2UI) & Ekosistem Penpot MCP
+Pergeseran arsitektur antarmuka dari layar statis menuju UI dinamis yang dirakit agen AI saat runtime (Oktober 2026):
+- **Tiga Permukaan & Protokol Generative UI:** Standarisasi baru membagi Generative UI menjadi tiga pendekatan utama: *Static* via **AG-UI** dan **CopilotChat** (komponen terkurasi), *Open-ended* via **MCP-UI** dan **ChatGPT Apps SDK** (HTML/markup dinamis), serta *Declarative* via **Open-JSON-UI** dan **A2UI** (spesifikasi skema terstruktur untuk kartu, form, dan widget).
+- **Google Stitch 2.0 & Real-Time Streaming Design Agent:** Hasil akuisisi Galileo AI kini berjalan di atas Gemini 2.5 Pro dengan fitur *streaming design agent* yang merender komponen multi-layar secara *real-time* di atas *infinite canvas* lengkap dengan kolaborasi multiplayer gratis di Google Labs.
+- **Penpot MCP Server untuk Open Design System:** Platform desain open-source Penpot merilis server MCP resmi yang memungkinkan coding agent seperti Claude Code dan Cursor membaca serta memodifikasi file desain secara programatik sebagai sumber konteks utama.
+🔗 [Monterail - AI Trends in UX Design 2026](https://monterail.com/blog/ai-trends-in-ux-design) | [Rework - Best AI Tools for UI/UX Design 2026](https://resources.rework.com/tools/ai-tools/best-ai-tools-for-ui-ux-design-2026)
+
+### 2. MX (Machine Experience) Design & Glassmorphism 2.0
 Pergeseran paradigma desain produk menuju keterbacaan mesin dan kedalaman visual fungsional (Oktober 2026):
 - **MX (Machine Experience) untuk AI-Mediated Web:** Selain merancang untuk mata manusia (UX), desainer produk kini menyusun hierarki semantik, metadata terstruktur, dan state komponen yang mudah dipahami serta direpresentasikan secara akurat oleh agen pencari AI dan *browser operators*.
 - **Glassmorphism 2.0 sebagai Lapisan Fungsional:** Panel buram (*frosted panels*), permukaan translusen, dan bayangan terdifusi bertransformasi dari sekadar dekorasi estetika menjadi sistem *layering* fungsional untuk memisahkan konteks antarmuka utama dengan overlay asisten AI tanpa membebani performa rendering.
@@ -113,4 +127,4 @@ Tata kelola design system modern dan standarisasi antarmuka agen otonom:
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (24 Oktober 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (25 Oktober 2026).*
