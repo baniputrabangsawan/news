@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 25 Oktober 2026*
+*Terakhir diperbarui: 26 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -427,3 +427,28 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://indonesiahackathons.com/en/ai-hackathons
 
 
+
+
+13. **LOGICODIX 2026 — Hackathon Nasional HIMTI UNESA**
+    - **Penyelenggara:** HIMTI UNESA x Navasena
+    - **Target Peserta:** Siswa SMA/SMK/MA sederajat dan Mahasiswa D3/D4/S1 se-Indonesia
+    - **Lokasi:** Surabaya & Online (Hacking Week 7-14 Nov 2026)
+    - **Deadline:** 6 November 2026
+    - **Hadiah:** Uang pembinaan jutaan rupiah dan trofi
+    - **Link:** https://www.logicodix2026.site/
+
+14. **Cybertech AI Hackathon 2026**
+    - **Penyelenggara:** UKM Cybertech PNP & Telkom AI Center
+    - **Target Peserta:** Mahasiswa dan Umum (Tim 3-5 orang)
+    - **Lokasi:** Telkom AI Center Padang (Pelaksanaan 14-15 November 2026)
+    - **Deadline:** 12 November 2026
+    - **Hadiah:** Total hadiah jutaan rupiah & sertifikat nasional
+    - **Link:** https://sempata.com/kesempatan/cybertech-ai-hackathon-2026
+
+15. **Tencent Cloud Hackathon Indonesia 2026**
+    - **Penyelenggara:** Tencent Cloud x AICLUB.ID
+    - **Target Peserta:** Builder & AI Enthusiast
+    - **Lokasi:** Jakarta Selatan (Pelaksanaan 27 November 2026)
+    - **Deadline Pendaftaran:** 1 November 2026
+    - **Hadiah:** Total hadiah USD 2.500
+    - **Link:** https://aiclub.id/event/tencent-cloud-hackathon-2026
