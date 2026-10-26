@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 25 Oktober 2026*
+*Terakhir diperbarui: 26 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -393,3 +393,35 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Link:** https://app.livestorm.co/designlab/ai-for-ux-design-informational-webinar
 
 
+
+
+13. **Data Science & Machine Learning untuk Penelitian**
+    - **Penyelenggara:** Detik Event
+    - **Target Peserta:** Mahasiswa, Peneliti, Akademisi
+    - **Format:** Live Class via Zoom
+    - **Jadwal:** 2 November 2026
+    - **Biaya:** Premium Webinar (E-sertifikat 12 JP)
+    - **Link:** https://event.detik.com/1540/data-science---machine-learning-untuk-penelitian
+
+14. **Online Bootcamp UI-UX Research and Design Batch 31**
+    - **Penyelenggara:** MySkill
+    - **Target Peserta:** Pemula, Pelajar, Mahasiswa
+    - **Format:** Live Class via Zoom
+    - **Jadwal:** 12 November - 17 Desember 2026
+    - **Biaya:** Rp230.000 (Early Sale)
+    - **Link:** https://myskill.id/bootcamp/uiux-research-design
+
+15. **Agentic AI for Graphic Designer: Automasi & Efisiensi Kerja**
+    - **Penyelenggara:** SatuPersen (Kuliah Weekend)
+    - **Target Peserta:** Desainer, Profesional, Kreatif
+    - **Format:** Online Webinar (14 November 2026 pukul 19:00 WIB)
+    - **Biaya:** Cek link resmi
+    - **Link:** https://satupersen.net/webinar/v2/agentic-ai
+
+16. **Claude-AI for Business Productivity**
+    - **Penyelenggara:** Kontan Academy (Pembicara: Ikin Solihin)
+    - **Target Peserta:** Eksekutif, Manajer, Profesional & Pebisnis
+    - **Format:** Workshop Intensif Offline di Gedung Kompas Gramedia Palmerah
+    - **Jadwal:** 18 November 2026 (09.00 - 16.00 WIB)
+    - **Biaya:** Rp1.750.000
+    - **Link:** https://store.kontan.co.id/product/claude-ai-for-business-productivity
