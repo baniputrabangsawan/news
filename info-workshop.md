@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 27 Oktober 2026*
+*Terakhir diperbarui: 28 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -409,3 +409,21 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Biaya:** GRATIS
     - **Benefit:** Eksplorasi fitur Figma Make & Figma AI untuk mengubah prompt menjadi prototipe desain interaktif secara instan
     - **Link:** https://www.linkedin.com/posts/indonesia-artificial-intelligence-society_figmamake-artificialintelligence-prototype-activity-7510328266243674112-bZ9a
+
+49. **GDG Live Indonesia: #JuaraVibeCoding Series (Data Engineer, Designer, Engineer & Students)** *(BARU 28 Okt)*
+    - **Penyelenggara:** Google Developer Groups (GDG) Indonesia
+    - **Target Peserta:** Mahasiswa, UI/UX Designer, Data Engineer, & Software Engineer
+    - **Format:** Online Hands-On Workshop & Rekaman Materi via GDG Live
+    - **Jadwal:** Akses rekaman & seri lanjutan 2026 (cek agenda terbaru di halaman GDG Live Indonesia)
+    - **Biaya:** GRATIS
+    - **Benefit:** Praktik membangun solusi data, UI/UX design, dan aplikasi menggunakan prinsip vibe coding & NotebookLM bersama GDE/praktisi industri
+    - **Link:** https://gdg.community.dev/gdg-live-indonesia
+
+50. **Workshop AI Tanpa Coding: Workflow Otomatisasi, Agen AI & Chatbot** *(BARU 28 Okt)*
+    - **Penyelenggara:** CV Sinar Teknologi Indonesia (Sintekindo)
+    - **Target Peserta:** Mahasiswa, Pelajar, dan Umum (Kuota 25 peserta per batch)
+    - **Format:** Practical Workshop & Sistem Implementasi
+    - **Jadwal:** Cek jadwal batch terbaru di halaman agenda resmi
+    - **Biaya:** GRATIS
+    - **Benefit:** Belajar membangun workflow otomatisasi cerdas, agen AI, chatbot WhatsApp, dan integrasi data bisnis tanpa koding
+    - **Link:** https://sinarteknologiindonesia.co.id/en/events
