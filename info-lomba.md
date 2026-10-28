@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 27 Oktober 2026*
+*Terakhir diperbarui: 28 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -452,3 +452,30 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Gratis
     - **Hadiah:** Hadiah tunai jutaan rupiah, API credits, showcase produk & jejaring industri fintech
     - **Link:** https://hackathon.sectors.app/rules
+
+52. **UGREEN Hackathon 2026 on AI NAS** *(BARU 28 Okt)*
+    - **Penyelenggara:** UGREEN
+    - **Target Peserta:** Developer, Mahasiswa, dan AI/NAS Builder (Global/Indonesia)
+    - **Lokasi:** Online
+    - **Deadline:** 17 November 2026 (18 Oktober – 17 November 2026)
+    - **Biaya:** Gratis
+    - **Hadiah:** Penghargaan developer, perangkat/hadiah kompetisi AI NAS & portofolio global
+    - **Link:** https://dev.events/hackathons/AS/ID
+
+53. **Hackathon AI Tourism 2026 — Puslit AI IT Del** *(BARU 28 Okt)*
+    - **Penyelenggara:** Pusat Penelitian Artificial Intelligence (Puslit AI) Institut Teknologi Del (IT Del)
+    - **Target Peserta:** Pelajar SMA/SMK dan Mahasiswa se-Indonesia
+    - **Lokasi:** Online / Hybrid (cek detail di pengumuman resmi IT Del)
+    - **Deadline:** Cek timeline pendaftaran terbaru di link resmi
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Total Prize Pool Rp24.000.000+ dan sertifikat nasional
+    - **Link:** https://www.instagram.com/reel/DcnzM2-xWC1/
+
+54. **ForgeHacks 2026: Build The Future With AI** *(BARU 28 Okt)*
+    - **Penyelenggara:** ForgeHacks
+    - **Target Peserta:** Pelajar SMA dan Mahasiswa dari seluruh dunia (termasuk Indonesia)
+    - **Lokasi:** Online
+    - **Deadline:** Cek jadwal submission di link resmi
+    - **Biaya:** Gratis
+    - **Hadiah:** Total prize pool senilai $150,000+ (kredit, tools, & penghargaan juara)
+    - **Link:** https://www.instagram.com/p/DdRltLKqjVU/
