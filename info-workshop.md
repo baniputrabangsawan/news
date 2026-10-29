@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 28 Oktober 2026*
+*Terakhir diperbarui: 29 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -427,3 +427,21 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Biaya:** GRATIS
     - **Benefit:** Belajar membangun workflow otomatisasi cerdas, agen AI, chatbot WhatsApp, dan integrasi data bisnis tanpa koding
     - **Link:** https://sinarteknologiindonesia.co.id/en/events
+
+51. **Hackathon Class IBM SkillsBuild: Design Thinking, AI Product & Build with IBM Bob & Langflow** *(BARU 29 Okt)*
+    - **Penyelenggara:** Hacktiv8 x IBM x Kementerian Komdigi (@hacktiv8id)
+    - **Target Peserta:** Mahasiswa aktif D3–S3 se-Indonesia (Peserta IBM SkillsBuild University Education)
+    - **Format:** Online Class & Technical Mentoring
+    - **Jadwal:** Seri Pembelajaran & Showcase menuju IBM Day (November 2026 – Januari 2027)
+    - **Biaya:** GRATIS
+    - **Benefit:** Pembekalan Design Thinking & AI Use Cases, AI Product & Business Model, serta praktik membangun AI Agent dengan IBM Bob, Langflow, dan watsonx Orchestrate
+    - **Link:** https://www.hacktiv8.com/projects/ibm/hackathon
+
+52. **AIClub Meetup & Demo Day: Building Agentic AI with WorkBuddy** *(BARU 29 Okt)*
+    - **Penyelenggara:** AI Club Jakarta Selatan / AIClub Indonesia x Tencent Cloud (@aiclub.id)
+    - **Target Peserta:** AI Builder, Developer, Mahasiswa & Praktisi Teknologi
+    - **Format:** Tatap Muka / Kopdar Meetup & Live Demo Day (Jakarta Selatan)
+    - **Jadwal:** Jumat, 27 November 2026 (13.00 – 16.00 WIB)
+    - **Biaya:** GRATIS
+    - **Benefit:** Sesi kopdar komunitas AI, showcase solusi Agentic AI untuk produktivitas kerja, dan networking langsung dengan ekosistem Tencent Cloud
+    - **Link:** https://aiclub.id/event/tencent-cloud-hackathon-2026
