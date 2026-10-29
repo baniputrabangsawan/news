@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 28 Oktober 2026*
+*Terakhir diperbarui: 29 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -479,3 +479,13 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Gratis
     - **Hadiah:** Total prize pool senilai $150,000+ (kredit, tools, & penghargaan juara)
     - **Link:** https://www.instagram.com/p/DdRltLKqjVU/
+
+55. **Arkavidia 11.0 Competition — Festival Kompetisi TI Nasional ITB** *(BARU 29 Okt)*
+    - **Penyelenggara:** Himpunan Mahasiswa Informatika (HMIF) ITB
+    - **Target Peserta:** Pelajar SMA/SMK dan Mahasiswa se-Indonesia
+    - **Lokasi:** Hybrid (Online & Final di ITB Bandung)
+    - **Deadline:** Batch 1 s.d. 31 Oktober 2026; Batch 2: 1 – 18 November 2026
+    - **Kategori:** Datavidia (Data & AI), Competitive Programming, Arkalogica, UXvidia (UI/UX Design), Gamevidia (Game Dev), Capture The Flag (CTF), Hackvidia (Hackathon)
+    - **Biaya:** Mengikuti masing-masing cabang lomba (cek panduan di link resmi)
+    - **Hadiah:** Total hadiah Rp93.000.000++ dan sertifikat nasional
+    - **Link:** https://arkavidia.com
