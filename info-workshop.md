@@ -1,5 +1,5 @@
 # 💻 Info Workshop & Webinar Teknologi - Oktober 2026
-*Terakhir diperbarui: 29 Oktober 2026*
+*Terakhir diperbarui: 30 Oktober 2026*
 
 Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mahasiswa:
 
@@ -445,3 +445,30 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Biaya:** GRATIS
     - **Benefit:** Sesi kopdar komunitas AI, showcase solusi Agentic AI untuk produktivitas kerja, dan networking langsung dengan ekosistem Tencent Cloud
     - **Link:** https://aiclub.id/event/tencent-cloud-hackathon-2026
+
+53. **Free AI Webinars Series — Road to SCALECON Jakarta 2027** *(BARU 30 Okt)*
+    - **Penyelenggara:** SCALECON AI (@scalecon.ai)
+    - **Target Peserta:** Mahasiswa, Developer, Praktisi Teknologi, dan Umum
+    - **Format:** Live Online Webinar & Demo via Zoom (90 menit/sesi)
+    - **Jadwal:** November – Desember 2026 (cek jadwal sesi terbaru di halaman resmi)
+    - **Biaya:** GRATIS
+    - **Benefit:** Materi framework AI praktis, live demo langsung bersama praktisi industri, dan sesi tanya jawab interaktif
+    - **Link:** https://scalecon.ai/webinar
+
+54. **TECHNOSKILL 1.0 2026: Free Bootcamp & Workshop UI/UX Design** *(BARU 30 Okt)*
+    - **Penyelenggara:** Panitia TECHNOSKILL 1.0
+    - **Target Peserta:** Pelajar, Mahasiswa, dan Pemula di bidang UI/UX Design
+    - **Format:** Webinar & Hands-On Workshop Terintegrasi (Online)
+    - **Jadwal:** Pendaftaran terbuka Oktober – November 2026 (cek timeline di link resmi)
+    - **Biaya:** GRATIS
+    - **Benefit:** Pelatihan terintegrasi konsep dan praktik langsung (hands-on) UI/UX Design untuk kebutuhan industri
+    - **Link:** https://www.instagram.com/p/DZ4igpdD1U7/
+
+55. **Microsoft Ignite 2026 — Global AI, Cloud & Security Conference** *(BARU 30 Okt)*
+    - **Penyelenggara:** Microsoft (@microsoft)
+    - **Target Peserta:** Developer, Mahasiswa IT, Cloud & Security Enthusiast, dan Umum
+    - **Format:** Online Global Digital Event / Hybrid
+    - **Jadwal:** 17 – 20 November 2026
+    - **Biaya:** GRATIS (Digital Pass)
+    - **Benefit:** Eksplorasi inovasi terbaru AI, Cloud, Copilot, dan Cybersecurity langsung dari para engineer & pakar Microsoft
+    - **Link:** https://www.microsoft.com/en-us/events
