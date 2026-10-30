@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 29 Oktober 2026*
+*Terakhir diperbarui: 30 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -489,3 +489,21 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Mengikuti masing-masing cabang lomba (cek panduan di link resmi)
     - **Hadiah:** Total hadiah Rp93.000.000++ dan sertifikat nasional
     - **Link:** https://arkavidia.com
+
+56. **Future Coder Hackathon 2026 — AI Hackathon** *(BARU 30 Okt)*
+    - **Penyelenggara:** GenDigital Academy x The Global Citizen Education Co.
+    - **Target Peserta:** Pelajar SMA/SMK/MA dan Mahasiswa se-Indonesia
+    - **Lokasi:** Online / Hybrid (cek detail di pengumuman resmi)
+    - **Deadline:** Pelaksanaan 19 – 20 Desember 2026 (cek batas pendaftaran di link resmi)
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Penghargaan juara, sertifikat, dan pengalaman proyek inovasi AI
+    - **Link:** https://www.instagram.com/p/DWg6BKQk7uo/
+
+57. **SATRIA 2026 — Smart AI Tech Competition for a Rising Indonesia** *(BARU 30 Okt)*
+    - **Penyelenggara:** Komunitas & Panitia SATRIA 2026
+    - **Target Peserta:** Siswa SD, SMP (Scratch), dan SMA/SMK (Python) se-Indonesia
+    - **Lokasi:** Online (Babak Awal) & Final Nasional
+    - **Deadline:** Cek timeline pendaftaran terbaru di link resmi
+    - **Biaya:** Gratis (Babak Awal)
+    - **Hadiah:** Total hadiah Rp100.000.000 dan Jos Luhukay Award for Excellence
+    - **Link:** https://www.facebook.com/cintakasihtzuchisingkawang/posts/1484507360365749/
