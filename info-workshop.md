@@ -472,3 +472,21 @@ Daftar pelatihan, bootcamp, dan webinar teknologi/AI aktif untuk pelajar dan mah
     - **Biaya:** GRATIS (Digital Pass)
     - **Benefit:** Eksplorasi inovasi terbaru AI, Cloud, Copilot, dan Cybersecurity langsung dari para engineer & pakar Microsoft
     - **Link:** https://www.microsoft.com/en-us/events
+
+56. **Kelas Microsoft Excel: Mengelola & Menganalisis Data** *(BARU 31 Okt)*
+    - **Penyelenggara:** Webinar Gratis (disalurkan via channel Event Gratis)
+    - **Target Peserta:** Umum — pelajar, mahasiswa, dan pekerja yang ingin menguasai Excel
+    - **Format:** Live Online via Zoom Meeting
+    - **Jadwal:** Selasa, 3 November 2026, 19.30 – 21.30 WIB
+    - **Biaya:** GRATIS
+    - **Benefit:** Belajar merapikan dan mengelola data, rumus & fungsi Excel, logika otomatis (IF, IFS, IFERROR), rekap serta analisis data dengan fungsi Lookup, dan ringkasan data cepat dengan PivotTable
+    - **Link:** https://forms.gle/3H96xdGHTjJNvPqC9 (alt: bit.ly/Siapkerja2)
+
+57. **Typolog 2026: Letters — Online Typography Dialogue** *(BARU 31 Okt)*
+    - **Penyelenggara:** Typolog 2026
+    - **Target Peserta:** Desainer, mahasiswa desain/kreatif, dan umum yang tertarik tipografi
+    - **Format:** Online via Zoom Meeting
+    - **Jadwal:** Sabtu, 14 November 2026, 09.00 WIB
+    - **Biaya:** GRATIS
+    - **Benefit:** Sesi dialog tipografi interaktif tentang bentuk huruf dan komunikasi visual, bertukar perspektif dengan peserta lain, plus sesi tanya jawab bersama pembicara
+    - **Link:** https://bit.ly/Typolog2026Registration
