@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - Oktober 2026
-*Terakhir diperbarui: 30 Oktober 2026*
+*Terakhir diperbarui: 31 Oktober 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (deadline diurutkan dari yang terdekat):
 
@@ -507,3 +507,13 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Biaya:** Gratis (Babak Awal)
     - **Hadiah:** Total hadiah Rp100.000.000 dan Jos Luhukay Award for Excellence
     - **Link:** https://www.facebook.com/cintakasihtzuchisingkawang/posts/1484507360365749/
+
+58. **HIMTEC Hackathon Build App 2026 — "Build App With AI"** *(BARU 31 Okt)*
+    - **Penyelenggara:** IT HOLIC | HIMTEC & Seminar Nasional (@itholic_official) — Universitas Teknologi Bandung
+    - **Target Peserta:** Mahasiswa se-Indonesia (benefit SKKM khusus mahasiswa UTB)
+    - **Lokasi:** Offline — Kampus 1 Universitas Teknologi Bandung
+    - **Deadline:** Pendaftaran 24 Oktober – 3 November 2026 (Technical Meeting 5 Nov; Pelaksanaan 7 Nov 2026)
+    - **Biaya:** Rp55.000
+    - **Hadiah:** Piala + uang pembinaan Juara 1, 2, dan 3; sertifikat juara; e-sertifikat partisipasi; free SKKM khusus mahasiswa UTB; konsumsi
+    - **Link:** https://bit.ly/4eq3rMo
+    - **Catatan:** Tim maksimal 3 orang, durasi lomba 13 jam non-stop, peserta diperbolehkan menggunakan AI sebagai alat bantu pengembangan aplikasi
