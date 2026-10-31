@@ -1,5 +1,5 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 30 Oktober 2026*
+*Terakhir diperbarui: 31 Oktober 2026*
 
 ---
 
@@ -59,6 +59,32 @@ Ekspansi penuh Agent Development Kit (ADK) dari Google ke lima bahasa pemrograma
 - **Universal MCP & A2A:** Seluruh 5 bahasa berbagi arsitektur protokol MCP dan Agent2Agent (A2A) yang dapat saling berkomunikasi lintas runtime.
 🔗 [Google ADK Docs](https://google.github.io/adk-docs/) | [ITBrief Coverage](https://itbrief.news/story/google-expands-ai-agent-kit-to-five-languages)
 
+### 9. Cursor Agent SDK GA — "Agents as Code" dengan Evals & One-Command Deploy (31 Oktober 2026)
+Rilis Generally Available Agent SDK dari Cursor (diumumkan 20-26 Oktober 2026) yang menjadikan agen sebagai project folder biasa:
+- **Agent as a Project:** `instructions.md` berfungsi sebagai prompt, setiap file di `tools/` adalah satu aksi TypeScript bertipe, `skills/` memuat prosedur on-demand, `mcp-connections/` menambah tool dari MCP server, dan `channels/` menentukan tempat agen menerima pesan (GitHub PR, Slack, webhook, cron).
+- **Evals & Testing:** `agent-sdk eval` mengirim pesan tetap dan mengassert tool apa yang berjalan beserta bentuk reply-nya; `agent-sdk github replay` mengubah pull request nyata menjadi signed webhook payload untuk pengujian.
+- **Deploy:** `agent-sdk deploy` membangun agen, memberinya URL, dan menjalankannya di infrastruktur Cursor; agen juga dapat berjalan sebagai single Node process di server sendiri via container.
+- **Quick Start:** `npx @cursor/agent-sdk init ./my-bot` lalu `agent-sdk dev` untuk playground lokal, dengan template security reviewer, PR autofixer, atau Linear/Jira triager.
+🔗 [The Agentic Weekly: Cursor Agent SDK GA](https://theagenticweekly.com/news/cursor-agent-sdk-ga-agents-as-code)
+
+### 10. Agentic AI Foundation (Linux Foundation) — 10 Open Standards Projects (31 Oktober 2026)
+Agentic AI Foundation (AAIF) di bawah Linux Foundation mengumumkan empat proyek baru pada 22 Oktober 2026 di AGNTCon + MCPCon, San Jose:
+- **Agent Skills (dari Anthropic):** Standar folder berisi `SKILL.md` sebagai pengetahuan terpaket (instruksi + skrip opsional + file referensi) yang dimuat agen saat tugas membutuhkannya.
+- **Open Responses (dari OpenAI):** Spesifikasi terbuka format respons agen lintas vendor.
+- **OpenEnv (dari Hugging Face):** Pengemasan lingkungan reinforcement learning sebagai layanan terkontainerisasi untuk training dan evaluasi agen.
+- **OpenSandbox (dari Alibaba):** Eksekusi sandbox di atas Docker atau Kubernetes dengan satu set API lifecycle dan eksekusi untuk isolasi runtime agen.
+- **Ekosistem:** Bergabung dengan proyek existing seperti MCP dan A2A, membentuk lapisan interoperabilitas lengkap: tool (MCP), skill (Agent Skills), komunikasi antar-agen (A2A), dan isolasi runtime (OpenSandbox).
+🔗 [YouTube: AI Agents Open Standards (AAIF)](https://youtube.com/watch?v=sLdBXA-UShM)
+
+### 11. Lanskap Managed Agent Runtimes 2026 — OpenAI, Anthropic, Google & Simular (31 Oktober 2026)
+Perbandingan platform agent runtime per 28 Oktober 2026 beserta perubahan besar sektor layanan terkelola:
+- **OpenAI:** Tiga jalur eksekusi — Agents API (hosted Codex harness, public beta sejak September 2026), Agents SDK (loop di aplikasi sendiri), dan Responses API (dari nol). **OpenAI Agent Builder (visual canvas dari AgentKit) akan ditutup 30 November 2026**.
+- **Anthropic:** Claude Agent SDK ("Claude Code as a library" untuk Python/TS) dan Claude Managed Agents (beta sejak April 2026) dengan managed sandboxes, long-running sessions, dan rubric-based Outcomes.
+- **Google:** Vertex AI dilebur menjadi Gemini platform; Agent Engine menjadi Agent Runtime (sessions, Memory Bank, code execution, computer-use sandboxes) dengan Managed Agents API sejak Google I/O Mei 2026.
+- **Simular Platform:** API all-in-one yang memberikan agen "fleet of autonomous computers"; agen computer-use Sai mencatat skor partial tertinggi 79,38% di OSWorld 2.1 leaderboard (Oktober 2026) dengan biaya $14,34 per task.
+- **Catatan Migrasi:** AWS menutup Bedrock Agents klasik untuk customer baru sejak 30 Juli 2026 — banyak daftar rekomendasi masih menyarankan produk yang sudah tidak menerima pengguna baru.
+🔗 [Simular: Best AI Agent Platforms 2026](https://simular.ai/alternatives/best-ai-agent-platforms)
+
 ---
 
 ## 🎨 UI/UX DESIGN & PRODUCT TRENDS
@@ -101,6 +127,17 @@ Hadirnya runtime agen berbasis browser (seperti Google ADK TypeScript Browser Bu
 - **Schema-Driven UI State:** Penggunaan Zod schema tunggal yang mengikat validasi input runtime, inferensi tipe editor, dan pembuatan JSON schema untuk komponen UI dinamis.
 🔗 [Google ADK TypeScript & WebMCP](https://itbrief.news/story/google-expands-ai-agent-kit-to-five-languages)
 
+### 7. Tren UI/UX Design 2026: Multimodal, Designing for Intent & Raw Aesthetics (31 Oktober 2026)
+Konsensus tren desain antarmuka 2026 dari UX Collective, Figma, dan Tubik Studio:
+- **Multimodal Experiences & Machine Experience (MX):** Interaksi melampaui satu layar dan satu momen — suara, gestur, gerakan mata, dan perangkat yang mengantisipasi konteks alih-alih bereaksi terhadap klik.
+- **Designing for Intent:** Desainer 2026 tidak lagi membuat antarmuka tetap; UI beradaptasi berdasarkan niat pengguna dengan hyper-personalisasi berbasis AI.
+- **Return of Glassmorphism / Liquid Glass:** Apple memimpin dengan Liquid Glass UI sebagai jembatan antara antarmuka flat saat ini dan pengalaman augmented reality berlapis (Vision Pro, rumor Apple Glass).
+- **Raw Aesthetics:** Kebangkitan font monospaced, grid sebagai elemen foreground, dan logika wireframe yang dibawa langsung ke UI final — "function-forward design" untuk produk B2B yang menuntut kejelasan.
+- **Inclusive Visuals & Kontrol Motion:** Tren utama bukan menambah animasi, melainkan memberi pengguna kemampuan mengatakan "stop" (fitur Reduce Motion seperti di microsoft.ai) untuk pengguna dengan vestibular disorders atau perbedaan atensi.
+- **Crafted, Not Prompted:** Munculnya kredensial kreatif baru — pernyataan "No AI was used in the making of this" menjadi brand statement karena pengguna tidak lagi bisa membedakan karya manusia vs generatif.
+- **Figma Web Design Trends 2026:** Elemen 3D dan imersif, navigasi eksperimental, palet warna vibrant, tipografi bold, dan dark mode tetap menjadi andalan.
+🔗 [UX Collective: Experience Design Trends 2026](https://uxdesign.cc/the-most-popular-experience-design-trends-of-2026-3ca85c8a3e3d) | [Figma: Top Web Design Trends 2026](https://www.figma.com/resource-library/web-design-trends/) | [Tubik Studio: 7 UI Design Trends 2026](https://tubikstudio.com/blog/ui-design-trends-2026/)
+
 ---
 
 ## 🤖 AI AGENT FRAMEWORKS & RELEASES SUMMARY (WEEK OF OCT 30, 2026)
@@ -117,7 +154,10 @@ Hadirnya runtime agen berbasis browser (seperti Google ADK TypeScript Browser Bu
 | **TanStack AI** | v1.0 | 76 stable packages, 23 providers, 9 UI frameworks, AG-UI & MCP compliance. |
 | **Framer MCP / Figma MCP** | Oct 2026 | Direct AI agent canvas manipulation, CMS management, and centralized design systems. |
 | **Google ADK** | v2.0 (5 Languages) | Python, Go, TS (Browser WebMCP), Java, Kotlin with native MCP & A2A. |
+| **Cursor Agent SDK** | GA (Oct 2026) | "Agents as code" — project-folder agents, evals, one-command deploy to Cursor infra. |
+| **Agentic AI Foundation (AAIF)** | Oct 2026 | Linux Foundation now hosts 10 projects: Agent Skills, Open Responses, OpenEnv, OpenSandbox. |
+| **Simular Platform / OpenAI Agents API** | Oct 2026 | OSWorld 2.1 leaderboard 79.38%; hosted agent runtimes from OpenAI, Anthropic, Google. |
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (30 Oktober 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (31 Oktober 2026).*
