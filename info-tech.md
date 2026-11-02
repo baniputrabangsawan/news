@@ -1,5 +1,42 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 31 Oktober 2026*
+*Terakhir diperbarui: 2 November 2026*
+
+---
+
+## 🆕 UPDATE 2 NOVEMBER 2026
+
+### A. Hermit (Infini-AI-Lab) — Harness Adapter Framework Open Source untuk AI Agent
+Dirilis 29 Oktober 2026 dan diumumkan oleh CMU postdoc Haizhong Zheng, Hermit menyasar masalah yang makin nyata di 2026: setiap *coding agent harness* (Claude Code, Codex, OpenCode, Gemini CLI) punya format konfigurasi, tool schema, dan lifecycle sendiri.
+- **Harness Adapter Layer:** Hermit menyediakan lapisan adaptor yang memetakan satu definisi tool/skill ke banyak harness sekaligus, sehingga tim tidak perlu menulis integrasi berulang per vendor.
+- **Relevansi:** Melengkapi standar yang sudah ada — MCP untuk tool, Agent Skills untuk pengetahuan terpaket, A2A untuk komunikasi antar-agen — dengan lapisan portabilitas di sisi *runtime harness*.
+- **Implikasi Praktis:** Pola "tulis sekali, jalankan di harness mana pun" mulai menggantikan lock-in ke satu CLI agent, sejalan dengan tren TanStack AI dan Cursor Agent SDK yang juga menekankan portabilitas.
+🔗 [MarkTechPost: Infini-AI-Lab Hermit](https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework) | [Agentic AI News: Week of Oct 26 – Nov 1](https://agentic.ai/news)
+
+### B. Rekap Rilis & Diskursus Framework Agen (pekan 26 Okt – 1 Nov 2026)
+Kurasi dari agregator Agentic AI News (26 stories) dan perbandingan framework terbaru:
+- **Konsolidasi Pilihan Framework:** Perbandingan produksi 2026 kini menempatkan **Mastra** (TypeScript-native, suspend/resume approval, integrasi Vercel/Next.js) dan **Google ADK** (Apache 2.0, ~19k stars, CLI `adk web`/`adk run`) sebagai dua kutub utama, dengan Microsoft Agent Framework menyediakan *migration assistant* dari Semantic Kernel dan AutoGen.
+- **Pola Umum:** Hampir semua framework 2026 kini menyediakan guardrails paralel, tracing/eval bawaan, dan dukungan MCP — sehingga diferensiasi bergeser ke kualitas *developer tooling* dan pengalaman debugging, bukan lagi ke fitur dasar.
+- **Catatan Adopsi:** Untuk tim kecil, [OI] Agents SDK (abstraksi minimal, model-agnostic) dan Pydantic AI (type-safe) tetap pilihan paling ringan; framework graf penuh seperti LangGraph lebih cocok saat butuh kontrol state eksplisit.
+🔗 [WorkflowBuilder: Best AI Agent Frameworks 2026](https://www.workflowbuilder.io/blog/best-ai-agent-frameworks) | [LangChain: AI Agent Frameworks 2026](https://www.langchain.com/resources/ai-agent-frameworks) | [Towards AI: Developer's Guide to Agentic Frameworks](https://pub.towardsai.net/a-developers-guide-to-agentic-frameworks-in-2026-3f22a492dc3d)
+
+### C. Tren UI/UX 2026: Dari "Visual Theatrics" ke Calm UI & Machine Experience (MX)
+Dua laporan besar (Envato *Beyond Adoption: State of AI in Creative Work 2026* dan analisis MX design) menandai pergeseran arah desain antarmuka tahun ini:
+- **Calm Interfaces Menggantikan Gamifikasi:** Fokus bergeser ke pengurangan beban kognitif — white space, default yang terlihat jelas, hierarki konten yang mudah dipindai. Gamifikasi ekstravaganza digantikan micro-interaction yang tenang.
+- **Motion yang Menjelaskan, Bukan Mementaskan:** Animasi 2026 dipakai untuk memberi tahu *apa yang baru terjadi* dan *apa berikutnya* (status transfer, progres pengiriman), bukan sebagai dekorasi.
+- **Machine Experience (MX) Design:** Disiplin baru — merancang interaksi manusia–AI yang *trustworthy, comprehensible, recoverable*: bagaimana AI menampilkan tingkat keyakinan, menjelaskan rekomendasi, menangani error, dan mengembalikan kontrol ke pengguna.
+- **Intent-Centered Design:** Antarmuka tidak hanya merespons klik, tapi mengantisipasi tujuan pengguna (navigasi reorder berdasarkan frekuensi, form pre-populate dari konteks) — dengan catatan penting soal *restraint* agar tidak terasa intrusif.
+- **AI-Native Transparency:** Hampir separuh profesional kreatif memakai AI harian (Envato 2026), tapi pengguna kini menuntut penjelasan "kenapa saya melihat ini?" — sejalan dengan kewajiban transparansi algoritmik di banyak yurisdiksi.
+- **Aksesibilitas sebagai Infrastruktur:** Bukan lagi checklist akhir proyek, melainkan dibangun sejak wireframe (high-contrast, keyboard nav, reduced motion, token-based design system).
+🔗 [Envato: UX/UI Trends 2026](https://elements.envato.com/learn/app-design-trends) | [Envato AI Trend Report 2026](https://elements.envato.com/learn/ai-trend-report) | [Teccmark: Intent & Machine Experience](https://teccmark.org/blog/ux-ui-design-trends-2026-intent-machine-experience) | [UX Design Institute: Top UX Trends 2026](https://uxdesigninstitute.com/blog/the-top-ux-design-trends-in-2026)
+
+### D. Agentic AI Masuk ke Kanvas Desain: Figma AI Agent, Bento Layout & State Machines
+Perkembangan tooling desain yang paling terasa dampaknya bagi workflow desainer produk:
+- **Figma AI Agent di Kanvas (Config 2026):** Agen native yang terhubung ke komponen dan variables via MCP — bisa menghasilkan beberapa arah layout, membandingkan, lalu designer memilih yang layak. Judgment tetap di tangan manusia; risikonya adalah "AI sameness" bila tidak dikurasi.
+- **Bento Box sebagai Default Dashboard:** Blok berukuran berbeda dalam satu grid seimbang untuk dashboard/analytics — satu blok besar untuk KPI utama, blok kecil untuk alert, quick action, dan insight sekunder.
+- **LottieFiles State Machines & Rive:** Motion interaktif kini bisa merespons input pengguna tanpa kode eksternal, menurunkan ambang skill motion design dari spesialis ke product designer biasa.
+- **Anti-Grid & Organic Layouts:** Asimetri, kurva mengalir, dan spacing tidak rata dipakai sebagai penangkal homogenitas desain hasil AI — contoh: aplikasi sleep-tracking *Rise*.
+- **Ultra-Contextual Navigation:** Toolbar yang melarut saat tak ada objek, contextual menu, dan micro toolbar dekat konten terpilih menggantikan header statis.
+🔗 [Aufait UX: UI/UX Trends 2026](https://aufaitux.com/blog/ui-ux-trends) | [MockFlow: 10 UI/UX Trends 2026](http://mockflow.com/blog/ui-design-trends) | [Figma: Top Web Design Trends 2026](https://figma.com/resource-library/web-design-trends)
 
 ---
 
@@ -160,4 +197,4 @@ Konsensus tren desain antarmuka 2026 dari UX Collective, Figma, dan Tubik Studio
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (31 Oktober 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (2 November 2026).*
