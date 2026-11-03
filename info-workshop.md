@@ -1,5 +1,5 @@
 # 🎓 Info Workshop, Webinar & Bootcamp Teknologi - November 2026
-*Terakhir diperbarui: 2 November 2026*
+*Terakhir diperbarui: 3 November 2026*
 
 Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya sudah lewat sudah dibersihkan):
 
@@ -355,3 +355,22 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** Rp1.199.000 (harga early bird Rp1.499.000 s.d. 5 November 2026)
     - **Benefit:** JavaScript, TypeScript, TanStack Start, PostgreSQL, Drizzle ORM, system design, dan engineering judgment untuk bekerja bersama AI; dashboard student platform berisi jadwal, assignment & kursus
     - **Link:** https://devscale.id/
+
+42. **Webinar 14.0 — Canva for Digital Literacy: Bikin Karya Literasi Digital Makin Mudah & Interaktif** *(BARU 3 Nov)*
+    - **Penyelenggara:** IKA IPA UNTIRTA
+    - **Target Peserta:** Guru, mahasiswa, pelajar, dan umum yang tertarik desain & literasi digital
+    - **Format:** Online via Zoom Meeting
+    - **Jadwal:** Sabtu, 7 November 2026, 19.00 – 21.00 WIB
+    - **Biaya:** GRATIS
+    - **Benefit:** Magic Write untuk mengubah ide jadi konten literasi, desain interaktif (teks jadi pengalaman visual), dan merangkum karya dalam satu laman website profesional memakai Canva Code
+    - **Link:** https://ikaipauntirta.web.id/berita/peluang-studi-lanjut/webinar-14-canva-for-digital-literacy-7-november-2026
+    - **Catatan:** Link pendaftaran dibagikan lewat kolom komentar postingan sumber — perlu dicek ulang di halaman resmi
+
+43. **MySkill Free Short Class: Artificial Intelligence — AI for Work Productivity** *(BARU 3 Nov)*
+    - **Penyelenggara:** MySkill
+    - **Target Peserta:** Mahasiswa, pelajar, dan profesional pemula yang ingin memakai AI untuk produktivitas
+    - **Format:** Live class via Zoom + mini task untuk portofolio
+    - **Jadwal:** Senin, 7 Desember 2026, 19.30 – 21.00 WIB
+    - **Biaya:** GRATIS + E-Sertifikat
+    - **Benefit:** AI & automation with n8n, prompt engineering basics, intro to chatbot development, akses grup Telegram komunitas MySkill
+    - **Link:** https://dash2.myskill.id/bootcamp/artificial-intelligence-kelas-gratis-bersertifikat-myskill
