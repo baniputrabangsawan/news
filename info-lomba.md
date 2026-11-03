@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - November 2026
-*Terakhir diperbarui: 2 November 2026*
+*Terakhir diperbarui: 3 November 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
@@ -108,16 +108,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Uang pembinaan, sertifikat nasional, dan publikasi inovasi teknologi
     - **Link:** https://indoneris.amikompurwokerto.ac.id/
 
-13. **RECURSION 2.0 — National IT Event & Competition UNHAS 2026** *(BARU 20 Okt)*
-    - **Penyelenggara:** Departemen Teknik Informatika Universitas Hasanuddin (UNHAS)
-    - **Target Peserta:** Mahasiswa aktif (D3/D4/S1) seluruh perguruan tinggi di Indonesia
-    - **Lokasi:** Online (Pendaftaran & Penyisihan) & Final/Seminar Nasional
-    - **Deadline:** Cek jadwal per cabang di link resmi (Cabang: Competitive Programming, Capture The Flag / CTF, UI/UX Design, ICT Business Plan)
-    - **Biaya:** Perlu dicek ulang di link resmi
-    - **Hadiah:** Uang pembinaan, trofi kejuaraan nasional, dan e-sertifikat
-    - **Link:** https://recursion.id
-
-14. **AKSARA 2026 - Kompetisi Akademik & Riset Nasional** *(BARU 23 Okt)*
+13. **AKSARA 2026 - Kompetisi Akademik & Riset Nasional** *(BARU 23 Okt)*
     - **Penyelenggara:** AKSARA National Committee
     - **Target Peserta:** Pelajar SMA/SMK/MA & Mahasiswa se-Indonesia
     - **Lokasi:** Online
@@ -126,7 +117,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Medali, sertifikat tingkat nasional, dan uang pembinaan
     - **Link:** https://infolomba.id/
 
-15. **NESTA 2026 - National Science & Technology Competition** *(BARU 23 Okt)*
+14. **NESTA 2026 - National Science & Technology Competition** *(BARU 23 Okt)*
     - **Penyelenggara:** NESTA Indonesia
     - **Target Peserta:** Siswa SMA/SMK sederajat & Mahasiswa
     - **Lokasi:** Online
@@ -135,7 +126,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Sertifikat nasional, medali, dan penghargaan prestasi
     - **Link:** https://kabarlomba.com/
 
-16. **Vultr: Agent Rush Hackathon 2026** *(BARU 24 Okt)*
+15. **Vultr: Agent Rush Hackathon 2026** *(BARU 24 Okt)*
     - **Penyelenggara:** Lablab.ai x Vultr
     - **Target Peserta:** Developer, Mahasiswa, AI Engineer & Umum (Global/Indonesia)
     - **Lokasi:** Hybrid (Online Build: 3–8 November 2026 | Onsite Phase: 8 November 2026)
@@ -144,7 +135,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Hadiah tunai & kredit cloud Vultr (cek rincian prize pool di link resmi)
     - **Link:** https://lablab.ai/ai-hackathons
 
-17. **Meta VR Start Developer Competition 2026** *(BARU 24 Okt)*
+16. **Meta VR Start Developer Competition 2026** *(BARU 24 Okt)*
     - **Penyelenggara:** Meta / Dev.events
     - **Target Peserta:** Developer AI/VR, Mahasiswa & Umum
     - **Lokasi:** Online
@@ -153,7 +144,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Penghargaan developer, publikasi proyek & hadiah kompetisi resmi
     - **Link:** https://dev.events/hackathons/AS/ID/ai
 
-18. **Code The Future: AI for a Better Indonesia 2026** *(BARU 24 Okt)*
+17. **Code The Future: AI for a Better Indonesia 2026** *(BARU 24 Okt)*
     - **Penyelenggara:** Code The Future Indonesia
     - **Target Peserta:** Pelajar usia 14–17 tahun (tim beranggotakan 3 orang, bidang Web + AI Development)
     - **Lokasi:** Indonesia (cek detail pelaksanaan di link resmi)
@@ -162,7 +153,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Penghargaan inovasi, sertifikat, dan apresiasi juara
     - **Link:** https://www.instagram.com/p/DXQxLmxD1a3/
 
-19. **SpaceXAI Hackathon Indonesia 2026** *(BARU 25 Okt)*
+18. **SpaceXAI Hackathon Indonesia 2026** *(BARU 25 Okt)*
     - **Penyelenggara:** SpaceXAI for Jakarta, Indonesia
     - **Target Peserta:** Developer, AI Engineer, Mahasiswa & Talenta Digital Indonesia
     - **Lokasi:** Jakarta (Onsite / Hybrid)
@@ -171,7 +162,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Prize pool kompetisi AI, mentoring & networking komunitas AI
     - **Link:** https://indonesiahackathons.com/en/ai-hackathons
 
-20. **Qwen Conference 2026 Breakout Session: On-Site Mini Hackathon** *(BARU 25 Okt)*
+19. **Qwen Conference 2026 Breakout Session: On-Site Mini Hackathon** *(BARU 25 Okt)*
     - **Penyelenggara:** Qwen Conference Indonesia
     - **Target Peserta:** AI Developer, Mahasiswa Informatika, Machine Learning Enthusiast
     - **Lokasi:** Jakarta (On-site)
@@ -180,7 +171,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Penghargaan mini hackathon, merchandise eksklusif & sertifikat
     - **Link:** https://indonesiahackathons.com/en/ai-hackathons
 
-21. **Cybertech AI Hackathon 2026**
+20. **Cybertech AI Hackathon 2026**
     - **Penyelenggara:** UKM Cybertech PNP & Telkom AI Center
     - **Target Peserta:** Mahasiswa dan Umum (Tim 3-5 orang)
     - **Lokasi:** Telkom AI Center Padang (Pelaksanaan 14-15 November 2026)
@@ -189,7 +180,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Total hadiah jutaan rupiah & sertifikat nasional
     - **Link:** https://sempata.com/kesempatan/cybertech-ai-hackathon-2026
 
-22. **Sectors Hackathon 2026 — AI for Indonesian Financial Data** *(BARU 27 Okt)*
+21. **Sectors Hackathon 2026 — AI for Indonesian Financial Data** *(BARU 27 Okt)*
     - **Penyelenggara:** Sectors App
     - **Target Peserta:** Mahasiswa, Developer, AI Builder & Data Enthusiast (Nasional)
     - **Lokasi:** Online (Seluruh Indonesia)
@@ -198,7 +189,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Hadiah tunai jutaan rupiah, API credits, showcase produk & jejaring industri fintech
     - **Link:** https://hackathon.sectors.app/rules
 
-23. **UGREEN Hackathon 2026 on AI NAS** *(BARU 28 Okt)*
+22. **UGREEN Hackathon 2026 on AI NAS** *(BARU 28 Okt)*
     - **Penyelenggara:** UGREEN
     - **Target Peserta:** Developer, Mahasiswa, dan AI/NAS Builder (Global/Indonesia)
     - **Lokasi:** Online
@@ -207,7 +198,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Penghargaan developer, perangkat/hadiah kompetisi AI NAS & portofolio global
     - **Link:** https://dev.events/hackathons/AS/ID
 
-24. **Hackathon AI Tourism 2026 — Puslit AI IT Del** *(BARU 28 Okt)*
+23. **Hackathon AI Tourism 2026 — Puslit AI IT Del** *(BARU 28 Okt)*
     - **Penyelenggara:** Pusat Penelitian Artificial Intelligence (Puslit AI) Institut Teknologi Del (IT Del)
     - **Target Peserta:** Pelajar SMA/SMK dan Mahasiswa se-Indonesia
     - **Lokasi:** Online / Hybrid (cek detail di pengumuman resmi IT Del)
@@ -216,7 +207,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Total Prize Pool Rp24.000.000+ dan sertifikat nasional
     - **Link:** https://www.instagram.com/reel/DcnzM2-xWC1/
 
-25. **ForgeHacks 2026: Build The Future With AI** *(BARU 28 Okt)*
+24. **ForgeHacks 2026: Build The Future With AI** *(BARU 28 Okt)*
     - **Penyelenggara:** ForgeHacks
     - **Target Peserta:** Pelajar SMA dan Mahasiswa dari seluruh dunia (termasuk Indonesia)
     - **Lokasi:** Online
@@ -225,7 +216,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Total prize pool senilai $150,000+ (kredit, tools, & penghargaan juara)
     - **Link:** https://www.instagram.com/p/DdRltLKqjVU/
 
-26. **Arkavidia 11.0 Competition — Festival Kompetisi TI Nasional ITB** *(BARU 29 Okt)*
+25. **Arkavidia 11.0 Competition — Festival Kompetisi TI Nasional ITB** *(BARU 29 Okt)*
     - **Penyelenggara:** Himpunan Mahasiswa Informatika (HMIF) ITB
     - **Target Peserta:** Pelajar SMA/SMK dan Mahasiswa se-Indonesia
     - **Lokasi:** Hybrid (Online & Final di ITB Bandung)
@@ -235,7 +226,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Total hadiah Rp93.000.000++ dan sertifikat nasional
     - **Link:** https://arkavidia.com
 
-27. **Future Coder Hackathon 2026 — AI Hackathon** *(BARU 30 Okt)*
+26. **Future Coder Hackathon 2026 — AI Hackathon** *(BARU 30 Okt)*
     - **Penyelenggara:** GenDigital Academy x The Global Citizen Education Co.
     - **Target Peserta:** Pelajar SMA/SMK/MA dan Mahasiswa se-Indonesia
     - **Lokasi:** Online / Hybrid (cek detail di pengumuman resmi)
@@ -244,7 +235,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Penghargaan juara, sertifikat, dan pengalaman proyek inovasi AI
     - **Link:** https://www.instagram.com/p/DWg6BKQk7uo/
 
-28. **SATRIA 2026 — Smart AI Tech Competition for a Rising Indonesia** *(BARU 30 Okt)*
+27. **SATRIA 2026 — Smart AI Tech Competition for a Rising Indonesia** *(BARU 30 Okt)*
     - **Penyelenggara:** Komunitas & Panitia SATRIA 2026
     - **Target Peserta:** Siswa SD, SMP (Scratch), dan SMA/SMK (Python) se-Indonesia
     - **Lokasi:** Online (Babak Awal) & Final Nasional
@@ -253,7 +244,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Total hadiah Rp100.000.000 dan Jos Luhukay Award for Excellence
     - **Link:** https://www.facebook.com/cintakasihtzuchisingkawang/posts/1484507360365749/
 
-29. **HIMTEC Hackathon Build App 2026 — "Build App With AI"** *(BARU 31 Okt)*
+28. **HIMTEC Hackathon Build App 2026 — "Build App With AI"** *(BARU 31 Okt)*
     - **Penyelenggara:** IT HOLIC | HIMTEC & Seminar Nasional (@itholic_official) — Universitas Teknologi Bandung
     - **Target Peserta:** Mahasiswa se-Indonesia (benefit SKKM khusus mahasiswa UTB)
     - **Lokasi:** Offline — Kampus 1 Universitas Teknologi Bandung
@@ -262,3 +253,25 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Piala + uang pembinaan Juara 1, 2, dan 3; sertifikat juara; e-sertifikat partisipasi; free SKKM khusus mahasiswa UTB; konsumsi
     - **Link:** https://bit.ly/4eq3rMo
     - **Catatan:** Tim maksimal 3 orang, durasi lomba 13 jam non-stop, peserta diperbolehkan menggunakan AI sebagai alat bantu pengembangan aplikasi
+
+29. **OU Festival 12 (Olimpiade Update Festival) 2026/2027 — Break the Impossible** *(BARU 3 Nov)*
+    - **Penyelenggara:** Olimpiade Update (OU Festival) — @ou_festival
+    - **Target Peserta:** Siswa SMP/MTs, SMA/MA/SMK, Mahasiswa D3/S1, dan Umum (tergantung cabang lomba)
+    - **Cabang:** OPSILON (olimpiade sains, sosial & bahasa — tersedia bidang Informatika dan AI untuk jenjang SMA), KOSA KATA (puisi & cerpen), KOMPAS (poster kreatif), LOKASI (karya tulis ilmiah), EPIC (rencana bisnis), TRACTION (simulasi trading)
+    - **Lokasi:** Online (pendaftaran & pengumpulan karya via ou-festival.com)
+    - **Deadline:** Pendaftaran 1 Oktober – 31 Desember 2026. Cabang LOKASI & EPIC tutup 22 November 2026; TRACTION 6 Desember; KOSA KATA 24 Desember; OPSILON 31 Desember 2026
+    - **Biaya:** OPSILON Rp30.000 (1 bidang), Rp55.000 (2 bidang), Rp80.000 (3 bidang), Rp25.000 per bidang mulai 4 bidang. Cabang lain cek halaman lomba
+    - **Hadiah:** Medali emas/perak/perunggu untuk peringkat tertinggi, pengumuman juara serentak 31 Januari 2027, hadiah dibagikan Februari 2027
+    - **Link:** https://www.ou-festival.com/
+    - **Catatan:** Satu akun cukup untuk mendaftar semua lomba. Babak penyisihan OPSILON 16–17 Januari 2027 (online, 90 menit), final 23–24 Januari 2027 via Zoom dengan kamera pengawas
+
+30. **FOSTIFEST 2026 — UI/UX Design & Software Development** *(BARU 3 Nov)*
+    - **Penyelenggara:** FOSTI Universitas Muhammadiyah Surakarta (UMS)
+    - **Target Peserta:** Mahasiswa (cek ketentuan peserta di guidebook resmi)
+    - **Tema:** Solusi digital untuk pembangunan berkelanjutan
+    - **Lokasi:** Sesuai panduan FOSTIFEST 2026
+    - **Deadline:** 8 November 2026
+    - **Biaya:** Early bird 14–25 Oktober Rp40.000/tim; Normal 26 Oktober–8 November Rp55.000/tim
+    - **Hadiah:** Cek rincian hadiah di guidebook resmi
+    - **Link:** https://fostifest.fostiums.org (panduan: https://bit.ly/4hNuiV2)
+    - **Catatan:** Pilih salah satu cabang — UI/UX Design atau Software Development
