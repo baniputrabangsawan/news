@@ -1,5 +1,17 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 2 November 2026*
+*Terakhir diperbarui: 4 November 2026*
+
+---
+
+## 🆕 UPDATE 4 NOVEMBER 2026
+
+### E. Vercel Labs agent-desktop — Computer-Use CLI Berbasis Accessibility Tree
+Vercel Labs memperbarui `agent-desktop`, proyek open-source untuk memberi AI agent kemampuan mengamati dan mengoperasikan aplikasi desktop melalui accessibility API, bukan screenshot:
+- **Lintas platform:** Mendukung macOS melalui AX API, Windows melalui UI Automation, dan Linux melalui AT-SPI; repositori juga menyediakan CLI Rust serta C ABI.
+- **Loop observe–act–verify:** Snapshot UI memberikan ref terikat pada snapshot. Jika UI berubah, aksi dapat gagal dengan status seperti `STALE_REF` atau `AMBIGUOUS_TARGET`, sehingga agent didorong mengambil snapshot baru daripada menebak target.
+- **Relevansi developer tools:** Pendekatan terstruktur ini berpotensi mengurangi ketergantungan pada vision model untuk aplikasi desktop padat elemen, sekaligus membuat aksi lebih deterministik dan dapat diulang.
+- **Status:** Repositori resmi menunjukkan commit terbaru 3 November 2026 dan changelog yang sedang menyiapkan rilis 1.1.0.
+🔗 [Vercel Labs agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
 ---
 
