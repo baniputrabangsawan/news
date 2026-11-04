@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - November 2026
-*Terakhir diperbarui: 3 November 2026*
+*Terakhir diperbarui: 4 November 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
