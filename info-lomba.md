@@ -275,3 +275,14 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Cek rincian hadiah di guidebook resmi
     - **Link:** https://fostifest.fostiums.org (panduan: https://bit.ly/4hNuiV2)
     - **Catatan:** Pilih salah satu cabang — UI/UX Design atau Software Development
+
+
+31. **Hackathon ITS 2026 — Membangun Aplikasi Kecerdasan Artifisial untuk Masalah Nyata** *(BARU 5 Nov)*
+    - **Penyelenggara:** Institut Teknologi Sepuluh Nopember (ITS)
+    - **Target Peserta:** Mahasiswa, dosen, peneliti, dan profesional; tim 1–5 orang
+    - **Lokasi:** Pendaftaran online; final nasional di Surabaya
+    - **Deadline:** Pendaftaran masih tersedia di situs resmi saat pengecekan 5 November 2026; tanggal penutupan tidak tercantum jelas, cek situs resmi segera
+    - **Biaya:** Perlu dicek di formulir pendaftaran resmi
+    - **Hadiah/Manfaat:** Total hadiah Rp100 juta; pra-inkubasi, mentoring, validasi pengguna, Demo Day, dan business matching
+    - **Link resmi:** https://hackathon-its.id
+    - **Catatan:** Wajib memiliki purwarupa/desain awal berbasis AI dengan TKT 3–6; tema mencakup energi dan masalah nyata lintas sektor.
