@@ -1,5 +1,5 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 4 November 2026*
+*Terakhir diperbarui: 5 November 2026*
 
 ---
 
@@ -209,4 +209,34 @@ Konsensus tren desain antarmuka 2026 dari UX Collective, Figma, dan Tubik Studio
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (2 November 2026).*
+## 🆕 UPDATE 5 NOVEMBER 2026
+
+### A. Redis Iris Diperluas ke 6 Kapabilitas untuk Agen Produksi
+Redis mengumumkan pembaruan besar Redis Iris (4 November 2026) yang kini menyuguhkan enam fitur yang bisa dipakai sendiri atau bersama-sama:
+- **Intent Router (GA):** mencocokkan makna permintaan — bukan kata-kata — lalu mengarahkan ke FAQ, skill agen, manusia, atau LLM. Mendukung *guardrails* dan *"fuzzy if-statements"* (bukan hanya boolean).
+- **Agent Playbooks (GA):** tim mendefinisikan jawaban stabil (yang bisa dipakai ulang) vs prosedur baru yang butuh data terkini, makin akurat tiap kali dijalankan.
+- **Agent Memory (GA):** membangun memori dari aksi pengguna maupun dokumen lewat MemoryETL, hierarki terkontrol, inspeksi audit, provenance, hingga kemampuan *forget* untuk PII.
+- **Context Gateway (GA):** titik masuk terpadu untuk data konteks real-time.
+- **Lens (beta) & Agent Mesh (beta):** observabilitas dan konektivitas antar-agen masih tahap percobaan.
+🔗 [Redis Iris Announcement](https://redis.io/press/redis-expands-redis-iris-to-give-ai-agents-the-memory-context-and-messaging-they-need-to-get-to-production) | [redis.io/iris](https://redis.io/iris/)
+
+### B. Lanskap Framework Agentic: LangGraph Dominan, AutoGen Diarsipkan, AgentKit Mulai Ditutup
+- **LangGraph vs CrewAI vs AutoGen** kini pertarungan dua arah: LangGraph (44,8 juta unduhan PyPI/bulan — ~18× CrewAI) unggul untuk alur stateful + checkpointing, CrewAI (2,4 juta/bulan) untuk role-based crews cepat. AutoGen resmi di-arsipkan Microsoft, pengguna diarahkan ke **Microsoft Agent Framework**.
+- **AG2** (sebelumnya AutoGen) rilis 1.2.1 pada 21 Oktober dengan lisensi Apache 2.0 — opsi bagi tim yang tak ingin pindah ke API baru Microsoft.
+- **OpenAI AgentKit** membuka Agent Builder (beta), ChatKit (GA), dan Connector Registry (beta); namun **Agent Builder & Evals akan berhenti 30 November 2026** — migrasi disarankan ke Agents SDK atau Workspace Agents di ChatGPT.
+- **NVIDIA NemoClaw** merilis blueprint terbuka untuk OpenClaw, Hermes Agent, dan LangChain Deep Agents; Deep Agents tuned mencapai performa near-frontier Nemotron 3 Ultra dengan biaya ~10× lebih rendah.
+- **crewAI 1.15.34** menambahkan katalog LiteLLM stand-alone dan opsi CLI deploy.
+🔗 [AgentOps Guide: LangGraph vs CrewAI vs AutoGen 2026](https://agentopsguide.com/langgraph-vs-crewai-vs-autogen) | [OpenAI AgentKit Launch](https://openai.com/index/introducing-agentkit) | [AI Agent News: Frameworks](https://aiagentnews.io/topics/frameworks)
+
+### C. Tren UI/UX 2026 Lanjutan: AI Copilot UI & Responsible Glassmorphism
+Dua publikasi terbaru (MediaPlus, 26 Oktober & Fuselab Creative, 29 Oktober 2026) menambah nuansa:
+- **AI Copilot UI (bukan Autopilot):** pergeseran besar — AI tidak melakukan semuanya, tapi membantu pengguna melakukan lebih baik. Progress harus terlihat, dan pengguna harus bisa meninjau, menjeda, memodifikasi, menyetujui, atau menghentikan aksi agen (agentic UX).
+- **Dark Mode Pertama dari Awal:** tim mendesain token dark + light secara bersamaan sejak hari pertama; nama warna semantik (`surface-1`, `accent-strong`) menggantikan hex literal.
+- **Responsible Glassmorphism:** blur frosted berat sudah keluar; transparansi halus pada overlay/modal/navigasi mengambang + kontras kuat jadi standar 2026.
+- **Figma 2026 Designer Report:** 93% desainer memakai AI generatif dalam alur kerja; 73% menyebut AI sebagai faktor dampak #1 — AI-assisted design bukan lagi eksotis melainkan baseline.
+- **Aksesibilitas sebagai Launch Requirement:** bukan checklist akhir, tapi syarat rilis — sejalan dengan verdict Fuselab yang menempatkan *accessibility as a baseline* dan *AI you can check and override* sebagai dua tren paling penting.
+🔗 [MediaPlus: UI Trends 2026 – 12 Patterns](https://mediaplus.com.sg/ui-trends/) | [Fuselab: 10 Verdicts for Product Teams](https://fuselabcreative.com/ui-ux-design-trends-2026-modern-ui-trends-ux-trends-guide)
+
+---
+
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (5 November 2026).*
