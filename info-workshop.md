@@ -1,5 +1,5 @@
 # 🎓 Info Workshop, Webinar & Bootcamp Teknologi - November 2026
-*Terakhir diperbarui: 4 November 2026*
+*Terakhir diperbarui: 6 November 2026*
 
 Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya sudah lewat sudah dibersihkan):
 
@@ -83,15 +83,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** GRATIS + E-Certificate
     - **Link:** https://codelamp.id/webinar/4332850f-9a6c-4c3c-89ec-cdd7853249bc
 
-11. **Kelas UI/UX Research & Design: Free Short Class - Figma for UI/UX Design**
-    - **Penyelenggara:** MySkill
-    - **Target Peserta:** Siswa SMA/SMK, Mahasiswa, Calon UI/UX Designer
-    - **Format:** Live Interactive Zoom & Mentoring Kasus Portofolio
-    - **Jadwal:** Selasa, 3 November 2026 (19.30 - 21.00 WIB)
-    - **Biaya:** GRATIS + E-Sertifikat
-    - **Link:** https://myskill.id/bootcamp/ui-ux-design-short-class
-
-12. **Free Class Software Engineering: Website Development (Front End)**
+11. **Free Class Software Engineering: Website Development (Front End)**
     - **Penyelenggara:** MySkill
     - **Target Peserta:** Siswa SMA/SMK, Mahasiswa, Pemula Programming
     - **Format:** Live via Zoom + Praktik Studi Kasus Portofolio
@@ -99,7 +91,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** GRATIS + E-Sertifikat
     - **Link:** https://myskill.id/bootcamp/website-development-short-class
 
-13. **Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud**
+12. **Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud**
     - **Penyelenggara:** GDG Cloud Surabaya (Stream Solution Labs & Komunitas AI Cloud Surabaya)
     - **Target Peserta:** Developer, Mahasiswa Informatika, Cloud & AI Enthusiast
     - **Format:** Live Interactive Online Workshop
@@ -107,7 +99,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** Akses sesi online (cek link tiket resmi)
     - **Link:** https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-cloud-devfest-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/
 
-14. **Workshop Eksklusif: Machine Learning untuk Penelitian Tanpa Coding**
+13. **Workshop Eksklusif: Machine Learning untuk Penelitian Tanpa Coding**
     - **Penyelenggara:** KelasRiset.id
     - **Target Peserta:** Mahasiswa (D4/S1/S2/S3), Dosen, Peneliti, Pemula Non-IT
     - **Format:** Live Zoom (3x Pertemuan Praktik JASP & jamovi)
@@ -115,7 +107,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** Opsi Free Webinar / Rp129.000 Workshop Sertifikat 70 JP
     - **Link:** https://kelasriset.id/event/detail/workshop-eksklusif-machine-learning-untuk-penelitian-tanpa-coding
 
-15. **AI45: Gerakan Pelatihan AI untuk Pemuda Indonesia Menuju Indonesia Emas 2045**
+14. **AI45: Gerakan Pelatihan AI untuk Pemuda Indonesia Menuju Indonesia Emas 2045**
     - **Penyelenggara:** Strategic Initiative AI45
     - **Target Peserta:** Mahasiswa semua jurusan, Pelajar, Profesional Muda
     - **Format:** Online & On-Campus Interactive Training
@@ -123,7 +115,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** 100% GRATIS
     - **Link:** https://ai45.org/
 
-16. **Program Beasiswa AWS AI Academy 2026 (Dicoding x Amazon Web Services)**
+15. **Program Beasiswa AWS AI Academy 2026 (Dicoding x Amazon Web Services)**
     - **Penyelenggara:** Amazon Web Services (AWS) bersama Dicoding Indonesia
     - **Target Peserta:** Siswa SMA/SMK, Mahasiswa D3/S1/S2/S3, Masyarakat Umum WNI
     - **Format:** Online Self-Paced Learning + Bimbingan Mentor & Fasilitator
@@ -131,7 +123,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** 100% GRATIS (Beasiswa Pelatihan Penuh)
     - **Link:** https://indbeasiswa.com/beasiswa-aws/
 
-17. **DevDay Exchange Community: Jakarta** *(BARU 19 Okt)*
+16. **DevDay Exchange Community: Jakarta** *(BARU 19 Okt)*
     - **Penyelenggara:** Build Club / Naufaldi (Codex Ambassador) x OpenAI Developer Community
     - **Target Peserta:** Developer, founder, mahasiswa, desainer, marketer — siapa pun yang menggunakan ChatGPT/Codex
     - **Format:** Offline Meetup di fX Sudirman (check-in 09.30, program 10.00 - 14.00 WIB)
@@ -140,7 +132,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** DevDay watch session, tech talks, live Q&A, networking dengan builder Jakarta
     - **Link:** https://luma.com/dtu7sxtr
 
-18. **Kompetisi Olimpiade Informatika untuk SMA/SMK — Workshop Pelatihan AI Gratis (NAISC 2026)** *(BARU 19 Okt)*
+17. **Kompetisi Olimpiade Informatika untuk SMA/SMK — Workshop Pelatihan AI Gratis (NAISC 2026)** *(BARU 19 Okt)*
     - **Penyelenggara:** BIM University x UMS (Bali National AI Summit & Competition)
     - **Target Peserta:** Siswa SMA/SMK/MA sederajat se-Indonesia
     - **Format:** Workshop/Pelatihan AI gratis
@@ -149,7 +141,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Pelatihan AI dasar sebelum kompetisi nasional
     - **Link:** https://edutrend.id/bim-university-dan-ums-kolaborasi-gelar-bali-national-ai-summit-competition-2026-ajak-siswa-sma-smk-kuasai-kecerdasan-buatan/
 
-19. **Learn How to Turn Your Figma Design to Code with AI** *(BARU 20 Okt)*
+18. **Learn How to Turn Your Figma Design to Code with AI** *(BARU 20 Okt)*
     - **Penyelenggara:** Luma Design-to-Code Community
     - **Target Peserta:** UX/UI Designer, Product Manager, Mahasiswa & AI Enthusiast (tanpa perlu background coding)
     - **Format:** Weekly Live Hands-On Workshop & Q&A Online
@@ -158,7 +150,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Demo langsung konversi prototipe Figma ke production-ready code menggunakan Cursor AI, Bolt, Lovable, v0, dan Replit
     - **Link:** https://luma.com/han2rg2d
 
-20. **Build an AI Agent with AI-Assisted Coding (Cursor & Claude Code)** *(BARU 20 Okt)*
+19. **Build an AI Agent with AI-Assisted Coding (Cursor & Claude Code)** *(BARU 20 Okt)*
     - **Penyelenggara:** Vanishing Gradients (Hugo Bowne-Anderson, Isaac Flath & Eleanor Berger)
     - **Target Peserta:** Mahasiswa, Software Developer, Data Scientist & AI Builder
     - **Format:** Live Hands-On Online Workshop
@@ -167,16 +159,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Praktik merancang, memprototipe, dan membangun retrieval-based AI agent end-to-end dengan Python, Cursor, dan Claude Code
     - **Link:** https://luma.com/lod1h6s5
 
-21. **freeCodeCamp x Encode | AI Edition: Make Your Own Local-First AI Assistant** *(BARU 20 Okt)*
-    - **Penyelenggara:** freeCodeCamp London & Encode Club
-    - **Target Peserta:** Pemula hingga mahir, Mahasiswa & Developer Open-Source AI
-    - **Format:** Hands-On Workshop (London & Komunitas Discord/Materi Online)
-    - **Jadwal:** Rabu, 5 November 2026 (18.00 – 20.15 GMT)
-    - **Biaya:** GRATIS
-    - **Benefit:** Belajar membangun asisten AI lokal dengan Ollama/LMStudio, RAG, agentic web search, dan MCP workflows
-    - **Link:** https://luma.com/juy7t6rl
-
-22. **Workshop | Build a Landing Page Using Your Design System and Claude** *(BARU 20 Okt)*
+20. **Workshop | Build a Landing Page Using Your Design System and Claude** *(BARU 20 Okt)*
     - **Penyelenggara:** Uxcel x Serg Lotz (webentity.ai)
     - **Target Peserta:** UX/UI Designer, Product Designer, Frontend Builder (Beginner friendly)
     - **Format:** Live Hands-On Workshop via Zoom (90 menit)
@@ -185,7 +168,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Membuat custom Claude skill dari design tokens/style guide untuk generate landing page sesuai brand
     - **Link:** https://luma.com/UxcelClaudeDesignSystem
 
-23. **Design Systems x AI Webinar — Scaling UI/UX with AI** *(BARU 23 Okt)*
+21. **Design Systems x AI Webinar — Scaling UI/UX with AI** *(BARU 23 Okt)*
     - **Penyelenggara:** Designlab Community
     - **Target Peserta:** UI/UX Designer, Product Designer, Mahasiswa & Frontend Developer
     - **Format:** Live Online Webinar
@@ -194,7 +177,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Integrasi alur kerja AI ke dalam Design Systems modern
     - **Link:** https://designed.org/events
 
-24. **Webinar Hobi Data: Beyond The Model (Data Science & ML Deployment)** *(BARU 23 Okt)*
+22. **Webinar Hobi Data: Beyond The Model (Data Science & ML Deployment)** *(BARU 23 Okt)*
     - **Penyelenggara:** Komunitas Hobi Data
     - **Target Peserta:** Mahasiswa Informatika/Statistika, Pemula Data Science & AI Enthusiast
     - **Format:** Live Webinar via Zoom
@@ -203,7 +186,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Materi praktis machine learning deployment dan diskusi karier data
     - **Link:** https://lu.ma/
 
-25. **Indonesia AI Community x Claude Indonesia Community: Launch & Claude Code 101 Workshop** *(BARU 24 Okt)*
+23. **Indonesia AI Community x Claude Indonesia Community: Launch & Claude Code 101 Workshop** *(BARU 24 Okt)*
     - **Penyelenggara:** Indonesia AI Community x Claude Indonesia Community x TOTM Labs x ClaudeSG
     - **Target Peserta:** Developer, Founder, Mahasiswa, dan AI Builder di Indonesia
     - **Format:** Hands-On Workshop & Live Build (Claude Code 101 & Freestyle Coding)
@@ -212,7 +195,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Praktik langsung membangun website & AI agent dengan Claude Code, networking komunitas AI Indonesia
     - **Link:** https://luma.com/bzezz6ym
 
-26. **AInnovate 2026: Building Future-Ready Digital Products (UI/UX, AI/ML & Full-Stack Workshop)** *(BARU 25 Okt)*
+24. **AInnovate 2026: Building Future-Ready Digital Products (UI/UX, AI/ML & Full-Stack Workshop)** *(BARU 25 Okt)*
     - **Penyelenggara:** Google Developer Groups (GDG) on Campus BINUS University Online x Arah.in
     - **Target Peserta:** Mahasiswa, Aspiring UI/UX Designer, Developer (Front-End, Back-End, Mobile, Cloud, AI/ML)
     - **Format:** Hands-On Workshop & Tech Talk
@@ -221,7 +204,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Praktik pengembangan produk digital end-to-end dengan AI learning engine Arah.in (Ideation, Design Thinking, UI/UX, Cloud & AI/ML)
     - **Link:** https://gdg.community.dev/events/details/google-gdg-on-campus-binus-university-online-jakarta-indonesia-presents-ainnovate-2026-ainnovate-2026-building-future-ready-digital-products
 
-27. **National Tech Seminar & Integrated AI Mentoring LOGICODIX 2026** *(BARU 25 Okt)*
+25. **National Tech Seminar & Integrated AI Mentoring LOGICODIX 2026** *(BARU 25 Okt)*
     - **Penyelenggara:** HIMTI Universitas Negeri Surabaya (UNESA) x Navasena
     - **Target Peserta:** Siswa SMA/SMK, Mahasiswa Rumpun TI & Umum
     - **Format:** Online Mentoring (Zoom) & Offline National Seminar (Auditorium Utama UNESA)
@@ -230,7 +213,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Materi Scaling Human Creativity with AI Innovation, AI API Integration, Prompt Engineering, UU PDP, Green IT & Sertifikat Nasional
     - **Link:** https://www.logicodix2026.site/
 
-28. **AI for UX Design Informational Webinar & Cohort Session** *(BARU 25 Okt)*
+26. **AI for UX Design Informational Webinar & Cohort Session** *(BARU 25 Okt)*
     - **Penyelenggara:** Designlab
     - **Target Peserta:** UI/UX Designer, Product Designer, Mahasiswa Desain
     - **Format:** Live Online Webinar via Livestorm
@@ -239,7 +222,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Wawasan integrasi AI dalam riset dan alur kerja UX/Product Design modern
     - **Link:** https://app.livestorm.co/designlab/ai-for-ux-design-informational-webinar
 
-29. **Strategi Designer Membuat WebApp Pakai AI Tanpa Coding** *(BARU 27 Okt)*
+27. **Strategi Designer Membuat WebApp Pakai AI Tanpa Coding** *(BARU 27 Okt)*
     - **Penyelenggara:** Halo Designers (Mentor: Argi Tendo)
     - **Target Peserta:** UI/UX Designer, Product Designer, Pemula & Mahasiswa
     - **Format:** Live Class & Video Course Akses Selamanya
@@ -248,7 +231,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Memahami alur kerja membuat WebApp fungsional langsung dari UI/UX dengan tools AI tanpa koding manual
     - **Link:** https://www.halodesigners.com/new-events/strategi-designer-membuat-webapp-pakai-ai-tanpa-coding
 
-30. **Meet Figma AI: From Prompt to Prototype (IAIS Design Series)** *(BARU 27 Okt)*
+28. **Meet Figma AI: From Prompt to Prototype (IAIS Design Series)** *(BARU 27 Okt)*
     - **Penyelenggara:** Indonesia Artificial Intelligence Society (IAIS)
     - **Target Peserta:** UI/UX Designer, Desainer Grafis, Pelajar & Mahasiswa
     - **Format:** Free Online Webinar via Zoom
@@ -257,7 +240,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Eksplorasi fitur Figma Make & Figma AI untuk mengubah prompt menjadi prototipe desain interaktif secara instan
     - **Link:** https://www.linkedin.com/posts/indonesia-artificial-intelligence-society_figmamake-artificialintelligence-prototype-activity-7510328266243674112-bZ9a
 
-31. **GDG Live Indonesia: #JuaraVibeCoding Series (Data Engineer, Designer, Engineer & Students)** *(BARU 28 Okt)*
+29. **GDG Live Indonesia: #JuaraVibeCoding Series (Data Engineer, Designer, Engineer & Students)** *(BARU 28 Okt)*
     - **Penyelenggara:** Google Developer Groups (GDG) Indonesia
     - **Target Peserta:** Mahasiswa, UI/UX Designer, Data Engineer, & Software Engineer
     - **Format:** Online Hands-On Workshop & Rekaman Materi via GDG Live
@@ -266,7 +249,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Praktik membangun solusi data, UI/UX design, dan aplikasi menggunakan prinsip vibe coding & NotebookLM bersama GDE/praktisi industri
     - **Link:** https://gdg.community.dev/gdg-live-indonesia
 
-32. **Workshop AI Tanpa Coding: Workflow Otomatisasi, Agen AI & Chatbot** *(BARU 28 Okt)*
+30. **Workshop AI Tanpa Coding: Workflow Otomatisasi, Agen AI & Chatbot** *(BARU 28 Okt)*
     - **Penyelenggara:** CV Sinar Teknologi Indonesia (Sintekindo)
     - **Target Peserta:** Mahasiswa, Pelajar, dan Umum (Kuota 25 peserta per batch)
     - **Format:** Practical Workshop & Sistem Implementasi
@@ -275,7 +258,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Belajar membangun workflow otomatisasi cerdas, agen AI, chatbot WhatsApp, dan integrasi data bisnis tanpa koding
     - **Link:** https://sinarteknologiindonesia.co.id/en/events
 
-33. **Hackathon Class IBM SkillsBuild: Design Thinking, AI Product & Build with IBM Bob & Langflow** *(BARU 29 Okt)*
+31. **Hackathon Class IBM SkillsBuild: Design Thinking, AI Product & Build with IBM Bob & Langflow** *(BARU 29 Okt)*
     - **Penyelenggara:** Hacktiv8 x IBM x Kementerian Komdigi (@hacktiv8id)
     - **Target Peserta:** Mahasiswa aktif D3–S3 se-Indonesia (Peserta IBM SkillsBuild University Education)
     - **Format:** Online Class & Technical Mentoring
@@ -284,7 +267,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Pembekalan Design Thinking & AI Use Cases, AI Product & Business Model, serta praktik membangun AI Agent dengan IBM Bob, Langflow, dan watsonx Orchestrate
     - **Link:** https://www.hacktiv8.com/projects/ibm/hackathon
 
-34. **AIClub Meetup & Demo Day: Building Agentic AI with WorkBuddy** *(BARU 29 Okt)*
+32. **AIClub Meetup & Demo Day: Building Agentic AI with WorkBuddy** *(BARU 29 Okt)*
     - **Penyelenggara:** AI Club Jakarta Selatan / AIClub Indonesia x Tencent Cloud (@aiclub.id)
     - **Target Peserta:** AI Builder, Developer, Mahasiswa & Praktisi Teknologi
     - **Format:** Tatap Muka / Kopdar Meetup & Live Demo Day (Jakarta Selatan)
@@ -293,7 +276,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Sesi kopdar komunitas AI, showcase solusi Agentic AI untuk produktivitas kerja, dan networking langsung dengan ekosistem Tencent Cloud
     - **Link:** https://aiclub.id/event/tencent-cloud-hackathon-2026
 
-35. **Free AI Webinars Series — Road to SCALECON Jakarta 2027** *(BARU 30 Okt)*
+33. **Free AI Webinars Series — Road to SCALECON Jakarta 2027** *(BARU 30 Okt)*
     - **Penyelenggara:** SCALECON AI (@scalecon.ai)
     - **Target Peserta:** Mahasiswa, Developer, Praktisi Teknologi, dan Umum
     - **Format:** Live Online Webinar & Demo via Zoom (90 menit/sesi)
@@ -302,7 +285,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Materi framework AI praktis, live demo langsung bersama praktisi industri, dan sesi tanya jawab interaktif
     - **Link:** https://scalecon.ai/webinar
 
-36. **TECHNOSKILL 1.0 2026: Free Bootcamp & Workshop UI/UX Design** *(BARU 30 Okt)*
+34. **TECHNOSKILL 1.0 2026: Free Bootcamp & Workshop UI/UX Design** *(BARU 30 Okt)*
     - **Penyelenggara:** Panitia TECHNOSKILL 1.0
     - **Target Peserta:** Pelajar, Mahasiswa, dan Pemula di bidang UI/UX Design
     - **Format:** Webinar & Hands-On Workshop Terintegrasi (Online)
@@ -311,7 +294,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Pelatihan terintegrasi konsep dan praktik langsung (hands-on) UI/UX Design untuk kebutuhan industri
     - **Link:** https://www.instagram.com/p/DZ4igpdD1U7/
 
-37. **Microsoft Ignite 2026 — Global AI, Cloud & Security Conference** *(BARU 30 Okt)*
+35. **Microsoft Ignite 2026 — Global AI, Cloud & Security Conference** *(BARU 30 Okt)*
     - **Penyelenggara:** Microsoft (@microsoft)
     - **Target Peserta:** Developer, Mahasiswa IT, Cloud & Security Enthusiast, dan Umum
     - **Format:** Online Global Digital Event / Hybrid
@@ -320,16 +303,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Eksplorasi inovasi terbaru AI, Cloud, Copilot, dan Cybersecurity langsung dari para engineer & pakar Microsoft
     - **Link:** https://www.microsoft.com/en-us/events
 
-38. **Kelas Microsoft Excel: Mengelola & Menganalisis Data** *(BARU 31 Okt)*
-    - **Penyelenggara:** Webinar Gratis (disalurkan via channel Event Gratis)
-    - **Target Peserta:** Umum — pelajar, mahasiswa, dan pekerja yang ingin menguasai Excel
-    - **Format:** Live Online via Zoom Meeting
-    - **Jadwal:** Selasa, 3 November 2026, 19.30 – 21.30 WIB
-    - **Biaya:** GRATIS
-    - **Benefit:** Belajar merapikan dan mengelola data, rumus & fungsi Excel, logika otomatis (IF, IFS, IFERROR), rekap serta analisis data dengan fungsi Lookup, dan ringkasan data cepat dengan PivotTable
-    - **Link:** https://forms.gle/3H96xdGHTjJNvPqC9 (alt: bit.ly/Siapkerja2)
-
-39. **Typolog 2026: Letters — Online Typography Dialogue** *(BARU 31 Okt)*
+36. **Typolog 2026: Letters — Online Typography Dialogue** *(BARU 31 Okt)*
     - **Penyelenggara:** Typolog 2026
     - **Target Peserta:** Desainer, mahasiswa desain/kreatif, dan umum yang tertarik tipografi
     - **Format:** Online via Zoom Meeting
@@ -338,7 +312,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Sesi dialog tipografi interaktif tentang bentuk huruf dan komunikasi visual, bertukar perspektif dengan peserta lain, plus sesi tanya jawab bersama pembicara
     - **Link:** https://bit.ly/Typolog2026Registration
 
-40. **Devscale AI Product Engineering Batch III — Bootcamp Live TypeScript + AI** *(BARU 2 Nov)*
+37. **Devscale AI Product Engineering Batch III — Bootcamp Live TypeScript + AI** *(BARU 2 Nov)*
     - **Penyelenggara:** Devscale Indonesia (@devscale.id)
     - **Target Peserta:** Developer, mahasiswa tingkat akhir, dan career switcher yang ingin membangun AI product system
     - **Format:** Live online bootcamp (Zoom) — 20 sesi, 10 minggu
@@ -347,7 +321,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Materi React, Hono, TypeScript, PostgreSQL, Drizzle, Anvia Agent SDK, tool calling, observability, dan workflow deployment modern; project nyata + sesi one-on-one bersama mentor aktif industri
     - **Link:** https://devscale.id/
 
-41. **Devscale Full-Stack JavaScript — Bootcamp 8 Minggu** *(BARU 2 Nov)*
+38. **Devscale Full-Stack JavaScript — Bootcamp 8 Minggu** *(BARU 2 Nov)*
     - **Penyelenggara:** Devscale Indonesia (@devscale.id)
     - **Target Peserta:** Pemula–menengah yang ingin menguasai full-stack JavaScript modern
     - **Format:** Live online bootcamp — 16 sesi, 8 minggu
@@ -356,7 +330,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** JavaScript, TypeScript, TanStack Start, PostgreSQL, Drizzle ORM, system design, dan engineering judgment untuk bekerja bersama AI; dashboard student platform berisi jadwal, assignment & kursus
     - **Link:** https://devscale.id/
 
-42. **Webinar 14.0 — Canva for Digital Literacy: Bikin Karya Literasi Digital Makin Mudah & Interaktif** *(BARU 3 Nov)*
+39. **Webinar 14.0 — Canva for Digital Literacy: Bikin Karya Literasi Digital Makin Mudah & Interaktif** *(BARU 3 Nov)*
     - **Penyelenggara:** IKA IPA UNTIRTA
     - **Target Peserta:** Guru, mahasiswa, pelajar, dan umum yang tertarik desain & literasi digital
     - **Format:** Online via Zoom Meeting
@@ -366,7 +340,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Link:** https://ikaipauntirta.web.id/berita/peluang-studi-lanjut/webinar-14-canva-for-digital-literacy-7-november-2026
     - **Catatan:** Link pendaftaran dibagikan lewat kolom komentar postingan sumber — perlu dicek ulang di halaman resmi
 
-43. **MySkill Free Short Class: Artificial Intelligence — AI for Work Productivity** *(BARU 3 Nov)*
+40. **MySkill Free Short Class: Artificial Intelligence — AI for Work Productivity** *(BARU 3 Nov)*
     - **Penyelenggara:** MySkill
     - **Target Peserta:** Mahasiswa, pelajar, dan profesional pemula yang ingin memakai AI untuk produktivitas
     - **Format:** Live class via Zoom + mini task untuk portofolio
@@ -374,3 +348,13 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** GRATIS + E-Sertifikat
     - **Benefit:** AI & automation with n8n, prompt engineering basics, intro to chatbot development, akses grup Telegram komunitas MySkill
     - **Link:** https://dash2.myskill.id/bootcamp/artificial-intelligence-kelas-gratis-bersertifikat-myskill
+
+41. **Free Class UI/UX Design: Optimizing UI/UX Design using AI & Figma — Sesi November 2026** *(BARU 6 Nov)*
+    - **Penyelenggara:** Info Kuyy (@infokuyy.id)
+    - **Target Peserta:** Pemula, mahasiswa, dan siapa pun yang ingin belajar UI/UX Design
+    - **Format:** Live Class via Zoom Meeting
+    - **Jadwal:** Minggu, 8 November 2026, 19.00 – 21.00 WIB
+    - **Biaya:** GRATIS (kuota terbatas)
+    - **Benefit:** Belajar UI/UX dari dasar hingga praktik desain website menggunakan Figma dengan pemanfaatan AI; materi Optimizing UI/UX Design using AI
+    - **Link:** https://www.instagram.com/p/Day1xR0yRur/
+    - **Catatan:** Akun @infokuyy.id rutin mengadakan free class serupa — pendaftaran sesi terbaru 30 Oktober – 8 November 2026; link formulir pendaftaran dibagikan di caption/IG story, perlu dicek ulang di link resmi
