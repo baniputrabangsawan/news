@@ -1,5 +1,47 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 5 November 2026*
+*Terakhir diperbarui: 6 November 2026*
+
+---
+
+## 🆕 UPDATE 6 NOVEMBER 2026
+
+### A. Microsoft Agent Framework Builder Skills — Panduan Terpaket untuk Coding Agent (.NET & Python)
+Microsoft merilis *builder skills* yang dapat dipasang langsung ke asisten coding (format Agent Skills), memberikan panduan resmi untuk membangun dan memodifikasi aplikasi Agent Framework:
+- **Instalasi:** `gh skill install microsoft/agent-framework agent-framework-builder-dotnet@main` atau `agent-framework-builder-python@main`; alternatif via CLI lintas-agent `npx skills add microsoft/agent-framework --skill ...`. Bisa pin ke tag/commit untuk snapshot reprodusible.
+- **Cara kerja:** Setiap skill punya entri `SKILL.md`; coding agent memeriksa proyek & dependensi terlebih dahulu, lalu hanya memuat panduan yang relevan dengan tugas — bukan seluruh fitur framework sekaligus.
+- **Pola terkecil yang cukup:** Satu agen jika tools & sesi memadai; *harness* jika butuh operating loop; *workflow* jika butuh stage, routing, dan checkpointing eksplisit.
+- **Bahasa spesifik:** Skill .NET mencakup `AIAgent`, `Microsoft.Extensions.AI`, NuGet, DI, dan hosting ASP.NET Core; skill Python mencakup `Agent`, provider packages, middleware, context providers, dan pola workflow Python.
+- **Catatan:** Ini adalah skill *development-time* untuk asisten coding — bukan skill runtime yang dimuat aplikasi yang di-ship. Aplikasi tetap butuh SDK packages & kredensial model sendiri.
+🔗 [Microsoft Agent Framework DevBlog](https://devblogs.microsoft.com/agent-framework/give-your-coding-agent-a-head-start-with-microsoft-agent-framework-skills-for-net-and-python/)
+
+### B. "Agents Are Going Async" — Pola Async Subagents Menjadi Standar Infrastruktur Agen
+LangChain menggelar tren konvergensi ekosistem: agen yang tetap responsif sambil menjalankan banyak tugas panjang secara paralel:
+- **Masalah ReAct loop tradisional:** setiap tool call yang lambat memblokir loop, dan semua tugas antri di belakangnya — tidak cocok untuk agen yang menjalankan banyak pekerjaan panjang sekaligus.
+- **Pola yang konvergen:** Satu *orchestrator* yang tetap bisa diajak bicara pengguna, plus *async subagents* sebagai background workers yang melaporkan hasil saat selesai. Claude Code menjalankan subagent di background secara default; OpenAI dots menyerahkan pekerjaan ke background workers; DeepSeek Harness membangun super agent di atas arsitektur router + worker paralel.
+- **Lima tool manajemen tugas async:** `start_async_task`, `check_async_task`, `update_async_task` (kirim instruksi baru ke tugas yang sedang berjalan), `cancel_async_task`, dan `list_async_tasks`.
+- **Ketersediaan:** Async subagents tersedia di *Deep Agents* untuk Python & JavaScript, dan di Managed Deep Agents (cukup satu field untuk membuat subagent async).
+- **Implikasi:** Kapasitas kerja agen tumbuh seiring jumlah background workers, bukan panjang satu loop — pola arsitektur baru untuk aplikasi agen produksi 2026.
+🔗 [LangChain Blog: Agents Are Going Async](https://www.langchain.com/blog/agents-are-async)
+
+### C. Rekap Rilis Framework Agen Pekan 2–8 November 2026
+Dari agregator Agent Radar dan AgentGid (474 rilis stabil dari 113 proyek dalam seminggu):
+- **Cloudflare Agents SDK 0.32.0 (29 Okt):** Rebuild total *Agent Skills loading* — mengganti `SkillRegistry` dengan skill berspesifikasi yang dimuat dari workspaces, R2, atau kode; menambahkan OpenTelemetry spans.
+- **Pydantic AI 2.64:** Model fallback controls (timing & provider-state boundaries), artifact scanning via Boxd sandbox, ditambah perubahan harness & evaluation.
+- **Agno 3.1.12:** Native Claude & Codex approvals masuk ke AgentOS — permintaan izin dapat menjeda *persisted run* dan melanjutkan eksekusi yang sama setelah review.
+- **langchain-core 1.7.0:** Streaming tool-call args sebagai *tool-call-delta events* (1.7.1 memperbaiki gateway tracing metadata & Mermaid labels).
+- **Mastra 1.80.0:** Koneksi OAuth per-*user* untuk tool agen (resource-scoped connections) serta perubahan observabilitas & run-control.
+- **AG2 1.2.2:** Per-call tool timeouts, dukungan Anthropic SDK 2.x, deprecasi `OpenAIConfig` sebelum migrasi ke Responses di 1.4.
+- **Microsoft Agent Framework 1.24.0 (Python, 30 Okt):** Python 3.11 sebagai baseline, memecah beta Redis context index, menambah default persetujuan MCP.
+- **Omnigent 0.21.0:** PR UI menjadi daftar kompak dengan checks & merge actions; tool calls ditampilkan sebagai aksi bahasa natural; sesi bisa dijalankan di mesin mana pun via SSH langsung dari desktop app.
+🔗 [Agent Radar: Frameworks](https://agentradar.cc/category/frameworks) | [AgentGid: Week of Nov 2, 2026](https://agentgid.com/releases/2026-11-02/)
+
+### D. UI/UX: Merancang di Era AI Agent — "Intent, Action, Result" & Konfirmasi Transparan
+Dribbble (30 Okt 2026) menyoroti pergeseran fundamental: antarmuka tradisional dengan lima layar dan sepuluh klik dapat diringkas menjadi tiga momen — *prompt, confirmation, result*:
+- **Bentuk UX yang baru (Intent → Action → Result):** Intent harus ditangkap jelas bahkan saat permintaan samar; Action butuh batasan (apa yang boleh dilakukan agen sendiri vs apa yang butuh persetujuan); Result disajikan agar orang bisa mempercayai, mengecek, dan mengubahnya.
+- **Keputusan desain bergeser dari layout ke logika, bahasa, dan timing:** Deliverable kini sering tidak muncul di layar — definisi perilaku agen saat permintaan ambigu, peta handoff antar agen/tools/manusia, state tugas, serta instruksi (prompt) yang membentuk respons agen.
+- **Konfirmasi yang baik menunjukkan aksi, target, dan konsekuensi:** "Kirim proposal ini ke tiga kontak klien" — bukan sekadar "Lanjut?". Semakin konsekuensial aksinya, semakin visible langkah-langkahnya harus terlihat (alat apa yang dipakai, bagaimana meng-undo).
+- **Kesimpulan:** Desain yang baik berarti membuat AI terasa *predictable, trustworthy, understandable, dan easy to control* — antarmuka yang dipoles tidak bisa menutupi agen yang perilakunya mengejutkan pengguna.
+🔗 [Dribbble Stories: Design in the Age of AI Agents](https://dribbble.com/stories/2026/10/30/design-in-the-age-of-ai-agents)
 
 ---
 
