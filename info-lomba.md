@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - November 2026
-*Terakhir diperbarui: 4 November 2026*
+*Terakhir diperbarui: 6 November 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
@@ -24,7 +24,8 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Penyelenggara:** HIMTI Universitas Negeri Surabaya (UNESA)
     - **Target Peserta:** Mahasiswa dan Pelajar SMA/SMK se-Indonesia
     - **Lokasi:** Hybrid (Online & Grand Final Surabaya)
-    - **Deadline:** 29 November 2026 (Grand Final) / Pendaftaran aktif Oktober 2026
+    - **Deadline:** Pendaftaran 15 September – 6 November 2026; Grand Final 29 November 2026
+    - **Biaya:** Batch 1 Rp65.000/tim; Batch 2 Rp75.000/tim
     - **Hadiah:** Uang pembinaan & trophy jutaan rupiah, mentoring industri, sertifikat nasional
     - **Link:** https://www.logicodix2026.site/
 
@@ -244,17 +245,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Total hadiah Rp100.000.000 dan Jos Luhukay Award for Excellence
     - **Link:** https://www.facebook.com/cintakasihtzuchisingkawang/posts/1484507360365749/
 
-28. **HIMTEC Hackathon Build App 2026 — "Build App With AI"** *(BARU 31 Okt)*
-    - **Penyelenggara:** IT HOLIC | HIMTEC & Seminar Nasional (@itholic_official) — Universitas Teknologi Bandung
-    - **Target Peserta:** Mahasiswa se-Indonesia (benefit SKKM khusus mahasiswa UTB)
-    - **Lokasi:** Offline — Kampus 1 Universitas Teknologi Bandung
-    - **Deadline:** Pendaftaran 24 Oktober – 3 November 2026 (Technical Meeting 5 Nov; Pelaksanaan 7 Nov 2026)
-    - **Biaya:** Rp55.000
-    - **Hadiah:** Piala + uang pembinaan Juara 1, 2, dan 3; sertifikat juara; e-sertifikat partisipasi; free SKKM khusus mahasiswa UTB; konsumsi
-    - **Link:** https://bit.ly/4eq3rMo
-    - **Catatan:** Tim maksimal 3 orang, durasi lomba 13 jam non-stop, peserta diperbolehkan menggunakan AI sebagai alat bantu pengembangan aplikasi
-
-29. **OU Festival 12 (Olimpiade Update Festival) 2026/2027 — Break the Impossible** *(BARU 3 Nov)*
+28. **OU Festival 12 (Olimpiade Update Festival) 2026/2027 — Break the Impossible** *(BARU 3 Nov)*
     - **Penyelenggara:** Olimpiade Update (OU Festival) — @ou_festival
     - **Target Peserta:** Siswa SMP/MTs, SMA/MA/SMK, Mahasiswa D3/S1, dan Umum (tergantung cabang lomba)
     - **Cabang:** OPSILON (olimpiade sains, sosial & bahasa — tersedia bidang Informatika dan AI untuk jenjang SMA), KOSA KATA (puisi & cerpen), KOMPAS (poster kreatif), LOKASI (karya tulis ilmiah), EPIC (rencana bisnis), TRACTION (simulasi trading)
@@ -265,7 +256,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://www.ou-festival.com/
     - **Catatan:** Satu akun cukup untuk mendaftar semua lomba. Babak penyisihan OPSILON 16–17 Januari 2027 (online, 90 menit), final 23–24 Januari 2027 via Zoom dengan kamera pengawas
 
-30. **FOSTIFEST 2026 — UI/UX Design & Software Development** *(BARU 3 Nov)*
+29. **FOSTIFEST 2026 — UI/UX Design & Software Development** *(BARU 3 Nov)*
     - **Penyelenggara:** FOSTI Universitas Muhammadiyah Surakarta (UMS)
     - **Target Peserta:** Mahasiswa (cek ketentuan peserta di guidebook resmi)
     - **Tema:** Solusi digital untuk pembangunan berkelanjutan
@@ -277,7 +268,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Catatan:** Pilih salah satu cabang — UI/UX Design atau Software Development
 
 
-31. **Hackathon ITS 2026 — Membangun Aplikasi Kecerdasan Artifisial untuk Masalah Nyata** *(BARU 5 Nov)*
+30. **Hackathon ITS 2026 — Membangun Aplikasi Kecerdasan Artifisial untuk Masalah Nyata** *(BARU 5 Nov)*
     - **Penyelenggara:** Institut Teknologi Sepuluh Nopember (ITS)
     - **Target Peserta:** Mahasiswa, dosen, peneliti, dan profesional; tim 1–5 orang
     - **Lokasi:** Pendaftaran online; final nasional di Surabaya
@@ -286,3 +277,35 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah/Manfaat:** Total hadiah Rp100 juta; pra-inkubasi, mentoring, validasi pengguna, Demo Day, dan business matching
     - **Link resmi:** https://hackathon-its.id
     - **Catatan:** Wajib memiliki purwarupa/desain awal berbasis AI dengan TKT 3–6; tema mencakup energi dan masalah nyata lintas sektor.
+
+31. **Kompetisi Esai Nasional #4 — "Mewujudkan Indonesia Masa Depan"** *(BARU 6 Nov)*
+    - **Penyelenggara:** Pemuda Internasional
+    - **Target Peserta:** Warga Negara Indonesia (WNI) — terbuka untuk umum, pelajar, dan mahasiswa; esai ditulis perorangan; maksimal mengirim 3 karya
+    - **Tema:** "Mewujudkan Indonesia Masa Depan"
+    - **Lokasi:** Online
+    - **Deadline:** Pendaftaran & konfirmasi s.d. 23 November 2026; pengumpulan karya s.d. 26 November 2026; pengumuman pemenang 10 Desember 2026
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Juara 1 Rp1.000.000, Juara 2 Rp700.000, Juara 3 Rp500.000, Harapan 1 Rp300.000, Harapan 2 Rp200.000, Harapan 3 Rp100.000; setiap pemenang mendapat piala kejuaraan, e-sertifikat juara nasional, dan feedback karya dari juri
+    - **Link:** https://pemudainternasional.com/ken4
+
+32. **Lomba Poster World Sight Day 2026** *(BARU 6 Nov)*
+    - **Penyelenggara:** Kementerian Kesehatan Republik Indonesia
+    - **Target Peserta:** Umum (perorangan)
+    - **Tema:** Kesehatan mata dan skrining (memperingati World Sight Day 2026)
+    - **Lokasi:** Online (pendaftaran & pengumpulan karya)
+    - **Deadline:** 5 – 30 November 2026 (batas akhir pengiriman karya 30 November 2026 pukul 23.59 WIB); pengumuman pemenang 10 Desember 2026
+    - **Biaya:** Gratis
+    - **Hadiah:** Total Rp6.000.000 — Juara I Rp3.000.000, Juara II Rp2.000.000, Juara III Rp1.000.000
+    - **Link:** https://s.kemkes.go.id/LombaPosterWSD2026
+    - **Catatan:** Penggunaan AI sebagai alat bantu pembuatan poster diperbolehkan namun memengaruhi penilaian karya; peserta wajib mencantumkan keterangan "Penggunaan AI: Ya/Tidak" pada formulir pendaftaran
+
+33. **Lomba Esai Nasional KREASI FEST 3.0 2026** *(BARU 6 Nov)*
+    - **Penyelenggara:** Kurasi Insan Cendekia (Generasi Muda untuk Indonesia)
+    - **Target Peserta:** Generasi muda Indonesia — individu atau tim
+    - **Tema:** Tata kelola Indonesia, kepemimpinan, pendidikan, teknologi, ekonomi, dan lingkungan
+    - **Lokasi:** Online
+    - **Deadline:** Gelombang 1: 3 – 13 November 2026; Gelombang 2: 14 November – 2 Desember 2026; pengumuman juara 13 Desember 2026
+    - **Biaya:** Gelombang 1 — Individu Rp35.000/karya, Tim Rp55.000/karya; Gelombang 2 — Individu Rp45.000/karya, Tim Rp65.000/karya (pembayaran via QRIS resmi)
+    - **Hadiah:** Uang pembinaan, sertifikat, medali, selempang, dan publikasi antologi karya
+    - **Link:** https://linktr.ee/kreasifest
+    - **Catatan:** Webinar Penulisan Esai gratis pada 19 November 2026; konfirmasi format pengiriman ke admin sebelum mengirim karya
