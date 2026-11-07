@@ -282,3 +282,36 @@ Dua publikasi terbaru (MediaPlus, 26 Oktober & Fuselab Creative, 29 Oktober 2026
 ---
 
 *Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (5 November 2026).*
+---
+
+## 🆕 UPDATE 6 NOVEMBER 2026 (Lanjutan)
+
+### A. IDP Agent-Native System of Action — Platform Enterprise Agentik Baru (6 November 2026)
+IDP (ID Privacy AI) memperkenalkan **Agent-Native System of Action** — platform enterprise yang menyatukan manusia dan AI agent dalam satu workspace terpadu:
+- **Universal Agent Protocol (UAP):** Protokol proprietary yang memungkinkan pengembangan, reasoning, orkestrasi, customer intelligence, dan eksekusi enterprise bekerja dalam satu sistem.
+- **Relevansi:** Mengisi celah antara framework open-source (LangGraph, Mastra, ADK) dan kebutuhan enterprise untuk sistem terintegrasi yang mendukung kolaborasi manusia-agen secara native.
+- **Konteks:** Seiring konsolidasi ekosistem agent framework di akhir 2026, platform yang menawarkan sistem action terpadu seperti IDP mulai menarik perhatian enterprise yang ingin menghindari fragmentasi toolchain.
+🔗 [PRNewswire: IDP Agent-Native System](https://www.prnewswire.com/news-releases/idp-introduces-agent-native-system-of-action-unifying-humans-and-ai-agents-in-one-enterprise-workspace-302932276.html)
+
+### B. Fuselab Creative — 10 Verdicts UI/UX Trends 2026 untuk Product Teams
+Fuselab Creative (29 Oktober 2026) merilis panduan tendensi UI/UX 2026 dengan pendekatan "adopt / test / skip" yang actionable untuk product teams:
+- **Accessibility sebagai Launch Requirement:** EAA (European Accessibility Act) berlaku sejak 28 Juni 2025 untuk consumer banking & e-commerce; WCAG 2.2 AA menjadi target aman. Aksesibilitas kini jadi syarat rilis, bukan checklist akhir.
+- **AI Copilot UI (bukan Autopilot):** Pergeseran besar — AI membantu pengguna melakukan lebih baik, bukan menggantikan pengguna. Progress harus terlihat, pengguna harus bisa meninjau, menjeda, memodifikasi, menyetujui, atau menghentikan aksi agen (agentic UX).
+- **Dark Mode First dari Awal:** Tim mendesain token dark + light secara bersamaan sejak hari pertama; nama warna semantik (`surface-1`, `accent-strong`) menggantikan hex literal.
+- **Responsible Glassmorphism:** Blur frosted berat sudah keluar; transparansi halus pada overlay/modal/navigasi mengambang + kontras kuat jadi standar 2026.
+- **Figma 2026 Designer Report:** 93% desainer memakai AI generatif dalam alur kerja; 73% menyebut AI sebagai faktor dampak #1.
+- **Liquid Glass:** Apple memimpin dengan Liquid Glass UI sebagai jembatan antara antarmuka flat saat ini dan pengalaman augmented reality berlapis.
+🔗 [Fuselab: 10 Verdicts for Product Teams](https://fuselabcreative.com/ui-ux-design-trends-2026-modern-ui-trends-ux-trends-guide)
+
+### C. UX Pilot — 12 Product Design Trends 2026
+UX Pilot merangkum 12 tren desain produk tahun 2026:
+- **MX (Machine Experience) Design untuk AI Search:** Merancang konten agar bisa dibaca dan diringkas oleh mesin sebelum pengguna manusia berinteraksi.
+- **Glassmorphism 2.0:** Glassmorphism kembali tapi telah berevolusi menjadi lebih subtle dan fungsional.
+- **Micro-Delight Interactions:** Tombol yang settle dengan gentle bounce, toggle yang terasa tactile — feedback instan mengurangi ketidakpastian dan menurunkan beban kognitif.
+- **AI-First Design Tools:** Galileo AI, Uizard, UXPin, Magic Patterns, Google Stitch, Pencil.dev, Figma Make, Claude Design — alat desain berbasis AI menjadi bagian penting stack desain produk.
+- **Key takeaway:** Designer dapat fokus pada *kapan* dan *mengapa* momen harus bergerak, bukan meng-coding setiap transisi.
+🔗 [UX Pilot: 12 Product Design Trends 2026](https://uxpilot.ai/blogs/product-design-trends)
+
+---
+
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (6 November 2026).*
