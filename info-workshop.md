@@ -358,3 +358,30 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Belajar UI/UX dari dasar hingga praktik desain website menggunakan Figma dengan pemanfaatan AI; materi Optimizing UI/UX Design using AI
     - **Link:** https://www.instagram.com/p/Day1xR0yRur/
     - **Catatan:** Akun @infokuyy.id rutin mengadakan free class serupa — pendaftaran sesi terbaru 30 Oktober – 8 November 2026; link formulir pendaftaran dibagikan di caption/IG story, perlu dicek ulang di link resmi
+
+42. **AI Introductory: Turn Creative Ideas into Real Solution (AI Center Bali)** *(BARU 8 Nov)*
+    - **Penyelenggara:** AI Center Bali (@aicenterbali)
+    - **Target Peserta:** Mahasiswa perguruan tinggi, siswa SMK, dan komunitas digital Bali
+    - **Format:** Online via Zoom Meeting
+    - **Jadwal:** Selasa, 11 November 2026, 13.00–15.00 WITA (12.00–14.00 WIB)
+    - **Biaya:** GRATIS
+    - **Benefit:** Expert sharing, discussion & QnA, hands-on practice pemanfaatan AI untuk inovasi digital, plus pengenalan AI Mini Hackathon sebagai wadah pengembangan ide berbasis AI
+    - **Link:** https://luma.com/omu99jyc
+
+43. **Webinar: Critical AI for Designers — Better Decisions, Not Just Faster Outputs** *(BARU 8 Nov)*
+    - **Penyelenggara:** Mille Wienberg Reynolds (via Luma)
+    - **Target Peserta:** UX designer, UX researcher, product designer & PM (pemula–menengah)
+    - **Format:** Live talk + open discussion via Online (registrasi via Luma)
+    - **Jadwal:** 60 menit; jadwal sesi terbaru dicek di halaman Luma (perlu dicek ulang di link resmi)
+    - **Biaya:** GRATIS
+    - **Benefit:** Framework kapan pakai AI dan kapan tidak; contoh praktis di tahap research, synthesis, ideation & prototyping; semua pendaftar dapat rekaman sesi + toolkit/framework
+    - **Link:** https://luma.com/CriticalAIDesigners
+
+44. **MySkill Free Short Class: UI/UX Design Introduction** *(BARU 8 Nov)*
+    - **Penyelenggara:** MySkill
+    - **Target Peserta:** Pelajar, mahasiswa, dan pemula yang ingin belajar UI/UX Design
+    - **Format:** Live class via Zoom + tanya-jawab dengan mentor + mini task untuk portofolio
+    - **Jadwal:** Kamis, 10 Desember 2026, 19.30–21.00 WIB
+    - **Biaya:** GRATIS + E-Sertifikat
+    - **Benefit:** UI/UX design fundamentals, wireframing, Figma, UX research & UX writing; akses grup Telegram komunitas MySkill
+    - **Link:** https://myskill.id/bootcamp/ui-ux-design-short-class
