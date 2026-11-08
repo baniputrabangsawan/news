@@ -309,3 +309,45 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Uang pembinaan, sertifikat, medali, selempang, dan publikasi antologi karya
     - **Link:** https://linktr.ee/kreasifest
     - **Catatan:** Webinar Penulisan Esai gratis pada 19 November 2026; konfirmasi format pengiriman ke admin sebelum mengirim karya
+
+34. **SARL 2026 — Sorcery AI Racing League (Kompetisi Balap Otonom Virtual)** *(BARU 8 Nov)*
+    - **Penyelenggara:** Data Sorcerers
+    - **Target Peserta:** Mahasiswa, pelajar, dan umum yang tertarik AI/robotika/autonomous driving
+    - **Tema:** Membangun AI driver untuk mobil otonom virtual (mobil, simulator, dan sirkuit disediakan panitia); dua divisi — Spellcraft (kontrol klasik: PID, Pure Pursuit, MPC) dan Neuralcraft (deep RL, imitation learning, neuroevolution)
+    - **Lokasi:** Online (4 race week daring: 21, 28, 29 November & 5 Desember 2026); final 18–20 Desember 2026 secara luring di Jawa Tengah
+    - **Deadline:** Pendaftaran dibuka awal November 2026 (tanggal pasti belum diumumkan — perlu dicek ulang di link resmi)
+    - **Biaya:** Perlu dicek ulang di link resmi
+    - **Hadiah:** Belum dicantumkan di halaman resmi; maksimal 50 entri per race week, 5 teratas lolos, final 20 tim
+    - **Link:** https://sarl.data-sorcerers.com/
+
+35. **FFS Nasional 2026 — Festival Film Surabaya: Kategori Film Fiksi Pendek Berbasis AI** *(BARU 8 Nov)*
+    - **Penyelenggara:** SMK Dr. Soetomo (Smekdor) Surabaya — Festival Film Surabaya edisi ke-8
+    - **Target Peserta:** Pelajar, mahasiswa, dan masyarakat umum (perorangan/tim)
+    - **Tema:** Film fiksi pendek berbasis AI — penyelenggara menyebutnya kategori festival film AI pertama di Indonesia
+    - **Lokasi:** Pendaftaran & pengumpulan karya daring; penjurian & malam penghargaan luring di Surabaya
+    - **Deadline:** Pendaftaran gratis s.d. 10 November 2026 (SISA 2 HARI!); kurasi 15 November 2026; festival & penghargaan 22–23 Desember 2026
+    - **Biaya:** Gratis
+    - **Hadiah:** Total Rp20.000.000 untuk seluruh kategori lomba
+    - **Link:** https://docs.google.com/forms/d/e/1FAIpQLSckWkJqUxyiwQ96-7qqSgZYhc0Jy5y2syXhqVULbLtMnZ4oCA/viewform
+    - **Catatan:** Karya harus produksi 2025/2026; peserta kategori AI wajib menjelaskan penggunaan AI dalam karyanya
+
+36. **ML Empowerment Build Challenge 4.0** *(BARU 8 Nov)*
+    - **Penyelenggara:** ML Empowerment Foundation
+    - **Target Peserta:** Mahasiswa semua negara (global, perorangan/tim)
+    - **Tema:** Kurikulum AI 12 pelajaran (dasar AI, ML, neural network, LLM, prompt engineering, etika) lalu membangun proyek AI nyata — aplikasi, chatbot, atau alat pemecah masalah — dengan pendampingan mentor
+    - **Lokasi:** Online penuh (global)
+    - **Deadline:** Submisi ditutup 1 Desember 2026 pukul 23.45 PST
+    - **Biaya:** Gratis
+    - **Hadiah:** 2 hadiah non-tunai + sertifikat untuk semua peserta
+    - **Link:** https://ml-build-challenge-4.devpost.com/
+
+37. **AI OpenBuild (Devpost Tantangan Terbuka)** *(BARU 8 Nov)*
+    - **Penyelenggara:** Devpost
+    - **Target Peserta:** Pelajar/mahasiswa dari semua negara — perorangan atau tim maksimal 5 orang
+    - **Tema:** Bebas — pilih satu kemampuan AI (bahasa, visi, suara, prediksi, generasi), buat antarmukanya, dan buktikan pengalamannya bekerja
+    - **Lokasi:** Online penuh
+    - **Deadline:** Jendela submisi 5 November – 10 Desember 2026
+    - **Biaya:** Gratis
+    - **Hadiah:** USD 150 tunai untuk dua peserta terdaftar (per pengecekan halaman)
+    - **Link:** https://ai-openbuild.devpost.com/
+    - **Catatan:** Submisi wajib memuat penjelasan ide, peran model, demo video, dokumentasi stack, dan daftar keterbatasan
