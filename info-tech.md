@@ -315,3 +315,59 @@ UX Pilot merangkum 12 tren desain produk tahun 2026:
 ---
 
 *Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (6 November 2026).*
+
+---
+
+## 🆕 UPDATE 8 NOVEMBER 2026
+
+### A. Microsoft Agent Framework 1.25.0 Siaps — Python 3.11+ Menjadi Baseline Resmi (6 November 2026)
+GitHub releases menunjukkan persiapan rilst 1.25.0 (confirmed 6 Nov 2026) dengan perubahan breaking change signifikan:
+- **Python 3.11 or later is now the baseline** — semua tim yang menggunakan versi Python lama harus upgrade sebelum migrasi.
+- **Konteks:** Perubahan ini mengikuti keputusan ekosistem yang lebih luas; Python 3.11 membawa peningkatan performa signifikan (25-60% lebih cepat dibanding 3.10) yang krusial untuk beban kerja inferensi agen.
+- **Rilis sebelumnya (1.24.0, 30 Okt):** memecah beta Redis context index, default persetujuan MCP eksplisit, dan Python 3.11 baseline mulai diaktifkan bertahap.
+🔗 [GitHub: microsoft/agent-framework releases](https://github.com/microsoft/agent-framework/releases) | [Microsoft Learn: Python 2026 Significant Changes](https://learn.microsoft.com/en-us/agent-framework/support/upgrade/python-2026-significant-changes)
+
+### B. Figma Code Layers (Open Beta) & Figma Agent GA — 41% Desainer Sekarang Koding (15 Oktober 2026)
+Figma mengumumkan dua milestone besar (15 Okt 2026) yang mengubah definisi role desainer produk:
+- **Code Layers (Open Beta, semua plan):** Prototype live, code-backed langsung di atas kanvas Figma — desainer bisa membuat interaksi fungsional tanpa keluar ke VS Code. Figma Motion (timeline animation) juga sudah open beta sejak Config Juni 2026.
+- **Figma Agent GA (Generally Available):** Agen AI native Figma sekarang tersedia untuk semua pengguna, terhubung ke komponen dan variables via MCP, dapat menghasilkan beberapa arah layout untuk dibandingkan.
+- **Data penting:** Figma 2026 AI Report (vendor survey) menunjukkan 41% desainer sekarang melakukan pekerjaan development — naik hampir 2× lipat, menandakan convergenc desain-koding yang makin cepat.
+- **Implikasi:** NN/g April 2026 menyatakan dengan jelas: *AI agents are users now* — desainer harus merancang tidak hanya untuk manusia, tapi juga untuk agen yang membaca interface via screenshots dan accessibility tree.
+🔗 [Medium Design Bootcamp: UI/UX Design Trends 2027](https://medium.com/design-bootcamp/10-ui-ux-design-trends-for-2027-7958bbc434e4) | [Figma 2026 AI Report](https://figma.com/resource-library/artificial-intelligence)
+
+### C. EU AI Act Article 50 Berlaku — AI Disclosure Menjadi Kewajiban Hukum (2 Agustus 2026)
+Penerapan mandatory disclosure AI di UE membawa konsekuensi langsung bagi produk digital:
+- **Apa yang wajib:** Orang harus diberitahu ketika berinteraksi dengan sistem AI (kecuali sudah jelas/jelas sendiri); konten hasil generate AI butuh marking yang bisa dibaca mesin; deepfakes harus diungkap.
+- **Timeline:** Article 50 berlaku sejak 2 Agustus 2026; sistem generatif yang sudah di pasar mendapat deadline hingga 2 Desember 2026 untuk bagian marking.
+- **Relevansi desain:** Artinya UI/UX harus menyertakan indikator jelas saat AI sedang bekerja, status transparansi pada hasil AI, dan mekanisme feedback-loop untuk hasil AI — bukan lagi nice-to-have, tapi legal requirement.
+- **Catatan:** Apple sudah mengupdate Human Interface Guidelines (Juni 2026) dengan aturan untuk refine/revert hasil AI dan memberikan feedback saat sesuatu sedang di-generate.
+🔗 [Medium Design Bootcamp: AI Act Coverage](https://medium.com/design-bootcamp/10-ui-ux-design-trends-for-2027-7958bbc434e4) | [Apple HIG: Generative AI](https://developer.apple.com/design/human-interface-guidelines/applying-glanceable-ai-principles)
+
+### D. WebMCP Origin Trial Chrome 149 — Agen Bisa Langsung Panggil Tool di Website (November 2026)
+Chrome memulai origin trial WebMCP (Chrome 149) yang memungkinkan website mendeskripsikan aksinya sebagai "tools" yang bisa dipanggil agen AI:
+- **Apa itu WebMCP:** Alih-alih agen menebak tombol mana yang harus diklik, website mendeklarasikan kemampuan aksinya secara terstruktur — agen langsung tahu tool apa yang tersedia dan bagaimana memanggilnya.
+- **Alternatif Apple:** Di platform Apple, jalurnya melalui App Intents yang dipakai Siri baru untuk aksi aplikasi.
+- **Implikasi:** Ini mengubah paradigma from screenshot-based agentic UI ke schema-driven interaction — lebih akurat, lebih deterministik, dan tidak bergantung pada vision model.
+- **Status:** Origin trial dimulai November 2026; developer bisa bergabung di chrome://flags untuk testing.
+🔗 [NN/g: AI Agents as Users](https://www.nngroup.com/articles/ai-agents-as-users/) | [Chrome Platform Status: WebMCP](https://chromestatus.com/feature)
+
+### E. Toolradar: 360 Tools UI/UX Baru Sepanjang 2026 — 80% Punya Free Tier (November 2026)
+Data komprehensif dari Toolradar (per November 2026) memberikan snapshot ekosistem tooling desain:
+- **416 UI/UX tools** di-track Toolradar secara total; 155 yang melampaui editorial bar (score ≥74/100).
+- **360 tools baru** masuk katalog sepanjang 2026 — menunjukkan akselerasi luar biasa dalam tool development.
+- **80% memiliki free tier** (332 dari 416) — market makin kompetitif dengan model free-first.
+- **Top picks:** Adobe Photoshop (overall pick), Canva (free pick), Figma, Cron, Notion, Adobe XD, Sketch, InVision, Proto.io, Axure.
+- **Median harga paid plan:** $49/bulan — menunjukkan segmen premium masih signifikan untuk enterprise.
+- **Best for freelancers:** Flaticon (#1 overall & free), Syncfusion, Gradio, dan 9 tool lainnya dengan free plan.
+🔗 [Toolradar: Best UI/UX Design Tools 2026](https://toolradar.com/blog/best-ui-ux-design) | [Toolradar: UI/UX Tools for Freelancers](https://toolradar.com/best/ui-ux-design/for/freelancers)
+
+### F. WCAG 3.0 Working Draft — Standar Aksesibilitas Baru Sedang Disusun (November 2026)
+W3C mulai menyusun WCAG 3.0 sebagai update mayor dari WCAG 2.2:
+- **Perubahan arsitektur:** WCAG 3.0 memperkenalkan model baru yang lebih fleksibel dan inklusif dibanding 2.x yang berbasis success criteria checklist.
+- **Timeline:** Masih dalam working draft; belum final tapi desainer sudah mulai memantau untuk transisi mendatang.
+- **Relevansi:** Dengan EAA (European Accessibility Act) sudah berlaku dan WCAG 2.2 AA sebagai target aman, WCAG 3.0 akan membawa perubahan lanjutan pada cara organisasi mendekati aksesibilitas.
+🔗 [W3C: WCAG 3.0](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+---
+
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (8 November 2026).*
