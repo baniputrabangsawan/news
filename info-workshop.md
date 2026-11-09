@@ -1,5 +1,5 @@
 # 🎓 Info Workshop, Webinar & Bootcamp Teknologi - November 2026
-*Terakhir diperbarui: 6 November 2026*
+*Terakhir diperbarui: 9 November 2026**
 
 Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya sudah lewat sudah dibersihkan):
 
