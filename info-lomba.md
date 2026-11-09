@@ -1,5 +1,5 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - November 2026
-*Terakhir diperbarui: 6 November 2026*
+*Terakhir diperbarui: 9 November 2026**
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
@@ -351,3 +351,25 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** USD 150 tunai untuk dua peserta terdaftar (per pengecekan halaman)
     - **Link:** https://ai-openbuild.devpost.com/
     - **Catatan:** Submisi wajib memuat penjelasan ide, peran model, demo video, dokumentasi stack, dan daftar keterbatasan
+
+38. **AI CAN DO IT Indonesia 2026 — Tencent Cloud Hackathon** *(BARU 9 Nov)*
+    - **Penyelenggara:** Tencent Cloud International, didukung AICLUB.ID & Sumopod
+    - **Target Peserta:** Developer, Mahasiswa, Profesional, dan Inovator AI dari seluruh Indonesia
+    - **Tema:** Agentic AI — tiga challenge: The Workplace Brain, The Office Agent, The Creator Agent
+    - **Lokasi:** Online (Demo Day 27 November 2026)
+    - **Deadline:** Submission: 1 November 2026 | Demo Day: 27 November 2026
+    - **Biaya:** Gratis
+    - **Hadiah:** Total USD 2.500 (Juara 1 USD 1.800, Juara 2 USD 800, Juara 3 USD 500) + WorkBuddy credits untuk semua peserta
+    - **Link:** https://tch.tencentcloud.com/contest/47
+    - **Catatan:** Hackathon Agentic AI menggunakan Tencent Cloud WorkBuddy; 150+ pendaftar terkurasi saat pengecekan
+
+39. **AI for Indonesia Hackathon** *(BARU 9 Nov)*
+    - **Penyelenggara:** the AI community x Whimsi
+    - **Target Peserta:** Builder, developer, dan talenta digital (perorangan atau tim maks 4 orang; pendaftar solo akan dipasikan tim)
+    - **Tema:** Membangun prototipe AI yang berguna bagi ketahanan Indonesia — dua jalur: People and Community (iklim, bencana, kesehatan, pendidikan, layanan publik, aksesibilitas) dan Economy and Business (anti-penipuan, literasi keuangan, pertanian, produktivitas UKM)
+    - **Lokasi:** Jakarta (lokasi pasti diumumkan ke peserta)
+    - **Deadline:** Pendaftaran (early interest check terbuka; aplikasi resmi menyusul)
+    - **Biaya:** Gratis
+    - **Hadiah:** Hackathon komunitas sehari penuh (Sabtu, 28 November 2026, 08.00–21.00 WIB); kuota maks 150 builder
+    - **Link:** https://lu.ma/gkfaddxl | https://indonesiahackathons.com/en/events/ai-for-indonesia-hackathon-early-interest-check
+    - **Catatan:** Halaman ini tahap pengecekan minat (early interest check), bukan aplikasi resmi — pendaftar akan dihubungi saat pendaftaran resmi dibuka
