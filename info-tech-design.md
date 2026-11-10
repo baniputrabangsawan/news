@@ -1,5 +1,41 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 6 November 2026*
+*Terakhir diperbarui: 10 November 2026*
+
+---
+
+## 🆕 UPDATE 10 NOVEMBER 2026
+
+### A. Rekap Rilis Framework & Tools Agen, 6–10 November 2026
+Pekan ini didominasi rilis patch cepat dan satu pergeseran pola input data:
+- **CrewAI 1.15.38 → 1.15.39 (8–9 Nov):** `gpt-6-luna` kini jadi model default di seluruh jalur CrewAI; agent bisa membaca **URL spreadsheet langsung di input** dan menjalankan tools per baris; span eval usage di-tag dengan target + id per-evaluasi; flag `--no-open` untuk `crewai eval` headless (cocok untuk CI). Arahnya jelas: data tabular jadi input kelas satu agen, bukan file yang harus di-parse manual dulu.
+- **n8n 2.46.7 (9 Nov):** rilis harian stabil. Dalam 30 hari terakhir n8n menambah bintang terbanyak (**+2.959**), disusul Dify (+2.628) dan AgentScope (+2.588).
+- **Rilis lain pekan ini:** Google ADK **v2.14.0** (7 Nov), Semantic Kernel **dotnet-1.82.0** (7 Nov), Vercel AI SDK **@ai-sdk/vue@2.0.287** (9 Nov), Langroid **0.69.22** (9 Nov), Activepieces **0.93.0** (8 Nov), AutoGPT platform **beta v0.11.1** (6 Nov).
+- **Papan peringkat per 10 Nov:** CrewAI 60.695 bintang vs LangGraph 44.707 — tapi unduhan paket berbanding terbalik: LangGraph ~**13,9 juta/minggu** di PyPI vs CrewAI ~**0,6 juta**. Bintang adalah sinyal popularitas, bukan pemakaian produksi.
+- **Pergerakan peringkat:** VoltAgent 37 → 30 (7 Nov), AutoGPT 8 → 5 (10 Nov) — minat bergeser ke *harness* dan platform agentik, bukan sekadar library orkestrasi.
+🔗 [Gravity: AI Agent Framework Leaderboard](https://gravity.fast/data/ai-agent-framework-leaderboard/) | [Releasebot: CrewAI Release Notes](https://releasebot.io/updates/crewai)
+
+### B. Python 3.10 Menuju Sunset di Ekosistem LangChain
+Peringatan resmi tercantum di rilis `langchain==1.4.8` (2 Nov) dan `1.4.9` (4 Nov):
+- **Dukungan Python 3.10 dihapus** di **langchain-core 1.8.0** dan **langchain 1.5.0**. Minor saat ini adalah versi terakhir yang masih mendukung 3.10 — upgrade ke **Python 3.11+**.
+- **`langchain-core` minimum dinaikkan ke 1.7.5**, dan 1.7.6 sudah terbit 5 Nov. LangGraph ikut di 1.2.20 (5 Nov).
+- **Konteks ekosistem:** Microsoft Agent Framework sudah menjadikan Python 3.11+ baseline sejak 1.24/1.25, Pydantic AI sejak awal mensyaratkan 3.11+. Untuk 2026, target minimum realistis stack agen = **Python 3.11**.
+- **Aksi praktis:** pin `langchain-core>=1.7.5,<1.8` sekarang, siapkan CI matrix 3.11/3.12, dan audit dependensi transitif yang masih mengunci 3.10 sebelum 1.5.0 keluar.
+🔗 [GitHub: langchain==1.4.8 release](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.8) | [AgentGid: LangChain changelog](https://agentgid.com/agents/langchain)
+
+### C. UI/UX 2026: AI Pindah ke Margin — Copilot di Sidebar, Bukan di Tengah
+Tubik Studio merangkum 7 tren UI 2026 dengan satu benang merah: desain yang *deliberate*, bukan dekoratif.
+- **AI untuk kolaborasi, bukan otomasi:** contoh konkret Google Gemini di Chrome — saat pengguna bertanya "bagaimana bikin resep ini dairy-free?", Gemini **tidak** menimpa konten. Panel muncul di samping, menawarkan opsi substitusi, sementara resep asli tetap utuh.
+- **Prinsip arsitekturnya:** AI paling baik hidup di **sidebar, overlay, dan panel yang bisa dilipat**. Ia melengkapi konteks, bukan membajak alur. Bukan "sudah saya kerjakan untuk Anda", tapi "saya di sini kalau mau dipikirkan bareng".
+- **Raw aesthetics:** font monospace, grid terlihat, dan wireframe sebagai bahasa visual — kejelasan UX kini punya nilai estetika sendiri.
+- **Inclusive visuals:** kontrol `Reduce Motion` jadi fitur yang terlihat dan dihormati, bukan setting tersembunyi.
+- **"Crafted, not prompted":** muncul label kebanggaan *"No AI was used in the making of this"* — di tengah banjir output generatif, jejak tangan manusia kembali jadi pembeda.
+🔗 [Tubik Studio: 7 UI Design Trends of 2026](https://tubikstudio.com/blog/ui-design-trends-2026/)
+
+### D. Generative UI & Copilot di Samping Structured View — Dua Data Point
+- **Generative UI:** antarmuka dibuat dinamis sesuai kebutuhan pengguna saat itu, bukan dari mockup statis. Tim yang memakai tool seperti Figma Make melaporkan feature shipping **40–60% lebih cepat**; personalisasi UI penuh diklaim menyumbang hingga **40% revenue** lebih tinggi untuk top performer (McKinsey); multimodal (voice + touch + visual sebagai satu sistem) diproyeksi menghemat **$80B** di contact center (Gartner).
+- **Copilot di samping structured view (Fuselab/NN/g):** untuk produk enterprise dan data-heavy, verdict-nya tegas — **adopsi AI sebagai asisten di samping tampilan terstruktur, lewati kotak chat kosong sebagai antarmuka utama.** Tampilkan penalaran di samping tiap rekomendasi supaya pengguna bisa memeriksa logika sebelum menyetujui.
+- **Pergeseran masalah desain:** dari "memahami bahasa" menjadi "mendapatkan kepercayaan". Karena itu sumber, log, dan jalur override manual jadi komponen wajib — bukan pelengkap.
+🔗 [Stan Vision: UX/UI trends 2026](https://www.stan.vision/journal/ux-ui-trends-shaping-digital-products) | [Fuselab: UI/UX Trends 2026](https://fuselabcreative.com/ui-ux-design-trends-2026-modern-ui-trends-ux-trends-guide/)
 
 ---
 
