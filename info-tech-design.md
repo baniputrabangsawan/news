@@ -1,5 +1,52 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 10 November 2026*
+*Terakhir diperbarui: 21 November 2026*
+
+---
+
+## 🆕 UPDATE 21 NOVEMBER 2026
+
+### A. VS Code 1.146 — Inbox untuk Sesi Agen, Model Comparison & Chat Windows (11 November 2026)
+Rilis mingguan VS Code makin condong ke manajemen banyak agen sekaligus:
+- **Inbox mode (Experimental):** satu tampilan terpusat untuk sesi agen lintas proyek — kategori underway, ready-to-merge, paused, completed. Bisa snooze/dismiss sesi. Aktifkan via `sessions.list.inboxEnabled` lalu pilih Inbox Mode di Grouping menu Agents window.
+- **Model comparison (Preview):** kirim satu prompt ke beberapa model, dinilai judge, digabung synthesizer — sekarang termasuk **Copilot Fusion** dengan effort tiers. Eksperimental: agen sendiri bisa memulai perbandingan model (`sessions.chat.compareAgents.tools.enabled`).
+- **Chat windows (Preview):** chat punya window sendiri, bisa ditata bebas bersama editor dan terminal.
+- **Permissions & skills:** granular agent permissions, dukungan skills via MCP servers, dan kontrol enterprise baru untuk AI-assisted development.
+- **⚠️ Deprecated:** Local harness akan dihapus **Februari 2027** — migrasi ke Copilot harness (default sejak 1.143, berbasis Copilot SDK).
+🔗 [VS Code 1.146 Release Notes](https://code.visualstudio.com/updates/v1_146) | [Visual Studio Magazine: VS Code 1.146](https://visualstudiomagazine.com/articles/2026/11/12/vs-code-1-146-adds-ai-agent-inbox-model-comparisons-and-chat-windows.aspx)
+
+### B. Rekap Versi Framework Agen per 18 November + Agent Builder OpenAI Tutup 30 November
+Snapshot rilis dari audit repositori/registry per 18 November 2026:
+- **LangGraph 1.2.22** (14 Nov, MIT) — pilihan umum untuk workflow stateful jangka panjang: durable execution, interrupt human-in-the-loop, memory jangka pendek & panjang.
+- **CrewAI 1.15.42** (18 Nov, MIT) — rilis patch hampir harian; model role-based crews + event-driven Flows.
+- **OpenAI Agents SDK 0.25.0** (18 Nov, MIT, masih pre-1.0) — provider-agnostic (100+ LLM via adapter), handoffs, guardrails, sessions, tracing. Karena minor version bisa breaking, **pin versi exact** di requirements.
+- **⚠️ Deadline:** visual **OpenAI Agent Builder shutdown 30 November 2026** — jalur migrasi: Agents SDK (code) atau Workspace Agents di ChatGPT (no-code). Sisa ~9 hari.
+- **Shortlist enterprise 2026:** LangGraph, CrewAI, Microsoft Agent Framework, OpenAI Agents SDK, Claude Agent SDK, Google ADK — lima dari enam berlisensi OSI (MIT/Apache 2.0) dan self-hostable.
+🔗 [ibl.ai: Open-Source AI Agent Frameworks for Enterprise (19 Nov)](https://ibl.ai/blog/open-source-ai-agent-framework-enterprise-where-it-runs) | [Speakeasy: Choosing an Agent Framework in 2026](https://www.speakeasy.com/blog/ai-agent-framework-comparison)
+
+### C. Microsoft Foundry Dev Pack GA — Satu Install untuk Build-Debug-Deploy Agen (Ignite, November 2026)
+Diumumkan di Microsoft Ignite, Foundry Dev Pack kini **generally available** (aka.ms/foundrydevpack):
+- **Isi paket:** Foundry CLI (`azd ai`, GA sejak 5 Nov) + Microsoft Foundry Skill; otomatis memasang Foundry Toolkit for VS Code dan plugin GitHub Copilot app bila aplikasinya ada.
+- **Foundry Toolkit for VS Code:** Model Playground, scaffold agen + F5 debugging, Agent Inspector untuk request/response, traces untuk fix-and-redeploy dari editor.
+- **Foundry Skill:** bekerja di coding agent apa pun yang kompatibel — GitHub Copilot, Claude Code, Cursor.
+- **Relevansi:** pola "dev pack" menandai tren tooling agen yang mengikuti developer ke environment yang sudah dipakai (editor/terminal/CI), bukan memaksa pindah ke portal cloud.
+🔗 [Microsoft Foundry DevBlog: Foundry Dev Pack GA](https://devblogs.microsoft.com/foundry/the-foundry-dev-pack-is-here-build-foundry-agents-your-way)
+
+### D. Personal Agent Protocol 1.0 & "Poppy File" — Website Mulai Punya Pintu Resmi untuk Agen (13 November 2026)
+Sierra dan Meta merilis **Personal Agent Protocol 1.0** (13 Nov); Sierra menyebut setiap toko Shopify kini mempublikasikan **Poppy file**:
+- **Apa itu Poppy file:** daftar pendek pointer ke sign-in, API, dan agen milik sebuah perusahaan — semacam "peta pintu masuk" agar agen AI tahu ke mana harus pergi, bukan menebak-nebak UI.
+- **Kaitan dengan WebMCP:** sejalan dengan origin trial WebMCP Chrome 149 (update 8 Nov) — interaksi agen bergeser dari screenshot-based ke schema/protocol-driven.
+- **Implikasi UI/UX:** desainer produk digital perlu memikirkan "agent-facing surface" (file protokol, endpoint, dokumentasi aksi) sebagai bagian arsitektur informasi, di samping UI manusia.
+- **Tren pendukung:** CopilotKit merilis **OpenBot 1.0** (9 Nov, MIT) — "AI coworkers" open-source dengan policy gateway + audit trail di setiap aksi (catatan: template MIT, layer CopilotKit Intelligence berlisensi terpisah).
+🔗 [ibl.ai: Poppy File & Personal Agent Protocol](https://ibl.ai/blog/poppy-file-personal-agent-protocol-what-companies-publish) | [ibl.ai: CopilotKit OpenBot 1.0](https://ibl.ai/blog/copilotkit-openbot-open-source-ai-coworkers-what-mit-covers)
+
+### E. Modernisasi UI VS Code — Studi Kasus Nyata Desain untuk Editor + Agen (Preview)
+Blog resmi VS Code soal modernisasi UI adalah bacaan wajib desainer tool developer:
+- **Pemicu:** Agents window (delegasi tugas + review hasil) butuh bahasa desain baru; editor dan Agents window kini disatukan di fondasi typography, spacing, warna, tab, dan kontrol yang sama.
+- **Feedback → iterasi:** UI awal lebih lega tapi memakan ruang kode; responsnya fitur **Layout Density** (compact) dan **connected tabs** — tab aktif menyatu dengan permukaan editor, mengembalikan cue visual file aktif yang hilang dari desain pill.
+- **Performa terukur:** perbaikan CSS selector memangkas style-recalculation **8,2%** dan wall-clock **3,3%** di benchmark interaksi workbench — bukti desain sistem berdampak langsung ke perf.
+- **Theming:** tema lama tetap kompatibel (color ID baru fallback ke workbench colors); tema Dark 2026/Light 2026 jadi fondasi visual. Classic UI akan dipensiun bertahap.
+- **Pelajaran UX:** density adalah fitur, bukan kemunduran — pengguna tool produktivitas menilai "ruang untuk kerja" lebih tinggi daripada kelapangan estetis.
+🔗 [VS Code Blog: Modernizing the VS Code UI](https://code.visualstudio.com/blogs/2026/10/15/modern-ui)
 
 ---
 
