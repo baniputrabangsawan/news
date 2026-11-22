@@ -1,5 +1,58 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 21 November 2026*
+*Terakhir diperbarui: 22 November 2026*
+
+---
+
+## 🆕 UPDATE 22 NOVEMBER 2026
+
+### A. Jendela Upgrade 12–14 November: Satu Breaking Change Nyata di Mastra, Satu di OpenAI Agents SDK TS
+Audit registry (PyPI/npm) + release body GitHub menunjukkan hanya sebagian rilis yang benar-benar mengubah perilaku produksi:
+- **`@mastra/core` 1.83.0 (npm, 12 Nov)** — **breaking**: opsi `durable: true` pada Agent **tidak lagi** berarti eksekusi berbasis checkpoint; sekarang hanya *resumable streams*. Jalur checkpoint dipindah ke `createDurableAgent({ agent })`. Ini perubahan setting produksi paling serius di jendela ini.
+- **`@openai/agents` 0.22.0 (npm TS, 12 Nov)** — **breaking pada types**: tipe usage/MCP description/tracing metadata dipersempit. Saved state tetap di schema **1.23** bila masih muat, memakai **1.24** untuk metadata lebih kaya — jadi jangan asumsikan semua state sudah 1.24. Compaction kini menunggu selama tool approval pending. Di Chat Completions, function tools & handoffs default `reasoning_effort: none` untuk `gpt-6-sol` dan `gpt-6-luna`.
+- **`langgraph` 1.2.22 (PyPI, 14 Nov)** — **bukan** perubahan graph API. Hanya perbaikan performa + child graph di-stream di thread sendiri. 1.2.21 (12 Nov) memperbaiki namespace subgraph.
+- **`@langchain/langgraph` 1.7.4 (npm, 12 Nov)** — dependency bump ke `@langchain/langgraph-sdk` 1.16.0; API panel subagent baru ada di SDK, `scopedSubagents` default **off**.
+- **`openai-agents` Python tetap 0.24.0 (15 Okt)** — tidak ada rilis di jendela ini; prerelease terbaru masih `v0.24.0-alpha.7` (8 Nov).
+- **`ai` (Vercel) 7.0.173 (13 Nov)** — replay approval tidak lagi membiarkan schema validation menulis ulang argumen tool yang sudah kamu setujui. Catatan: 7.0.172 **mewajibkan** download hook eksplisit (`experimental_download`) untuk file remote di `experimental_extract`/`experimental_decide`.
+🔗 [AI Agents Info: Jendela rilis 12–14 November 2026](https://www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026-upgrade)
+
+### B. ⚠️ browser-use 1.0.4 vs pydantic-ai 2.68.0 — Masih Tidak Bisa Satu Environment
+Konflik dependensi ini belum selesai dan sering bikin `pip install` gagal diam-diam di CI:
+- `browser-use` 1.0.4 (13 Nov) masih mem-pin `pydantic-ai-slim==2.66.0`, sedangkan `pydantic-ai` 2.68.0 menuntut `slim==2.68.0`. **Solusi: pisahkan virtualenv** untuk kedua tool.
+- Fitur browser-use 1.0.4 sendiri berguna: *screenshot pruning* agar run panjang berhenti menulis ulang prompt cache.
+- `pydantic-ai` 2.68.0: event sub-agent task-control dapat suffix `Event` + nama past-participle, plus `agent_name`/`parent_task_id`; nama lama tetap sebagai alias deprecated. `ModelFallback` kini bisa pindah model saat respons kena `max_tokens`.
+🔗 [AI Agents Info: browser-use & pydantic-ai pin](https://www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026-upgrade) | [Kimbodo: Agent Framework Updates](https://kimbodo.com/agent-framework-updates-what-to-upgrade-and-how-to-keep-production-agents-recoverable/)
+
+### C. CrewAI 1.15.41–1.15.42 & Default Model Baru `gpt-6-luna`
+Rilis patch hampir harian, tapi ada dua hal yang layak diuji ulang:
+- **Resume human-feedback sekarang mempertahankan output step sebelumnya.** Kalau dulu kodemu mengandalkan "step kosong setelah resume", itu bug yang harus dihapus dari test.
+- **Approved private URL hosts** — agent boleh mengakses host privat yang sudah di-whitelist (perlu keputusan keamanan, bukan cuma config).
+- **Default model CrewAI sekarang `gpt-6-luna`** di semua entry point (sejak 1.15.38) — cek ulang biaya dan kualitas output, karena default berubah tanpa kamu minta.
+- Tooling: spreadsheet URL di input agent dibaca per baris; `crewai run` headless evaluation + exit code error dilaporkan sebagai failed run.
+- ⚠️ Update `soupsieve` (fix CVE) dan hati-hati: tool output & MCP annotation harus diperlakukan sebagai **untrusted**.
+🔗 [Releasebot: CrewAI November 2026](https://releasebot.io/updates/crewai) | [Kimbodo: CrewAI 1.15.42](https://kimbodo.com/agent-framework-updates-what-to-upgrade-and-how-to-keep-production-agents-recoverable/)
+
+### D. Hitung Mundur: OpenAI Agent Builder Shutdown 30 November 2026 (sisa 8 hari)
+- **Agent Builder (visual/no-code) dimatikan 30 November 2026.** Dua jalur migrasi resmi: **Agents SDK** (kode) atau **Workspace Agents di ChatGPT** (no-code).
+- Catatan migrasi OpenAI Agents SDK 0.25.0: provider **Runloop dihapus** dan default model compaction berubah bila tidak dikonfigurasi eksplisit — dua hal yang paling sering bikin biaya/perilaku berubah setelah upgrade.
+- Pola yang muncul: framework tidak lagi bersaing di jumlah abstraksi, tapi di **state, approval, tool boundary, dan recovery behavior**.
+🔗 [Kimbodo: Agent Framework Updates](https://kimbodo.com/agent-framework-updates-what-to-upgrade-and-how-to-keep-production-agents-recoverable/) | [ibl.ai: Open-Source Agent Frameworks](https://ibl.ai/blog/open-source-ai-agent-framework-enterprise-where-it-runs)
+
+### E. 7 Tren UX/UI 2027 — Angka Terbaru yang Bisa Dipakai untuk Argumen Desain (12 November 2026)
+Kompilasi Resolute Software dengan data dari laporan Figma, NN/g, Adobe, WebAIM, dan zeroheight — sangat berguna untuk portfolio case study atau slide:
+- **AI-assisted design butuh judgment manusia.** Figma *State of the Designer 2026*: 89% desainer bilang AI mempercepat kerja, 91% merasa hasil desain membaik. Figma *AI Report 2026*: 90% menganggap desain **minimal sama pentingnya** seperti sebelum AI, ~6 dari 10 bilang **makin penting**.
+- **Usability jadi keunggulan kompetitif.** NN/g *State of UX 2026*: geser fokus dari "produksi interface" ke memahami masalah user. Perbaiki friksi pada task yang paling sering diulang, bukan redesign total.
+- **Trust jadi inti pengalaman AI.** Adobe *2026 AI & Digital Trends Consumer Report*: **37% konsumen akan berhenti berinteraksi dengan brand** kalau tahu mereka bicara dengan AI padahal mengharap manusia. Implikasi UI: tampilkan alasan & angka sebelum user menyetujui aksi agen.
+- **Aksesibilitas = proses berkelanjutan.** WebAIM *Million 2026*: **95,9% dari 1 juta homepage** punya kegagalan aksesibilitas yang terdeteksi otomatis (kontras rendah, alt text hilang, form tanpa label).
+- **Design system lintas fungsi.** zeroheight *2026 Design Systems Report*: software engineer kini **20% responden** (naik dari 12%) — design system makin jadi produk bersama, bukan milik tim desain.
+- **Flexible design sourcing** dan **continuous UX improvement** menutup daftar: kapasitas desain mengikuti beban kerja, dan kualitas diukur berulang, bukan sekali sebelum launch.
+🔗 [Resolute Software: 7 UX/UI Trends to Watch in 2027](https://www.resolutesoftware.com/blog/7-uxui-design-trends-to-watch-in-2027/)
+
+### F. Catatan Rilis Kecil Tapi Penting: Claude Agent SDK & Ekosistem Changelog
+- **`claude-agent-sdk` 0.2.182 (PyPI, 13 Nov)** — release body GitHub-nya hanya berisi baris pip, tanpa catatan perilaku. Saran: pin hanya kalau kamu siap menerima bump tanpa release note.
+- **Claude Agent SDK November 2026** menambah opsi `on_failure` pada `HookMatcher` untuk mengatur perilaku saat callback hook gagal — relevan untuk pipeline yang butuh fail-safe eksplisit.
+- **Agno**: A2A **v1.0 resmi** — AgentOS & A2AClient jalan di `a2a-sdk` 1.x dengan format message/endpoint baru (breaking, perlu migrasi).
+- **LiteLLM November 2026** (21 rilis): *mid-stream fallback continuation* — streaming yang terputus bisa lanjut di model fallback.
+🔗 [Agentgid: AI Agent Changelogs November 2026](https://agentgid.com/changelogs/) | [AI Agents Info: Rilis 12–14 Nov](https://www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026-upgrade)
 
 ---
 
@@ -453,4 +506,4 @@ W3C mulai menyusun WCAG 3.0 sebagai update mayor dari WCAG 2.2:
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (8 November 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (22 November 2026).*
