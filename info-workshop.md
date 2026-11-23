@@ -1,6 +1,6 @@
 # 🎓 Info Workshop, Webinar & Bootcamp Teknologi - November 2026
 
-*Terakhir diperbarui: 22 November 2026*
+*Terakhir diperbarui: 23 November 2026*
 
 Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya sudah lewat sudah dibersihkan):
 
@@ -319,16 +319,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Gambaran program intensif live vibe coding — ship software nyata memakai tools AI terbaru termasuk Claude Code
     - **Link:** https://designlab.com/ui-ux-design-events-and-workshops
 
-37. **Overview Session of the AI-Powered UX/UI Course** *(BARU 21 Nov)*
-    - **Penyelenggara:** AllAI.Events (penyelenggara kursus AI-Powered UX/UI)
-    - **Target Peserta:** Desainer pemula maupun berpengalaman, mahasiswa desain
-    - **Format:** Online workshop (1 jam, bahasa Inggris)
-    - **Jadwal:** Minggu, 22 November 2026, 20.30–21.30 IST (22.00–23.00 WIB)
-    - **Biaya:** Gratis/open access (perlu dicek ulang di link resmi)
-    - **Benefit:** Pengenalan penerapan AI dalam UX/UI design, kurikulum kursus, dan info placement assistance
-    - **Link:** https://allai.events/event/overview-session-of-the-ai-powered-uxui-course-30
-
-38. **UX for AI SDLC Masterclass** *(BARU 21 Nov)*
+37. **UX for AI SDLC Masterclass** *(BARU 21 Nov)*
     - **Penyelenggara:** AllAI.Events
     - **Target Peserta:** UX designer, developer, product manager, mahasiswa (bahasa Inggris)
     - **Format:** Online masterclass (15.00–16.30 IST / 16.30–18.00 WIB)
@@ -337,7 +328,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Teknik menyelaraskan pengembangan produk AI (AI copilot, autonomous agent) dengan prinsip human-centered UX di sepanjang SDLC
     - **Link:** https://allai.events/event/ux-for-ai-sdlc-masterclass
 
-39. **AI BOSS CAMP — Webinar & Workshop AI Agent untuk Bisnis** *(BARU 21 Nov)*
+38. **AI BOSS CAMP — Webinar & Workshop AI Agent untuk Bisnis** *(BARU 21 Nov)*
     - **Penyelenggara:** AI BOSS CAMP (Sunil Tolani & Edward Santoso)
     - **Target Peserta:** Pemimpin, pemilik bisnis, dan pengelola operasional (tanpa syarat kemampuan teknis) — bukan program pelajar
     - **Format:** Webinar via Zoom & workshop offline (bawa laptop)
@@ -346,7 +337,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Pemetaan alur kerja bisnis, membangun & menguji satu AI agent bersama mentor, template AI workflow, sertifikat partisipasi
     - **Link:** https://aibosscamp.com/
 
-40. **UXPA Webinar: Don't Make Me Prompt! Designing AI Experiences People Understand, Trust, and Want to Use** *(BARU 22 Nov)*
+39. **UXPA Webinar: Don't Make Me Prompt! Designing AI Experiences People Understand, Trust, and Want to Use** *(BARU 22 Nov)*
     - **Penyelenggara:** UXPA International (Webinar Wednesdays)
     - **Target Peserta:** UX/product designer, UX researcher, content designer, product manager yang menggarap produk AI (tidak perlu coding/ML)
     - **Format:** Live webinar online (1 jam, bahasa Inggris) + rekaman di webinar library
@@ -354,3 +345,22 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Biaya:** Perlu dicek ulang di link resmi (seri Webinar Wednesdays UXPA umumnya gratis untuk anggota, ada opsi akses terbuka)
     - **Benefit:** Cara mendesain pengalaman AI yang dipahami, dipercaya, dan dipakai ulang — bukan sekadar kotak prompt; bisa diikuti live atau tonton rekaman
     - **Link:** https://uxpa.org/upcoming-webinars
+
+40. **AI for UX Design Informational Webinar (Designlab)** *(BARU 23 Nov)*
+    - **Penyelenggara:** Designlab Admissions
+    - **Target Peserta:** UX & product designer, mahasiswa desain yang ingin memakai AI dalam alur kerja desain
+    - **Format:** Webinar online via Livestorm (bahasa Inggris)
+    - **Jadwal:** Rabu, 2 Desember 2026, 17.00 ET (sekitar Kamis 3 Desember 2026, 05.00 WIB)
+    - **Biaya:** Berbayar menurut halaman Designed Events — perlu dicek ulang di link resmi
+    - **Benefit:** Gambaran kursus AI for UX Design: cara mengintegrasikan AI ke proses desain pengalaman digital
+    - **Link:** https://designed.org/events/ai-for-ux-design-informational-webinar-6 | https://designlab.com/ui-ux-design-events-and-workshops
+
+41. **UX UI Open — Kursus Dasar UI/UX Gratis (6 Unit + Belajar Figma)** *(BARU 23 Nov)*
+    - **Penyelenggara:** UX UI Open (produk dari OpenBootcamp)
+    - **Target Peserta:** Pelajar, mahasiswa, pemula tanpa pengalaman desain
+    - **Format:** Kursus online self-paced (teks + proyek kecil), materi bahasa Indonesia tersedia
+    - **Jadwal:** Akses kapan saja (on-demand, tanpa tanggal tutup)
+    - **Biaya:** GRATIS untuk 6 unit dasar & kursus Belajar Figma (tanpa kartu kredit); kursus lengkap berlangganan $6/bulan
+    - **Benefit:** Dasar desain AI-assisted (brief, persepsi & kritik desain, tipografi, warna, Figma); sertifikat hanya di kursus berbayar
+    - **Link:** https://uxuiopen.com/id/free-course
+    - **Catatan:** Cocok untuk membangun fondasi portofolio UI/UX sebelum ikut lomba desain
