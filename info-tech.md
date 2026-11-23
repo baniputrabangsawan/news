@@ -1,5 +1,64 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 22 November 2026*
+*Terakhir diperbarui: 23 November 2026*
+
+---
+
+## 🆕 UPDATE 23 NOVEMBER 2026
+
+### A. Cursor CLI `2026.11.17` — Prompt Hooks Diperbaiki, Sandbox `/tmp`, dan Proteksi Memori di Linux
+Rilis CLI Cursor 17 November 2026 berisi beberapa perubahan yang berdampak langsung ke pipeline agen di CI/server:
+- **Prompt hooks dari team dashboard sekarang benar-benar jalan.** Sebelumnya CLI mengeksekusi hook sebagai command kosong sehingga prompt tidak pernah dikirim ke model. Dashboard command hook tanpa script kini di-skip.
+- **`/tmp` bisa dipakai di dalam sandbox Linux:** set `"privateTmp": true` di `sandbox.json` + `readBoundary: "workspace"` → `/tmp` jadi scratch folder milik workspace (sama dengan `$TMPDIR`). Tool yang menulis hardcode ke `/tmp` berhenti gagal, dan workspace lain tidak bisa melihat file-nya. Setting ini diabaikan di macOS.
+- **`CURSOR_LOGIN_SHELL=0`** — shell agen tidak lagi menjalankan login script (`/etc/profile`, `~/.bash_profile`, `~/.zprofile`) yang bisa me-reset `PATH`. `.bashrc`/`.zshrc` tetap jalan.
+- **Keamanan proses (Linux):** proses lain milik user yang sama — termasuk command yang dijalankan agen — tidak bisa lagi membaca memory, environment, open files, atau attach debugger ke CLI. Untuk debugging: `CURSOR_AGENT_ALLOW_PROCESS_INSPECTION=1`.
+- **Download resource MCP tunduk pada aturan file-write:** harus di dalam workspace, path dengan `~`, URL scheme, atau `..` ditolak; mode Ask/Plan tidak menyimpan resource.
+- **Self-hosted worker** (`agent worker`) kini bisa memakai MCP server lokal di `localhost`/`127.0.0.1`/`[::1]` dari `~/.cursor/mcp.json`; jalankan worker di bawah supervisor (systemd/K8s) karena worker exit code 0 saat di-release/archived/idle timeout.
+- **SDK 1.4.1:** Python SDK kini mencetak notice `[cursor-sdk]` (mis. allowlist MCP mana yang berlaku) ke stderr, dan subagent bertingkat dengan `local.subagentInherit` tidak lagi rekursi tanpa henti.
+🔗 [Cursor Docs: Release notes](https://cursor.com/docs/release-notes)
+
+### B. Cursor sebagai Platform Kerja: Live Apps, Voice Chat, dan Multiplayer Projects (5–10 November 2026)
+Bukan cuma rilis IDE — arah produknya berubah dari "editor" ke "tempat kerja tim":
+- **Live Apps (5 Nov):** cloud agent bisa scaffold web app, bikin Postgres, pasang auth di belakang Cursor SSO, lalu deploy ke domain pilihan — dengan security check deterministik + agentik sebelum publish. Admin tim bisa lihat semua app & secret, approve publish yang diblokir, dan unpublish. Tersedia di semua paid plan yang mengaktifkan cloud agents.
+- **Voice chat (6 Nov):** percakapan realtime dua arah dengan agen di Agents Window, IDE, web, dan iOS (Grok Voice; "Hey Siri, call Cursor" di iOS). Terpisah dari dictation.
+- **Multiplayer Projects (10 Nov)** menyusul sesudahnya + **Live Apps jadi jalur distribusi internal app non-engineer** (sales, ops, legal, finance).
+- **⚠️ Reminder keamanan:** Cursor sempat mengeluarkan security notice soal extension marketplace yang menyamar sebagai Claude Code (29 Okt) — pasang extension agen hanya dari publisher terverifikasi.
+🔗 [Releasebot: Cursor](https://releasebot.io/updates/cursor) | [Beevr: AI Dev Agent Platforms Nov 2026](https://beevr.ai/blog/ai-dev-agent-platforms-2026)
+
+### C. CrewAI 1.15.43 & 1.15.44 — Artifact Berversi, ChromaDB Opsional, Deteksi Claude 5 Diperbaiki (19 November 2026)
+Dua rilis di hari yang sama; ini yang perlu diuji ulang di pipeline:
+- **File artifact berversi & bisa dibagi** — file hasil crew/flow kini punya versi dan bisa dishare, bukan sekadar ditulis ke disk. Flow skill juga diajari save/read artifact.
+- **ChromaDB jadi extra opsional**, dan **Knowledge default pindah ke Qdrant lokal** (storage dilepas dari ChromaDB) sejak 1.15.42 — kalau kamu set Chroma eksplisit, cek ulang konfigurasi karena default-nya berubah.
+- **Deteksi multimodal Claude 5 diperbaiki** (1.15.43) — sebelumnya model Claude 3+ generasi baru bisa salah terdeteksi soal dukungan vision.
+- **Keamanan file:** semua path `FilePath` di-enforce harus di dalam cwd; Pillow dibatasi hanya PNG/JPEG/GIF/WEBP saat membuka image (mitigasi image parser).
+- **Perilaku output:** output JSON disimpan sebagai JSON asli (fix bug tanggal), structured output diekspor dari guardrail non-str, dan `cache_control` tidak lagi ditempel ke setiap file block Anthropic (hemat token cache).
+- **Fix operasional:** `crewai train` exit dengan status script, `crewai install` exit dengan status UV, `max_execution_time` dihormati tanpa menunggu worker, cache eviction order di-reset setelah clear.
+🔗 [Releasebot: CrewAI](https://releasebot.io/updates/crewai)
+
+### D. Rekap Rilis Figma 17–20 November 2026 — Agen Masuk Dev Mode, 3D Native, Multi-Image
+Empat perubahan yang paling relevan untuk workflow desain→kode:
+- **Figma agent di Dev Mode (19 Nov):** prompt agen untuk memeriksa desain, bandingkan versi, minta snippet kode, dan dapatkan link download asset secara bulk — jadi jalur "desain → kode" bisa dikerjakan tanpa pindah tool.
+- **Generate beberapa gambar dari satu prompt (18 Nov):** satu model bisa keluarkan 2/4/6 opsi sekaligus, atau jalankan prompt di sampai 3 model image bersamaan untuk dibandingkan side-by-side.
+- **OAuth app allowlist termasuk MCP client (17 Nov):** admin Org/Enterprise bisa whitelist OAuth app (Cursor, Claude Code, dll.), review permintaan app, dan kelola lewat tab Extensions di admin console. Poin penting: **governance MCP sudah masuk ranah admin tool desain**, bukan cuma engineering.
+- **3D transform (12 Nov):** rotasi objek di sumbu x/y/z dengan handle on-canvas + live preview, bisa dikompos agen Figma, lalu copy CSS dari Dev Mode atau kirim ke coding agent via Figma MCP; dipasangkan dengan Figma Motion untuk animasi flip/turn/perspektif.
+- **Bonus (20 Nov):** FigJam di mobile dapat comment indicator, frame preview slider, page dropdown, share link per section, export per section, dan resume posisi terakhir.
+🔗 [Figma Release Notes](https://www.figma.com/release-notes/)
+
+### E. NN/g *State of UX 2026*: "UI Bukan Lagi Pembeda" — Argumen Kuat untuk Portfolio
+Artikel ini (16 Jan 2026, masih relevan sebagai rujukan) memberi kerangka yang sering dipakai di diskusi hiring:
+- **Pasar kerja stabil tapi tetap kompetitif**, dan pemulihannya tidak merata: senior & generalist pulih lebih cepat, entry-level masih langka dan sangat kompetitif. Peran diminta makin luas ("breadth and judgment, not just artifacts").
+- **2026 = tahun AI fatigue.** Organisasi mulai menghitung biaya operasional AI yang sebenarnya: maintenance, drift, eksposur legal, risiko keamanan, kompleksitas operasional — bukan hanya compute.
+- **Tesis utamanya:** *UI no longer a differentiator.* Karena UI mudah ditiru (dan makin dipercepat AI), pembeda pindah ke pemahaman masalah user dan dampak bisnis yang terukur — selaras dengan tren yang dipakai banyak laporan 2026: perbaiki friksi pada task berulang, bukan redesign total.
+- **Cara memakainya:** untuk esai/portfolio, framing "design deeper to differentiate" lebih kuat daripada daftar tren visual — tunjukkan metrik task success, waktu penyelesaian, atau penurunan error.
+🔗 [NN/g: State of UX 2026](https://www.nngroup.com/articles/state-of-ux-2026/)
+
+### F. Pola Lintas Vendor: Agent CLI Kini Bersaing di Hardening, Bukan Fitur
+Tiga rilis hari ini (Cursor CLI, CrewAI, Figma admin) menunjukkan pola yang sama — batas kepercayaan dipindah ke level OS/tool:
+- **Isolasi filesystem:** Cursor `privateTmp` per workspace; CrewAI enforce `cwd` containment untuk semua `FilePath`.
+- **Isolasi proses/kredensial:** Cursor memblokir pembacaan memory CLI oleh proses user yang sama.
+- **Validasi input parser:** CrewAI membatasi format image di Pillow (whitelist PNG/JPEG/GIF/WEBP).
+- **Governance MCP:** Figma menyediakan allowlist OAuth/MCP client untuk admin; Cursor menegakkan aturan file-write untuk resource MCP.
+- **Implikasi praktis:** kalau kamu menjalankan agen di server/VPS bersama, prioritaskan tool yang punya opsi isolasi eksplisit — bukan yang mengandalkan prompt untuk "jangan menyentuh file lain".
+🔗 [Cursor Docs: Release notes](https://cursor.com/docs/release-notes) | [Releasebot: CrewAI](https://releasebot.io/updates/crewai) | [Figma Release Notes](https://www.figma.com/release-notes/)
 
 ---
 
@@ -506,4 +565,4 @@ W3C mulai menyusun WCAG 3.0 sebagai update mayor dari WCAG 2.2:
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (22 November 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (22–23 November 2026).*
