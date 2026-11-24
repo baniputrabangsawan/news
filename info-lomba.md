@@ -1,6 +1,6 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - November 2026
 
-*Terakhir diperbarui: 23 November 2026*
+*Terakhir diperbarui: 24 November 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
@@ -140,17 +140,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link resmi:** https://hackathon-its.id
     - **Catatan:** Wajib memiliki purwarupa/desain awal berbasis AI dengan TKT 3–6; tema mencakup energi dan masalah nyata lintas sektor.
 
-16. **Kompetisi Esai Nasional #4 — "Mewujudkan Indonesia Masa Depan"** *(BARU 6 Nov)*
-    - **Penyelenggara:** Pemuda Internasional
-    - **Target Peserta:** Warga Negara Indonesia (WNI) — terbuka untuk umum, pelajar, dan mahasiswa; esai ditulis perorangan; maksimal mengirim 3 karya
-    - **Tema:** "Mewujudkan Indonesia Masa Depan"
-    - **Lokasi:** Online
-    - **Deadline:** Pendaftaran & konfirmasi s.d. 23 November 2026; pengumpulan karya s.d. 26 November 2026; pengumuman pemenang 10 Desember 2026
-    - **Biaya:** Perlu dicek ulang di link resmi
-    - **Hadiah:** Juara 1 Rp1.000.000, Juara 2 Rp700.000, Juara 3 Rp500.000, Harapan 1 Rp300.000, Harapan 2 Rp200.000, Harapan 3 Rp100.000; setiap pemenang mendapat piala kejuaraan, e-sertifikat juara nasional, dan feedback karya dari juri
-    - **Link:** https://pemudainternasional.com/ken4
-
-17. **Lomba Poster World Sight Day 2026** *(BARU 6 Nov)*
+16. **Lomba Poster World Sight Day 2026** *(BARU 6 Nov)*
     - **Penyelenggara:** Kementerian Kesehatan Republik Indonesia
     - **Target Peserta:** Umum (perorangan)
     - **Tema:** Kesehatan mata dan skrining (memperingati World Sight Day 2026)
@@ -161,7 +151,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://s.kemkes.go.id/LombaPosterWSD2026
     - **Catatan:** Penggunaan AI sebagai alat bantu pembuatan poster diperbolehkan namun memengaruhi penilaian karya; peserta wajib mencantumkan keterangan "Penggunaan AI: Ya/Tidak" pada formulir pendaftaran
 
-18. **Lomba Esai Nasional KREASI FEST 3.0 2026** *(BARU 6 Nov)*
+17. **Lomba Esai Nasional KREASI FEST 3.0 2026** *(BARU 6 Nov)*
     - **Penyelenggara:** Kurasi Insan Cendekia (Generasi Muda untuk Indonesia)
     - **Target Peserta:** Generasi muda Indonesia — individu atau tim
     - **Tema:** Tata kelola Indonesia, kepemimpinan, pendidikan, teknologi, ekonomi, dan lingkungan
@@ -172,7 +162,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://linktr.ee/kreasifest
     - **Catatan:** Webinar Penulisan Esai gratis pada 19 November 2026; konfirmasi format pengiriman ke admin sebelum mengirim karya
 
-19. **SARL 2026 — Sorcery AI Racing League (Kompetisi Balap Otonom Virtual)** *(BARU 8 Nov)*
+18. **SARL 2026 — Sorcery AI Racing League (Kompetisi Balap Otonom Virtual)** *(BARU 8 Nov)*
     - **Penyelenggara:** Data Sorcerers
     - **Target Peserta:** Mahasiswa, pelajar, dan umum yang tertarik AI/robotika/autonomous driving
     - **Tema:** Membangun AI driver untuk mobil otonom virtual (mobil, simulator, dan sirkuit disediakan panitia); dua divisi — Spellcraft (kontrol klasik: PID, Pure Pursuit, MPC) dan Neuralcraft (deep RL, imitation learning, neuroevolution)
@@ -182,7 +172,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Belum dicantumkan di halaman resmi; maksimal 50 entri per race week, 5 teratas lolos, final 20 tim
     - **Link:** https://sarl.data-sorcerers.com/
 
-20. **ML Empowerment Build Challenge 4.0** *(BARU 8 Nov)*
+19. **ML Empowerment Build Challenge 4.0** *(BARU 8 Nov)*
     - **Penyelenggara:** ML Empowerment Foundation
     - **Target Peserta:** Mahasiswa semua negara (global, perorangan/tim)
     - **Tema:** Kurikulum AI 12 pelajaran (dasar AI, ML, neural network, LLM, prompt engineering, etika) lalu membangun proyek AI nyata — aplikasi, chatbot, atau alat pemecah masalah — dengan pendampingan mentor
@@ -192,7 +182,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** 2 hadiah non-tunai + sertifikat untuk semua peserta
     - **Link:** https://ml-build-challenge-4.devpost.com/
 
-21. **AI OpenBuild (Devpost Tantangan Terbuka)** *(BARU 8 Nov)*
+20. **AI OpenBuild (Devpost Tantangan Terbuka)** *(BARU 8 Nov)*
     - **Penyelenggara:** Devpost
     - **Target Peserta:** Pelajar/mahasiswa dari semua negara — perorangan atau tim maksimal 5 orang
     - **Tema:** Bebas — pilih satu kemampuan AI (bahasa, visi, suara, prediksi, generasi), buat antarmukanya, dan buktikan pengalamannya bekerja
@@ -203,7 +193,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://ai-openbuild.devpost.com/
     - **Catatan:** Submisi wajib memuat penjelasan ide, peran model, demo video, dokumentasi stack, dan daftar keterbatasan
 
-22. **AI for Indonesia Hackathon** *(BARU 9 Nov)*
+21. **AI for Indonesia Hackathon** *(BARU 9 Nov)*
     - **Penyelenggara:** the AI community x Whimsi
     - **Target Peserta:** Builder, developer, dan talenta digital (perorangan atau tim maks 4 orang; pendaftar solo akan dipasikan tim)
     - **Tema:** Membangun prototipe AI yang berguna bagi ketahanan Indonesia — dua jalur: People and Community (iklim, bencana, kesehatan, pendidikan, layanan publik, aksesibilitas) dan Economy and Business (anti-penipuan, literasi keuangan, pertanian, produktivitas UKM)
@@ -214,7 +204,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://lu.ma/gkfaddxl | https://indonesiahackathons.com/en/events/ai-for-indonesia-hackathon-early-interest-check
     - **Catatan:** Halaman ini tahap pengecekan minat (early interest check), bukan aplikasi resmi — pendaftar akan dihubungi saat pendaftaran resmi dibuka
 
-23. **IARC XII 2027 — Kompetisi IoT, KTI & Robot** *(BARU 21 Nov)*
+22. **IARC XII 2027 — Kompetisi IoT, KTI & Robot** *(BARU 21 Nov)*
     - **Penyelenggara:** Panitia IARC XII (info dihimpun via HMTI Universitas Udayana)
     - **Target Peserta:** Pelajar/mahasiswa bidang IoT, Karya Tulis Ilmiah, dan Robotika (perlu dicek ulang di link resmi)
     - **Lokasi:** Perlu dicek ulang di link resmi
@@ -224,7 +214,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://ng.hmtiudayana.id/informasi-lomba
     - **Catatan:** Info dari aggregator lomba HMTI Udayana — buka halaman detail untuk link pendaftaran & guidebook resmi
 
-24. **Martech Hackathon 2026 — WhatsApp Customer Engagement with Meta Business Agent** *(BARU 21 Nov)*
+23. **Martech Hackathon 2026 — WhatsApp Customer Engagement with Meta Business Agent** *(BARU 21 Nov)*
     - **Penyelenggara:** 1ENGAGE x Meta
     - **Target Peserta:** Mahasiswa aktif perguruan tinggi se-Indonesia
     - **Tema:** Membangun use case customer engagement WhatsApp generasi baru memakai Meta Business Agent untuk masalah bisnis nyata
@@ -234,7 +224,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Perlu dicek ulang di link resmi; benefit mentoring leadership & bisnis bersama 1ENGAGE, Meta, dan mitra
     - **Link:** https://event.1engage.ai/martechhack2026
 
-25. **DOAI National AI Challenge 2027 — AI for a Sustainable Future** *(BARU 22 Nov)*
+24. **DOAI National AI Challenge 2027 — AI for a Sustainable Future** *(BARU 22 Nov)*
     - **Penyelenggara:** Day of AI Indonesia (Yayasan AIERA), didukung Kemendikdasmen, SEAMEO & SEAMEO QITEP in Science
     - **Target Peserta:** Pelajar SMP/MTs dan SMA/SMK/MA se-Indonesia (tim + guru pembimbing)
     - **Tema:** AI for a Sustainable Future — AI untuk masa depan berkelanjutan
@@ -245,7 +235,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://dayofaiindonesia.org/ai-challenge-2027/
     - **Catatan:** Formulir diisi ketua tim/guru pembimbing, perlu akun Google + abstrak PDF maks 5 MB + bukti transfer (Bank Mandiri a.n. Yayasan AIERA); daftar lebih awal lebih murah
 
-26. **IIT Challenge 2026 — Indonesia Innovative Technology Challenge** *(BARU 23 Nov)*
+25. **IIT Challenge 2026 — Indonesia Innovative Technology Challenge** *(BARU 23 Nov)*
     - **Penyelenggara:** Bina Nusantara Computer Club x Teach for Indonesia, BINUS University
     - **Target Peserta:** Siswa SD kelas 5 – SMA kelas 12, serta mahasiswa D3/D4/S1 (tergantung kategori)
     - **Kategori:** Scratch Coding Game (kelas 5 SD – 8 SMP), Competitive Programming (kelas 9 SMP – 12 SMA), Innovative Technology Challenge (kelas 5 SD – 12 SMA), EcoQuest AI Web Application (SMA kelas 10–12 s.d. mahasiswa)
@@ -256,7 +246,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://link.accelist.com/RegisterIIT2026 | Guidebook: https://iitchallenge.com/iit-program
     - **Catatan:** Info dihimpun dari pengumuman panitia; konfirmasi jadwal & biaya ke kontak panitia (wa.me/6281215636018) sebelum daftar
 
-27. **Tech League GDGoC IPB 2026/2027 — Kompetisi Nasional Software Dev, UI/UX & Business Plan** *(BARU 23 Nov)*
+26. **Tech League GDGoC IPB 2026/2027 — Kompetisi Nasional Software Dev, UI/UX & Business Plan** *(BARU 23 Nov)*
     - **Penyelenggara:** Google Developer Groups on Campus (GDGoC) IPB University
     - **Target Peserta:** Pelajar/mahasiswa yang menjadi member GDGoC IPB, berkompetisi dalam tim
     - **Kategori:** Software Development, UI/UX Design, Business Plan
@@ -266,3 +256,25 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Perlu dicek ulang di link resmi
     - **Link:** https://league.gdgocipb.com
     - **Catatan:** Wajib daftar/masuk sebagai member GDGoC IPB dengan akun Google, lalu bentuk tim atau gabung via kode undangan kapten
+
+27. **ARA 8.0 ITS 2026/2027 — CTF, Data Science & Olimpiade IT** *(BARU 24 Nov)*
+    - **Penyelenggara:** HMIT (Himpunan Mahasiswa Teknologi Informasi) ITS Surabaya
+    - **Target Peserta:** CTF — siswa SMA/SMK & mahasiswa aktif PTN/PTS se-Indonesia; Olimpiade IT — siswa SMA/SMK; Data Science — mahasiswa
+    - **Kategori:** Capture The Flag (Cyber Security), Data Science, Olimpiade IT (Cyber Security & IoT)
+    - **Lokasi:** Online (babak penyisihan) + final di Kampus ITS Sukolilo, Surabaya
+    - **Deadline:** Batch 2 pendaftaran 30 November – 27 Desember 2026 (Early Bird 2–15 Nov 2026; Batch 1 16–29 Nov 2026)
+    - **Biaya:** Perlu dicek ulang di link resmi (biaya naik tiap batch)
+    - **Hadiah:** Perlu dicek ulang di link resmi; juara 1 OlimpIT historis dapat Golden Ticket masuk Departemen Teknologi Informasi ITS
+    - **Link:** https://ara-its.id
+    - **Catatan:** Timeline diambil dari pengumuman panitia @ara_its — verifikasi jadwal & biaya di situs resmi sebelum bayar
+
+28. **Gen AI Hack Indonesia 2027** *(BARU 24 Nov)*
+    - **Penyelenggara:** Gen AI Hack Indonesia (genaihack.id)
+    - **Target Peserta:** Developer, designer, founder, mahasiswa — solo atau tim 1–4 orang; wajib hadir 24 jam penuh
+    - **Tema:** 4 track — Public Impact, Consumer Products (B2C), Industry Solutions (B2B), Open Innovation
+    - **Lokasi:** Offline — Indonesia Arena GBK Senayan, Jakarta
+    - **Deadline:** Aplikasi gratis, tanggal buka & tutup belum diumumkan (TBA) — pantau situs resmi
+    - **Biaya:** GRATIS untuk apply (peserta terpilih dapat email konfirmasi)
+    - **Hadiah:** Perlu dicek ulang di link resmi
+    - **Link:** https://genaihack.id
+    - **Catatan:** Event 27–28 Februari 2027, 1000+ builder, 24 jam nonstop; tidak ada jaminan seat meski apply
