@@ -1,5 +1,70 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 23 November 2026*
+*Terakhir diperbarui: 24 November 2026*
+
+---
+
+## 🆕 UPDATE 24 NOVEMBER 2026
+
+### A. JetBrains Air (2026.3) — Workspace untuk Jalankan & Review Coding Agent di Dalam IDE
+JetBrains mengganti AI Assistant jadi **Air**, tersedia di rilis IDE 2026.3. Intinya bukan chat baru, tapi menjawab bottleneck baru: review.
+- **Angka pemicunya:** 49% developer sekarang menghabiskan ≥4 jam per minggu untuk review output AI dan memperbaiki prompt (Atlassian State of DevEx 2026). Produktivitas naik, tapi macet di review.
+- **Paralel agent sessions + Git worktree:** tiap agent dapat worktree lokal sendiri supaya sesi paralel tidak saling tabrak; notifikasi kalau ada agent butuh input atau punya hasil belum dibaca. Catatan: worktree yang dibuat agent sendiri belum ter-track di Air.
+- **Agent pihak ketiga didukung lewat ACP:** Junie, Codex, Claude Agent, Claude Code (via terminal surface), Gemini, GitHub Copilot, Cursor, DeepSeek, OpenCode, Grok, Kimi, Kilo, Pi. Bisa pakai subscription sendiri (Claude Pro/Max, API key) — JetBrains AI subscription tidak wajib.
+- **IDE intelligence untuk agen:** lewat MCP server internal, agent bisa cek inspection, jalankan build/run config, query database, pakai refactoring IDE, dan (IntelliJ/CLion) menggerakkan debugger. Developer punya akses tool yang sama untuk verifikasi.
+- **Code Notes:** tinggalkan catatan di baris tertentu untuk minta perubahan/bertanya, lalu kirim balik ke sesi dengan konteks kode terlampir — juga berlaku untuk agent terminal.
+- **Biaya transparan:** sesi menampilkan cost (token/uang) dan sisa quota JetBrains AI + tanggal reset. Commit message bisa di-generate dari perubahan terpilih.
+- **Gratis:** Junie Lite gratis dengan akun JetBrains. AI Assistant masih hidup sebagai plugin terpisah sampai awal 2027.
+🔗 [JetBrains Blog: Air in JetBrains IDEs](https://blog.jetbrains.com/ai/2026/11/air-in-jetbrains-ides-ga/)
+
+### B. Copilot SDK 2.0 — Runtime Rust, Multi-Session, dan Sandbox per Sesi (17 November 2026)
+Rilis besar dari GitHub/Microsoft: SDK untuk menanam harness Copilot ke aplikasi sendiri.
+- **Runtime Rust baru:** klaim Microsoft, satu turn pada workload "warmed" turun dari **5,25 detik (CLI TypeScript) → 55,3 ms (Rust in-process)**. Angka vendor, bukan jaminan umum.
+- **Multi-tenant:** satu proses bisa host banyak sesi agent; aplikasi pemilik routing + otorisasi, runtime menyuplai state, auth, dan tool per sesi.
+- **`mode: "empty"`:** sesi start tanpa akses shell, host files, atau default CLI — tool, MCP server, skill, dan workspace path harus diaktifkan eksplisit. Kredensial di-scope per sesi (token user atau rotating token provider), bukan mewarisi identitas proses.
+- **Durable sessions:** `sessionId` bisa di-resume dari client lain; `CreateSessionAsync` / `ResumeSessionAsync` di C#. `sessionFs` provider kustom mengatur storage sesi — namespace provider wajib dipisah antar tenant.
+- **Pola sandbox:** sesi shared via API aplikasi → promote ke sandbox saat perlu → model loop bersama menggerakkan tool ber-sandbox → koordinator delegasi ke worker terisolasi.
+🔗 [Visual Studio Magazine: Copilot SDK 2.0](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-releases-copilot-sdk-2-0-for-enterprise-ai-agents.aspx)
+
+### C. Microsoft Foundry Dev Pack GA + Foundry CLI — Satu Install untuk Scaffold, Debug, Eval, Deploy
+Diumumkan di Ignite (18 November 2026), menyusul GA Foundry CLI (5 November).
+- **Isi paket:** Foundry CLI (`azd ai`) + Microsoft Foundry Skill, plus auto-install Foundry Toolkit untuk VS Code dan plugin Foundry untuk GitHub Copilot app kalau app-nya ada.
+- **Tiga jalur kerja:** VS Code (visual, repo-centered, debugging familiar), terminal/CI-CD (`azd ai` + `azure.yaml`, infra via Bicep/Terraform), dan GitHub Copilot app (guided design, kode hasil generate tetap bisa diakses).
+- **Agent Inspector:** lihat run agent lokal lengkap dengan traces, latency, dan aktivitas tool — lalu perbaiki dan redeploy dari editor.
+- **Prasyarat:** Azure Developer CLI ≥1.37.0, uv terbaru, Python ≥3.13.
+🔗 [Microsoft Foundry Blog: Foundry Dev Pack](https://devblogs.microsoft.com/foundry/the-foundry-dev-pack-is-here-build-foundry-agents-your-way/)
+
+### D. Release Watch Agent Framework — Perubahan yang Bikin Pipeline Error Kalau Tidak Dibaca
+Rangkuman rilis November 2026 (dari changelog resmi):
+- **LangChain:** **Python 3.10 di-drop, minimum 3.11.** Cek base image CI sekarang.
+- **OpenAI Agents SDK:** Runloop sandbox provider **dihapus** — migrasi ke Modal atau provider lain, atau tetap di 0.24.0.
+- **Browser Use 1.0:** API berubah; semua import `0.x` sekarang raise error yang mengarah ke `MIGRATING.md`, dan `Browser()` default ke cloud.
+- **Mastra:** agent mendukung **resumable stream** — client bisa reconnect tanpa kehilangan history.
+- **Cloudflare Agents SDK:** run agent ~5× lebih cepat pada banyak sesi (eliminasi scheduler check yang tidak perlu).
+- **Claude Code:** **Code Mode** eksperimental (Claude menulis JavaScript untuk memanggil tool-nya) + 12 rilis bulan ini.
+- **Codex:** command center via `codex agents --no-daemon` untuk kelola sesi dan lihat hasil belum dibaca.
+- **OpenCode:** subagent jalan di background dan lapor saat idle — lanjut kerja tanpa menunggu.
+- **CopilotKit:** **Generative UI native** kini juga di Angular, Vue, dan React Native (sebelumnya React saja).
+- **Gemini CLI:** `/stats heatmap` untuk visualisasi pola pemakaian token harian.
+- **Cline:** file read dikirim utuh ke model (tidak dipotong) sampai 50k karakter.
+- **Composio:** command exit dengan kode spesifik (130/143/129) per jenis signal — script bisa menangani interupsi dengan benar.
+🔗 [AgentGid: AI Agent Changelogs](https://agentgid.com/changelogs) | [XYZ Lab: Framework terbaru Nov 2026](https://xyzlab.in/recipes/ai-agent-frameworks/)
+
+### E. Agent Hive — Framework Orkestrasi Multi-Model (Rilis 23 November 2026)
+Proyek open-source baru dari Eric Wang (Show HN) untuk menjalankan Claude, Gemini, dan LLM lain sebagai tim agent.
+- **Dua pola:** *bee swarm* (worker spesialis → koordinator yang menyintesis hasil) dan *maid team* (tiap agent punya domain expertise tetap).
+- **Heterogen model:** kombinasikan reasoning Claude dengan multimodal Gemini dalam satu workflow, dan tukar satu agent tanpa menulis ulang logika orkestrasi — menghindari vendor lock-in.
+- **Fitur bawaan:** task decomposition berbasis capability profile, message-passing antar agent, state management lintas hand-off, plus rate limiting, error recovery, dan agregasi hasil otomatis.
+- **Realistis dulu:** masih rilis awal — primitif orkestrasi + contoh + dokumentasi. Jangan taruh di jalur produksi tanpa uji beban.
+🔗 [Emergent: Agent Hive](https://emergent.sh/news/agent-hive-launches-multi-ai-agent)
+
+### F. Design Trend Watch: Verdict "Adopt / Test / Skip" 2026 — dan Batas Chat sebagai Interface
+Dua sudut pandang yang saling melengkapi untuk keputusan desain produk:
+- **Fuselab (10 verdict):** *Adopt* aksesibilitas sebagai requirement launch (kontras, focus, target-size masuk ke token; WCAG 2.2 AA jadi blocker untuk produk teregulasi). *Adopt* AI copilot **di samping** structured view — **skip chat sebagai interface utama**. *Adopt* role-based personalization & saved views, *skip* layout yang berubah otomatis dari perilaku user. *Test* Liquid Glass hanya di navigasi/overlay, **skip di layar data, tabel, dan form**.
+- **Dark mode:** jangan jadikan default; sediakan toggle setelah kedua tema lolos cek kontras.
+- **Tubik (7 tren 2026):** UI bergerak dari dekorasi ke *intent*. Yang menonjol: **raw aesthetics** (grid sebagai elemen foreground, logika wireframe masuk ke UI final, tipografi mono untuk menyelaraskan ritme visual dengan logika data) dan **inclusive motion** — kontrol *Reduce Motion* bukan opsional (contoh bagus: microsoft.ai).
+- **Prinsip payung:** *infrastructure over interface* — antisipasi konteks (bukan reaksi klik), adaptif (bukan snap di breakpoint), hormati atensi, dan tampilkan logika alih-alih menutupinya dengan gloss.
+- **Untuk konteks kita:** kalau bikin dashboard/lomba tracker, kombinasikan tabel rapat + aksesibilitas token-level + AI sebagai pendamping (bukan ganti navigasi), dan sediakan override manual yang terlihat untuk setiap output AI.
+🔗 [Fuselab: UI/UX Trends 2026 Verdicts](https://fuselabcreative.com/ui-ux-design-trends-2026-modern-ui-trends-ux-trends-guide/) | [Tubik: 7 UI Design Trends 2026](https://tubikstudio.com/blog/ui-design-trends-2026/)
 
 ---
 
@@ -565,4 +630,4 @@ W3C mulai menyusun WCAG 3.0 sebagai update mayor dari WCAG 2.2:
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (22–23 November 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (22–24 November 2026).*
