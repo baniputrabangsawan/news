@@ -1,6 +1,6 @@
 # 🎓 Info Workshop, Webinar & Bootcamp Teknologi - November 2026
 
-*Terakhir diperbarui: 23 November 2026*
+*Terakhir diperbarui: 24 November 2026*
 
 Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya sudah lewat sudah dibersihkan):
 
@@ -292,16 +292,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Gambaran kurikulum AI Prototyping Camp — cara membuat prototipe interaktif & menguji ide desain lebih cepat dengan tools AI
     - **Link:** https://designlab.com/ui-ux-design-events-and-workshops
 
-34. **UX Academy Informational Webinar (Designlab)** *(BARU 21 Nov)*
-    - **Penyelenggara:** Designlab Admissions
-    - **Target Peserta:** Pemula UX/UI, mahasiswa desain, career switcher
-    - **Format:** Webinar online (info program UX Academy)
-    - **Jadwal:** Senin, 23 November 2026, 12.00 ET (sekitar Selasa 24 November 2026, 00.00 WIB); sesi lain 19 November sudah lewat
-    - **Biaya:** GRATIS
-    - **Benefit:** Penjelasan mendalam kurikulum UX Academy dan cara memulai karier desain UX
-    - **Link:** https://designlab.com/ui-ux-design-events-and-workshops
-
-35. **AI Product Design Certification — Informational Webinar (Designlab)** *(BARU 21 Nov)*
+34. **AI Product Design Certification — Informational Webinar (Designlab)** *(BARU 21 Nov)*
     - **Penyelenggara:** Designlab Admissions
     - **Target Peserta:** UI/UX & product designer, mahasiswa desain yang ingin sertifikasi AI product design
     - **Format:** Webinar online
@@ -310,7 +301,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Gambaran struktur & kurikulum sertifikasi terbaru Designlab — tiga kursus, satu capstone, satu kredensial
     - **Link:** https://designlab.com/ui-ux-design-events-and-workshops
 
-36. **Vibe Coding Camp — Informational Webinar (Designlab)** *(BARU 21 Nov)*
+35. **Vibe Coding Camp — Informational Webinar (Designlab)** *(BARU 21 Nov)*
     - **Penyelenggara:** Designlab Admissions
     - **Target Peserta:** Designer, PM, mahasiswa, dan builder yang ingin membuat software fungsional dengan AI coding tools
     - **Format:** Webinar online
@@ -319,7 +310,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Gambaran program intensif live vibe coding — ship software nyata memakai tools AI terbaru termasuk Claude Code
     - **Link:** https://designlab.com/ui-ux-design-events-and-workshops
 
-37. **UX for AI SDLC Masterclass** *(BARU 21 Nov)*
+36. **UX for AI SDLC Masterclass** *(BARU 21 Nov)*
     - **Penyelenggara:** AllAI.Events
     - **Target Peserta:** UX designer, developer, product manager, mahasiswa (bahasa Inggris)
     - **Format:** Online masterclass (15.00–16.30 IST / 16.30–18.00 WIB)
@@ -328,7 +319,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Teknik menyelaraskan pengembangan produk AI (AI copilot, autonomous agent) dengan prinsip human-centered UX di sepanjang SDLC
     - **Link:** https://allai.events/event/ux-for-ai-sdlc-masterclass
 
-38. **AI BOSS CAMP — Webinar & Workshop AI Agent untuk Bisnis** *(BARU 21 Nov)*
+37. **AI BOSS CAMP — Webinar & Workshop AI Agent untuk Bisnis** *(BARU 21 Nov)*
     - **Penyelenggara:** AI BOSS CAMP (Sunil Tolani & Edward Santoso)
     - **Target Peserta:** Pemimpin, pemilik bisnis, dan pengelola operasional (tanpa syarat kemampuan teknis) — bukan program pelajar
     - **Format:** Webinar via Zoom & workshop offline (bawa laptop)
@@ -337,7 +328,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Pemetaan alur kerja bisnis, membangun & menguji satu AI agent bersama mentor, template AI workflow, sertifikat partisipasi
     - **Link:** https://aibosscamp.com/
 
-39. **UXPA Webinar: Don't Make Me Prompt! Designing AI Experiences People Understand, Trust, and Want to Use** *(BARU 22 Nov)*
+38. **UXPA Webinar: Don't Make Me Prompt! Designing AI Experiences People Understand, Trust, and Want to Use** *(BARU 22 Nov)*
     - **Penyelenggara:** UXPA International (Webinar Wednesdays)
     - **Target Peserta:** UX/product designer, UX researcher, content designer, product manager yang menggarap produk AI (tidak perlu coding/ML)
     - **Format:** Live webinar online (1 jam, bahasa Inggris) + rekaman di webinar library
@@ -346,7 +337,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Cara mendesain pengalaman AI yang dipahami, dipercaya, dan dipakai ulang — bukan sekadar kotak prompt; bisa diikuti live atau tonton rekaman
     - **Link:** https://uxpa.org/upcoming-webinars
 
-40. **AI for UX Design Informational Webinar (Designlab)** *(BARU 23 Nov)*
+39. **AI for UX Design Informational Webinar (Designlab)** *(BARU 23 Nov)*
     - **Penyelenggara:** Designlab Admissions
     - **Target Peserta:** UX & product designer, mahasiswa desain yang ingin memakai AI dalam alur kerja desain
     - **Format:** Webinar online via Livestorm (bahasa Inggris)
@@ -355,7 +346,7 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Gambaran kursus AI for UX Design: cara mengintegrasikan AI ke proses desain pengalaman digital
     - **Link:** https://designed.org/events/ai-for-ux-design-informational-webinar-6 | https://designlab.com/ui-ux-design-events-and-workshops
 
-41. **UX UI Open — Kursus Dasar UI/UX Gratis (6 Unit + Belajar Figma)** *(BARU 23 Nov)*
+40. **UX UI Open — Kursus Dasar UI/UX Gratis (6 Unit + Belajar Figma)** *(BARU 23 Nov)*
     - **Penyelenggara:** UX UI Open (produk dari OpenBootcamp)
     - **Target Peserta:** Pelajar, mahasiswa, pemula tanpa pengalaman desain
     - **Format:** Kursus online self-paced (teks + proyek kecil), materi bahasa Indonesia tersedia
@@ -364,3 +355,60 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Dasar desain AI-assisted (brief, persepsi & kritik desain, tipografi, warna, Figma); sertifikat hanya di kursus berbayar
     - **Link:** https://uxuiopen.com/id/free-course
     - **Catatan:** Cocok untuk membangun fondasi portofolio UI/UX sebelum ikut lomba desain
+
+41. **SkolaTalk #139 — Data Analytics: Ubah Data Jadi Insight (Digital Skola)** *(BARU 24 Nov)*
+    - **Penyelenggara:** Digital Skola (@digitalskola)
+    - **Target Peserta:** Pemula, mahasiswa, career switcher yang ingin masuk data analytics
+    - **Format:** Live online via Zoom + hands-on activity + mini project + komunitas Discord
+    - **Jadwal:** Rabu, 9 Desember 2026, 19.15–21.15 WIB
+    - **Biaya:** GRATIS (batas pendaftaran 9 Desember 2026)
+    - **Benefit:** E-certificate, materi spreadsheet/SQL/visualisasi data, panduan & resources pemula, mini project analisis dataset
+    - **Link:** https://digitalskola.com/free-class/da-139
+
+42. **Webinar Gratis Bersertifikat "Smart Learning with AI" — Teknik Elektro ITI** *(BARU 24 Nov)*
+    - **Penyelenggara:** Prodi Teknik Elektro ITI & Himpunan Mahasiswa Elektro (HME-ITI)
+    - **Target Peserta:** Pelajar SMA/SMK/MA, mahasiswa, dan umum
+    - **Format:** Live online class via Zoom
+    - **Jadwal:** Sabtu, 28 November 2026, 10.00–12.00 WIB
+    - **Biaya:** GRATIS — termasuk e-certificate & materi webinar
+    - **Benefit:** Teknik belajar efektif dengan AI; narasumber Dr. Ir. Tris Dewi Indraswati, ST, MT
+    - **Link:** https://el.iti.ac.id/webinar-gratis-bersertifikat-smart-learning-with-ai-28-november-2026/
+    - **Catatan:** Kuota hanya 100 peserta — daftar via QR code di poster pada halaman resmi
+
+43. **IBM SkillsBuild University Education — AI Agent for Programming & AI Agent for Data Analysis (Hacktiv8 x IBM)** *(BARU 24 Nov)*
+    - **Penyelenggara:** Hacktiv8 x IBM SkillsBuild (kolaborasi kampus)
+    - **Target Peserta:** Mahasiswa
+    - **Format:** Online streaming, hands-on learning + project + capstone end-to-end
+    - **Jadwal:** 5 Desember 2026 08.00 – 6 Desember 2026 12.00; batas registrasi 4 Desember 2026
+    - **Biaya:** GRATIS
+    - **Benefit:** Sertifikat internasional IBM, materi kurikulum industri, portfolio building, kesempatan Hackathon Reward
+    - **Link:** https://bit.ly/4j9jAaT
+    - **Catatan:** Batch yang terpantau dibuka untuk mahasiswa Unsri — cek ketersediaan batch kampus lain via Hacktiv8 sebelum daftar
+
+44. **AI Productivity & Smart Prompting — Consultee Academy** *(BARU 24 Nov)*
+    - **Penyelenggara:** Consultee Academy (narasumber Andre Surya)
+    - **Target Peserta:** Pelajar, mahasiswa, dan pekerja yang ingin memakai AI untuk produktivitas
+    - **Format:** Webinar online via Zoom & YouTube
+    - **Jadwal:** Batas pendaftaran 10 Desember 2026 (jam sesi belum disebut — konfirmasi ke panitia)
+    - **Biaya:** GRATIS (e-sertifikat mengikuti S&K penyelenggara)
+    - **Benefit:** Prompt terstruktur, pemanfaatan AI untuk kreativitas & efisiensi kerja
+    - **Link:** https://bit.ly/regca6
+    - **Catatan:** Info dikurasi dari @seminarcenter.id dan belum diverifikasi admin di platform agregator — konfirmasi ke panitia sebelum daftar
+
+45. **Into Design Systems — AI Design Online Jam** *(BARU 24 Nov)*
+    - **Penyelenggara:** Into Design Systems
+    - **Target Peserta:** Designer, design engineer, design system practitioner (mid–senior); pemula tetap diperbolehkan ikut
+    - **Format:** Online live 90 menit — praktisi demo workflow nyata dengan Claude Code, Cursor, Figma + AI, MCP
+    - **Jadwal:** Sesi berikutnya Selasa, 19 Januari 2027, 19.00–20.30 CET (sekitar Rabu 20 Januari 2027, 01.00–02.30 WIB); sesi 24 November 2026 sudah lewat
+    - **Biaya:** GRATIS (kuota terbatas, reservasi via Luma)
+    - **Benefit:** Pola kerja mendesain bersama AI agent yang bisa langsung dipakai, sesi tanya jawab di chat
+    - **Link:** https://www.intodesignsystems.com/jam
+
+46. **Nusacodes — Menggunakan AI untuk Produktivitas Pekerjaan** *(BARU 24 Nov)*
+    - **Penyelenggara:** Nusacodes (@nusacodes)
+    - **Target Peserta:** Mahasiswa, fresh graduate, staf administrasi, freelancer, pelaku usaha
+    - **Format:** Webinar online via Zoom — pemaparan materi, live demo, tanya jawab
+    - **Jadwal:** 18 Desember 2026 (jam sesi cek di halaman kelas)
+    - **Biaya:** GRATIS (harga normal Rp50.000) dengan syarat follow Instagram @nusacodes & membagikan info webinar
+    - **Benefit:** Prompting untuk draf surat resmi, notulensi, laporan kerja, dan mengubah dokumen jadi deck presentasi
+    - **Link:** https://nusacodes.com/kelas/menggunakan-ai-untuk-produktifitas-pekerjaan
