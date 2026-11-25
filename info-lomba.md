@@ -1,6 +1,6 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - November 2026
 
-*Terakhir diperbarui: 24 November 2026*
+*Terakhir diperbarui: 25 November 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
@@ -235,18 +235,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://dayofaiindonesia.org/ai-challenge-2027/
     - **Catatan:** Formulir diisi ketua tim/guru pembimbing, perlu akun Google + abstrak PDF maks 5 MB + bukti transfer (Bank Mandiri a.n. Yayasan AIERA); daftar lebih awal lebih murah
 
-25. **IIT Challenge 2026 — Indonesia Innovative Technology Challenge** *(BARU 23 Nov)*
-    - **Penyelenggara:** Bina Nusantara Computer Club x Teach for Indonesia, BINUS University
-    - **Target Peserta:** Siswa SD kelas 5 – SMA kelas 12, serta mahasiswa D3/D4/S1 (tergantung kategori)
-    - **Kategori:** Scratch Coding Game (kelas 5 SD – 8 SMP), Competitive Programming (kelas 9 SMP – 12 SMA), Innovative Technology Challenge (kelas 5 SD – 12 SMA), EcoQuest AI Web Application (SMA kelas 10–12 s.d. mahasiswa)
-    - **Lokasi:** Online (pengumpulan proyek & babak penyisihan) + final luring di BINUS Alam Sutera
-    - **Deadline:** Pendaftaran diperpanjang s.d. 24 November 2026; pengumpulan proyek 29 November 2026; penyisihan Competitive Programming 5 Desember 2026; final luring 12 Desember 2026
-    - **Biaya:** Perlu dicek ulang di link pendaftaran resmi
-    - **Hadiah:** Perlu dicek ulang di guidebook resmi (sertifikat & penghargaan juara)
-    - **Link:** https://link.accelist.com/RegisterIIT2026 | Guidebook: https://iitchallenge.com/iit-program
-    - **Catatan:** Info dihimpun dari pengumuman panitia; konfirmasi jadwal & biaya ke kontak panitia (wa.me/6281215636018) sebelum daftar
-
-26. **Tech League GDGoC IPB 2026/2027 — Kompetisi Nasional Software Dev, UI/UX & Business Plan** *(BARU 23 Nov)*
+25. **Tech League GDGoC IPB 2026/2027 — Kompetisi Nasional Software Dev, UI/UX & Business Plan** *(BARU 23 Nov)*
     - **Penyelenggara:** Google Developer Groups on Campus (GDGoC) IPB University
     - **Target Peserta:** Pelajar/mahasiswa yang menjadi member GDGoC IPB, berkompetisi dalam tim
     - **Kategori:** Software Development, UI/UX Design, Business Plan
@@ -257,7 +246,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://league.gdgocipb.com
     - **Catatan:** Wajib daftar/masuk sebagai member GDGoC IPB dengan akun Google, lalu bentuk tim atau gabung via kode undangan kapten
 
-27. **ARA 8.0 ITS 2026/2027 — CTF, Data Science & Olimpiade IT** *(BARU 24 Nov)*
+26. **ARA 8.0 ITS 2026/2027 — CTF, Data Science & Olimpiade IT** *(BARU 24 Nov)*
     - **Penyelenggara:** HMIT (Himpunan Mahasiswa Teknologi Informasi) ITS Surabaya
     - **Target Peserta:** CTF — siswa SMA/SMK & mahasiswa aktif PTN/PTS se-Indonesia; Olimpiade IT — siswa SMA/SMK; Data Science — mahasiswa
     - **Kategori:** Capture The Flag (Cyber Security), Data Science, Olimpiade IT (Cyber Security & IoT)
@@ -268,7 +257,7 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Link:** https://ara-its.id
     - **Catatan:** Timeline diambil dari pengumuman panitia @ara_its — verifikasi jadwal & biaya di situs resmi sebelum bayar
 
-28. **Gen AI Hack Indonesia 2027** *(BARU 24 Nov)*
+27. **Gen AI Hack Indonesia 2027** *(BARU 24 Nov)*
     - **Penyelenggara:** Gen AI Hack Indonesia (genaihack.id)
     - **Target Peserta:** Developer, designer, founder, mahasiswa — solo atau tim 1–4 orang; wajib hadir 24 jam penuh
     - **Tema:** 4 track — Public Impact, Consumer Products (B2C), Industry Solutions (B2B), Open Innovation
@@ -278,3 +267,35 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Perlu dicek ulang di link resmi
     - **Link:** https://genaihack.id
     - **Catatan:** Event 27–28 Februari 2027, 1000+ builder, 24 jam nonstop; tidak ada jaminan seat meski apply
+
+28. **ILPC 2027 — Informatics Logical Programming Competition (Stratos)** *(BARU 25 Nov)*
+    - **Penyelenggara:** Program Studi Teknik Informatika Universitas Surabaya (UBAYA)
+    - **Target Peserta:** Siswa SMA/SMK sederajat se-Indonesia
+    - **Tema:** Stratos — Elevating Human Logic to Expand AI Horizon
+    - **Lokasi:** Online (penyisihan) + Semifinal & Final di Surabaya
+    - **Deadline:** Batch I 3 November – 3 Desember 2026; Batch II 10 Desember 2026 – 10 Januari 2027
+    - **Biaya:** Batch I Rp125.000/tim; Batch normal Rp150.000/tim; diskon Rp125.000/tim bila mendaftar 4 tim atau lebih
+    - **Hadiah:** Juara 1 Rp6.000.000 + Piala Bergilir Walikota Surabaya; Juara 2 Rp4.000.000; Juara 3 Rp2.500.000; medali & sertifikat
+    - **Link:** https://ilpc.ifubaya.com/
+    - **Catatan:** Trial online 29 Januari 2027; penyisihan online 1–2 Februari; technical meeting 19 Februari; semifinal 20 Februari; final 21 Februari 2027
+
+29. **CTARSA Youth Greenovation Session II 2027 — Youthful Ideas, Meaningful Impact** *(BARU 25 Nov)*
+    - **Penyelenggara:** CTARSA Foundation x CNN Indonesia x Trans Media Sosial
+    - **Target Peserta:** Pelajar SMA/SMK/MA sederajat dan mahasiswa aktif PTN/PTS se-Indonesia (tim maks. 5 orang + 1 guru/dosen pendamping)
+    - **Tema:** Mengubah limbah menjadi karya bernilai — pelajar: Science for Everyday Life, Young Engineering & Smart Tools, Green STEM Innovation; mahasiswa: AI, Digital & Emerging Technology, Engineering & Robotics, Sustainable Technology & Green Energy
+    - **Lokasi:** Online (seleksi karya & semifinal) + Final di ITB Bandung
+    - **Deadline:** Pendaftaran 19 Oktober – 5 Desember 2026; seleksi 7–15 Desember; pengumuman 20 besar 18 Desember 2026; semifinal online 28–29 Desember 2026; final 13–14 Januari 2027
+    - **Biaya:** GRATIS (tidak ada biaya pendaftaran)
+    - **Hadiah:** Beasiswa Juara 1 Rp15.000.000, Juara 2 Rp10.000.000, Juara 3 Rp5.000.000, plus apresiasi pendamping Rp3jt/Rp2jt/Rp1jt dan e-sertifikat semifinalis
+    - **Link:** https://www.fajarbeasiswa.com/2026/11/lomba-inovasi-ctarsa-youth-greenovation.html
+    - **Catatan:** Pendaftaran awal lewat video MP4 landscape 16:9 maks. 5 menit yang diunggah ke Instagram semua anggota tim (tag @ctarsafoundation, hashtag #CTARSAYouthGreenovation2027). Formulir & ketentuan resmi cek akun @ctarsafoundation
+
+30. **SpaceXAI Hackathon Indonesia** *(BARU 25 Nov)*
+    - **Penyelenggara:** SpaceXSI for Jakarta, Indonesia
+    - **Target Peserta:** Developer, builder, dan mahasiswa (registrasi butuh approval host)
+    - **Lokasi:** Jakarta (Luring)
+    - **Deadline:** Pelaksanaan 6–7 Februari 2027 (tanggal bisa berubah); registrasi dibuka selama kuota tersedia
+    - **Biaya:** GRATIS
+    - **Hadiah:** Belum dicantumkan — perlu dicek ulang di link resmi
+    - **Link:** https://indonesiahackathons.com/events/spacexai-hackathon-indonesia
+    - **Catatan:** Formulir minta profil LinkedIn, alasan ikut, dan afiliasi perusahaan/kampus. Perubahan tanggal diumumkan lewat LinkedIn organizer
