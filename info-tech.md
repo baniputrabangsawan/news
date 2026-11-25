@@ -1,5 +1,64 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 24 November 2026*
+*Terakhir diperbarui: 25 November 2026*
+
+---
+
+## 🆕 UPDATE 25 NOVEMBER 2026
+
+### A. Google ADK 2.15.0 — Execution Environment Stabil & Evaluasi `pass^k` (November 2026)
+Tiga rilis bulan ini (2.14.0 → 2.15.0) fokus ke performa, ketelitian evaluasi, dan tooling:
+- **Execution environments stabil:** `LocalEnvironment`, `E2BEnvironment`, `DaytonaEnvironment` naik dari eksperimen ke stable; file di-stream per chunk lewat `BaseEnvironment.read_file_stream` sehingga file besar tidak lagi dimuat utuh ke memori.
+- **`GoogleMapsToolset` baru:** `validate_address`, `reverse_geocode`, dan `get_street_view_image` — agent bisa verifikasi alamat dan ambil imagery tanpa scraping manual.
+- **`BigQueryToolset` dapat `search_scope`:** agent bisa jawab pertanyaan analytics tanpa tahu nama tabel lebih dulu (`ask_data_insights` juga terima `includeProjectIds`/`includeDatasetReferences`).
+- **`FsspecArtifactService`:** satu API artifact storage untuk lokal, GCS, S3, file, dan memory — pindah dev→prod tanpa mengubah kode.
+- **Evaluasi multi-run:** sekarang membedakan **pass@k** (berhasil sekali) vs **pass^k** (konsisten setiap run). Ada `MultiRunConfig` + flag `--parallelism`, dan Agent Engine melaporkan kedua metrik.
+- **Keamanan:** `RunSkillScriptTool` kini memvalidasi path & argumen, bukan lagi menerima string shell mentah.
+- **Operasional:** `AgentEngineEnvironment` mendeteksi command yang lewat 570 detik; `--eval_storage_uri` menyimpan file evaluasi di luar `agents_dir` yang read-only; tracing FastAPI native dimatikan di Agent Engine untuk kurangi overhead.
+🔗 [AgentGid: ADK Changelog](https://agentgid.com/agents/google-adk/changelog/)
+
+### B. AWS DevOps Agent Tools — Repo Tool Komunitas & Partner (20 November 2026)
+AWS membuka **repository open source terkurasi** berisi skills, MCP server, connector, dan custom agent yang bisa langsung diimpor ke konfigurasi AWS DevOps Agent:
+- **Isi:** tool siap pakai yang sudah lewat quality control, untuk menaikkan kualitas investigasi dan memperluas konteks operasional.
+- **Connector partner:** Bluebox, Bronto, Celonis, ClickHouse Observability, Coralogix, Cribl, Elastic, Halo, Honeycomb, LaunchDarkly, Neo4j, Sumo Logic, Wiz — semuanya mempermudah koneksi ke MCP server pihak ketiga.
+- **Cara pakai:** browse katalog skills/connector dari dalam instance DevOps Agent, atau kontribusi tool sendiri lewat PR.
+- **Pola yang terlihat:** "tool registry per vendor" jadi norma 2026 — agent makin bergantung pada katalog tool terkurasi, bukan prompt panjang yang mendeskripsikan tool manual.
+🔗 [AWS: DevOps Agent Tools Repository](https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-tools-repository/)
+
+### C. Cursor Agent SDK 0.7.0–0.7.2 (19–20 November 2026)
+Rilis cepat tiga versi; ini yang berdampak ke deployment multi-tenant:
+- **Batas repo naik:** konfigurasi channel `cursorAccount` sekarang menerima sampai **50 repo/project** (dari 20) di GitHub, Origin, GitLab, dan Bitbucket; nama repo GitHub/Origin >140 karakter ditolak.
+- **`channels` jadi reserved agent slug** (bareng `v1`, `playground`, `docs`) supaya slug multi-agent tidak bertabrakan dengan route channel hosted.
+- **Per-user MCP connections:** hosted connector `cursorAccount` bisa jalan sebagai user yang sedang sign-in — kredensial dideklarasikan `"individual"`, bukan token aplikasi bersama.
+- **Fix trace:** scheduled run di Cursor hosting kini menulis trace dengan platform session id, jadi tab Trace tidak lagi kosong.
+- **Fix startup:** koneksi GitHub/Origin mengabaikan entry GitLab/Bitbucket di shared event list, tidak lagi gagal boot; nama MCP server di-trim dan nama kosong ditolak.
+🔗 [Cursor Docs: Agent SDK Changelog](https://cursor.com/docs/agent-sdk/changelog)
+
+### D. Red Hat Developer Hub 2.1 — Portal Developer "Agent-Ready" (9 November 2026, KubeCon NA)
+Rilis ini menyasar masalah yang sama yang bikin output agent sering di-rework: agent tidak tahu cara organisasi membangun software.
+- **Konteks enterprise lewat MCP:** agent dan developer dapat akses ter-governance ke komponen yang sudah approved, golden path template, service ownership, dokumentasi, dan data operasional — plus bisa memicu workflow (mis. cek masalah deployment Kubernetes).
+- **Support lifecycle 6 → 10 bulan**, jadi jadwal upgrade lebih longgar.
+- **Arsitektur frontend & plugin baru:** plugin design system fleksibel, visual extension management, branding seragam, lokalisasi EN/FR/IT/JA, kustomisasi berbasis YAML.
+- **Asisten kontekstual:** sadar layar aktif + knowledge internal untuk troubleshooting langsung di portal.
+- **Takeaway:** kecepatan generate kode bukan lagi bottleneck — yang mahal adalah review ulang karena agent tak punya konteks internal.
+🔗 [Red Hat: Developer Hub 2.1](https://www.redhat.com/en/about/press-releases/red-hat-advances-red-hat-developer-hub-agent-ready-enterprise-developer-portal)
+
+### E. Microsoft Agent Framework 1.25.0 & 1.26.0 (7–13 November 2026) — Yang Perlu Dicek
+- **1.26.0:** `loop_return_final_only` diekspos di `create_harness_agent()` — caller non-streaming bisa minta hanya respons final loop tanpa mengubah default atau perilaku streaming.
+- **1.25.0:** dukungan **approval policy discovery MCP yang callable**, plus menghormati metadata approval Foundry Toolbox (filter tool-name & read-only, override eksplisit dari caller, refresh policy untuk tool yang di-retain).
+- **`agent-framework-mistral`:** endpoint client Mistral yang di-inject sekarang dilaporkan di `service_url`.
+- **`agent-framework-monty`:** argumen posisional ke typed host-tool ditolak; stub tool di-generate keyword-only.
+- **Windows:** resolusi executable shell hanya dari `PATH` (tidak lagi nebak lokasi).
+- **.NET 1.28.0:** computer tool GA lewat `FoundryAITool.CreateComputerTool()`, termasuk batched actions.
+🔗 [GitHub: microsoft/agent-framework releases](https://github.com/microsoft/agent-framework/releases)
+
+### F. Design Trend: Progressive Disclosure — Batas "Sering Dipakai" vs "Berbahaya Kalau Disembunyikan" (Fuselab, 24 November 2026)
+Kerangka praktis untuk layar padat data (dashboard, admin panel, monitoring):
+- **Standar dua sisi:** expert bisa mencapai aksi apa pun **dalam satu langkah**; newcomer tidak pernah menghadapi lebih dari **satu keputusan sekaligus**. "Satu langkah" bukan berarti terlihat — cukup reachable lewat labeled control, search field, shortcut, atau saved view.
+- **Dua kriteria menyortir elemen:** *frequency* menentukan apa yang primer; *consequence* menentukan apa yang tidak boleh jadi sekunder. Elemen jarang dipakai tetap wajib terlihat kalau melewatkannya bikin user salah bertindak — contoh: timestamp terakhir update, status anomali, alert.
+- **Progressive ≠ staged disclosure:** progressive bersifat hierarkis (user mulai di core screen, sebagian besar tak pernah keluar); staged bersifat linear (semua orang lewat urutan yang sama — cocok untuk first-run setup, bukan layar kerja harian).
+- **Jebakan umum:** menyembunyikan advanced filter, telemetry, dan kontrol diagnostik supaya layar terasa ramah — hasilnya menambah langkah harian operator yang justru butuh itu.
+- **Terapan untuk tracker/lomba dashboard kita:** timestamp data, indikator data basi, dan status error selalu visible; filter detail, bulk action, dan metadata teknis boleh di balik "Advanced"/search.
+🔗 [Fuselab: Progressive Disclosure](https://fuselabcreative.com/progressive-disclosure/)
 
 ---
 
