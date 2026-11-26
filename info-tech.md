@@ -1,5 +1,78 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 25 November 2026*
+*Terakhir diperbarui: 26 November 2026*
+
+---
+
+## 🆕 UPDATE 26 NOVEMBER 2026
+
+### A. Anthropic: Skills over MCP Masuk Public Beta — MCP Bukan Cuma Bawa Tool, Tapi Instruksi (25 November 2026)
+Anthropic mengumumkan **Skills over MCP** sekarang **public beta** di Claude dan Claude Code. Ini perubahan konsep yang penting: approve MCP server sekarang berarti approve **teks yang diikuti model**, bukan cuma daftar tool yang bisa dipanggil.
+- **Formatnya:** satu skill = folder berisi `SKILL.md`. Server mengirim file-nya lewat **MCP Resources** (fitur lama, dipakai dengan cara baru). Claude menemukan skill saat server connect, tapi baru membaca instruksi lengkap **saat dibutuhkan** — jadi hemat context.
+- **Update otomatis:** skill ikut ter-update saat server update, user tidak install apa pun.
+- **Kontrol keamanan:** di Claude Code, sebagian setting yang dideklarasikan skill **diabaikan** — termasuk tool permission dan hooks. Artinya skill tidak bisa memberi dirinya akses sendiri.
+- **Auto mode:** classifier yang memutuskan skill dimuat tanpa tanya user. User bisa blokir skill suatu server atau wajibkan prompt tiap kali. Admin bisa on/off-kan MCP skills untuk server non-connector Claude.
+- **Ketersediaan:** default untuk Pro, Max, Ultra. Team plan perlu admin mengaktifkan. Enterprise menyusul.
+- **VS Code 1.147+** juga sudah dukung skills dengan kontrol approval sendiri.
+- **Kenapa ini penting buat yang bikin agent:** distribusi "cara kerja" jadi satu paket dengan tool. Pola lama (prompt panjang di system message) mulai digantikan skill yang versioned dan dikirim vendor.
+🔗 [Pulse/adyog: Skills over MCP beta](https://pulse.adyog.com/briefs/anthropic-lets-mcp-servers-ship-ai-agent-skills-in-claude-no)
+
+### B. MCP Genap 2 Tahun (25 November 2026) — Plumbing Beres, Sekarang Urusan Agent-to-Agent
+Model Context Protocol ulang tahun kedua. Ringkasan status dari sisi praktisi:
+- **Yang sudah settle:** v1 lokal & stateful → spesifikasi sekarang **stateless core**, dan itu yang bikin MCP bisa jalan lewat **remote HTTP**, bukan cuma satu mesin. Arcade sempat bikin protokol sendiri, lalu membuangnya setelah MCP menambah remote HTTP — pola klasik "standar menang kalau ia menyerap fitur pesaingnya".
+- **Yang belum beres:** MCP masih **satu arah** (agent → server); belum ada messaging agent-to-agent yang mapan. Transfer file besar juga masih lubang.
+- **Yang baru muncul:** skill ikut travelling bareng tool (lihat poin A). Glif contohnya mengirim skills + tools lewat MCP server-nya, plus pakai **MCP Tasks** untuk background job — job jalan di server dan lanjut walau sesi Claude Code ditutup.
+- **Identity jadi isu utama:** autentikasi agent sebaiknya dinilai dari tiga hal terpisah — **workload identity**, **user-delegated access**, dan **runtime authorization**. Workload identity tidak bisa menggantikan grant dari user.
+🔗 [hangingcontext: MCP turns two](https://hangingcontext.com/stories/2026-11-26/mcp-turns-two-agent-to-agent)
+
+### C. Canva MCP Resmi GA — "Design Layer of the Internet" (23–24 November 2026)
+Canva membuka mesin desainnya ke **agent mana pun dan developer mana pun**, tanpa waitlist:
+- **MCP server GA:** di-rebuild mengikuti cara agent berperilaku — tool yang tumpang-tindih digabung supaya agent dengan model kecil pun memilih tool yang benar.
+- **Yang bisa dilakukan agent:** bikin desain **yang editable**, gambar, dan video; hapus background; ubah gambar flat jadi file berlapis (**Magic Layers**); resize dan export.
+- **Alur di chat:** minta "post Instagram" → balik jadi desain Canva asli dengan brand kit (warna & font brand), terbuka di panel edit di samping percakapan. Video 15 detik juga balik sebagai **timeline editable**, bukan file mati.
+- **Buat developer:** REST API baru, CLI untuk bulk job, **service account** + API billing (workflow jalan tanpa ada karyawan sign-in; end user tidak perlu akun Canva).
+- **Craft model dibuka:** model image generation in-house Canva Research kini tersedia via API dan MCP — sebelumnya cuma di dalam produk Canva.
+- **Angka (klaim Canva):** ~500 ribu orang sign-up lewat MCP sejak Oktober; pakai MCP naik 93% dalam sebulan; **72% perintah di CLI diketik agent**; 4 dari 10 yang datang lewat MCP adalah user baru/lama yang balik; ARR dari channel ini naik >300% September→Oktober.
+- **Takeaway:** untuk produk kreatif, distribusi lewat agent sekarang jadi channel akuisisi utama — bukan website.
+🔗 [TNW: Canva opens design tools to AI agents](https://thenextweb.com/news/canva-mcp-ai-agents-developers) | [TPS: Canva MCP GA](https://tpsreport.news/news/canva-mcp-server-generally-available-rest-api-craft)
+
+### D. ⚠️ Microsoft Agent Framework Kena Supply Chain Attack di PyPI (17 November 2026) — Wajib Cek
+Ini bukan rilis fitur, tapi **wajib dibaca** kalau kamu pakai `agent-framework` Python:
+- **Yang terjadi:** dua versi **1.26.1 dan 1.26.2** diunggah ke PyPI **tanpa otorisasi**, berjarak 33 menit, pada 17 November 2026. Keduanya berisi **credential stealer**.
+- **Cara kerjanya:** paket menaruh file `.pth` di root `site-packages`, yang otomatis dieksekusi **setiap kali interpreter Python start** — jadi stealer jalan walau paketnya tidak di-import. Yang dicuri: credential, environment data, dan cloud identity token, dikirim ke endpoint `webhook[.]site`.
+- **Status:** kedua versi sudah di-quarantine PyPI; advisory **PYSEC-2026-4388**. **Versi 1.26.0 dan sebelumnya tidak terpengaruh.** Paket .NET dan Semantic Kernel tidak terpengaruh.
+- **Yang harus dilakukan:** pin ke **1.26.0**, restore dari environment bersih, cek exposure di jendela 8:35–9:20 p.m. UTC 17 November, cari request ke domain webhook itu di log proxy/DNS, lalu **rotate credential dari sistem bersih**. Paket ini ~190 ribu download/bulan.
+- **Efek samping:** Microsoft menutup sementara repo `microsoft/agent-framework` dan `microsoft/onnxruntime` selama investigasi — jadi kalau tiba-tiba `pip install` dari git gagal, ini sebabnya.
+- **Pelajaran pola:** meta-package + auto-execute hook = jalur serangan paling murah. Pin versi persis dan pakai lockfile, jangan `>=`.
+🔗 [Microsoft: Repository update](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-repository-update) | [The Hacker News](https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html)
+
+### E. JetBrains Mellum2.1 Instruct — Open Model Kecil Buat Sub-Agent & Tool Loop (25 November 2026)
+Saudara cepat dari Mellum2.1 Thinking yang rilis Oktober. Bedanya: **tidak menampilkan chain of thought**, langsung jawab.
+- **Arsitektur:** 12B total, **MoE dengan 2.5B parameter aktif** per token. Lisensi **Apache 2.0** di Hugging Face, plus build **GGUF** buat jalan lokal.
+- **Skor (self-reported, harness open-source yang sama untuk semua model):** **SWE-bench Verified 40.4** (naik 2x dari Mellum2 Instruct 20.2), **MultiPL-E 73.7**, **ToolHop 51.4**, **WorkBench 38.0**, **IFEval 87.2**, **AIME 25/26 61.1**.
+- **Kecepatan:** ~**1.4x** lebih cepat per request dan **1.8x** di bawah load vs Qwen3.5 9B — meski Qwen3.5 9B tetap lebih tinggi di SWE-bench (49.8).
+- **MTP head:** dirilis bareng, bikin generation sampai **1.8x** lebih cepat.
+- **Posisi pakai:** cocok sebagai **worker cepat** di samping model besar, untuk sub-agent dan tool-calling loop — bukan pengganti model reasoning utama.
+🔗 [JetBrains Blog](https://blog.jetbrains.com/ai/2026/11/mellum2-1-instruct-is-out-bringing-faster-answers-for-coding-agents) | [Hugging Face: Mellum2.1-12B-A2.5B-Instruct](https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Instruct)
+
+### F. 🎨 "Beyond Chat": Enam Prinsip AI UX Generasi Berikutnya (UXmatters, 16 November 2026)
+Ken Olewiler (Punchcut) menulis prinsip desain untuk produk yang "intelligence-nya ada di seluruh bagian", bukan chatbot di pojok. Enam prinsip, tersusun sebagai **tiga pasang ketegangan**:
+1. **Transcending the Chatbox** — chat berat menambah cognitive load saat user harus melewati workflow kompleks, membandingkan opsi, atau memahami apa yang agent lakukan. Lawan dari familiaritas chat.
+2. **Calibrating the Complexity** — agentic system jalan di banyak tool & workflow sekaligus, sering saat user sedang melakukan hal lain. Tampilkan semua → user tenggelam; sembunyikan terlalu banyak → user kehilangan kontrol.
+3. **Building Glass Boxes** — orang mau AI benar di hal kecil dulu sebelum dipercaya untuk hal besar. AI bisa menghasilkan output meyakinkan tapi salah, jadi user harus bisa lihat **apa dan kenapa**.
+4. **Relationship design** — trust dibangun bertahap, bukan dari satu sesi sukses.
+5. **Integrating Escape Hatches** — user harus bisa pause, koreksi, redirect, undo, atau ambil alih manual **tanpa kehilangan kerja yang sudah dihasilkan AI**. Butuh persistent workflow state dan aksi yang reversible.
+6. **Otonomi vs kontrol** — makin otonom sistemnya, makin penting recovery. Justru yang bikin orang mau mendelegasikan ke AI adalah tahu mereka bisa ambil alih lagi.
+- **Pesan praktis:** user intervention bukan error state — itu bagian dari flow normal.
+🔗 [UXmatters: Beyond Chat](https://www.uxmatters.com/mt/archives/2026/11/beyond-chat-six-principles-for-the-next-generation-of-ai-ux.php)
+
+### G. 🎨 Sinyal Tren Desain 2027: "Agent-Ready UI" & Tahun Kelelahan AI
+Dua laporan riset yang saling melengkapi bulan ini:
+- **Figma 2026 AI Report:** **90%** responden menilai desain **minimal sama pentingnya** seperti sebelum AI, dan hampir **6 dari 10** bilang justru **makin penting**. 51% builder AI sedang membangun agent.
+- **NN/g "State of UX 2026":** UI disebut **"no longer a differentiator"**, sebagian karena makin banyak interaksi dimediasi AI. NN/g menyebut 2026 sebagai **"tahun kelelahan AI"** — kalau layar hasil AI tidak bisa dicek atau di-undo, user berhenti percaya.
+- **Konsekuensi konkret untuk desainer:** semantic HTML, accessibility label yang benar, **satu aksi jelas per layar**, dan state yang diekspos **dalam teks, bukan cuma warna** — karena "heavy user" berikutnya mungkin tidak punya mata (agent membaca struktur, label, dan state).
+- **Pola UI baru yang mulai standar:** tombol pre-prompt sebelum user mengetik, tiga state AI (**likely right / uncertain / wrong**) dengan pola berbeda tiap state, deretan **Refine / Undo / Retry** di sebelah hasil, konfirmasi sebelum aksi penting, dan **non-AI fallback**.
+- **Catatan kritis:** Liquid Glass dan Material 3 Expressive mahal di GPU/baterai; neo-brutalism cepat basi dan melelahkan untuk tool yang dipakai 8 jam sehari.
+🔗 [Figma: 2026 AI Report (via Resolute)](https://www.resolutesoftware.com/blog/7-uxui-design-trends-to-watch-in-2027) | [Smartters: UI Design Trends 2027](https://smartters.in/blog/ui-design-trends-2027) | [NN/g: AI Agents as Users](https://www.nngroup.com/articles/ai-agents-as-users/)
 
 ---
 
@@ -689,4 +762,4 @@ W3C mulai menyusun WCAG 3.0 sebagai update mayor dari WCAG 2.2:
 
 ---
 
-*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (22–24 November 2026).*
+*Sumber: Kurasi riset harian seputar developer tools, agentic AI frameworks, dan tren desain antarmuka UI/UX (22–26 November 2026).*
