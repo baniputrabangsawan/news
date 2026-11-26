@@ -1,6 +1,6 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - November 2026
 
-*Terakhir diperbarui: 25 November 2026*
+*Terakhir diperbarui: 26 November 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
@@ -299,3 +299,47 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Belum dicantumkan — perlu dicek ulang di link resmi
     - **Link:** https://indonesiahackathons.com/events/spacexai-hackathon-indonesia
     - **Catatan:** Formulir minta profil LinkedIn, alasan ikut, dan afiliasi perusahaan/kampus. Perubahan tanggal diumumkan lewat LinkedIn organizer
+
+31. **IDN IT FEST 2026 — International Technology Festival** *(BARU 26 Nov)*
+    - **Penyelenggara:** IDN Boarding School Jonggol (panitia IDN IT FEST)
+    - **Target Peserta:** Pelajar aktif SMA/SMK/MA sederajat (termasuk sekolah internasional), Indonesia & luar negeri
+    - **Cabang:** Web Design & Development, UI/UX Design, Cyber Security, Network Competition, Mobile Application, AI Challenge, Game Development, Public Speaking
+    - **Lokasi:** Penyisihan online + Grand Final offline di IDN Boarding School Jonggol, Bogor
+    - **Deadline:** Pendaftaran 9 Oktober – 25 Desember 2026; batas akhir pengumpulan karya 30 Desember 2026; pengumuman finalis 5 Januari 2027
+    - **Biaya:** Rp150.000 per tim (peserta internasional USD 15)
+    - **Hadiah:** Total hadiah puluhan juta rupiah + sertifikat internasional (nominal per cabang perlu dicek di link resmi)
+    - **Link:** https://itfest.idn.sch.id/
+    - **Catatan:** Grand Final 16–17 Januari 2027; technical meeting online 26 Desember 2026; tim 2–3 orang per cabang
+
+32. **ITC-TI 2027 (IT COMP) — Beyond the Code** *(BARU 26 Nov)*
+    - **Penyelenggara:** Program Studi Teknik Informatika Unggul, IIB Darmajaya (Darmajaya Cyber Security Club)
+    - **Target Peserta:** Siswa SMA/SMK regional dan mahasiswa nasional (per cabang)
+    - **Cabang:** Incident Response (mahasiswa nasional), Cyber Security CTF, Cyber Security Nasional (Jeopardy CTF), Website Development, Computer Network, UI/UX Design
+    - **Lokasi:** IIB Darmajaya, Bandar Lampung
+    - **Deadline:** Pendaftaran Gelombang 2 masih dibuka; pelaksanaan lomba & acara 13 Januari 2027
+    - **Biaya:** Gelombang 2 — Rp50.000 (CS), Rp60.000 (WD), Rp65.000 (CN), Rp75.000 (UI/UX), Rp100.000 (IR & CSN) per tim
+    - **Hadiah:** Perlu dicek ulang di link resmi (juara tiap cabang + sertifikat)
+    - **Link:** https://itcom.darmajaya.ac.id/
+    - **Catatan:** Tim 2–3 orang; juknis & timeline tiap cabang tersedia untuk diunduh di situs
+
+33. **BSI Flash 2027 Talent Competition — Lomba Video AI "AI Future Creators"** *(BARU 26 Nov)*
+    - **Penyelenggara:** Universitas Bina Sarana Informatika (UBSI) — BSI Flash 2027
+    - **Target Peserta:** Siswa aktif SMA/SMK/MA sederajat (punya NISN), tim maksimal 3 orang dari sekolah yang sama
+    - **Tema:** AI Future Creators — "Imagine the Future, Create with AI"
+    - **Lokasi:** Online (produksi & pengumpulan karya) + final offline di BSI Convention Center Kaliabang
+    - **Deadline:** Pendaftaran maksimal 31 Desember 2026 (batas pelengkapan berkas 6 Januari 2027, 23.00 WIB); technical meeting 7 Januari 2027; karya 7–15 Januari 2027; final & awarding 30 Januari 2027
+    - **Biaya:** Rp50.000 per tim
+    - **Hadiah:** Perlu dicek ulang di link resmi (kuota 100 tim)
+    - **Link:** https://bsiflash.com/lomba/lomba-video-ai
+    - **Catatan:** Video 1–3 menit vertikal 9:16 (min. 720×1280), wajib pakai AI secara nyata dan menjelaskan tools-nya; maksimal 2 tim per sekolah
+
+34. **YAI Singapore — Youth AI Hackathon 2026/2027 (Internasional)** *(BARU 26 Nov)*
+    - **Penyelenggara:** YCESS (Youth, Children Education Society), Singapura
+    - **Target Peserta:** Pelajar/mahasiswa usia 7–24 tahun (Primary 7–12, Secondary 13–17, University 18–24), semua kewarganegaraan, tim 1–4 orang atau solo
+    - **Tema:** Empat quest — AI Art, AI Robotics & Smart Devices, AI for Good, AI Agents (tidak wajib coding; karya & presentasi bahasa Inggris)
+    - **Lokasi:** Online sampai Demo Weekend; finalis di luar Singapura boleh presentasi online
+    - **Deadline:** Registrasi paling lambat 2 Januari 2027 (22.59 WIB); submit karya 9 Januari 2027; Demo Weekend 31 Januari 2027
+    - **Biaya:** S$68 per siswa (tersedia kuota fee-waiver)
+    - **Hadiah:** Total S$35.550 — trofi + uang tunai tiap divisi + 8 Special Awards; setiap submisi valid dapat sertifikat
+    - **Link:** https://yai.sg/
+    - **Catatan:** Cocok untuk portofolio internasional; tidak berafiliasi dengan IOAI Indonesia/TOKI
