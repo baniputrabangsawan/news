@@ -1,6 +1,6 @@
 # 🎓 Info Workshop, Webinar & Bootcamp Teknologi - November 2026
 
-*Terakhir diperbarui: 25 November 2026*
+*Terakhir diperbarui: 26 November 2026*
 
 Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya sudah lewat sudah dibersihkan):
 
@@ -443,3 +443,58 @@ Daftar workshop, webinar, dan bootcamp tech/AI/UI-UX aktif (item yang jadwalnya 
     - **Benefit:** Sertifikat kompetensi & badge, bimbingan expert/praktisi IT, kesempatan konversi PKL/SKPI/SKS, jalur hackathon dan beasiswa pendidikan
     - **Link:** https://www.dbs.com/spark/index_id/site/codingcamp/index.html
     - **Catatan:** Perlu akun Dicoding + akun Bitt, dan wajib follow @dbsfoundationid, @dbsbankid, @dicoding
+
+50. **Snowflake Dev Days Virtual APAC — Making AI Real for Business** *(BARU 26 Nov)*
+    - **Penyelenggara:** Snowflake (@snowflake)
+    - **Target Peserta:** Developer, data engineer, data scientist, AI builder (materi Level 100–200)
+    - **Format:** Virtual 3 hari, 20 sesi live + demo + hands-on lab (Snowflake CoCo, Cortex Agents, dbt, Online Feature Store)
+    - **Jadwal:** 7–9 Desember 2026, mulai 09.00 WIB
+    - **Biaya:** GRATIS
+    - **Benefit:** Sertifikat kehadiran (minimal ikut 5 sesi), praktik langsung data pipeline siap-AI, AI agent & RAG production-ready, Q&A dengan praktisi APAC
+    - **Link:** https://www.snowflake.com/dev-days-apac-indonesia/
+
+51. **HiColleagues Webinar — Building a Custom API Gateway** *(BARU 26 Nov)*
+    - **Penyelenggara:** HiColleagues (@hicolleagues)
+    - **Target Peserta:** Backend developer, mahasiswa informatika, pemula yang mau naik level arsitektur
+    - **Format:** Webinar online (Tech Deep Dive seri ke-12)
+    - **Jadwal:** Selasa, 8 Desember 2026, 19.00–20.15 WIB
+    - **Biaya:** GRATIS
+    - **Benefit:** Studi kasus arsitektur API gateway dari praktisi Allo Bank; e-sertifikat + rekaman sesi
+    - **Link:** https://hicolleagues.com/event
+    - **Catatan:** Pendaftaran belum dibuka saat pengecekan — isi "Kabari saya" untuk notifikasi via WhatsApp/email
+
+52. **Eduparx (Inixindo Jogja) — AI-Powered Data Narrative: Mengubah Angka Jadi Cerita Menarik** *(BARU 26 Nov)*
+    - **Penyelenggara:** Eduparx / Inixindo Jogja (@eduparx)
+    - **Target Peserta:** Mahasiswa, analis data, profesional yang sering presentasi data
+    - **Format:** Webinar online via Zoom
+    - **Jadwal:** Kamis, 10 Desember 2026, 14.00–16.00 WIB
+    - **Biaya:** GRATIS (kuota terbatas, pakai voucher)
+    - **Benefit:** Prinsip data storytelling, menggali insight otomatis dengan AI, prompting untuk narasi & rekomendasi visualisasi, studi kasus + live demo
+    - **Link:** https://eduparx.id/home/events/ai-powered-data-narrative-mengubah-angka-membosankan-menjadi-cerita-menarik
+
+53. **MySkill Free Short Class UI/UX — Figma for UI/UX Design** *(BARU 26 Nov)*
+    - **Penyelenggara:** MySkill (@myskill.id)
+    - **Target Peserta:** Pelajar, mahasiswa, pemula UI/UX
+    - **Format:** Live class via Zoom + mini task portofolio
+    - **Jadwal:** Senin, 4 Januari 2027, 19.30–21.00 WIB
+    - **Biaya:** GRATIS + e-sertifikat
+    - **Benefit:** Praktik Figma untuk UI/UX, wireframing, UX research & UX writing, grup Telegram komunitas
+    - **Link:** https://myskill.id/bootcamp/ui-ux-design-short-class
+
+54. **MySkill Free Short Class AI — Building Website with Lovable AI** *(BARU 26 Nov)*
+    - **Penyelenggara:** MySkill (@myskill.id)
+    - **Target Peserta:** Pelajar, mahasiswa, pemula yang ingin bikin website dengan AI
+    - **Format:** Live class via Zoom + mini task portofolio
+    - **Jadwal:** Kamis, 28 Januari 2027, 19.30–21.00 WIB
+    - **Biaya:** GRATIS + e-sertifikat
+    - **Benefit:** Dasar AI & automation dengan n8n, prompt engineering, membangun website memakai Lovable AI
+    - **Link:** https://myskill.id/bootcamp/artificial-intelligence-kelas-gratis-bersertifikat-myskill
+
+55. **Designlab — Designing AI Products Informational Webinar** *(BARU 26 Nov)*
+    - **Penyelenggara:** Designlab Admissions (via Livestorm)
+    - **Target Peserta:** Product designer, UX designer, PM, mahasiswa desain (bahasa Inggris)
+    - **Format:** Webinar online ±30 menit
+    - **Jadwal:** Selasa, 1 Desember 2026, 19.00 CET (sekitar Rabu 2 Desember 2026, 01.00 WIB)
+    - **Biaya:** GRATIS
+    - **Benefit:** Cara merancang produk berbasis AI — struktur kurikulum, pendekatan desain, dan jalur karier AI product design
+    - **Link:** https://designlab.com/ui-ux-design-events-and-workshops
