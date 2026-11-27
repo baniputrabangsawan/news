@@ -1,6 +1,6 @@
 # 🏆 Info Lomba & Kompetisi Terbaru - November 2026
 
-*Terakhir diperbarui: 26 November 2026*
+*Terakhir diperbarui: 27 November 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
@@ -343,3 +343,69 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** Total S$35.550 — trofi + uang tunai tiap divisi + 8 Special Awards; setiap submisi valid dapat sertifikat
     - **Link:** https://yai.sg/
     - **Catatan:** Cocok untuk portofolio internasional; tidak berafiliasi dengan IOAI Indonesia/TOKI
+
+35. **BUILD 4 ALL — CS4ALL Online Student Hackathon** *(BARU 27 Nov)*
+    - **Penyelenggara:** CS4ALL (Bay Area, AS) — dikelola via Devpost
+    - **Target Peserta:** Pelajar/mahasiswa aktif usia 13+, semua negara; solo atau tim maks 4 orang
+    - **Tema:** Bebas — bangun website, aplikasi, game, atau tools AI untuk masalah nyata di sekitar kamu
+    - **Lokasi:** Online penuh (Devpost)
+    - **Deadline:** Building dibuka 5 Desember 2026 (09.00 PST); submit karya maks 12 Desember 2026 (20.00 PST)
+    - **Biaya:** GRATIS
+    - **Hadiah:** 4 kategori penghargaan non-tunai; semua peserta dapat n8n Cloud Pro ($60), $100 Momen credits, dan domain .XYZ 1 tahun (khusus 150 pendaftar pertama)
+    - **Link:** https://build4all.devpost.com/
+    - **Catatan:** Ada workshop gratis "build app tanpa coding" via Zoom 5 Desember 2026 (5–6pm PST = 6 Des 08.00–09.00 WIB). Pemula sangat dipersilakan.
+
+36. **Codegeist 2026 — Build with Context, Ship with Confidence (Atlassian)** *(BARU 27 Nov)*
+    - **Penyelenggara:** Atlassian (via Devpost)
+    - **Target Peserta:** Developer & builder di seluruh dunia (di atas usia legal negara asal); perorangan atau tim
+    - **Tema:** Bangun app di platform Forge Atlassian yang memakai Teamwork Graph untuk menghubungkan konteks kerja tim + AI/Rovo
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 22 Desember 2026 (12.00 PST / 23 Des 03.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** Total prize pool $120.000 tunai
+    - **Link:** https://codegeist2026.devpost.com/
+    - **Catatan:** Beberapa negara dikecualikan (Rusia, Belarus, Iran, Kuba, Korea Utara, Myanmar, Sudan, Suriah, Brazil, Quebec). Indonesia tidak termasuk pengecualian.
+
+37. **Cloud9 x JetBrains: Sky's The Limit Hackathon 2026** *(BARU 27 Nov)*
+    - **Penyelenggara:** Cloud9 (organisasi esports) x JetBrains — dikelola Devpost
+    - **Target Peserta:** Developer di atas usia legal negara asal, semua negara (kecuali pengecualian standar)
+    - **Tema:** Bangun tools coaching/scouting esports (VALORANT, Game Changers, League of Legends) atau mini game untuk fan booth, memakai JetBrains IDE + AI agent Junie
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 12 Januari 2027 (11.00 PST / 13 Jan 02.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** $25.000 tunai, tiket + travel GDC Festival of Gaming, langganan JetBrains, merchandise Cloud9
+    - **Link:** https://cloud9.devpost.com/
+    - **Catatan:** Data esports resmi dari GRID tersedia gratis. Registrasi dapat trial code JetBrains.
+
+38. **Open Agentic Web Challenge (Cognizant)** *(BARU 27 Nov)*
+    - **Penyelenggara:** Cognizant, dengan kontribusi teknologi Cognizant AI Lab, MIT NANDA, Mozilla Otari, dan AWS
+    - **Target Peserta:** Web developer maupun AI engineer di seluruh dunia; perorangan atau tim
+    - **Tema:** Bangun building block open-source untuk "agentic web" — agent yang jalan di browser, agentify website, atau komponen agar agent bisa saling menemukan & dipercaya
+    - **Lokasi:** Online penuh (wajib open source)
+    - **Deadline:** Submit maks 11 Januari 2027 (16.00 UTC / 23.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** $10.000 tunai
+    - **Link:** https://cognizant-agenticweb.devpost.com/
+    - **Catatan:** Cocok untuk yang baru pertama bikin agent maupun yang baru pertama deploy ke browser — ada spesifikasi minimum viable yang bisa diikuti.
+
+39. **AI for Medicine: A Global Student Hackathon on the Future of Care** *(BARU 27 Nov)*
+    - **Penyelenggara:** Open Health AI Collective
+    - **Target Peserta:** Pelajar/mahasiswa aktif usia 14+ dari institusi terakreditasi, semua bidang; solo atau tim maks 4 orang
+    - **Tema:** Diagnosis, triage, monitoring, dan akses layanan kesehatan dengan AI — wajib ada bagian evaluasi (bukan cuma demo)
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 4 Desember 2026 (23.45 EST / 5 Des 11.45 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** 6 penghargaan berupa sertifikat (finalis dapat sertifikat partisipasi, pemenang dapat track certificate); tidak ada hadiah tunai
+    - **Link:** https://ai-for-medicine.devpost.com/
+    - **Catatan:** Nilai utama = portofolio riset & sertifikat yang bisa dikutip di CV. Sertakan baseline/pembanding agar skor Technical Depth tidak dipotong.
+
+40. **InnovArt 2027: Art and Technology Hack Day** *(BARU 27 Nov)*
+    - **Penyelenggara:** Binnovative (hackathon internasional yang dipimpin pelajar)
+    - **Target Peserta:** Pelajar/mahasiswa aktif usia 13+, semua negara; lintas disiplin (seni, desain, musik, arsitektur, software, hardware)
+    - **Tema:** "Hack your artistic intelligence" — silang antara seni dan teknologi
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 2 Januari 2027 (12.00 EST / 3 Jan 00.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** 14 penghargaan non-tunai
+    - **Link:** https://innovart2027.devpost.com/ | https://innovart-hack.com
+    - **Catatan:** Cocok untuk portofolio UI/UX & creative coding; terbuka untuk yang baru pertama ikut hackathon.
