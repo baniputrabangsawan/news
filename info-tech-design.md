@@ -1,5 +1,62 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 26 November 2026*
+*Terakhir diperbarui: 27 November 2026*
+
+---
+
+## 🆕 UPDATE 27 NOVEMBER 2026
+
+### A. Google A2UI 1.0 Stabil — Generative UI Jadi Protokol, Bukan Prompt (11 November 2026)
+Google merilis **A2UI 1.0**, versi stabil pertama protokol terbuka untuk *generative UI*: agen menjawab bukan dengan dinding teks, tapi dengan layar interaktif (form konfirmasi, chart, picker).
+- **Cara kerja:** agen mendeskripsikan apa yang mau ditampilkan sebagai data; tiap aplikasi merendernya pakai komponen native sendiri — jadi tetap cepat, aman, dan sesuai brand/design system yang sudah didaftarkan.
+- **Baru di 1.0:** **bidirectional function calls** (misal picker tiket bisa cek ketersediaan saat itu juga), dukungan aksesibilitas, dan ekstensi untuk metadata tambahan.
+- **Renderer open-source:** React, Angular, Lit di web; Flutter (mobile/web/desktop); SwiftUI di iOS; Jetpack Compose di Android (v1.0 menyusul). Renderer web & Flutter juga jalan di dalam **MCP Apps**, jadi bisa muncul di Claude dan Gemini.
+- **Agent SDK:** Python, TypeScript, Dart — plus **A2UI Express** dan *system-one decision model* yang memilih komponen alih-alih menulis teks (latensi jauh lebih rendah). Nilai sensitif di-bind di server, tidak pernah masuk ke model.
+- **Adopsi:** Atlassian, Alation, Bloomberg, ByteDance (renderer Lynx) sudah membangun di atasnya.
+🔗 [Google Developers Blog: A2UI 1.0](https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences)
+
+### B. Vercel Rilis UI SDK — "Behavior, Bukan Komponen" + Jembatan Agen Langsung (18 November 2026)
+Vercel merilis **UI SDK** (open-source, TypeScript, masih beta): library yang memperlakukan *keyboard navigation, focus, selection, popup, drag & drop* sebagai **behavior yang bisa dipakai ulang**, bukan detail yang terkubur di dalam komponen jadi.
+- **Isi:** 50+ behavior di `@ui-sdk/core` (`createPopup`, `createSelection`, `createTypeahead`, `createRovingFocus`, `createVirtualizer`, dll), digabung lewat `definePrimitive` → dirender ke React, Vue, Svelte, Solid, atau Web Component via `createParts`. Semua unstyled, expose atribut + CSS variable. Ada juga 50+ komponen unstyled siap pakai.
+- **Dibuat untuk agen:** `ui-sdk skill` (`npx skills add vercel-labs/ui --skill ui-sdk`) mengarahkan coding agent ke dokumentasi Markdown yang ikut ter-install.
+- **Jembatan runtime:** `createAgent` (`@ui-sdk/react/agent`) mengekspos **snapshot, act, query** — agen bisa baca state komponen dan memanggil aksi **tanpa screenshot**. App bisa approve/refuse tiap langkah, dan `registerTools` membuka method yang sama ke agen bawaan browser lewat **WebMCP**.
+- **Posisi di ekosistem:** levelnya lebih rendah dari Radix/Base UI/React Aria (headless primitives) dan shadcn/ui (copy-into-repo), dan yang bikin beda adalah *agent bridge*-nya yang first-class.
+🔗 [InfoQ: Vercel UI SDK](https://infoq.com/news/2026/11/vercel-ui-sdk) | [ui-sdk.dev](https://ui-sdk.dev/)
+
+### C. OGX 2.0 — Web Search Jadi Routed API, `tool_runtime` Dipensiunkan (26 November 2026)
+Rilis mayor dari 28 kontributor (133 PR sejak v1.5.0). Ini rilis yang **breaking** buat yang punya integrasi custom:
+- **`tool_runtime` / `tool_groups` dihapus** — web & file search sekarang jalan di dalam **Responses API**, dan tool MCP dilayani langsung oleh Responses API (opsional via MCP connector).
+- **Web search jadi routed API** di endpoint `web_search`, dengan backend **SearchApi** baru, Brave Search base URL yang bisa dikonfigurasi, dan placeholder bawaan supaya tetap jalan sebelum provider diset.
+- **Namespaced function tools** dengan mapping identitas yang presisi di layer chat-completions.
+- **SystemOne judgment model API** tersedia di Ollama, llama.cpp, SGLang, dan vLLM; ditambah provider inferensi **SGLang** baru (dukungan Tev1) dan dukungan **Python 3.14**.
+- **Perbaikan penting:** 400 yang benar untuk prompt kebesaran & `text.format` tidak lengkap, argumen tool-call malformed dikembalikan ke model, tidak ada lagi turn yang dibuang diam-diam.
+🔗 [GitHub: ogx-ai/ogx v2.0.0](https://github.com/ogx-ai/ogx/releases/tag/v2.0.0)
+
+### D. Vercel `eve` 1.0 GA — Framework Agen Open-Source untuk Produksi
+Setelah preview sejak Juni (230+ rilis), **eve 1.0** resmi GA:
+- **Harness** = loop yang memanggil model, menjalankan tool, dan mendelegasikan ke subagent. Model bebas dipilih, tool bisa diganti, dan aksi mana yang butuh approval bisa ditentukan.
+- **Durable by default:** Workflow SDK menyimpan progres, jadi agen lanjut dari langkah terakhir setelah crash. Ada tool `sleep` dan `question` yang bisa menunggu orang/webhook/timer **tanpa** menahan compute.
+- **Multiplayer sessions & agent-to-agent calls** sudah built-in; security control untuk approval aksi dan data collection.
+- **Framework integration native:** Next.js, Nuxt, SvelteKit, TanStack Start, Vite — agen dibangun bareng app-nya. Deploy ke Vercel pakai Vercel Workflows + Vercel Sandbox untuk kode hasil generate.
+- **Extensions:** tim bisa berbagi tools, skills, instructions, connections, channels, schedules, hooks, dan subagents tanpa copy file antar agent.
+🔗 [Vercel: eve is now generally available](https://vercel.com/blog/eve-is-now-generally-available) | [eve.dev](https://eve.dev/)
+
+### E. Mastra: Knowledge v2 + Durable Agent Lintas Restart (4 November 2026)
+Update besar untuk Mastra (framework agen TypeScript-native):
+- **Knowledge v2:** knowledge jadi *page tree* kelas satu (pages/notes/pins), `knowledge_read` dengan baca per baris/section/grep-style, pinning list, link index untuk `[[links]]`, plus sync server-side (`knowledge.upsertPage()`/`removePage()`) dengan vector/hybrid search opsional.
+- **Durable agent continuity:** agent evented tidak lagi mati saat proses API shutdown — worker lanjut, cleanup, dan lepas thread dengan benar. Butuh shared storage *fencing-capable* (mis. `PostgresStore` dari `@mastra/pg`) + pubsub/lease bersama untuk kontinuitas lintas proses.
+- **Background tasks + MCP:** tool call yang suspend bisa di-resume setelah reload, dengan metadata open-request yang dipersist dan resume concurrency-safe via `suspendedAt`.
+- **Agent Scopes** (`<type>:<value>`) untuk multi-tenant identity dan routing memory/thread yang lebih aman; memory bisa derive `resource`/`thread` dari scope.
+- **Factory Sandbox** jadi kontrak first-class, dengan provider Docker (`@mastra/docker`), E2B (`@mastra/e2b`), dan Mastra Platform.
+🔗 [GitHub: mastra-ai/mastra releases](https://github.com/mastra-ai/mastra/releases)
+
+### F. 🎨 Arah Tren UI/UX 2027: Design System Adaptif, AI-Assisted, Aksesibilitas sebagai Gate
+Kompilasi lintas sumber (Resolute, Kirki, pixelean, Medium Design Bootcamp) menyimpulkan hal yang sama: tren 2027 bukan gaya visual baru, tapi **cara kerja** baru.
+- **Adaptive design systems:** simpan nilai sekali (token), lalu switch varian — default/dark/contracted — tanpa membangun ulang komponen. Figma mempopulerkan pola ini; 2027 menuntutnya jadi standar, bukan fitur mewah.
+- **AI-assisted tapi ada review gate:** tim yang menang adalah yang *menguji* hasil generate-nya; pola gagal paling umum tetap sama — missing states dan screen yang tidak pernah di-review.
+- **Continuous UX:** telemetry + eksperimen kecil menggantikan riset sekali-di-awal. Ukuran keberhasilan bergeser dari "on-time delivery" ke "outcome per rilis".
+- **Aksesibilitas = syarat rilis:** EAA sudah berlaku dan WCAG 2.2 AA jadi baseline; WCAG 3.0 sedang disusun (lihat update 26 Nov poin F).
+- **Realitas 2026 yang mendorong tren ini:** Figma menaruh *code layers* (prototipe backed-by-code) di open beta untuk semua plan (15 Okt 2026) dan **Figma agent** jadi GA; Figma Motion (timeline animasi on-canvas) masih open beta sejak Config Juni 2026.
+🔗 [Resolute: 7 UX/UI trends 2027](https://www.resolutesoftware.com/blog/7-uxui-design-trends-to-watch-in-2027/) | [Kirki: Web Design Trends 2027](https://kirki.com/blog/web-design-trends-for-2027/) | [pixelean: UI/UX trends heading into 2027](https://pixelean.com/blog/ui-ux-design-trends/) | [Medium Design Bootcamp](https://medium.com/design-bootcamp/10-ui-ux-design-trends-for-2027-7958bbc434e4)
 
 ---
 
