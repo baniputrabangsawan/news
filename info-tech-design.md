@@ -1,5 +1,57 @@
 # 📰 Info Terkini: Tools, AI Agent & Design Trends
-*Terakhir diperbarui: 27 November 2026*
+*Terakhir diperbarui: 28 November 2026*
+
+---
+
+## 🆕 UPDATE 28 NOVEMBER 2026
+
+### A. Agora AI Developer Toolkit — Skills + CLI + 60 Recipes untuk Coding Agent (17 November 2026)
+Agora (450.000+ developer) merilis toolkit yang dirancang supaya **coding agent** (Claude Code, Cursor, Codex) bisa langsung membangun aplikasi voice/video/conversational AI tanpa menebak-nebak dokumentasi:
+- **Empat komponen:** *Agora Skills* (panduan integrasi spesifik-Agora yang dibaca agent, termasuk cara memilih SDK), *Agora CLI* (buat project, konfigurasi environment, diagnostik — bisa dijalankan user maupun agent), *Agora Recipes* (60+ contoh & panduan praktis berisi kode), dan *SDK* (voice/video call, interactive live streaming, conversational AI, plus Agents SDK untuk konfigurasi sesi voice agent).
+- **Pola yang layak ditiru:** dokumentasi produk yang "agent-first" — bukan halaman web panjang, tapi skill file + perintah CLI + contoh yang bisa di-adapt. Varian lain dari tren *Agent Skills* sebagai standar terbuka.
+- **Use case realistis:** menambah video call ke app existing, atau membangun voice agent dari nol (di contoh: beri voice agent satu "pekerjaan" jelas, lalu iterasi dari demo).
+🔗 [Agora: Introducing the Agora AI Developer Toolkit](https://www.agora.io/en/blog/introducing-the-agora-ai-developer-toolkit/)
+
+### B. Adobe MAX: Firefly Builder + MCP Server Lokal untuk Photoshop/Illustrator (10 November 2026)
+Adobe masuk jalur yang sama dengan Figma, tapi dari sisi lain:
+- **Firefly Builder** mengubah prompt menjadi **prototipe website/app interaktif yang on-brand** — masih private beta di balik waitlist.
+- **MCP server lokal** memberi asisten seperti Claude dan ChatGPT akses ke Photoshop, Illustrator, After Effects, dan Premiere — agent bisa mengoperasikan tool desain profesional di desktop, bukan cuma membaca file.
+- **Kenapa penting:** bersama Figma MCP, Framer MCP, dan paper.design, ini mengonfirmasi **MCP sebagai jalur standar** integrasi agent ↔ tool desain. Tool desain tanpa cerita agent mulai terlihat ketinggalan.
+🔗 [Adobe News: Firefly expands](https://news.adobe.com/news/2026/11/adobe-firefly-expands) | [TechCrunch: Adobe launches MCP server](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/)
+
+### C. Onlook (YC W25) — Desain Langsung di Codebase, Setiap Perubahan Jadi PR (19 November 2026)
+Onlook di-rebuild total jadi **agentic design tool** dan di-open-source-kan (Launch HN, 125 poin, 25.000+ pendukung):
+- **Konsep:** canvas di atas codebase nyata. Setiap frame di infinite canvas adalah **webview app asli dengan data asli**, bukan mockup — designer bisa eksplor banyak ide sekaligus.
+- **Alur kerja:** beberapa worktree jalan paralel di app lokal; tiap perubahan mendarat sebagai **PR yang bisa di-review atau dibuang** — tidak ada mockup yang harus dibangun ulang jadi kode.
+- **Bukan agent buatan sendiri:** Onlook menjalankan **Claude Code atau Codex** memakai subscription user, lalu menerjemahkan output agent jadi satu *typed event log* untuk merender UI chat-nya. Agent diberi tool khusus desain (menata frame di canvas, memberi saran, membuat banyak iterasi dari satu seleksi).
+- **Sinyal pasar:** repo pernah #1 trending dunia dua kali, 100+ kontributor — permintaan nyata untuk "design tool yang outputnya kode".
+🔗 [Launch HN: Onlook](https://news.ycombinator.com/item?id=50562320) | [GitHub: onlook-dev/onlook](https://github.com/onlook-dev/onlook/)
+
+### D. Snapshot Framework Agen per 6 November 2026 — MCP Jadi Baseline, A2A Masih Timpang
+Cek versi langsung ke PyPI/npm/GitHub releases menghasilkan peta yang berguna untuk memilih stack:
+- **Versi terbaru:** LangGraph 1.2.20 (5 Nov) · CrewAI 1.15.35 (3 Nov) · Microsoft Agent Framework 1.24.0 (30 Okt) · Google ADK 2.13.0 (23 Okt) · OpenAI Agents SDK 0.24.0 (15 Okt) · Claude Agent SDK 0.2.178 (4 Nov) · AWS Strands Agents 1.64.0 (4 Nov) · Pydantic AI 2.66.0 (4 Nov) · Mastra 1.82.0 (4 Nov) · LlamaIndex 0.14.25 (21 Sep) · Dify 1.19.0 (4 Nov).
+- **MCP:** didukung **semua** framework di daftar — protokolnya kini lebih penting daripada pilihan framework-nya.
+- **A2A:** baru CrewAI, Google ADK, Strands, Mastra yang penuh; LangGraph sebagian (via Agent Server), Microsoft Agent Framework masih pre-release, Pydantic AI lewat paket terpisah `FastA2A`, OpenAI/Claude Agent SDK & LlamaIndex belum ada di dokumentasi, Dify tidak built-in.
+- **Catatan rilis:** OpenAI Agents SDK dan Claude Agent SDK masih di bawah 1.0; TypeScript Claude Agent SDK terikat ketentuan komersial Anthropic.
+🔗 [XYZ Lab: The latest AI agent frameworks in 2026](https://xyzlab.in/recipes/ai-agent-frameworks)
+
+### E. 🎨 Detail Teknis Tren Desain 2027 — CSS Motion Native, WebGPU, Type & Warna
+Rincian dari kompilasi berbasis pengumuman vendor (dibaca 17 November 2026) yang melengkapi gambaran tren besar:
+- **Scroll-driven animations** sudah ada di semua engine (27 Okt 2026) → animation library untuk kasus umum bisa dibuang, cukup CSS.
+- **WebGPU** makin luas: Firefox 147 membawanya ke Mac Apple Silicon → 3D di web layak dipakai saat benar-benar menjelaskan sesuatu, selalu sediakan fallback.
+- **Tipografi & warna:** sekitar **4 dari 10 situs** memakai variable font; pola yang disarankan: satu keluarga variable + warna `oklch`.
+- **Liquid Glass:** iOS 27 menambah slider *clear-to-tinted*, jadi material kaca bisa disesuaikan user — pakai glass untuk layer, teks tetap di permukaan solid.
+- **AI credits jadi lini biaya:** Figma memberi 3.000 kredit/bulan di Professional Full seat; 80%+ pelanggan Figma dengan belanja >$10.000/tahun sudah memakai AI credits (per 31 Okt 2026). Pricing kerja agent harus dihitung, bukan cuma seat.
+- **Sisi manusia:** 65% konsumen (Gartner) merasa brand membuat terlalu banyak konten AI → output AI default sebaiknya jadi *titik awal*, bukan hasil akhir.
+- **Aksesibilitas:** 95,9% home page masih gagal cek WCAG 2 (WebAIM) — jurang antara aturan dan praktik masih lebar.
+🔗 [Kite: Design trends 2027](https://kite.new/blog/design-trends) | [WebAIM Million](https://webaim.org/projects/million/)
+
+### F. UX Tools Spring 2026: Desainer Prototyping di Kode, Bukan di Tool Desain
+Survei 1.478 desainer (UX Tools) memberi angka konkret soal pergeseran cara kerja:
+- **50,8%** memakai Claude dan **38,4%** memakai Claude Code **setiap minggu** untuk prototyping; Figma Make 34,8% dan Figma sendiri 82,6% untuk desain.
+- Di laporan *AI in Design 2026* (Designer Fund), **separuh desainer** mengaku sudah mengirim kode hasil AI ke production.
+- **Implikasi karier:** portofolio yang menang bukan "screenshot cantik", tapi bukti bisa men-deliver kode/prototipe yang jalan — sejalan dengan temuan Figma bahwa 41% desainer kini ikut development (naik dari 21%).
+🔗 [UX Tools: State of Prototyping 2026](https://www.uxtools.co/survey/2026/state-of-prototyping) | [Designer Fund: AI in Design 2026](https://designerfund.com/blog/ai-in-design-2026)
 
 ---
 
