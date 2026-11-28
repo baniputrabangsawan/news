@@ -1,6 +1,6 @@
-# 🏆 Info Lomba & Kompetisi Terbaru - November 2026
+# 🏆 Info Lomba & Kompetisi Terbaru - November–Desember 2026
 
-*Terakhir diperbarui: 27 November 2026*
+*Terakhir diperbarui: 28 November 2026*
 
 Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih membuka pendaftaran (item dengan deadline yang sudah lewat sudah dibersihkan):
 
@@ -409,3 +409,102 @@ Daftar lomba, hackathon, dan kompetisi informatika/teknologi aktif yang masih me
     - **Hadiah:** 14 penghargaan non-tunai
     - **Link:** https://innovart2027.devpost.com/ | https://innovart-hack.com
     - **Catatan:** Cocok untuk portofolio UI/UX & creative coding; terbuka untuk yang baru pertama ikut hackathon.
+
+41. **#BuildHybridAI 2026 (Google Firebase AI Logic)** *(BARU 28 Nov)*
+    - **Penyelenggara:** Google (Firebase), dikelola Devpost
+    - **Target Peserta:** Developer individu, tim, maupun organisasi di atas usia legal; terbuka untuk Indonesia
+    - **Tema:** Bangun app yang menjalankan prompt AI on-device bila model lokal tersedia dan fallback ke cloud bila tidak, memakai Firebase AI Logic Hybrid Inference SDK
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 30 November 2026 (14.00 PST / 1 Des 05.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** Total $30.000 tunai — Grand Prize $10.000, $3.000 untuk app terbaik per platform; pemenang teratas dapat wawancara + artikel blog dari tim Firebase
+    - **Link:** https://firebasehybridaihackathon.devpost.com/
+    - **Catatan:** Wajib target minimal satu platform: Web (Chrome) atau Android dengan Gemini Nano 4, atau iOS dengan Apple Foundation Models. App multi-platform dapat pertimbangan kuat untuk Grand Prize. Negara dikecualikan: Belarus, Brazil, Crimea, Cuba, Iran, Italia, Korea Utara, Quebec, Rusia, Sudan, Suriah — Indonesia TIDAK termasuk.
+
+42. **Kiroween 2026 (Kiro — Amazon)** *(BARU 28 Nov)*
+    - **Penyelenggara:** Kiro (AWS), dikelola Devpost
+    - **Target Peserta:** Developer di atas usia legal negara asal; tim maks 3 orang; ramah pemula
+    - **Tema:** "Build something wicked" — pakai Kiro (IDE/CLI/Web/Kiro Crew) dengan specs, hooks, steering, powers, atau MCP. Kategori: Resurrection, Frankenstein, Skeleton Crew, Costume Contest
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 4 Desember 2026 (14.00 PST / 5 Des 05.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** Total $100.000 tunai (Juara 1 $30.000); ada bonus Best Student Project $1.500 + langganan Kiro Pro Max 1 tahun untuk tiap kategori
+    - **Link:** https://kiroween.devpost.com/
+    - **Catatan:** Hanya proyek BARU (dibangun 30 Okt – 4 Des 2026), repo GitHub publik wajib open source dan harus punya folder /.kiro. Negara dikecualikan: Argentina, Belarus, Brazil, Crimea, Cuba, Iran, Italia, Korea Utara, Filipina, Quebec, Rusia, Suriah, UAE — Indonesia TIDAK termasuk. Butuh kredit Kiro? Peserta terdaftar bisa minta gratis.
+
+43. **Deck the Pixels (Google x Adobe Photoshop)** *(BARU 28 Nov)*
+    - **Penyelenggara:** Google (model Nano Banana di Adobe Photoshop), dikelola Devpost
+    - **Target Peserta:** Desainer/pelajar di atas usia legal negara asal; tidak perlu coding sama sekali
+    - **Tema:** Desain sweater liburan "terjelek" + avatar/foto diri + background kartu ucapan, semua di Photoshop pakai Nano Banana
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 7 Desember 2026 (16.00 EST / 8 Des 05.00 WIB)
+    - **Biaya:** GRATIS (Photoshop web gratis 5 generasi/hari, atau trial 7 hari)
+    - **Hadiah:** Total $25.000 tunai — Top of the Tree $8.000, Silver Bells $5.000, Golden Garland $3.000, The Worst Noel $2.000 (3 pemenang), Top Banana $2.500
+    - **Link:** https://deckthepixels.devpost.com/
+    - **Catatan:** Sangat cocok untuk portofolio UI/UX & visual design karena low/no-code. Negara dikecualikan antara lain Brazil, China, Italia, Kazakhstan, Vietnam, Rusia, Iran — Indonesia TIDAK termasuk.
+
+44. **SLAY HACKS 2026 — Global AI Hackathon** *(BARU 28 Nov)*
+    - **Penyelenggara:** cite & slayy, dikelola Devpost
+    - **Target Peserta:** Pelajar/mahasiswa aktif di atas usia legal; solo atau tim; ramah pemula
+    - **Tema:** Bangun proyek berbasis AI untuk tantangan dunia nyata — "Build Bold. Think Beyond. Create with AI."
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 7 Desember 2026 (17.00 EST / 8 Des 05.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** Total $4.500 tunai — Grand Prize $2.000, Runner-Up $1.200, 3rd Place $800, Best Beginner Hack $500; semua peserta terdaftar dapat sertifikat digital
+    - **Link:** https://slayy-hacks.devpost.com/
+    - **Catatan:** Ada jalur khusus "Best Beginner Hack" untuk tim yang seluruh anggotanya first-time hacker — peluang bagus untuk lomba pertama.
+
+45. **Reddit's Game of the Day Hackathon** *(BARU 28 Nov)*
+    - **Penyelenggara:** Reddit (platform Devvit), dikelola Devpost
+    - **Target Peserta:** Developer game di atas usia legal negara asal; solo atau tim
+    - **Tema:** Bangun game harian (daily game) yang bikin orang balik tiap hari di platform Reddit
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 8 Desember 2026 (18.00 PST / 9 Des 09.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** Total $35.000 — Best Daily Game $15.000, Best Ported Daily Game $6.000, Honorable Mentions $1.000 (10 pemenang), Devvit Helper Award $500 (6 pemenang)
+    - **Link:** https://redditgameofday2026.devpost.com/
+    - **Catatan:** Cocok kalau kamu tertarik game dev + Web. Butuh akun Reddit developer untuk deploy app Devvit.
+
+46. **Build Your First AI App 2026** *(BARU 28 Nov)*
+    - **Penyelenggara:** Yasir Insights, dikelola Devpost
+    - **Target Peserta:** Pelajar/mahasiswa aktif (students only) di atas usia legal; sangat ramah pemula
+    - **Tema:** Bangun app AI pertama dalam 30 hari — chatbot, asisten belajar/dokumen, tool produktivitas
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 9 Desember 2026 (17.00 EST / 10 Des 05.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** Non-tunai — sertifikat digital + pengakuan untuk semua peserta yang menyelesaikan syarat (hingga 1.000 penerima)
+    - **Link:** https://build-your-first-ai-app.devpost.com/
+    - **Catatan:** Nilai utamanya portofolio + sertifikat resmi, bukan uang. Juri dari Meta, Adobe, Experian, ANI. Paling pas untuk lomba AI pertama.
+
+47. **LaunchPad Hacks (Hack4TodayOrg)** *(BARU 28 Nov)*
+    - **Penyelenggara:** Hack4TodayOrg, dikelola Devpost
+    - **Target Peserta:** Pelajar/mahasiswa aktif (students only), solo atau tim; semua level pengalaman
+    - **Tema:** "Build something worth launching" — prototype yang menyelesaikan satu masalah nyata dengan baik
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 4 Desember 2026 (17.00 EST / 5 Des 05.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** LaunchPad Champion $300 tunai + 2nd/3rd Place; semua peserta dapat $1.000 Adaption Credits
+    - **Link:** https://launchpad-hacks.devpost.com/
+    - **Catatan:** Stack bebas, low-code/no-code boleh. Penjurian 5–9 Desember 2026, bobot sama untuk orisinalitas, dampak, fungsi, dan desain.
+
+48. **Relate by Neo4j Hackathon** *(BARU 28 Nov)*
+    - **Penyelenggara:** Neo4j (perayaan launch Relate di NODES 2026), dikelola Devpost
+    - **Target Peserta:** Developer/AI engineer di atas usia legal; boleh individu atau dengan tim (submit individu)
+    - **Tema:** "Context, connected" — tunjukkan bagaimana data yang saling terhubung membantu agent, app, atau orang menemukan relasi yang penting
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 11 Desember 2026 (18.00 PST / 12 Des 06.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** 3 penghargaan non-tunai (cek detail di halaman resmi)
+    - **Link:** https://relate.devpost.com/
+    - **Catatan:** Relate adalah database embedded open-source untuk AI agent — tanpa signup/server, tinggal jadi library di app. Bagus untuk belajar graph database + agentic AI.
+
+49. **QNX Global Hackathon 2026** *(BARU 28 Nov)*
+    - **Penyelenggara:** QNX, dikelola Devpost
+    - **Target Peserta:** Developer sistem/embedded di atas usia legal negara asal; kategori bisa dipilih
+    - **Tema:** Bangun di atas QNX 8.0 (kini gratis untuk non-komersial) — robot real-time, driver baru, porting software, atau tooling
+    - **Lokasi:** Online penuh
+    - **Deadline:** Submit maks 15 Desember 2026 (14.00 EST / 16 Des 03.00 WIB)
+    - **Biaya:** GRATIS
+    - **Hadiah:** Total $50.000 tunai
+    - **Link:** https://qnx.devpost.com/
+    - **Catatan:** Level lanjutan (RTOS/embedded), butuh setup QNX 8.0. Cocok kalau kamu mau portofolio sistem operasi/robotics. Cek daftar negara dikecualikan di halaman resmi.
